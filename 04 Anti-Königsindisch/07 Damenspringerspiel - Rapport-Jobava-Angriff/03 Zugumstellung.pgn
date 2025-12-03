@@ -1,0 +1,14 @@
+[Event "CBM220 / Yearbook 123"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rapport-Jobava-Angriff"]
+[Black "Zugumstellung"]
+[Result "*"]
+[ECO "A45"]
+[Annotator "Kristian Szabo / Tibor Fogaresi"]
+[PlyCount "21"]
+[EventDate "2011.08.08"]
+
+{[%evp 0,28,19,31,14,23,52,45,37,46,39,23,36,31,32,19,39,7,20,12,15,12,12,10,52,24,51,18,13,15,46]} 1. d4 Nf6 {Der Rapport-Jobava-Angriff ist ein relativ neues System aus den 2010er Jahren und insbesondere auf Vereinsspieler-Niveau sehr beliebt. Früher hat man die Varianten mit h2-h4 als New Barry-Angriff beziechnet, aber es ist schon gerechtfertigt, dies als eigenes System anzusehen.} 2. Bf4 g6 3. Nc3 d5 4. e3 Bg7 5. h4 {Weiß entwickelt sofort den Damenläufer und setzt seinen h-Bauern in Bewegung. Er versucht Ideen aus dem 150er-Attack und dem Hebden-Angriff miteinander zu kombinieren.} h5 {Das ist die Antwort von Carlsen in einer Partie gegen Naiditsch und die am häufigsten gespielte Replik.} 6. Nf3 {Das ist die Hauptvariante. Weiß entwickelt sich normal weiter.} O-O {Ein anderer Zug, der ebenfalls zu Zugumstellung führen kann, lautet} 7. Qd2 {Weiß bereitet die lange Rochade vor. Der Springerzug aus der Hauptvariante könnte zur gleichen Stellung führen, gibt Schwarz aber einige zusätzliche Optionen.} c5 {Und wenn jetzt Weiß wieder den Springer in die Mitte spielt, dann haben wir wieder durch Zugumstellung die Hauptvariante erreicht.} 8. dxc5 ({Wieder in die Haupt- bzw. Giri-Variante transponiert} 8. Ne5 Nc6 9. f3 cxd4 10. exd4 Bf5 11. Bb5 Nxe5 12. dxe5 Nd7) 8... Qa5 9. Nb5 Qxd2+ 10. Nxd2 Na6 11. c3 {mit ausgeglichener Stellung} *
+

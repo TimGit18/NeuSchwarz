@@ -1,0 +1,14 @@
+[Event "Yearbook 123"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rapport-Jobava-Angriff"]
+[Black "Klassische Variante"]
+[Result "*"]
+[ECO "A45"]
+[Annotator "Tibor Fogaresi"]
+[PlyCount "24"]
+[EventDate "2011.08.08"]
+
+1. d4 Nf6 {Der Rapport-Jobava-Angriff ist ein relativ neues System aus den 2010er Jahren und insbesondere auf Vereinsspieler-Niveau sehr beliebt. Früher hat man die Varianten mit h2-h4 als New Barry-Angriff beziechnet, aber es ist schon gerechtfertigt, dies als eigenes System anzusehen. Tibor Fogaresi: 'Der sogenannte "New Barry Attack" wird am besten durch eine Zugumstellung eingeleitet und kann auch in das "Rapport-Jobava-System" übergehen.'} 2. Bf4 g6 3. Nc3 d5 4. e3 Bg7 5. h4 {Weiß entwickelt sofort den Damenläufer und setzt seinen h-Bauern in Bewegung. Er versucht Ideen aus dem 150er-Attack und dem Hebden-Angriff miteinander zu kombinieren.} h5 {Das ist die Antwort von Carlsen in einer Partie gegen Naiditsch und die am häufigsten gespielte Replik.} 6. Nf3 {Das ist die Hauptvariante. Weiß entwickelt sich normal weiter.} O-O {Die Klassische Fortsetzung lautet} 7. Be2 {Hier wird Schwarz dazu eingeladen, direkt im Zentrum zurückzuschlagen} c5 {Ein weiteres Motiv in dieser gefährlichen Eröffnung lautet} 8. Nb5 {, um den geschwächten Punkt c7 anzugreifen.} ({Einer Zentrumsaufgabe gleich kommt} 8. dxc5 Qa5 {Dieser Zug ist besser als die Alternativen.} ({Der Entwicklungszug} 8... Nbd7 {verlockt zum Qualitätsopfer} 9. Nxd5 Nxd5 10. Qxd5 Bxb2 11. O-O Bxa1 12. Rxa1 {, wonach Weiß Kompensation dank der schwachen schwarzen Felder auf dem Königsflügel hat.}) 9. O-O {Das ist die Fortsetzung, die Naiditsch gegen Carlsen in Karlsruhe 2017 spielte.} ({Logisch ist die Fortsetzung} 9. Qd2 Qxc5 10. O-O-O {, aber auch etwas riskant.}) ({Analog zum Alten Barry ist die Fortsetzung} 9. Nd2 Qxc5 10. Nb3 Qb6 11. Nb5 Na6 12. Be5 {, allerdings stören die h-Bauern hier Weiß.}) 9... Qxc5 10. Nb5 a6 11. Nc7 Ra7 12. Nb5 axb5 {Carlsen lehnt eine Zugwiederholung ab. Dies führt zu einem unklaren Spiel nach} 13. Bxb8 {Naiditsch-Carlsen, Baden-Baden 2017.}) 8... Nc6 $1 {Das ist eine enorm starke Replik, mit der Schwarz das Eindringen auf c7 erlaubt.} 9. Nc7 e5 $1 {Ein eleganter Zug, der die weiße Bedrohung widerlegt.} 10. dxe5 Qxc7 11. exf6 {Scheinbar hat Weiß eine Figur gewonnen, jedoch folgt} Qa5+ 12. c3 Bxf6 {mit gutem Spiel für Schwarz.} *
+

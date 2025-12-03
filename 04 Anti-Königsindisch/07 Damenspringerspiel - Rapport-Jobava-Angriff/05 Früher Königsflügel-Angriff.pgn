@@ -1,0 +1,14 @@
+[Event "Yearbook 123"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rapport-Jobava-Angriff"]
+[Black "Früher Königsflügel-Angriff"]
+[Result "*"]
+[ECO "A45"]
+[Annotator "Tibor Fogaresi"]
+[PlyCount "30"]
+[EventDate "2011.08.08"]
+
+{[%evp 0,30,16,28,35,21,39,41,48,39,39,10,49,19,21,14,-6,-67,-72,-79,-79,-114,-2,-91,-44,-79,-54,-40,-10,-205,-214,-232,-174]} 1. d4 Nf6 {Der Rapport-Jobava-Angriff ist ein relativ neues System aus den 2010er Jahren und insbesondere auf Vereinsspieler-Niveau sehr beliebt. Früher hat man die Varianten mit h2-h4 als New Barry-Angriff beziechnet, aber es ist schon gerechtfertigt, dies als eigenes System anzusehen.} 2. Bf4 g6 3. Nc3 d5 4. e3 Bg7 5. h4 {Weiß entwickelt sofort den Damenläufer und setzt seinen h-Bauern in Bewegung. Er versucht Ideen aus dem 150er-Attack und dem Hebden-Angriff miteinander zu kombinieren.} h5 {Das ist die Antwort von Carlsen in einer Partie gegen Naiditsch und die am häufigsten gespielte Replik. Ein Früher Königsflügel-Angriff lautet} 6. Be2 O-O 7. f3 c5 8. g4 ({Harmloser ist} 8. Qd2 Nc6 9. O-O-O Bf5 10. g4 hxg4 11. fxg4 Ne4 {aus der Partie Palka-Beres, Skalica 2025, und es wird klar, dass Schwarz im Zentrum gewinnt.}) 8... Nc6 {Hiernach kann das Spiel sehr schnell unbalanciert werden. Weiß greift auf dem Königsflügel an, Schwarz im Zentrum.} 9. dxc5 Qa5 10. Qd2 ({Oder} 10. Kf1 {, was aber ein wenig komisch aussieht in der Partie Kalender-Uuriintuya, London 2025, mit der Folge} Qxc5 11. g5 Nd7 12. Qxd5 Qxd5 13. Nxd5 Bxb2 14. Rb1 Be5 15. Bb5 e6 16. Bxc6 bxc6 17. Ne7+ Kg7 18. Nxc6 Ba6+ 19. Kf2 Bxf4 20. exf4 Rfc8 $44) 10... Qxc5 11. O-O-O e5 12. Bg5 d4 13. exd4 exd4 14. Ne4 Nxe4 15. fxe4 Bxg4 {Schwarz hat alles im Griff in der Partie Urbani-Ambartsumova, Titled Tuesday Chess.com 2024.} *
+
