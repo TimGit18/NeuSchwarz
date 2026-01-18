@@ -1,0 +1,14 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "NeuSchwarz"]
+[Black "Anti-Sizilianisch"]
+[Result "*"]
+[ECO "B23"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "14"]
+[SourceVersionDate "2021.08.13"]
+
+{[%evp 0,14,35,8,45,1,-21,-18,5,-17,15,15,14,14,18,18,26]} 1. e4 c5 2. c3 {Das Alapin-System ist eines der besten Anti-Sizilianischen Systeme.} d5 3. exd5 Nf6 {Das ist das vielversprechende Anti-Alapin-Gambit. Es wurde von Sveshnikov und Emms untersucht, jedoch nicht ausführlich behandelt. Allerdings raten sie davon ab, den Bauern behalten zu wollen.} 4. d4 {Dieser Zug wurde von Emms empfohlen und er scheint auch der beste für Weiß zu sein.} Nxd5 $1 {Emms hat diesen Zug nicht untersucht. Er beschäftigt sich mit dem Schlagen des weißen Damenbauern durch den schwarzen c-Bauern, wonach der Weiße zwar einen isolierten Damenbauern erhält, aber sein Spiel sich auch befreit.} 5. Nf3 e6 6. Bd3 {Hier gehört der Läufer tatsächlich hin.} cxd4 $1 7. cxd4 Bb4+ {Das ist der Punkt der schwarzen Zugfolge. Denn jetzt kann Weiß nicht einfach den Springer auf c3 ziehen, um das Schach abzuwehren, da er die Qualität verliert. Also muss er mit dem Läufer auf d2 das Schach abwehren. Dann tauscht Schwarz die Läufer und erhält eine vorteilhafte IDB-Stellung.} *
+
