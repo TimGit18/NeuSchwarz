@@ -16,7 +16,7 @@ Königsspringerspiel
 Damenspringerspiel
 ----------------------------------------------------------------------------------------------------------------------------------
 07 Damenspringerspiel:			Rapport-Jobava-Angriff					(D00)
-08 Damenspringerspiel:			Richter-Veresov-System					(D00)
+08 Damenspringerspiel:			Richter-Veresov-System					(D01)
 09 Damenspringerspiel:			Blackmar-Diemer-Gambit					(D00)
 ----------------------------------------------------------------------------------------------------------------------------------
 Damenbauerspiel			
@@ -85,7 +85,7 @@ Damenbauerspiel
 4. e2-e3	Lf8-g7	
 5. h2-h4	h7-h5
 ==================================================================================================================================
-08 Damenspringerspiel:			Richter-Veresov-System					(D00)
+08 Damenspringerspiel:			Richter-Veresov-System					(D01)
 ==================================================================================================================================
 1. d2-d4 	Sg8-f6 
 2. Sb1-c3	d7-d5
