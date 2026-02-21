@@ -2,61 +2,13 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Veresov-System"]
+[White "Richter-Veresov-System"]
 [Black "Unterstützungs-Variante"]
 [Result "*"]
 [ECO "D01"]
 [Annotator "Yelena Dembo"]
-[PlyCount "34"]
+[PlyCount "38"]
 [EventDate "2011.08.08"]
 
-1. d4 Nf6 2. Nc3 d5 3. Bg5 {Wenn Weiß den Damenspringer im zweiten Zug spielt,
-so deutet er den Wunsch an, e2-e4 zu spielen. Sinnvollerweise verhindert dies
-Schwarz mit d7-d5, denn er will ja nicht den Pirc-Aufbau spielen. Der
-Veresov-Angriff ist eine noch einigermaßen scharfe Entgegnung, aber nicht
-ganz so unsolide wie das Blackmar-Gambit} Nbd7 {Dieser Zug hält unsere
-Struktur intakt und bereitet gleichzeitig die Durchbrüche e5 und c5 vor.
-Schwarz kann seine Bauern flexibel an den Spielverlauf anpassen (e6 oder g6)
-und seine Läufer dynamisch entwickeln. Der Zug} 4. Qd3 {unterstützt den
-Vormarsch des Bauern e4. Schwarz sollte dies verhindern und die Stellung der
-weißen Dame ausnutzen.} c5 {Die Praxis hat gezeigt, dass Weiß hier
-Schwierigkeiten hat} 5. e4 {ist der konsequenteste Ansatz. Weiß zieht Schwarz
-in den Nahkampf und hofft auf seine bessere Entwicklung.} ({(a)
-Gebräuchlicher ist die Variante} 5. O-O-O c4 6. Qg3 Qa5 7. e4 b5 8. Kb1 dxe4
-9. Bxf6 gxf6 10. Nxe4 Bb7) ({(b)} 5. Bxf6 Nxf6 6. dxc5 {ist weder logisch noch
-gesund. Nach} e6 7. e4 {(sonst ist Weiß einfach schlechter)} Nxe4 8. Nxe4 dxe4
-9. Qxe4 Bxc5 {Schwarz hat eine sehr gesunde Stellung mit Läuferpaar und ohne
-Schwächen. Weiß versucht die aktive Stellung seiner Dame auszunutzen mit} 10.
-Bb5+ {Schwarz entgegnet cool} Ke7 $1 {Schwarz droht mit Damentausch auf d4 mit
-einem vielversprechenden Endspiel, so dass Weiß die Sachen verkomplizieren
-muss. Andererseits ist der schwarze König im Zentrum sehr sicher und das
-Wagnis wird scheitern:} 11. Qh4+ f6 12. Qg3 Kf7 13. Bd3 Qd6 14. Qf3 Qe5+ 15.
-Ne2 Bd7 {Der Läufer soll nach c6.} 16. Qxb7 Rhd8 17. Qe4 Qxb2 18. O-O f5 19.
-Qh4 Qf6 {mit schwarzem Vorteil.}) ({(c)} 5. dxc5 e6 6. e4 {ist ein
-vernünftigerer Versuch im Zentrum zuzuschlagen, aber die exponierte Stellung
-der weißen Dame erlaubt Schwarz ausgezeichnetes Spiel nach} Nxc5 7. Qd4 Ncxe4
-8. Nxe4 dxe4 9. Bxf6 (9. Qxd8+ Kxd8 10. O-O-O+ Kc7 11. Bf4+ Kc6 12. Ne2 Nd5 13.
-Nd4+ Kb6 {Weiß hat einen Minusbauern ohne Kompensation.}) 9... gxf6 10. Qxe4 {
-Weiß hat hier vielleicht die bessere Bauernstruktur, aber seine
-Königsflügel-Entwicklung ist nicht existent.} Qa5+ 11. c3 Bd7 $1 {Wieder ist
-der Läuferzug nach c6 die Idee.} 12. Nf3 Bc6 13. Qc4 Rd8 14. Be2 Rg8 15. b4
-Qd5 {Schwarz ist besser dank Läuferpaar und aktiver Figuren.}) 5... cxd4 6.
-Qxd4 e5 $1 7. Qa4 d4 8. Nd5 Be7 {ist praktisch erzwungen. Schwarz steht hier
-gut. Er hat Raumvorteil im Zentrum, und die weißen Figuren sind sehr locker
-platziert. Außerdem gibt es die positionelle Drohung auf d5 zu nehmen, wonach
-die schwarzen Zentralbauern vormarschieren können. Die Rochade ist auch
-möglich, was wegen Sd7-c5 unangenehm ist. Weiß hat versucht die Spannung im
-Zentrum zu reduzieren, aber dies erlaubt Schwarz bloß seine Überlegenheit zu
-stabilisieren.} 9. Bxf6 (9. Nxe7 Qxe7 10. O-O-O O-O 11. Bd3 {Weiß hat sich
-das Läuferpaar gesichert, ab er seine Stellung ist sehr passiv und nach dem
-einfachen} h6 12. Bh4 Nc5 13. Qa3 b6 {gefolgt von} 14. Z0 Bb7 {und Spiel auf
-dem Damenflügel, sind die schwarzen Chancen vorzuziehen.}) 9... Bxf6 {Schwarz
-strebt immer noch die Rochade und Sc5 an.} 10. Qa3 Be7 11. Qxe7+ Qxe7 12. Nxe7
-Kxe7 {Nach Entfernung des weißen Springers hat Schwarz einen leichten, aber
-stabilen Vorteil.} 13. f4 {versucht, etwas Gegenspiel aufzuziehen, was
-allerdings nicht hilft.} (13. Bc4 Nc5 14. f3 f5 {würde Weiß in die Defensive
-versetzen und offensichtlich schlechter stellen.}) 13... exf4 14. O-O-O Ne5 15.
-Rxd4 Be6 16. Nf3 Nc6 17. Ra4 f6 {wonach Schwarz eine feste Kontrolle über e5
-hat, während seine Figuren besser stehen und seine Königsflügel-Mehrheit
-nicht zu unterschätzen ist.} *
+{[%evp 0,38,15,18,20,15,10,11,23,-7,16,-4,16,-17,9,9,9,-18,-18,-18,-13,-13,-30,-22,-21,-16,-16,-24,-13,-38,-11,-22,-22,-22,-9,-13,-20,-48,-33,-76,-61]} 1. d4 Nf6 2. Nc3 d5 3. Bg5 {Wenn Weiß den Damenspringer im zweiten Zug spielt, so deutet er den Wunsch an, e2-e4 zu spielen. Sinnvollerweise verhindert dies Schwarz mit d7-d5, denn er will ja nicht den Pirc-Aufbau spielen. Der Richter-Veresov-Angriff ist eine noch einigermaßen scharfe Entgegnung, aber nicht ganz so unsolide wie das Blackmar-Gambit.} Nbd7 {Dieser Zug hält unsere Struktur intakt und bereitet gleichzeitig die Durchbrüche e5 und c5 vor. Schwarz kann seine Bauern flexibel an den Spielverlauf anpassen (e6 oder g6) und seine Läufer dynamisch entwickeln. Der Zug} 4. Qd3 {unterstützt den Vormarsch des Bauern e4. Schwarz sollte dies verhindern und die Stellung der weißen Dame ausnutzen.} c5 {Die Praxis hat gezeigt, dass Weiß hier einige Schwierigkeiten hat} 5. e4 {Das ist der konsequenteste Ansatz. Weiß zieht Schwarz in den Nahkampf und hofft auf seine bessere Entwicklung.} ({Gebräuchlicher ist die Variante} 5. O-O-O c4 6. Qg3 Qa5 7. e4 b5 8. Kb1 dxe4 9. Bxf6 gxf6 10. Nxe4 Bb7) ({Das Schlagen} 5. Bxf6 $6 Nxf6 6. dxc5 {ist weder logisch noch gesund. Nach} e6 7. e4 {(sonst ist Weiß einfach schlechter)} Nxe4 8. Nxe4 dxe4 9. Qxe4 Bxc5 {Schwarz hat eine sehr gesunde Stellung mit Läuferpaar und ohne Schwächen. Weiß versucht die aktive Stellung seiner Dame auszunutzen mit} 10. Bb5+ {Schwarz entgegnet cool} Ke7 $1 {Schwarz droht mit Damentausch auf d4 mit einem vielversprechenden Endspiel, so dass Weiß die Sachen verkomplizieren muss. Andererseits ist der schwarze König im Zentrum sehr sicher und das Wagnis wird scheitern:} 11. Qh4+ f6 12. Qg3 Kf7 13. Bd3 Qd6 14. Qf3 Qe5+ 15. Ne2 Bd7 {Der Läufer soll nach c6.} 16. Qxb7 Rhd8 17. Qe4 Qxb2 18. O-O f5 19. Qh4 Qf6 {mit schwarzem Vorteil in der Partie Mesias Rojas-Escobar Forero, Cali 2007.}) ({Das Schlagen} 5. dxc5 e6 6. e4 {ist ein vernünftigerer Versuch im Zentrum zuzuschlagen, aber die exponierte Stellung der weißen Dame erlaubt Schwarz ausgezeichnetes Spiel nach} Nxc5 7. Qd4 Ncxe4 8. Nxe4 dxe4 9. Bxf6 ({Sogar noch schlimmer ist} 9. Qxd8+ Kxd8 10. O-O-O+ Kc7 11. Bf4+ Kc6 12. Ne2 Nd5 13. Nd4+ Kb6 {Weiß hat einen Minusbauern ohne Kompensation in der Partie Rakhmetov-Chernov, Moscow 1999.}) 9... gxf6 10. Qxe4 {Weiß hat hier vielleicht die bessere Bauernstruktur, aber seine Königsflügel-Entwicklung ist nicht existent.} Qa5+ 11. c3 Bd7 $1 {Wieder ist der Läuferzug nach c6 die Idee.} 12. Nf3 Bc6 13. Qc4 Rd8 14. Be2 Rg8 15. b4 {aus der Partie Roesch-Ginsburg, Germany 1995.} Qd5 {Schwarz ist besser dank Läuferpaar und aktiver Figuren.}) 5... cxd4 6. Qxd4 e5 $1 7. Qa4 d4 8. Nd5 Be7 {ist praktisch erzwungen. Schwarz steht hier gut. Er hat Raumvorteil im Zentrum, und die weißen Figuren sind sehr locker platziert. Außerdem gibt es die positionelle Drohung auf d5 zu nehmen, wonach die schwarzen Zentralbauern vormarschieren können. Die Rochade ist auch möglich, was wegen Sd7-c5 unangenehm ist. Weiß hat versucht die Spannung im Zentrum zu reduzieren, aber dies erlaubt Schwarz bloß seine Überlegenheit zu stabilisieren.} 9. Bxf6 ({Probiert wurde auch} 9. Nxe7 Qxe7 10. O-O-O O-O 11. Bd3 {Weiß hat sich das Läuferpaar gesichert, aber seine Stellung ist sehr passiv in der Partie Poteas-Gikas, Athens 2003, und nach dem einfachen} h6 12. Bh4 Nc5 13. Qa3 b6 {gefolgt von} 14. Z0 Bb7 {und Spiel auf dem Damenflügel, sind die schwarzen Chancen vorzuziehen.}) 9... Bxf6 {Schwarz strebt immer noch die Rochade und Sc5 an.} 10. Qa3 Be7 11. Qxe7+ Qxe7 12. Nxe7 Kxe7 {Nach Entfernung des weißen Springers hat Schwarz einen leichten, aber stabilen Vorteil.} 13. f4 {versucht, etwas Gegenspiel aufzuziehen, was allerdings nicht hilft.} ({Der Läuferzug} 13. Bc4 Nc5 14. f3 f5 {würde Weiß in die Defensive versetzen und offensichtlich schlechter stellen.}) 13... exf4 14. O-O-O Ne5 15. Rxd4 Be6 16. Nf3 Nc6 17. Ra4 f6 {wonach Schwarz eine feste Kontrolle über e5 hat, während seine Figuren besser stehen und seine Königsflügel-Mehrheit nicht zu unterschätzen ist.} 18. Bb5 Ne5 19. Nxe5 fxe5 {Schwarz hat offensichtlichen Vorteil in der Partie Karagiannis-Banikas,Ermioni Argolidas 2005.} *
 
