@@ -217,12 +217,12 @@ V. Nebensystem				(Basman-Williams-Angriff, Smyslov-System, London-System)
 1. d2-d4 	Sg8-f6 
 2. Sg1-f3	g7-g6
 **********************************************************************************************************************************
-I. K nigsspringerspiel			(London-System, Torre-Angriff, Barry-Angriff)
+I. Königsspringerspiel			(London-System, Torre-Angriff, Barry-Angriff)
 **********************************************************************************************************************************
 3. Lc1-f4 	Lf8-g7			01 London-System						(A48)
 3. Lc1-g5 	Lf8-g7			02 Torre-Angriff						(A48)
 3. Sb1-c3	d7-d5			03 Barry-Angriff						(A48)	
-3. g2-g3	Lf8-g7			04 K nigsfianchetto						(A49)
+3. g2-g3	Lf8-g7			04 Königsfianchetto						(A49)
 3. b2-b3	Lf8-g7			05 Doppelfianchetto 						(A46)	
 3. b2-b4	Lf8-g7			06 The Speckled Egg						(A46)	
 ==================================================================================================================================
@@ -243,26 +243,26 @@ III. Damenbauerspiel			(Trompowsky, Colle, Stonewall-Angriff, Benko, Gibbens-Wei
 2. e2-e3	g7-g6			11 Colle-System							(A45)
 2. f2-f4	g7-g6			12 Stonewall-Angriff						(A45)
 2. g2-g3	c7-c5			13 Benko-Angriff						(A45)
-2. g2-g4	Sf6xe4			14 Gibbins-Weidenhagen-Gambit					(A45)
+2. g2-g4	Sf6xg4			14 Gibbins-Weidenhagen-Gambit					(A45)
 ==================================================================================================================================
 1. c2-c4 	Sg8-f6		
 2. Sb1-c3 	g7-g6 		
 **********************************************************************************************************************************
-IV. Englische Er ffnung			
+IV. Englische Eröffnung			
 **********************************************************************************************************************************
 3. g2-g3	Lf8-g7			
 4. Lf1-g2	O-O 
 ----------------------------------------------------------------------------------------------------------------------------------
-5. Sg1-f3	d7-d6			01 K nigsindisches System					(A16)
+5. Sg1-f3	d7-d6			01 Königsindisches System					(A16)
 5. d2-d3	d7-d6			02 Botvinnik-System						(A16)
 **********************************************************************************************************************************
 V. Flankenspiele			
 **********************************************************************************************************************************
-1. Sg1-f3	Sg8-f6			03 K nigsindischer Angriff					(A05)
-1. b2-b4	e7-e5			04 Sokolski-Er ffnung						(A00)
+1. Sg1-f3	Sg8-f6			03 Königsindischer Angriff					(A05)
+1. b2-b4	e7-e5			04 Sokolski-Eröffnung						(A00)
 1. b2-b3	e7-e5			05 Nimzowitsch-Larsen-Angriff					(A01)
 1. Sb1-c3	Sg8-f6			06 The Dunst							(A00)
-1. f2-f4	Sg8-f6			07 Bird-Er ffnung						(A02)
+1. f2-f4	Sg8-f6			07 Bird-Eröffnung						(A02)
 1. g2-g4	d7-d5			08 Grob-Baseman-Angriff						(A00)
 ==================================================================================================================================
 Buch 1: Najdorf-Verteidigung
@@ -279,23 +279,24 @@ I. 	Klassische Systeme:		Alapin-System und Morra-Gambit
 II. 	Modernes Systeme:		Carlsen-System, Grand Prix-System und Geschlossenes Sizilianisch
 III. 	Anti-Offene Systeme:		Rossolimo, Ungarisch, Italienisch, Pseudo-Alapin, Sizilianisches Springerspiel
 IV. 	Semi-Offenes Sizilianisch:	Prins-System							
-V. 	Flanken-Sizilianisch:		Fl gelgambit, Anderssen, Fianchetto, KIA, Zvjaginsev-System
+V. 	Flanken-Sizilianisch:		Flügelgambit, Anderssen-System, Fianchetto, KIA, Zvjaginsev-System
 ==================================================================================================================================
-Buch 3: K nigsindische Verteidigung
+Buch 3: Königsindische Verteidigung
 ==================================================================================================================================
 I. 	Mar del Plata-System:		Mar del Plata-System, Beliavsky-System, Bajonett-Angriff, Averbakh-System 
 II. 	Klassisches System:		Petrosian-System, Abtauschsystem, Gligoric-System
 III. 	Aggressive Systeme:		Vier-Bauern-Angriff, S misch
-IV. 	Anti-Klassisches System:	Fianchetto-System (Panno-System / Jugoslawisches System), Makogonov-System, Ungarisch, Seirawan, Sokolov
+IV. 	Anti-Klassisches System:	Fianchetto-System (Panno-System / Jugoslawisches System), Makogonov-System, Ungarisch, 
+					Seirawan, Sokolov
 V. 	Nebensystem:			Basman-Williams-Angriff, Smyslov-System, Semi-Smyslov-System, London-System
 ==================================================================================================================================
-Buch 4: Anti-K nigsindisch
+Buch 4: Anti-Königsindisch
 ==================================================================================================================================
-I. 	K nigsspringerspiel:		London-System, Torre-Angriff, Barry-Angriff
+I. 	Königsspringerspiel:		London-System, Torre-Angriff, Barry-Angriff
 II. 	Damenspringerspiel:		Rapport-Jobava-System, Veresov-System, Blackmar-Diemer-Gambit
 III. 	Damenbauerspiel:		Trompowsky-System, Colle-System, Stonewall-Angriff, Benko-System, 
                                         Gibbins-Weidenhagen-Gambit
-IV. 	Englische Er ffnung:		K nigsindisches System, Botvinnik-System, Klassisches System
+IV. 	Englische Eröffnung:		Königsindisches System, Botvinnik-System, Klassisches System
 V. 	Flankenspiele:			KIA, Sokolski, Nimzo-Larsen, Bird, Dunst, Grob-Baseman
 ==================================================================================================================================
 
