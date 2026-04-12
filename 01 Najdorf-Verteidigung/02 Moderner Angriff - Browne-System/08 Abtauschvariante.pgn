@@ -1,0 +1,17 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Abtauschvariante"]
+[Result "*"]
+[Annotator "Lubomir Ftacnik"]
+[ECO "B95"]
+[WhiteFideId "-1"]
+[BlackFideId "-1"]
+[PlyCount "26"]
+[GameId "2297464665481233"]
+[SourceVersionDate "2021.08.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {[%csl Yb5,Ye5][%cal Ra6b5,Ge7e5] Die Najdorf-Verteidigung ist positionell gesund und erlaubt ein dynamisches Gegenspiel gegen den weißen Anzugsvorteil. Weiß hat keine Möglichkeit, die Verteidigung direkt zu widerlegen. Das schwarze Spiel beruht auf der Kontrolle über das Feld b5, damit nach dem thematischen e7-e5 kein Schach auf diesem Feld möglich ist. Außerdem soll die Kontrolle über die schwarzen Felder im Zentrum angestrebt werden. Weiß hat mehrere Optionen, das Spiel sehr aggressiv oder zunächst positionell zu gestalten.} 6. Bg5 {Das ist eine der aggressivsten Fortsetzungen für Weiß, mit der er den schwarzen Aufbau widerlegen möchte. Er möchte sich schnell entwickeln, Druck auf die schwarze Stellung ausüben, lang rochieren und das Zentrum öffnen, um den schwarzen König anzugreifen. Schwarz muss sehr genau spielen und den richtigen Zeitpunkt für einen Gegenangriff ausnutzen.} e6 {[%csl Yc5,Yd5,Ye5,Yf5][%cal Ge6f5,Ge6d5,Gd6e5,Gd6c5] Das ist die gewöhnliche Antwort von Schwarz und sie ist gut. Er kontrolliert das Feld d5 und errichtet mit den Bauern d6 und e6 eine Barriere, um sich Weiß vom Leibe zu halten. Gleichzeitig muss er in der Entwicklung aufholen und ein Gegenspiel auf dem Damenflügel beginnen.} 7. f4 {[%csl Ye5][%cal Ge4e5] Dieser aggressive Bauernvorstoß ist der weiße Standardzug, um Schwarz mit einem schnellen Vorstoß e4-e5 wegzupusten.} h6 {Dieser Zug, der sofort den weißen Damenläufer befragt, kennzeichnet das Browne-System. Die Idee liegt darin, den weißen Läufer zurückzudrängen, um dann mit g7-g5 einen Bauern zu opfern und die Kontrolle über das Feld e5 zu erlangen. Die Abtauschvariante} 8. Bxf6 Qxf6 {ergibt nichts für Weiß nach dem thematischen Gegenschlag} 9. Qd2 g5 $1 {Der Textzug ist sehr ambitioniert. Schwarz legt sich darauf fest, Weiß auf den schwarzen Felder zu bekämpfen.} ({Der Zug} 9... Nc6 {ist vollkommen in Ordnung, jedoch ist der Textzug viel ehrgeiziger. Schwarz legt sich darauf fest, den Gegner auf den dunklen Feldern leiden zu lassen.}) 10. f5 {Das einzig Gute, das man über die weiße Stellung sagen kann, ist sein Entwicklungsvorsprung. Aus diesem Grund würde Schwarz nur allzu gerne die Damen tauschen - er kann dann seinen Stellungsvorteil im Endspiel ausnutzen, ohne einen Opferangriff zu fürchten. Weiß muss bestimmte Abspiele vermeiden.} ({Nach dem zurückhaltenden} 10. g3 {folgt} gxf4 11. gxf4 Qh4+ 12. Qf2 {aus der Partie Novkovic-Korbut, Dresden 2008, könnte folgen} Qxf2+ 13. Kxf2 Nc6 {und Weiß hat keine Kompensation für sein fehlendes Läuferpaarl.}) ({Nach dem Schlagen} 10. fxg5 {erfolgt} hxg5 11. O-O-O Nc6 12. Be2 Nxd4 13. Qxd4 Qxd4 14. Rxd4 Bd7 {Das Läuferpaar kombiniert mit der zentralen Bauernmehrheit ergeben bessere Chancen für Schwarz in der Partie Kummerow-Pavlovic, Biel 1997.}) 10... Nc6 11. Nxc6 bxc6 12. O-O-O Qe5 13. g3 {aus der Partie Vouldis-Milu, Balkaniad Mangalia 1992, um De5-f4 zu verhindern. In dieser Stellung ist die logischste Fortsetzung} Rb8 {Die schwarzen Chancen sind besser dank seiner Herrschaft auf den dunklen Feldern.} *
+

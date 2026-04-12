@@ -1,0 +1,17 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Orthodoxe Variante"]
+[Result "*"]
+[Annotator "Lubomir Ftacnik"]
+[ECO "B95"]
+[WhiteFideId "-1"]
+[BlackFideId "-1"]
+[PlyCount "32"]
+[GameId "2297464665481233"]
+[SourceVersionDate "2021.08.13"]
+
+{[%evp 0,32,19,38,40,41,65,65,57,33,33,35,45,35,61,44,34,42,48,31,35,35,19,22,40,44,125,122,130,112,201,172,191,118,145]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {[%csl Yb5,Ye5][%cal Ra6b5,Ge7e5] Die Najdorf-Verteidigung ist positionell gesund und erlaubt ein dynamisches Gegenspiel gegen den weißen Anzugsvorteil. Weiß hat keine Möglichkeit, die Verteidigung direkt zu widerlegen. Das schwarze Spiel beruht auf der Kontrolle über das Feld b5, damit nach dem thematischen e7-e5 kein Schach auf diesem Feld möglich ist. Außerdem soll die Kontrolle über die schwarzen Felder im Zentrum angestrebt werden. Weiß hat mehrere Optionen, das Spiel sehr aggressiv oder zunächst positionell zu gestalten.} 6. Bg5 {Das ist eine der aggressivsten Fortsetzungen für Weiß, mit der er den schwarzen Aufbau widerlegen möchte. Er möchte sich schnell entwickeln, Druck auf die schwarze Stellung ausüben, lang rochieren und das Zentrum öffnen, um den schwarzen König anzugreifen. Schwarz muss sehr genau spielen und den richtigen Zeitpunkt für einen Gegenangriff ausnutzen.} e6 {[%csl Yc5,Yd5,Ye5,Yf5][%cal Ge6f5,Ge6d5,Gd6e5,Gd6c5] Das ist die gewöhnliche Antwort von Schwarz und sie ist gut. Er kontrolliert das Feld d5 und errichtet mit den Bauern d6 und e6 eine Barriere, um sich Weiß vom Leibe zu halten. Gleichzeitig muss er in der Entwicklung aufholen und ein Gegenspiel auf dem Damenflügel beginnen. Die Orthodoxe Variante lautet} 7. Qf3 {So spielte man bereits in den 1950er Jahren. Das Ziel von Weiß ist es schnell zu rochieren und einen Figurenangriff gegen den schwarzen König zu starten. Schwarz muss hier energisch handeln.} h6 $5 {Das ist eine der zahlreichen spielbaren Optionen. Der Läufer wird gezwungen, seine Absichten sofort offenzulegen.} 8. Be3 {Der Rückzug ist vielleicht am besten.} ({Es gibt keinen Grund, den folgenden Abtausch zu fürchten} 8. Bxf6 Qxf6 9. Qxf6 gxf6 {Im Allgemeinen ist diese Struktur mit den doppelten f-Bauern für Schwarz eher im Mittelspiel gefährlich, wenn der zentralisierte König eher eine Verpflichtung darstellt. Mit dem Damentausch kann der König aber auch als ideal platziert angesehen werden. Und kann langsam sein Läuferpaar ausnutzen.} 10. f4 h5 11. f5 Nc6 12. Rd1 Bd7 {und Schwarz ist ziemlich glücklich mit der Stellung in der Partie Short-Kasparov,Sarajevo Bosnia 2000.}) ({Die andere ernsthafte Option lautet} 8. Bh4 {, wonach Schwarz eine schöne Stellung erhält nach} Bd7 9. O-O-O Nc6 10. Nxc6 Bxc6 11. Bd3 Be7 {in der Partie Wibe-Olafsson, Gluecksburg 1977.}) 8... Bd7 $5 {Das ist eine effektive Art, um die Springerentwicklung nach c6 vorzubereiten.} 9. O-O-O Nc6 10. Qg3 ({Zu einer unklaren Stellung führt} 10. Nxc6 Bxc6 11. Bd3 b5) 10... Nxd4 11. Rxd4 Rc8 {Schwarz hat schöne Aussichten auf Gegenspiel, wie in folgender Variante gezeigt wird.} 12. Kb1 Rxc3 $1 13. bxc3 e5 14. Rb4 a5 15. Rxb7 Nxe4 16. Qf3 d5 {mit Kompensation. Die entstandene Stellung sollte jeden Najdorf-Spieler glücklich machen.} ({Man beachte} 16... Bc6 $4 17. Qxf7#) *
+

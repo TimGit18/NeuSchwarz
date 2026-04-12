@@ -1,0 +1,17 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Moderne Variante"]
+[Result "*"]
+[Annotator "Lubomir Ftacnik"]
+[ECO "B95"]
+[WhiteFideId "-1"]
+[BlackFideId "-1"]
+[PlyCount "16"]
+[GameId "2297464665481233"]
+[SourceVersionDate "2021.08.13"]
+
+{[%evp 0,26,19,30,40,45,80,66,58,26,28,37,82,56,66,20,19,19,7,12,54,36,24,0,7,-20,-9,-16,-25]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {[%csl Yb5,Ye5][%cal Ra6b5,Ge7e5] Die Najdorf-Verteidigung ist positionell gesund und erlaubt ein dynamisches Gegenspiel gegen den weißen Anzugsvorteil. Weiß hat keine Möglichkeit, die Verteidigung direkt zu widerlegen. Das schwarze Spiel beruht auf der Kontrolle über das Feld b5, damit nach dem thematischen e7-e5 kein Schach auf diesem Feld möglich ist. Außerdem soll die Kontrolle über die schwarzen Felder im Zentrum angestrebt werden. Weiß hat mehrere Optionen, das Spiel sehr aggressiv oder zunächst positionell zu gestalten.} 6. Bg5 {Das ist eine der aggressivsten Fortsetzungen für Weiß, mit der er den schwarzen Aufbau widerlegen möchte. Er möchte sich schnell entwickeln, Druck auf die schwarze Stellung ausüben, lang rochieren und das Zentrum öffnen, um den schwarzen König anzugreifen. Schwarz muss sehr genau spielen und den richtigen Zeitpunkt für einen Gegenangriff ausnutzen.} e6 {[%csl Yc5,Yd5,Ye5,Yf5][%cal Ge6f5,Ge6d5,Gd6e5,Gd6c5] Das ist die gewöhnliche Antwort von Schwarz und sie ist gut. Er kontrolliert das Feld d5 und errichtet mit den Bauern d6 und e6 eine Barriere, um sich Weiß vom Leibe zu halten. Gleichzeitig muss er in der Entwicklung aufholen und ein Gegenspiel auf dem Damenflügel beginnen.} {Die Moderne Variante beginnt mit} 7. Qd3 b5 8. O-O-O {Wahrscheinlich gibt es nichts Anderes, um Schwarz zu ärgern.} b4 {Dieser energische Ansatz ist für Weiß nicht so leicht zu begegnen.} *
+
