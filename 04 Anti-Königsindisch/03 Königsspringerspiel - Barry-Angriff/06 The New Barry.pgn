@@ -1,0 +1,42 @@
+[Event "Yearbook 123"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Barry-Angriff"]
+[Black "The New Barry Attack"]
+[Result "*"]
+[ECO "D00"]
+[Annotator "Tibor Fogaresi"]
+[PlyCount "20"]
+[EventDate "2011.08.08"]
+
+1. d4 Nf6 {Der sogenannte "New Barry Attack" wird am besten durch eine
+Zugumstellung eingeleitet und kann auch in das "Rapport-Jobava-System"
+übergehen.} 2. Bf4 g6 3. Nc3 d5 4. e3 Bg7 5. h4 {Weiß entwickelt sofort den
+Damenläufer und setzt seinen h-Bauern in Bewegung. Er versucht Ideen aus dem
+150er-Attack und dem Hebden-Angriff miteinander zu kombinieren.} h5 {Das ist
+die Antwort von Carlsen in einer Partie gegen Naiditsch und die am häufigsten
+gespielte Replik.} 6. Nf3 {Das ist die Hauptvariante. Weiß entwickelt sich
+normal weiter.} (6. Nb5 {attackiert in Kombination mit dem Damenläufer den
+Punkt c7. Schwarz spielt} Na6 7. Nf3 c6 8. Nc3 {und treibt den Springer wieder
+zurück.}) 6... O-O (6... Bg4 {ist zwar logisch, aber zu verpflichtend. Weiß
+wird irgendwann Sf3-e5 spielen und ein Tempo gewinnen.}) 7. Ne5 {ist die
+bislang häufigst verprobte Idee, deren Grundmotiv aus dem Old Barry-Angriff
+stammt. Hier kann der Bauer auf h4 eine bessere Rolle als im Klassischen
+Barry-Angriff spielen.} ({Die Klassische Fortsetzung lautet} 7. Be2 c5 {
+Ein weiteres Motiv lautet} 8. Nb5 (8. dxc5 Qa5 {Dieser Zug ist besser als die
+Alternativen.} (8... Nbd7 {verlockt zum Qualitätsopfer} 9. Nxd5 Nxd5 10. Qxd5
+Bxb2 11. O-O Bxa1 12. Rxa1 {, wonach Weiß Kompensation dank der schwachen
+schwarzen Felder auf dem Königsflügel hat.}) 9. O-O {Das ist die Fortsetzung,
+die Naiditsch gegen Carlsen in Karlsruhe 2017 spielte.} ({(a) Logisch ist die
+Fortsetzung} 9. Qd2 Qxc5 10. O-O-O {, aber auch etwas riskant.}) ({(b) Analog
+zum Alten Barry ist die Fortsetzung} 9. Nd2 Qxc5 10. Nb3 Qb6 11. Nb5 Na6 12.
+Be5 {, allerdings stören die h-Bauern hier Weiß.}) 9... Qxc5 10. Nb5 a6 11.
+Nc7 Ra7 12. Nb5 axb5 {Carlsen lehnt eine Zugwiederholung ab. Dies führt zu
+einem unklaren Spiel nach} 13. Bxb8 Ra8 14. Be5) 8... Nc6 9. Nc7 e5 $1 {
+Ein eleganter Zug, der die weiße Bedrohung widerlegt.} 10. dxe5 Qxc7 11. exf6
+{Scheinbar hat Weiß eine Figur gewonnen, jedoch} Qa5+ 12. c3 Bxf6) 7... c5 8.
+Qd2 Nc6 9. O-O-O cxd4 10. exd4 Bf5 {Beide Seiten haben sich vernünftig
+entwickelt. Weiß wird auf dem Königsflügel angreifen und Schwarz auf dem
+Damenflügel.} *
+

@@ -1,0 +1,31 @@
+﻿[Event "Starting Out: The English"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Botvinnik-System"]
+[Black "Damenflügel-Angriff"]
+[Result "*"]
+[ECO "A16"]
+[Annotator "Neil McDonald"]
+[PlyCount "13"]
+[EventDate "2016.11.09"]
+
+1. c4 {In der Englischen Eröffnung flankiert Weiß das Zentrum ohne sich auf
+die zentralen Bauernzüge e2-e4 oder d2-d4 schon festlegen zu müssen. Diese
+Eröffnung gilt als sehr solide und ausgesprochen flexibel. Schwarz darf seine
+Stellung nicht überschätzen und muss im Zentrum gegenhalten.} Nf6 {Dies ist
+die flexibelste Antwort. Schwarz lädt Weiß ein in eine Indische Verteidigung
+zu gehen, aber dieser kann weiter flexibel spielen} ({Nach der möglichen
+Zugumstellung} 1... e5 2. Nc3 Nf6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 {wäre am Ende
+der Eröffnung dieselbe Stellung auf dem Brett, aber Weiß muss sich nicht
+mehr auf so viele Optionen einstellen}) 2. Nc3 {Dies ist wieder der
+flexibelste Zug für Weiß. Er legt seine Bauernstruktur noch nicht fest,
+sondern er entwickelt eine Figur und kontrolliert das Zentrum} g6 {Schwarz
+entscheidet sich für einen Königsindischen Aufbau. Er läßt Weiß immer
+noch die Option offen, in die Königsindische Verteidigung zu gehen.} {Der
+Damenflügel-Zug} 3. b4 {[%csl Yb2][%cal Rc1b2] ist eine interessante Option
+an dieser Stelle. Weiß klärt sofort das Feld b2, um mit dem Damenläufer auf
+b2 die Schlüsseldiagonale zu kontrollieren. Das Spiel kann wie folgt
+weitergehen} Bg7 4. Bb2 d6 5. g3 O-O 6. Bg2 e5 7. d3 {mit einer ähnlichen
+Entwicklung wie in der Hauptvariante} *
+

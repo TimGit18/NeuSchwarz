@@ -1,0 +1,103 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bajonett-Angriff"]
+[Black "Populäre Variante"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "David Vigorito"]
+[PlyCount "56"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {[%csl Yd4][%cal Gc6d4] Schwarz übt damit weiteren Druck auf das
+weiße Zentrum aus. Das ist der aggressivste und beste Entwicklungszug, auch
+wenn er die folgende weiße Antwort provoziert. Der Damenläufer bleibt besser
+noch auf seinem Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von
+dem er aber leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das
+Zentrum und erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug
+ein Tempo unter günstigen Umständen, denn Schwarz muss den Springer auf das
+schlechte Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante
+eingeleitet. Diese Variante ist durch das geschlossene Zentrum charakterisiert.
+In der Regel agiert Weiß auf dem Damenflügel und Schwarz auf dem
+Königsflügel. Der schwarze Springer auf e7 steht nicht gut und muss über g6,
+g8 oder f5 nach einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß
+hat in dieser Stellung verschiedene Systeme zur Verfügung.} 9. b4 {[%csl Yc5]
+[%cal Rc4c5] Der Bajonettangriff war in den 1990er Jahren sehr gefürchtet. Er
+zwingt Schwarz geradezu dazu, sich in seine Verteidigung zu knien. Der weiße
+König steht ziemlich sicher und trotz der geschlossenen Stellung entwickelt
+sich schnell ein Spiel im Zentrum} Nh5 {[%csl Yf4,Yf5][%cal Gf7f5,Gh5f4]
+Dieser Zug stellt die Hauptvariante dar und gilt als die größte
+Herausforderung von Weiß. Schwarz stellt seinen Springer auf ein aktiveres
+Feld als d7 oder e8, was deshalb geht, da Weiß das Feld h5 nicht kontrolliert.
+Der Springer beobachtet das Feld f4 und bereitet f7-f5 vor. Heute entgegnet
+man auf diesen Ausfall seitens Weiß nur noch mit Tf1-e1} 10. Re1 {Dieser Zug
+wurde von Ivan Sokolov in die Turnierpraxis eingeführt. Bald darauf wurde er
+von Vladimir Kramnik übernommen, der damit 1997 gegen Kasparov gewann. Der
+Sinn dieses Zuges liegt auch darin, den Läufer auf e2 nach f1 zurückzuziehen,
+falls ein schwarzer Springer auf f4 auftaucht} f5 {Da der Springer auf h5
+ohnehin zurückweichen muss, schafft Schwarz neue Angriffsoptionen. Dieser Zug
+muss gespielt werden, um die schwarze Stellung zu befreien und Gegenspiel zu
+entwickeln - selbst um den Preis der Schwächung eigener Felder} 11. Ng5 {
+[%csl Ye6,Yh5][%cal Re2h5,Rg5e6] Das ist der thematische Zug in diesem System.
+Weiß droht den schwarzen Springer auf h5 zu schlagen und auf e6 einzusteigen.}
+Nf6 {[%csl Ye4][%cal Gf5e4,Gf6e4] Schwarz zieht den bedrohten Springer zurück
+und greift noch einmal den weißen e-Bauern auf e4 an. Da der zweite
+Deckungsspringer auf g5 etwas wackelig steht, muss Weiß etwas für die
+Verteidigung des e-Bauern leisten} 12. f3 {[%csl Yf3][%cal Gf3e4] Dieser Zug
+deckt den Bauern auf e4. Er ist weniger verpflichtend als den Bauern mit dem
+Läufer zu decken und ist aus diesem Grund heute sehr beliebt. Tatsächlich
+bleibt eine Menge Spannung in der Stellung, obwohl Schwarz hier eine breitere
+Auswahl hat} Kh8 {[%csl Yg8][%cal Gf8g8] Dies wird heute als der
+zuverlässigste Zug betrachtet, auch dank der Bemühungen von Teimur Radjabov.
+Der König steht in der Ecke einfach sicherer und macht auch noch das Feld g8
+frei, auf das unter Umständen der Turm von f8 gehen kann. Da das Manöver
+f2-f3 etwas langsam ist, macht Schwarz einen sinnvollen Abwartezug ohne seine
+Bauernstruktur zu kompromittieren. Weiß hat hier schon einiges ausprobiert,
+ohne Schwarz ernsthaft zu gefährden.} {Die Populäre Variante startet mit dem
+Zug} 13. Be3 {Er überdeckt die Diagonale zum weißen König. Heute ist der
+Zug aber nicht mehr so beliebt.} Bh6 {[%csl Ye3,Yf4,Yf5,Yg5][%cal Gf5f4,Gh6g5,
+Gg5e3] Das ist die Hauptfortsetzung. Schwarz möchte die Fesselung auf der
+Diagonalen c1-h6 ausnutzen und droht seinerseits mit f5-f4} 14. Nf7+ {Andere
+Züge sind zu langsam} ({(a) Schwarz hat keine Probleme nach} 14. Bd2 f4 15.
+Ne6 (15. h4 Bxg5 16. hxg5 Nh5) 15... Bxe6 16. dxe6 c6 {mit Ideen wie Db6+, Dc8
+und vielleicht Sf6-e8-c7.}) ({(b)} 14. h4 f4 15. Bf2 Bxg5 16. hxg5 Nh5 17. c5
+Ng8 {sieht gut aus für Schwarz, denn der König hat das für den Springer
+nützliche Feld g8 geräumt.} 18. Qd2 Qxg5 19. Nb5 Qd8 {[%csl Yg3,Yh4][%cal
+Gh5g3,Gd8h4] mit offensiven Ideen für Schwarz wie Sg3 und Dh4.}) 14... Rxf7
+15. Bxh6 f4 {Weiß hat zwar das Läuferpaar gewonnen, aber auch Zeit verloren
+und Schwarz hat einen klaren Plan auf dem Königsflügel} 16. Bg5 {Weiß
+möchte gerne den Damenläufer behalten} ({(a) Mehr Sinn macht hier} 16. c5
+Neg8 {Das ist ziemlich erzwungen.} 17. Bg5 h6 18. Bh4 g5 19. Bf2 Rg7 20. g4 h5
+{mit logischem Spiel für Schwarz.}) ({(b) Weiß kann auch sofort} 16. g4 {
+spielen, danach folgt} Neg8 17. Bg5 h5 18. gxh5 (18. h3 hxg4 19. hxg4 Rh7 20.
+Kg2 Nh6 21. Rh1 Nf7 22. Rxh7+ Kxh7 23. Bh4 Kg7 {mit genügend Gegenspiel für
+Schwarz.}) 18... Rh7 19. hxg6 (19. h4 Rxh5 20. Kf2 Rxh4 21. Bxh4 Ng4+ 22. fxg4
+Qxh4+ 23. Kg2 Qg3+ 24. Kf1 {mit Remis durch Dauerschach.}) 19... Rh5 20. h4 {
+sieht erst einmal gut für Weiß aus, aber Schwarz hat auch} Rxg5+ 21. hxg5
+Nxd5 22. Kf2 Nxc3 23. Rh1+ Kg7 24. Rh7+ Kxg6 25. Qh1 Qxg5 26. Rg1 Qxg1+ 27.
+Kxg1 Nxe2+ 28. Kf2 Ng3 {sieht riskant aus, aber es ist kein Matt.} 29. Qh4 Be6)
+16... Neg8 (16... h6 $5 17. Bh4 g5 18. Bf2 Rg7 {mit verbesserter Version der
+Hauptvariante.} 19. c5 g4 20. Bh4 Ng6 21. Bxf6 Qxf6 22. fxg4 h5 {mit gutem
+Spiel.}) 17. g4 h6 18. Bh4 g5 19. Bf2 h5 {Das ist der schwarze Plan: Vormarsch
+auf dem Königsflügel} 20. h3 hxg4 21. hxg4 Nxg4 22. fxg4 f3 23. Bxf3 Qf6 24.
+Rf1 ({Nach} 24. Kg2 $2 Bxg4 25. Re3 Raf8 {fällt die weiße Stellung
+auseinander.}) 24... Qxf3 25. Qxf3 Rxf3 26. Nb5 Bxg4 27. Nxc7 Rc8 28. Nb5 Rxc4
+{Schwarz hat gute Chancen in diesem zweischneidigen Endspiel.} *
+

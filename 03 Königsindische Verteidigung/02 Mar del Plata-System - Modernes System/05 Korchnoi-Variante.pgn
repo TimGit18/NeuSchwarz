@@ -1,0 +1,85 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Modernes Mar del Plata"]
+[Black "Korchnoi-Variante"]
+[Result "*"]
+[ECO "E99"]
+[Annotator "David Vigorito"]
+[PlyCount "44"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. Ne1 {Weiß verhindert mit
+diesem Rückzug den gegnerischen Springerzug Sf6-h5. Außerdem bereitet er die
+Stützung des eigenen Zentrums mit f2-f3 vor und will den zurückgezogenen
+Springer auf d3 platzieren, von wo aus er das Schlüsselfeld c5 angreift.} Nd7
+{Schwarz will den f-Bauern in Gang setzen. Da sein Königsspringer nicht nach
+h5 kann, muss er ihn nach d7 zurückziehen. Außerdem überdeckt der Rückzug
+ein weiteres Mal das Schlüsselfeld c5} 10. Be3 {Der aggressive Läuferzug ist
+der Hauptzug in dem Komplex mit dem Springerrückzug. Der Läufer unterstützt
+nicht nur den Vorstoß c4-c5, sondern nimmt auch noch den Bauern a7 in das
+Visier. Der Nachteil dieses Zuges ist, dass der schwarze Bauernsturm ein
+einfaches Tempo gewinnt. Nach f5-f4 kann mit g4-g3 ein Bauer geopfert werden.
+In dieser Variante ist der weiße Damenflügelangriff sehr zielgerichtet, aber
+die Verteidigung seines Königs kann kompliziert werden. Manche Spieler
+betrachten diese Variante als Selbstmord für Weiß, beide Spieler müssen ein
+genaues Gefühl für Angriff und Verteidigung finden.} f5 {Schwarz fängt den
+typischen Angriff an. Er droht sofort mit dem Vormarsch f5-f4, wonach sich der
+Läufer auf ein schlechtes Feld zurückziehen muss} 11. f3 {Weiß verteidigt
+seinen Bauern und schafft ein Rückzugsfeld für den Läufer, der damit auf
+der langen Diagonale bleiben kann} f4 {Der zuvor erwähnte Tempogewinn treibt
+den Läufer zurück} 12. Bf2 {Von hier aus unterstützt der Läufer weiterhin
+den Damenflügelvormarsch und verteidigt seinen König} g5 {Die konsequente
+Fortsetzung des schwarzen Angriffs zielt gegen den weißen König} 13. Nb5 {
+[%csl Ya7,Yb5,Yc8,Yf2][%cal Rb5a7,Rf2a7,Ra7c8] Die Idee von Korchnoi sieht
+erst einmal seltsam aus, ist aber sehr thematisch. Weiß jagt den Läufer auf
+c8, der sich nicht richtig wehren kann. Korchnoi gab die Variante irgendwann
+auf, aber Dmitry Gurevich spielte dies weiter.} b6 (13... a6 $2 {scheitert
+hier an} 14. Na7 Rxa7 15. Bxa7 b6 16. b4 Bb7 17. c5 dxc5 18. Rc1 $1 {und
+Schwarz kann den Läufer auf a7 nicht gewinnen, da er auch eine Figur verliert.
+}) 14. b4 ({Nach} 14. a4 $6 a6 15. Nc3 a5 {hat Weiß zwei Tempi verloren und
+Schwarz bloß eines.}) 14... a6 {Der Springer muss zurückgeworfen werden} 15.
+Nc3 ({Die Alternative ist} 15. Na3 {, wonach} a5 16. c5 axb4 17. cxd6 cxd6 {
+mit der Idee Sd7-c5 interessant aussieht.}) 15... Rf6 $5 {[%csl Ye8,Yh5,Yh6]
+[%cal Gf6h6,Gd8e8,Ge8h5,Rh5h2] Schwarz startet einen Angriff auf der h-Linie.
+Hier wird dies normalerweise nicht empfohlen, aber das Tempo a6 sichert den
+Vorteil, so dass auf Dd8-e8 nicht mehr Sc3-b5 kommen kann. Tatsächlich ist
+dieser Ansatz meistens wegen des Springerausfalls nicht so gut. Es geht
+natürlich auch h7-h5 wie üblich.} 16. c5 ({Nach} 16. Nd3 Rh6 17. c5 Qe8 18.
+Kh1 bxc5 19. bxc5 Nf6 {kommt der schwarze Angriff mit De8-h5 und g5-g4.}) 16...
+Rh6 17. cxd6 cxd6 18. Nd3 Qe8 19. Be1 ({Nach} 19. Kh1 Qh5 20. Bg1 Nf6 21. Nf2
+Qe8 22. Ng4 Bxg4 23. fxg4 Rc8 24. Rc1 Rxc3 25. Rxc3 Nxe4 {hat Schwarz gute
+Kompensation für die Qualität.}) 19... Nf6 20. Nf2 Rg6 {Dies ist besser als
+De8-h5, denn Weiß spielt einfach h2-h3. Nun kann wieder der Plan mit h7-h5
+verfolgt werden. Nach} 21. Rc1 h5 22. h3 Bh6 {sieht die schwarze Stellung gut
+aus.} *
+

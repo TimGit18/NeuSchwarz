@@ -1,0 +1,70 @@
+[Event "Experts on the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rossolimo-System"]
+[Black "Gefährliche Variante"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Tiger Hillarp Persson"]
+[PlyCount "28"]
+[SourceVersionDate "2018.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ {Dieser Zug vermeidet die scharfen Komplikationen
+des Najdorf- oder Drachen-Systems. Er kann sehr gut in einen positionellen
+Vorteil für Weiß münden, wenn Schwarz passiv und ängstlich spielt.
+Andererseits sind die Ausgelichsmöglichkeiten für Schwarz hier auch sehr
+viel besser.} Nd7 $1 {Das ist die schärfste Erwiderung auf das
+Rossolimo-System. Schwarz vermeidet die remisliche Variante Lc8-d7, die im
+weißen Sinne ist, da beide weißfeldrigen Läufer verschwinden.} 4. d4 {
+Dies ist die Hauptfortsetzung. Weiß will sofort seine Dame in das Spiel
+bringen, die auf d4 nicht leicht angegriffen werden kann.} cxd4 5. Qxd4 {
+Es ist natürlich für Weiß auch möglich, den Bauern d4 mit dem Springer zu
+nehmen. Generell ist die Kombination von Sf3xd4 und Lf1-b5 in der
+Sizilianischen Verteidigung aber keine besonders gute Idee.} a6 6. Bxd7+ Bxd7 {
+Die Gefährliche Variante beginnt mit} 7. Bg5 {Er verhindert den
+Bauernvorstoß e7-e5 und er macht die Springerentwicklung nach f6 sehr
+unattraktiv} Rc8 $5 {Die Idee dieses Zugs ist es, die eigene Entwicklung am
+Königsflügel zu verzögern und zunächst einmal den weißen Aufbau
+abzuwarten.} 8. Nc3 h6 9. Bh4 e5 $1 {Jetzt kann Weiß die schwarze Dame nicht
+nehmen, denn er verlöre eine Figur nachdem Schlagen auf d4.} 10. Qd3 $1 {
+Dies ist bei weitem der gebräuchlichste Zug in dieser Stellung.} ({(a)} 10.
+Bxd8 exd4 {und zwei weiße Leichtfiguren sind gleichzeitig angegriffen.}) ({
+(b) Ein bemerkenswerter Zug ist} 10. Qa7 g5 11. Bg3 Bc6 {Dieser Zug scheint
+für Schwarz in Ordnung zu sein, aber die Stellung muss noch mehr getestet
+werden.} 12. O-O-O {Das ist am anspruchvollsten.} (12. Rd1 Qc7 13. O-O Nf6 14.
+Rfe1 Be7 15. Nd5 Bxd5 16. exd5 O-O {Man sieht nicht, wie Weiß das Zentrum
+aufbrechen kann.}) (12. Qe3 Nf6 {Weiß hat etwas Zeit vergeudet, indem der
+Läufer jetzt auf c6 sicher nicht schlechter steht als auf e6.}) 12... Qc7 13.
+Ne1 $1 Nf6 14. f3 Be7 15. Nd3 a5 $1 {verhindert, dass der Springer nach b4
+kommt.} 16. Kb1 b5 17. Qxc7 Rxc7 18. Bf2 Bd8 {Die Stellung ist ausgeglichen.
+Sie ist nicht nach jedermanns Geschmack, aber man muss seinem Gegner das Leben
+schwer machen.}) 10... g5 $1 {Das ist der erste Schritt, um das Seil zu
+zuziehen. Schwarz muss jetzt einige sehr starke Züge machen, um nicht zu
+verlieren. Aber es gibt auch eine gute Nachricht, denn die Stellung ist sehr
+komplex und gute Vorbereitung zahlt sich hier aus.} 11. Bg3 Nf6 {In dieser
+Stellung hat Schwarz die folgenden Trümpfe in der Hand: erstens hat er das
+Läuferpaar, zweitens sind die weißen Figuren auf f3 und g3 sehr passiv
+platziert, drittens braucht Weiß Zeit, um seine Figuren umzugruppieren. Aber
+die Stellung hat auch einen Preis: Der Bauer auf g5 gehört dort sicher nicht
+hin. Weiß hat auch noch etwas Entwicklungsvorsprung.} 12. h4 $1 {Das ist der
+stärkste Zug in dieser Stellung.} ({Man sah auch} 12. Nd2 Be6 13. f3 Qa5 14.
+Nb3 Qc7 15. O-O-O b5 16. a3 Be7 17. h4 $1 {Der Vormarsch mit dem h-Bauern ist
+immer noch richtig.} (17. Rhe1 {ist zu schlapp} Bc4 18. Qd2 a5 19. Kb1 b4 20.
+axb4 axb4 21. Na2 O-O) 17... g4 18. Kb1 Bc4 19. Qd2 a5 {Schwarz wählt seinen
+Standard-Plan.}) 12... g4 {Dieser Zug stammt von Topalov und ist heute der
+aktuellste.} 13. Nd2 {[%csl Yb3,Ye3,Yf1,Yh4,Yh5][%cal Gh4h5,Gg3h4,Gd2f1,Gf1e3,
+Gd2b3] Weiß möchte den Springer umgruppieren und dann auf der h-Linie
+vorgehen.} b5 14. a3 {Dieser Zug ist etwas demütig.} (14. h5 {scheint noch
+der richtige Plan.} b4 15. Nd1 Qb6 16. Ne3 Bb5 17. Qb3 ({Oder} 17. Nec4 Qc6 18.
+b3 Bxc4 {Es ist wichtig dies jetzt zu spielen, damit Weiß nicht seinen
+e-Bauern mit f2-f3 stützen kann und mit dem anderen Springer zurücknimmt.}
+19. bxc4 Be7 20. Bh4 Nd7 {Diese etwas unklare Stellung ist vermutlich etwas
+besser für Schwarz.}) 17... a5 {Der Grund für den Damenzug nach b6.} 18. c4 (
+18. a4 Bd7 19. Bh4 Nxh5 20. Nd5 Qc6 21. c3 bxc3 22. bxc3 Bg7 23. g3 Be6 24. Rb1
+Qc5 {sieht vielversprechend für Schwarz aus.}) 18... bxc3 19. bxc3 Qc5 20. c4
+Bc6 21. Nd5 Nxd5 22. exd5 Bd7 {Schwarz spielt jetzt f7-f5 und ist zumindest
+gleich.}) 14... h5 {Schwarz daselbst verhindert den Vormarsch des weißen
+Bauern nach h5. Der schwarzfeldrige Läufer soll nach h6 gebracht werden.Der
+weißfeldrige Läufer wird auf e6 eingesetzt.} *
+

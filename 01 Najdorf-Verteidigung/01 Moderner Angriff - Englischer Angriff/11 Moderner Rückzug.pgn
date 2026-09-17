@@ -1,0 +1,88 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Englischer Angriff"]
+[Black "Moderner Rückzug"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "40"]
+[EventDate "2012.03.31"]
+[SourceDate "2012.03.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 {Der Englische
+Angriff stammt aus den 1980er Jahren und ist ein aggressives System, das auf
+den Zügen Le3, f3 und g4 basiert. Er strebt die lange Rochade an und will
+seine g- und h-Bauern gegen den gegnerischen König marschieren lassen. Weiß
+kombiniert diese Angrffspläne häufig mit Operationen im Zentrum und auf dem
+Damenflügel} e5 {Der schwarze Aufbau mit d6 und e5 ist der thematische im
+Najdorf-System. Er ist weiniger flexibel als der Scheveninger Aufbau, gewinnt
+jedoch mehr Raum und vertreibt den weißen Springer von seinem schönen Feld d4
+} 7. Nde2 {Dieser Zug sieht etwas merkwürdig aus, aber Weiß will den
+Springer umgruppieren, in der Regel nach g3. Das Konzept wird von starken
+Spielern gespielt und gehört respektiert} Be6 {Dieser
+Standard-Entwicklungszug ist die normale Wahl von Schwarz} 8. f4 {Weiß
+unternimmt direkte Aktion} (8. Ng3 {Weiß verbessert direkt die Stellung
+seines Springers} Nc6 9. Be2 g6 {Der Textzug bringt etwas Komplexität in die
+Stellung, da er gleichzeitig dem weißn Springer das Feld f5 nimmt} 10. Qd2 h5
+11. Nd5 Bxd5 12. exd5 Ne7 13. Bg5 Nh7 {Schwarz sollte sicher den gierigen
+Bauernraub auf d5 vermeiden} 14. h4 ({Eine Verbesserung vielleicht von} 14. Ne4
+f5 15. Nf6+ Nxf6 16. Bxf6 Bh6 17. Qb4 O-O {mit schwarzem Vorteil}) 14... f5 15.
+O-O-O Nxg5 16. hxg5 Qb6 {Schwarz kann mit dem Ausgang der Eröffnung
+hochzufrieden sein. Seine Bauernstruktur ist sehr fest}) 8... Nbd7 {Das ist
+der beliebteste Zug} 9. f5 {Es ist zweifelhaft, ob Weiß etwas erreichen kann,
+wenn er den Vorstoß verzögert} ({Eine seltene Fortsetzung ist} 9. Qd2 Rc8 10.
+f5 Bc4 11. Ng3 h5 {und es entsteht ein zweischneidiger strategischer Kampf})
+9... Bc4 10. Nc1 {Das sieht wie die beste Fortsetzung für Weiß aus} (10. Ng3
+{Vom weißen Standpunkt aus, sollte die statische Zentrumsstruktur einen
+Abtausch der weißfeldrigen Läufer fordern. Zwar steht der Springer auf g3
+zur Zeit eher passiv, aber Weiß möchte ihn gegen den Springer f6 tauschen
+oder via f1-e3-d5 umgruppieren} Rc8 11. Bxc4 Rxc4 12. Qd3 Qc7 13. O-O (13.
+O-O-O {ist viel ehrgeiziger} Be7 14. Bg5 b5 15. Kb1 O-O 16. Bxf6 {Weiß sollte
+hier eher an Sh5 denken} Nxf6 17. Nf1 {Weiß ist seinem Ziel ganz nahe, einen
+Springer auf d5 festzusetzen, aber er ist ein Tempo zu langsam} b4 {Natürlich}
+18. Nd5 Nxd5 19. Qxd5 Bg5 20. h4 Bh6 21. Qd3 Rc8 {Der weiße Plan ist nicht
+aufgegangen, und er muss sich mit schlecht koordinierten Figuren
+auseinandersetzen}) 13... Be7 14. Rac1 O-O {Würde der weiße Springer auf g3
+auf dem Feld d5 erscheinen, so hätte Weiß einen riesigen positionellen
+Vorteil. Statt dessen kann Schwarz mit Druckspiel auf dem Damenflügel in
+Vorteil kommen} 15. Nd5 ({Nach} 15. Nh5 b5 16. Nxf6+ Nxf6 17. a3 Rc8 {hat
+Schwarz einen starken Druck auf der c-Linie, und ein Opfer auf c3 liegt im
+Bereich des Möglichen}) 15... Nxd5 16. exd5 {Weiß hat seinen Vorposten auf
+d5 aufgegeben in der Hoffnung das Feld e4 nutzen zu können, um den
+deplatzierten Springer zu aktivieren oder abzutauschen. Aber selbst dieser
+Plan ist nicht vollkommen} Nf6 17. c3 Rc8 18. Rfd1 {Schwarz kann hier wie
+folgt in Vorteil kommen} Qa5 19. a3 Bd8 {Der Abtausch der schlechtesten Figur
+von Schwarz wird eine signifikante Verbesserung herbeiführen} 20. Nf1 Ng4 21.
+h3 Nxe3 22. Nxe3 Bb6 {Weiß wird es schwer haben, seine Schwächen zu
+verteidigen, während er die aktiven Figuren von Schwarz daran hindern muss,
+in seine Stellung einzudringen}) 10... d5 {Dieser wohltemperierte Schlag
+sollte alle Eröffnungsprobleme von Schwarz lösen} 11. exd5 (11. Bxc4 {
+Dies ist die andere natürliche Antwort von Weiß} dxc4 12. Qf3 b5 {Der
+Textzug verkompliziert die Stellung und fordert beide Seiten heraus} 13. N1e2
+b4 14. Nd5 Nxd5 15. exd5 Nf6 16. O-O-O Bd6 17. g4 (17. Bg5 {kann ebenso zu
+trickreichen Komplikationen führen nach} e4 18. Qe3 O-O 19. Qd4 c3 20. Bxf6
+cxb2+ 21. Qxb2 gxf6 {Beide Könige sind exponiert und die Stellung bleibt
+unklar, aber mehr oder weniger ausgeglichen}) 17... b3 {Das ist die
+interessanteste Fortsetzung} 18. cxb3 ({Nach} 18. axb3 cxb3 19. g5 bxc2 20.
+Kxc2 Nd7 21. Ng3 Rb8 {kann sich der weiße König nicht mehr besonders sicher
+fühlen}) 18... cxb3 19. axb3 {Das ist der ehrgeizigste Ansatz} ({Nach} 19. Kb1
+bxa2+ 20. Ka1 e4 21. Qg2 Be5 {stand Schwarz zumindest ausgeglichen}) 19... h6 {
+Es ist wichtig, einen Moment innezuhalten, um das weiße Spiel am
+Königsflügel zu verlangsamen. Aus dieser Stellung kann sich das Spiel wie
+folgt entwickeln} 20. Kb1 Rb8 21. g5 hxg5 22. Bxg5 Qb6 {Der weiße Mehrbauer
+hilft nicht besonders im materiellen Sinne, ist aber wichtig, um seinen
+angreifbaren König zu schützen. Andererseits sollte das schwarze Gegenspiel
+ausreichen, um die Stellung im dynamischen Gleichgewicht zu halten}) 11... Bxf1
+12. Rxf1 Nb6 13. Qf3 (13. Bg5 {beeindruckt nicht allzu sehr nach} Bb4 14. N1e2
+Nbxd5 {und die Stellung sieht sehr bequem für Schwarz aus}) 13... Nbxd5 14.
+N1e2 Nxe3 15. Qxe3 Qd6 {Die Pointe dieses Zugs ist, dass damit die weiße
+lange Rochade verhindert wird} 16. Rd1 Qc7 17. Nd5 Nxd5 18. Rxd5 Bd6 19. Qc3 ({
+Weiß könnte auch eine kompliziertere Richtung einschlagen mit} 19. f6 O-O-O
+20. fxg7 Rhg8 21. Nc3 Rxg7 {Aber es ist schwer zu sagen, wer hier das
+größere Risiko trägt}) 19... Qe7 20. Kd1 O-O {Die künstliche Rochade von
+Weiß kostet einfach nur Zeit, und es ist fraglich, ob er die Idealstellung
+mit Springer auf e4 und den verdoppelten Türmen auf der d-Linie einnehmen kann
+} *
+

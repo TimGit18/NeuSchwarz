@@ -1,0 +1,114 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches System"]
+[Black "Kramnik-Variante"]
+[Result "*"]
+[ECO "B92"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "34"]
+[EventDate "2011.05.22"]
+[SourceDate "2011.05.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 {Im Gegensatz zu
+den aggressiven Varianten, in denen Weiß seine Läufer offensiv aufstellt,
+soll hiermit die kurze Rochade vorbereitet werden und die Entwicklung
+fortgesetzt werden.} e5 {Dieser Zug setzt das Konzept von Najdorf in Reinform
+um. Schwarz geht aggressiv im Zentrum vor und vertreibt den weißen Springer
+aus seiner dominanten Position. Der Springer kann ja jetzt nicht nach b5,
+sondern muss sich zurückziehen. Anschließend werden die Figuren schnell
+entwickelt und der Einfluss auf das Zentrum verstärkt. Der Nachteil des Zuges
+ist allerdings das schwache Feld d5. Schwarz möchte eine weiße Figur auf
+diesem Feld so schlagen, dass Weiß mit dem e-Bauern zurückschlagen muss.
+Dann kann er nämlich den f-Bauern mobilisieren und der eigene Damenbauer
+stellt keine Schwäche mehr dar} 7. Nb3 {Der bei weitem beliebteste Rückzug,
+obwohl der Springer etwas Zeit braucht, um wieder in das Spiel zu kommen.
+Andererseits unterstützt er auf b3 einen eventuellen Vormarsch der a- und
+c-Bauern und verhindert vorerst den aktiven Entwicklungszug Sd7-c5.} Be7 {
+Schwarz macht erst einmal in Symmetrie zu Weiß einen ruhigen Entwicklungszug.
+Der Zug ermöglicht die sofortige kurze Rochade.} 8. Bg5 {Dieser logische Zug
+verstärkt die Kontrolle über d5. Schwarz versucht einen Sveshnikov-Aufbau,
+aber Kramnik hat gezeigt wie man mit langer Rochade und Königsangriff ein
+interessantes Spiel erreichen kann. Bei genauem Spiel sollte aber Weiß nicht
+viel erreichen können.} Be6 {Mit diesem Zug überdeckt Schwarz noch einmal
+das Feld d5. Aus diesem Grund ist der Läuferzug anderen Zügen mit dem
+Springer vorzuziehen} 9. Bxf6 {Weiß fährt mit seinem ursprünglichen Plan
+fort. Er beseitigt eine weitere Figur, die d5 überwacht und verstärkt seinen
+Druck auf den schwachen Bauern d6} Bxf6 {Im Gegensatz zum Sveshnikov-System
+nimmt Schwarz hier mit dem Läufer zurück. Erstens steht noch kein Springer
+auf dem Feld d5. Zweitens sind die weißen Leichtfiguren besser platziert als
+im Sveshnikov-System, so dass riskante Bauernzüge wie Verdopplung nicht
+angebracht wären} 10. Qd3 {Weiß möchte lange rochieren und den Druck auf
+der d-Linie verstärken. Wegen einer tödlichen Fesselung geht die weiße Dame
+daher auch nicht auf das Feld d2, sondern nach d3. Hier verstellt sie zwar dem
+Königsläufer den Weg, aber dieser soll ja nicht auf dem Damenflügel
+eingesetzt werden} Nc6 {Der logischste Entwicklungszug, der die Felder b4 und
+auch d4 in das Auge fasst} 11. O-O-O {Das ist die aggressive Idee, auf die
+viele Großmeister aufmerksam wurde} Qb6 $1 {Das ist der empfohlene Hauptzug.
+Schwarz übt Druck auf dem Damenflügel aus und bedroht den Bauern auf f2.} ({
+Mit dem Zug} 11... Be7 {verteidigt Schwarz den Bauern d6. Er muss aber
+aufpassen, dass er nicht in eine schlechtere Stellung rutscht} 12. Kb1 {Bevor
+Weiß Aktionen auf dem Feld d5 startet, will er den König aus der Schusslinie
+nehmen} O-O {Schwarz tut gut daran kurz zu rochieren. Erst danach kann er
+Aktionen auf dem Königs- oder Damenflügel starten} 13. Nd5 {Weiß besetzt
+jetzt das Feld d5 mit seiner besten Figur, dem Damenspringer} a5 {Schwarz muss
+ein Gegenspiel aufziehen. Er entscheidet sich für den Damenflügel, weil dort
+mit dem Springer auf b3 die schlechteste weiße Figur steht, die noch
+schlechter gestellt werden soll. Der Bauer soll nach a4 oder sogar nach a3
+laufen, und der Springer kann auf b4 platziert werden} 14. c3 {Weiß
+verhindert den Zugang auf b4 für den Springer c6. Jetzt kann der Bauer a5
+vormarschieren} a4 {Der Springer muss entweder nach a1, von wo aus er nach c2
+geht oder nach d2 mit dem Ziel c4} 15. Nd2 {Hier steht der Springer auch nicht
+gut aber zentraler. Er soll via c4 nach e3 gebracht werden, von aus er sehr
+schön auf das Zentrum wirkt} Bxd5 {Schwarz tauscht die beste Leichtfigur von
+Weiß. Wenn dieser jetzt mit dem Bauern zurückschlägt geht der Springer
+über b8 nach d7} 16. Qxd5 {Weiß zentralisiert seine Dame. Aber jetzt kann
+diese angegriffen werden} Ra5 {Schwarz vertreibt die Dame wieder von ihrem
+guten Feld} 17. Qd3 d5 {Schwarz kann sich befreien. Sein aktives Figurenspiel
+kompensiert die Bauernschwächen auf dem Damenflügel}) 12. Qxd6 {Weiß nimmt
+den Bauern und hofft darauf, dass seine gute Entwicklung ihm zugute kommt. Was
+hat Schwarz als Kompensation für den Bauern? Er hat das Läuferpaar und
+offene Linien im Zentrum und auf dem Damenflügel.} ({Nach} 12. Rhf1 {kann
+Schwarz den Bauern verteidigen.} Nd4 {Das ist ein starker zentralisierender
+Zug von Schwarz. Erstens wird der Bauer auf d6 geschützt, denn Weiß wird
+warhrscheinlich den Springer schlagen und damit einen blockierenden
+Doppelbauern auf der d-Linie erzeugen. Dieser bedroht auch den weißen
+Damenspringer. Andererseits wird auch die c-Linie für den schwarzen Damenturm
+freigeräumt.} 13. Nxd4 {Der schwarze Springer auf d4 war viel zu mächtig und
+musste daher von Weiß entfernt werden.} exd4 {Dieser isolierte Doppelbauer
+auf der d-Linie ist zwar theoretisch schwach und stellt eine Schwäche im
+Endspiel dar, aber im Mittelspiel kontrollieren beide Bauern wichtige Felder
+im Zentrum} 14. Nd5 {Weiß findet für seinen Springer auch eine gute Stellung
+auf einem schönen Zentralfeld} Bxd5 {Der gute Springer muss entfernt werden,
+auch wenn Schwarz seinen vorgeblich guten Läufer verliert.} 15. exd5 {Es ist
+eine seltsame Bauernstruktur entstanden (Sandwich). Schwarz kontrolliert die
+schwarzen Felder, Weiß die weißen Felder im Zentrum. Jeder hat noch genug
+Kontrolle über die Stellung.} O-O {Der König wird zunächst in Sicherheit
+gebracht, um dann die e-Linie und die c-Linie zu besetzen.} 16. Qb3 {Das ist
+der Beginn eines typischen Manövers in der Stellung. Weiß würde gerne die
+Damen tauschen und dann die schwarzen Schwächen belagern oder direkt
+angreifen. Schwarz versucht am besten Gegenspiel auf den schwarzen Feldern})
+12... Be7 {Schwarz reaktiviert den Läufer und macht sich keine Sorgen über
+den Minusbauern} 13. Nd5 {Ein guter Zwischenzug von Weiß, mit dem er das
+schwarze Läuferpaar halbiert und eine ausgeglichene Stellung erhält} Bxd5 {
+Der weiße Springer auf d5 kann nicht toleriert werden} 14. Qxd5 {Weiß hat
+für seine Dame eine dominante Stellung erreicht. Aber hier kann sie
+eigentlich keine schwarzen Steine angreifen und auch nicht gehalten werden} O-O
+{Bevor Schwarz etwas unternimmt, bringt er erst einmal seinen König in
+Sicherheit.} 15. Qd2 {Sicherheitshalber bringt Weiß seine Dame auf ein Feld,
+auf dem sie nicht so einfach angegriffen werden kann} Qxf2 {[%csl Yc4,Ye2,Yf1,
+Yf7][%cal Rc4f7,Re2c4,Rh1f1] Endlich holt sich Schwarz den Minusbauern zurück
+und gleicht die materielle Bilanz aus. Man muss hier nur aufpassen, dass Weiß
+nicht zu viel Gegenspiel auf der f-Linie gegen den Bauern f7 kommt.} 16. Bc4 {
+Weiß bietet die Dame zum Tausch an. Für seine drei Bauerninseln 
+(insbesondere der Bauer auf e4 kann schwach werden), erhält er etwas
+Gegenspiel auf der f-Linie und im Zentrum} Qb6 {Die Dame steht hier am
+allerbesten. Sie verteidigt den Bauern b7 und hilft dabei, die Türme
+abzutauschen} 17. Kb1 {Das ist ein prophylaktischer Zug von Weiß, er deckt
+den a-Bauern, der manchmal etwas gefährdet auf a2 steht.} Rad8 {Die Hauptidee
+dieses Zuges ist, dass Schwarz einfach die Türme abtauschen kann. Ein
+wichtiger Faktor dabei ist, dass der Bauer auf b7 sich befindet und nicht auf
+b5. Daher kann der Springer auf c6 gut verteidigt werden und der b-Bauer kann
+nicht mit a4 angegriffen werden} *
+

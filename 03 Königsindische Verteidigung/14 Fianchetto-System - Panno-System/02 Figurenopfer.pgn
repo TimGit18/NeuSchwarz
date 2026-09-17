@@ -1,0 +1,63 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Figurenopfer"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "38"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitestetn und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben} 8. h3
+{[%csl Yg4,Yh3][%cal Rh3g4] Dieser Zug stellt die Hauptvariante dar. Der
+Vorstoß ist typisch für die weiße Strategie in dem Fianchetto-System, denn
+er verhindert sowohl die mögliche Fesselung Lc8-g4 und auch die Belästigung
+eines Läufers Lc1-e3 durch den Springerzug Sf6-g4} Rb8 {Die Hauptfortsetzung
+ist dieser konsitente Zug. Es gibt keinen Grund für Schwarz diesen Zug nicht
+zu spielen} 9. e4 {Dieser Zug stellt die prinzipielle Fortsetzung dar. Weiß
+hofft darauf, den Schwarzen im Zentrum überrennen zu können} b5 {Schwarz
+setzt seinen Plan fort und hat keine Angst davor, dass Weiß seine Bauern
+vorstößt. Nun kann Weiß entweder solide fortsetzen oder es wagen,
+Komplikationen einzugehen} 10. e5 {Weiß drängt nach vorne. Schwarz kann nun
+in ein Endspiel gehen oder nach Komplikationen streben} Nd7 {Statt in ein
+Endspiel zu gehen, ist Schwarz bereit dazu, Komplikationen einzugehen. Weiß
+hat mehrere Möglichkeiten, um einen Vorteil zu erlangen} {Nach} 11. cxb5 axb5
+12. Ng5 {muss Schwarz ein Figurenopfer bringen} ({Stattdessen ist} 12. e6 {
+nicht so gefährlich wegen} fxe6 13. d5 Nb4 14. Ng5 Nc5 15. dxe6 Bb7 16. Bxb7
+Rxb7 17. Be3 Nbd3 {mit schwarze Initiative}) 12... dxe5 13. Bxc6 exd4 14. Nxb5
+({Nach} 14. Ne2 h6 15. Nf3 e5 {hat Schwarz zwei Bauern und ein starkes Zentrum
+für die Figur}) 14... Rb6 {Schwarz hat zwar nur einen Bauern für die Figur,
+aber es ist nicht einfach für Weiß, seine Leichfiguren zu entwickeln} 15. Na7
+{Der weiße Springer gerät in das schwarze Lager} ({(a)} 15. Qf3 $2 Ne5 {
+gewinnt eine Figur für Schwarz}) ({(b) Nach} 15. Qc2 Ne5 16. Na7 Nxc6 17. Nxc6
+Qd7 18. Na5 d3 {hat Schwarz die Inititiative}) ({(c) Mit} 15. Bxd7 {kann Weiß
+Material retten, aber Schwarz besitzt gutes Spiel nach} Qxd7 16. a4 c6 17. Na3
+h6 18. Nf3 Qd5 19. Kh2 d3) ({(d) Die weiße Hauptalternative ist} 15. Nxd4 Bxd4
+16. Qxd4 Rxc6 17. Qh4 Nf6 {Weiß hat wahrscheinlich keine klare Fortsetzung})
+15... Nb8 16. Bg2 ({Nach} 16. Nxc8 Rxc6 17. Na7 Rb6 {bleibt der weiße
+Springer gefangen}) 16... Bb7 17. a4 ({Weiß kann auch} 17. Nf3 {versuchen} c6
+18. b3 Ra6 19. Bb2 e5 20. Re1 Rxa7 21. Nxe5 c5 22. Bxb7 Rxb7 23. Qf3 Ra7 24.
+Nd3 Nd7 25. a4 Ra8 {Schwarz hat genügendes Gegenspiel}) 17... Bxg2 18. Kxg2 c6
+{Letztlich hat Schwarz den Springer gefangen} 19. f4 ({Nach} 19. Qd3 Qd7 20.
+Nxc6 Nxc6 {hat Schwarz einen Vorteil}) 19... Qd7 {Schwarz erhält jetzt den
+Springer zurück} *
+

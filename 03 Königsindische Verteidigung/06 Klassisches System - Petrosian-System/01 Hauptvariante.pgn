@@ -1,0 +1,59 @@
+[Event "The King's Indian (Vol 1)"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Petrosian-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "E92"]
+[Annotator "David Vigorito"]
+[PlyCount "44"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. d5 {Dies ist die
+Ausgangsstellung des Petrosian-Systems der Königsindischen Verteidigung.
+Weiß schließt relativ früh das Zentrum, um freie Hand für Operationen auf
+den Flügeln zu haben. Schwarz muss daher sehr vorsichtig spielen.} a5 $1 {
+[%csl Ya4,Ya6,Yb4,Yc5,Yd7,Ye8][%cal Ga5b4,Gb8a6,Ga6c5,Gd8e8,Gc8d7,Rc5a4,Re8d7,
+Rd7a4] Dieser prophylaktische Zug bildet die Hauptvariante. Schwarz verhindert
+b2-b4, um seinem Damenspringer das Feld c5 zu sichern. Manchmal spielt Weiß
+Ta1-b1, b2-b3 und a2-a3, um trotzdem b4 durchzusetzen. Dann muss Schwarz das
+Feld a4 mit der Dame auf e8 und dem Läufer auf d7 überdecken, um mit dem
+Springer nach a4 gehen zu können} 8. Bg5 {Das ist der absolute Hauptzug in
+dieser Stellung. Weiß möchte es Schwarz erschweren, f7-f5 durchzusetzen} h6 {
+Schwarz muss die Fesselung irgendwie lösen. Wenn der Läufer jetzt nach e3
+ginge, dann sollte Schwarz mit Sf6-g4 nachlegen, denn sonst würde Schwarz
+keinen Springer auf c5 etablieren können} 9. Bh4 Na6 10. Nd2 {Das ist der
+gebräuchlichste Zug} Qe8 {Schwarz löst die Fesselung auf und nimmt das Feld
+a4 unter Kontrolle} 11. O-O Nh7 12. a3 Bd7 13. b3 h5 14. f3 Bh6 15. Rb1 {
+Weiß fährt mit dem Spiel auf dem Damenflügel fort. Das schließt
+Operationen auf dem Königsflügel allerdings nicht aus} Be3+ 16. Kh1 ({
+Möglich ist auch} 16. Bf2 {, obwohl es weniger gefährlich ist.} Bxf2+ 17.
+Rxf2 Qe7 {Das ist solide, wobei die Stellung an einen Bogo-Inder erinnert.
+Nach ein paar Abtäuschen muss sich Schwarz keine Sorgen über seinen Springer
+machen, denn der weiße Turm wird für die Verteidigung des b-Bauern benötigt.
+} 18. b4 axb4 19. axb4 c5 20. dxc6 ({Oder} 20. bxc5 Nxc5 21. Nb3 b6) 20... bxc6
+21. b5 (21. Na4 Rfb8 22. c5 Be6) 21... Nc5 22. Nb3 Nxb3 23. Rxb3 Ng5 24. Rf1
+Ne6 {[%csl Yc5,Yd4][%cal Ge6d4,Ge6c5]}) 16... Bc5 {[%csl Ya3,Yb4][%cal Rc5b4,
+Rb4a3] Schwarz benutzt den Läufer, um b3-b4 zu verhindern und den Bauern a3
+zu bedrohen} 17. Qc1 f5 {Das ist die direkteste Antwort und sieht befriedigend
+aus. Die Stellung ist sehr komplex. Beide Seiten können ein Spiel auf beiden
+Flügeln initiieren.} 18. exf5 gxf5 19. Bf2 ({(a) Nach} 19. f4 e4 {sieht
+Schwarz gut aus.}) ({(b) Einige Male wurde so gespielt} 19. Na2 Qg6 20. b4 axb4
+21. axb4 Be3 22. Bf2 Bxf2 23. Rxf2 Nf6 $1 {Das sieht am flexibelsten und am
+besten aus.}) 19... Nf6 20. Bxc5 Nxc5 {Die weißen Figuren sind passiv
+platziert.} 21. b4 axb4 22. axb4 {Schwarz hat sicher keine Probleme hier.} Na4
+*
+

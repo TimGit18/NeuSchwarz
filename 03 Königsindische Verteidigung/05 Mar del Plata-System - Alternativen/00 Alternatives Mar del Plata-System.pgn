@@ -1,0 +1,64 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsindische Verteidigung"]
+[Black "Alternatives Mar del Plata"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "David Vigorito"]
+[PlyCount "26"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. Bg5 {Dieser Zug stammt von
+Vereslav Eingorn und wurde von dem Schweizer Großmeister Yannick Pelletier
+favorisiert. Es sieht zunächst nicht logisch aus, die schwarzfeldrigen
+Läufer zu tauschen, aber falls Schwarz den Abtausch erzwingt, so kann Weiß
+auf einen Damenflügel-Angriff hoffen.} ({(a) Die Klassische Variante beginnt
+mit} 9. Bd2 {Dieser alte Zug ist heute sehr selten geworden, aber er ist nicht
+vollständig harmlos. Weiß will seinen Turm nach c1 bringen und bleibt sehr
+flexibel aufgestellt.} Ne8 {Schwarz kann den Springer auch auf andere Felder
+bringen} 10. Rc1 f5 11. Ng5 {Andere Züge sind} Nf6 {Dieser Zug sieht am
+besten aus. Der Textzug erinnert wieder an den Bajonett-Angriff. Allerdings
+hat Weiß einen eher langsamen Aufbau gewählt.}) ({(b) Die Seltene Variante
+lautet} 9. a4 {Dieser Zug ist selten, aber wohl kaum schlecht} a5 {Das ist
+eine solide Antwort. Schwarz kann auch den Springer an den Rand ziehen im
+Stile des Bajonett-Angriffs, aber dann kann Weiß auf dem Damenflügel
+vormarschieren.} 10. Ne1 Nd7 11. Nd3 f5 12. f3) ({(c) Die Miles-Variante
+startet mit} 9. Kh1 {Der alte Lieblingszug von Tony Miles sieht sinnlos aus,
+ist aber nicht ohne Wert} Ne8 10. Ne1 f5 11. exf5 Nxf5 {Wieder einmal sollte
+man mit dem Springer schlagen, damit Weiß keinen Bauerngegenstoß auf f4
+spielen kann} 12. Nf3 {Weiß überdeckt das Feld d4, aber das ist auch
+Zeitverschwendung}) 9... Nh5 10. Ne1 {Weiß greift den Springer auf h5 an und
+bereitet die eigene Springerwanderung nach d3 vor.} Nf4 11. Nd3 Nxe2+ 12. Qxe2
+h6 {Wieder ist dieser Zug nützlich.} 13. Bd2 g5 {Schwarz räumt den
+Königsflügel auf.} *
+

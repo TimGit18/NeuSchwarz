@@ -1,0 +1,138 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches System"]
+[Black "Flügelangriff"]
+[Result "*"]
+[ECO "B92"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "34"]
+[EventDate "2011.05.22"]
+[SourceDate "2011.05.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 {Im Gegensatz zu
+den aggressiven Varianten, in denen Weiß seine Läufer offensiv aufstellt,
+soll hiermit die kurze Rochade vorbereitet werden und die Entwicklung
+fortgesetzt werden.} e5 {Dieser Zug setzt das Konzept von Najdorf in Reinform
+um. Schwarz geht aggressiv im Zentrum vor und vertreibt den weißen Springer
+aus seiner dominanten Position. Der Springer kann ja jetzt nicht nach b5,
+sondern muss sich zurückziehen. Anschließend werden die Figuren schnell
+entwickelt und der Einfluss auf das Zentrum verstärkt. Der Nachteil des Zuges
+ist allerdings das schwache Feld d5. Schwarz möchte eine weiße Figur auf
+diesem Feld so schlagen, dass Weiß mit dem e-Bauern zurückschlagen muss.
+Dann kann er nämlich den f-Bauern mobilisieren und der eigene Damenbauer
+stellt keine Schwäche mehr dar} 7. Nb3 {Der bei weitem beliebteste Rückzug,
+obwohl der Springer etwas Zeit braucht, um wieder in das Spiel zu kommen.
+Andererseits unterstützt er auf b3 einen eventuellen Vormarsch der a- und
+c-Bauern und verhindert vorerst den aktiven Entwicklungszug Sd7-c5.} Be7 {
+Schwarz macht erst einmal in Symmetrie zu Weiß einen ruhigen Entwicklungszug.
+Der Zug ermöglicht die sofortige kurze Rochade.} 8. O-O {Weiß bringt den
+König in Sicherheit und würde gerne den f-Bauern mobilisieren, um die Linie
+für den Turm zu öffnen. Die Alternative besteht darin, den Damenläufer nach
+e3 oder g5 zu entwickeln.} ({Zur Zugumstellung führt oft die Zugfolge} 8. Be3
+Be6 9. Nd5 Nbd7 {Natürlich darf Schwarz nicht auf e4 nehmen wegen Le3-b6 und
+der anschließenden Gabel auf c7} 10. Qd3 ({Vor dem Tausch} 10. Nxe7 {muss
+sich Schwarz nicht fürchten} Qxe7 11. f3 d5 {Schwarz hat den idealen
+Bauerndurchbruch geschafft.}) 10... O-O {Schwarz sollte die Rochade einem
+Tausch auf d5 vorziehen. Nach} 11. c4 {hat Weiß eine gute Option, denn es
+sieht so aus als hätte Weiß die Initiative übernommen. Schwarz muss jetzt
+nach einem aktiven Gegenspiel suchen und sogar auf Kosten eines Bauern.} ({
+Weiß zieht meistens} 11. O-O {und transponiert in die Hauptvariante}) 11... b5
+$1 {ist ein wesentlicher, aber starker Gegenangriff, der den meisten Spielern
+Sorgen bereitete und sie davon abhielt, den Springer auf d5 zu platzieren.
+Weiß möchte nicht den c-Bauern gegen seinen e-Bauern tauschen und meistens
+folgt daher} 12. cxb5 axb5 13. O-O {, aber nach} Bxd5 14. exd5 Nb6 $1 15. Bxb6
+Qxb6 16. Qxb5 Qa7 {hat Schwarz Kompensation für den Bauern in einer Partie
+von Gelfand gegen Swidler. Er kann wie im Benko-Gambit Druck auf dem
+Damenflügel ausüben und wird auch weiter Druck auf den Bauern d5 ausüben.})
+8... O-O {Auch Schwarz sollte erst einmal seinen König in Sicherheit bringen.
+Vorher sollte er nicht an die Öffnung des Zentrums denken.} 9. Be3 {In den
+ruhigen Varianten des Najdorf-Systems und im englischen Angriff ist dieses
+Feld das korrekte für den Damenläufer. Das Problem von Weiß sind die
+schwarzen Felder im Zentrum, die er überdecken muss.} Be6 {Schwarz sollte
+hier das Entwicklungsschema von Weiß kopieren. Er muss hier auf die weißen
+Felder im Zentrum, insbesondere auf das Feld d5, achten.} 10. f4 {Weiß
+unternimmt einen Frontalangriff gegen das schwarze Zentrum. Eigentlich passt
+dieser aggressive Zug nicht so richtig in dieses System und erinnert eher an
+das Amsterdam-System. Schwarz kann versuchen die Dame nach c7 zu spielen und
+den Damenfläufer nach c4, wenn dieser durch f4-f5 angegriffen wird. Aber dann
+hat Weiß sein Ziel erreicht, nämlich mehr Raum auf dem Königsflügel zu
+gewinnen und seinen schlechten Läufer abzutauschen.} exf4 {Das ist die
+prinzipielle und vermutlich auch richtige Antwort. Schwarz nimmt den Bauern
+direkt. Er erhält zwar auch einen schwachen Bauern auf d6, aber der weiße
+Bauer auf e4 ist auch isoliert und Ziel für schwarze Angriffe. Außerdem kann
+der Vorstoß d6-d5 die schwarze Stellung befreien. Die schwarzen Figuren
+können auf einigermaßen gute Felder platziert werden.} 11. Bxf4 {[%csl Rd6]
+[%cal Gf4d6,Gd1d6] Das ist die häufigste Art des Nehmens, aber vielleicht
+nicht die beste. Weiß drückt mit zwei Figuren auf den Bauern d6. Das Ziel
+von Schwarz muss es sein, den Bauern d6 loszuwerden.} ({Die alternative Art
+des Nehmens ist} 11. Rxf4 {Weiß bringt eine weitere Figur in das Zentrum und
+drückt auch noch auf die f-Linie. Bevor Schwarz das Zentrum öffnen kann und
+er d6-d5 spielt, sollte er allerdings noch seine Entwicklung vervollständigen.
+} Nc6 {[%csl Rd4,Re5][%cal Gc6d4,Gc6e5] Der Springer sollte auf dieses Feld
+entwickelt werden. Nur hier kontrolliert er die beiden Felder e5 und d4.} 12.
+Nd4 {Nur zu gern würde Weiß den Läufer auf e6 abtauschen und Schwarz ein
+zerstörtes Bauernpaar auf e6 und d6 verpassen.} ({Nach dem eher harmlosen} 12.
+Nd5 Bxd5 13. exd5 Ne5 14. Rb4 Qd7 {hat Schwarz eine schöne Stellung dank
+seines schwarzfeldrigen Läufers, des Vorposten auf e5 und des Spiels auf den
+schwarzen Feldern}) 12... Nxd4 {Schwarz muss den Springer auf d4 schon
+tauschen.} 13. Bxd4 Nd7 $1 {Das ist die richtige Umgruppierung der schwarzen
+Figuren. Der Plan sieht vor, dass der schwarze Springer nach e5 gebracht wird,
+von wo aus er den weißen Königsläufer dominiert. Der schwarze
+Königsläufer soll seinerseits, sofern er nicht zur Verteidigung von d6
+gebraucht wird, nach f6 abgeordnet werden.} 14. Kh1 {Weiß zieht seinen König
+aus der gefährlichen Diagonale} Ne5 15. Bd3 Nc6 16. Bg1 Bf6 17. Rf1 Bxc3 18.
+bxc3 Qa5 19. Bd4 Qa4 {Schwarz erhält langsam Vorteil wegen der schwachen
+weißen Bauern}) 11... Nc6 {Schwarz entwickelt in so einer Struktur am besten
+den Springer nach c6, um die Kontrolle über d4 zu erhalten (das ist wichtiger
+als c5 wie in den anderen Varianten)} 12. Kh1 {Der König soll aus der
+Diagonalen a7-g1 entfernt werden, um nicht von Schachs belästigt zu werden.
+Man kann auch vielleicht einmal g2-g4 spielen} ({Eine Alternative ist} 12. Qe1
+{, aber dann folgt der thematische Durchbruch} d5 $1 13. exd5 Nxd5 14. Nxd5
+Qxd5 {Das Zentrum ist vollkommen aufgelöst. Die schwarzen Figuren stehen sehr
+aktiv im Zentrum.}) 12... d5 $1 {Mit einem Zug befreit Schwarz seine Stellung.
+Aus dem schwachen, isolierten Bauern auf d6 ist ein starker Bauer im Zentrum
+geworden, der einige wichtige Felder kontrolliert. Weiß kann entweder die
+Bauern tauschen, wonach auch er seinen Isolani loswird oder er zieht vorbei}
+13. e5 {Wahrscheinlich ist diese Variante die viel aktivere Option. Weiß kann
+sich Hoffnungen auf ein aktives Spiel auf dem Königsflügel machen mit seinen
+Läufern und den Schwerfiguren} ({Nach dem Generalabtausch} 13. exd5 Nxd5 14.
+Nxd5 Qxd5 15. Qxd5 Bxd5 16. Rad1 Rad8 17. c3 Be4 {ist die Stellung ziemlich
+ausgeglichen. Weiß hat die Bauernmehrheit auf dem Damenflügel, Schwarz die
+auf dem Königsflügel. Vermutlich ist hier ein Remis das erwartete Ergebnis.
+Beide Seiten neutralisieren sich.}) 13... Ne4 {Der Springer muss in das
+Zentrum gebracht werden. Ein Rückzug auf d7 wäre viel zu passiv für Schwarz.
+} 14. Bd3 {Weiß befragt sofort den vorgewagten Springer, der es sich auf e4
+nicht zu gemütlich machen soll. Schwarz kann den Springer jetzt zementieren,
+aber erhält eine etwas unsolide Struktur.} ({In einer klassischen Partie
+zwischen dem jungen Karpov und dem älteren Najdorf geschah} 14. Nxe4 dxe4 15.
+Nd2 Bg5 16. Nxe4 Bxf4 17. Rxf4 Nxe5 {Auch in dieser Stellung hat sich das
+Zentrum aufgelöst mit guter Figurenstellung für beide Seiten. Wahrscheinlich
+wird Schwarz die Dame nach c7 bringen, wo sie etwas Druck auf der c-Linie
+ausübt und auf die schwarzen Felder wirkt. Danach können die schwarzen
+Türme auf die d-Linie und die e-Linie gebracht werden.}) 14... f5 {Das ist
+sicher am aggressivsten und am prinzipiellsten. Der Springer kann jetzt nicht
+so einfach genommen werden. Wenn Weiß auf f6 en passant schlägt, dann
+öffnet er weitere Linien für Schwarz. Ein wenig erinnert die Variante an die
+Offene Verteidigung der Spanischen Partie.} ({Recht gut ist sicher auch der
+aus dem Offenen Spanier bekannte Zug} 14... Nc5 {Es kann folgen} 15. Nxc5 Bxc5
+16. a3 Rc8 {mit einer sehr Spanischen Struktur. Der Läufer auf e6 hält die
+gesamte Schwarze Stellung zusammen. Er kann nicht angegriffen werden, weil
+Schwarz das wichtige Feld d4 kontrolliert.}) 15. exf6 {Offenbar entscheidet
+sich Weiß für die einfache Lösung, nämlich das Zentrum aufzulösen. Er
+geht davon aus, dass der Isolani auf d5 im Endspiel eine große Schwäche
+darstellt.} Bxf6 {Die schwarzen Läufer platzieren sich immer besser. Schwarz
+kontrolliert auch das Feld d4} ({Schwarz kann auch mit dem Springer schlagen.
+Dann folgt} 15... Nxf6 16. Qd2 Kh8 17. Rae1 Bg8 {mit gleichem Spiel}) 16. Qe2 {
+Weiß greift ein weiteres Mal den schwarzen Springer auf e4 an. Er bringt die
+Dame auf ein aggressives Feld und verbindet die weißen Türme. Der weiße
+Damenturm kann nach e1 oder nach d1 gebracht werden.} ({Weiß kann zwar einen
+Bauern gewinnen, aber nach} 16. Nxe4 dxe4 17. Bxe4 Bc4 18. Bd6 Bxf1 19. Qd5+
+Kh8 20. Qh5 g6 21. Bxg6 Bxg2+ 22. Kxg2 Rf7 23. Bxf7 Qxd6 {ist sein König viel
+unsicherer}) 16... Bxc3 {Das gibt zwar das Läuferpaar, aber sichert zunächst
+einmal den starken Springer auf e4.} 17. bxc3 Qe7 {Schwarz hat vollkommen
+ausgeglichen. Weiß kann zwar einen Bauern gewinnen und dabei selbst sein
+Läuferpaar aufgeben, aber die schlechte weiße Bauernstellung auf dem
+Damenflügel gleicht das materielle Defizit aus.} *
+

@@ -1,0 +1,33 @@
+﻿[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "London-System"]
+[Black "Läufertausch-Variante"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "Victor Bologan"]
+[PlyCount "30"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bf4 {[%csl Ye5][%cal Rf4e5,Rd4e5]
+Weiß spielt ein London-System mit einem Bauern auf c4 und kontrolliert
+zuverlässig das Feld e5. In der Regel wird er die Bauern auf e3, d4 und c4
+stellen. Die Springer bleiben auf f3 und c3 und die Läufer auf f4 und e2. Die
+Türme gegen nach d1 und c1. Schwarz wird Probleme haben, seine Bauern nach c5
+oder e5 zu stellen.} d6 {Schwarz vermeidet mit diesem Zug, in die
+Stellungsmuster der Grünfeld-Verteidigung nach d7-d5 einzulenken. Er möchte
+zunächst eine Art Königsindische Verteidigung spielen.} {Mit dem Zug} 6. Qd2
+{bereitet Weiß den Läufertausch vor} c5 {Die Einbindung von a7-a6 an dieser
+Stelle ist zu langsam} 7. Bh6 ({Wenn Weiß mit dem Bauern vorstößt, dann
+kann Schwarz mit Motiven aus dem Benko-Gambit kontern} 7. d5 b5 8. cxb5 a6 9.
+e4 axb5 10. Bxb5 Qa5 11. Be2 {Schwarz drohte hier bereits Sf6xe4}) 7... Bxh6 8.
+Qxh6 cxd4 9. Nxd4 Nc6 {Die Stellung ist halb-offen. Schwarz ist etwas in der
+Entwicklung voraus, denn Weiß hat zuviel Zeit verloren durch den Abtausch der
+schwarzfeldrigen Läufer. Es gibt keine richtigen Angriffschancen gegen den
+schwarzen König} 10. Qd2 Nxd4 11. Qxd4 Be6 12. e3 ({Weiß sollte nicht
+ernsthaft} 12. e4 {in Betracht ziehen, da nur noch die hellen Läufer auf dem
+Brett sind. Statt dessen will er den Läufer auf f3 positionieren}) 12... Qa5
+13. Be2 Rfc8 14. O-O d5 15. cxd5 Nxd5 {mit gleicher Stellung} *
+

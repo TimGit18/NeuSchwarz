@@ -1,0 +1,73 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Makogonov-System"]
+[Black "Alternative Variante"]
+[Result "*"]
+[ECO "E71"]
+[Annotator "David Vigorito"]
+[PlyCount "46"]
+[EventDate "2011.06.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 {[%csl Ye3,Yg4,Yg5][%cal Rg2g4,
+Rc1e3,Re3g5] Das Makogonov-System mit dem Zug h2-h3 hat zwei Hauptideen. Die
+erste Idee ist die Unterstützung des Vorstoßes g2-g4. Zum einen gewinnt
+dieser Vorstoß etwas Raum auf dem Königsflügel, zum anderen soll Schwarz
+von dem traditionellen Gegenstoß f7-f5 abgehalten werden. Die zweite Idee
+liegt darin, dass nun der Entwicklungszug des Damenläufers Lc1-e3 gespielt
+werden kann, ohne auf das störende Sf6-g4 Rücksicht zu nehmen. Oft geht der
+Damenäufer allerdings auch auf das Feld g5 (um den Vorstoße e7-e5 zu
+verhindern) und zieht sich nach der Befragung h7-h6 auf das Feld e3 zurück.
+Die weißen Ideen hinter dem Makogonov-Zug h2-h3 sind also ähnlich wie im
+Sämisch-System oder im Petrosian-System und transponieren oft ineinander.} O-O
+{Schwarz sollte mit dem traditionellen Gegenstoß e7-e5 antworten. In der
+Regel versucht hier Weiß zunächst einen traditionellen Entwicklungszug,
+bevor er seine Läuferentwicklung vorantreibt.} 6. Nf3 {Diese Stellung kann
+auch aus einer Zugumstellung hervorgehen, nämlich wenn Weiß zunächst im
+füngten Zug den Springer nach f3 entwickelt und dann den Bauernzug h2-h3
+vornimmt. Für Schwarz bedeutet dies in der Regel keinen Unterschied} e5 {
+Das ist die prinzipielle Antwort von Schwarz in der Königsindischen
+Verteidigung, mit der ein Anspruch auf das Zentrum abgeleitet wird.} 7. d5 {
+Dieser Zug gilt als die weiße Hauptfortsetzung. Weiß spielt im Geiste der
+Petrosian-Fortsetzung.} a5 {Dieser Zug ist die einfachste Antwort auf das
+Makogonov-System. Schwarz versucht wie gegen das Petrosian-System zu spielen,
+indem er Sb8-a6, Dd8-e8 und Sf6-d7 spielt. Wenn diese Züge ausgeführt sind,
+dann kann Schwarz f7-f5 spielen. Allerdings sollte Schwarz diesen Plan auch
+nicht allzu sehr forcieren. Die Alternative Variante} 8. Be3 {ist weniger
+ambitioniert und weniger gebräuchlich als die Hauptvariante, aber durchaus
+spielbar} Na6 9. Nd2 ({(a)} 9. Be2 {transponiert in das Petrosian-System}) ({
+(b) Nach} 9. g4 {kann Schwarz} Nd7 {spielen, denn Weiß hat hier keine
+Fesselung und Schwarz hat sich das Manöver der Dame nach e8 gespart. Das
+sieht ziemlich gut aus, aber nach} 10. a3 {ist die Sache nicht ganz so einfach}
+Nb6 {ist der richtige Zug} 11. Be2 Bd7 12. Nd2 ({Oder} 12. Qc2 Nc5) 12... Bf6
+$1 {Wieder taucht die Idee mit dem Läufertausch auf g5 auf} 13. Nf3 Nc5 14. g5
+Bg7 15. Qc2 a4 16. Nd2 f5 {mit Gegenspiel}) 9... Nd7 {Hier ist auch der
+Springerzug nach h5 möglich, aber man spielt besser wie gegen das
+Petrosian-System} 10. g4 {Das ist der gefährlichste Plan von Weiß. Andere
+Züge sind nicht gefährlich} ({(a)} 10. a3 f5 11. f3 {erlaubt den typischen
+Trick mit} Bh6 12. Bxh6 Qh4+) ({(b)} 10. Bd3 f5 11. f3 Qh4+ 12. Bf2 Qg5 13. Rg1
+Ndc5 14. Bb1 Bh6 {mit gutem Spiel für Schwarz}) ({(c)} 10. Nb3 Nac5 11. Nxc5
+Nxc5 12. Bd3 f5 {war überfrüh ein Remis. Schwarz hat sicher hier keine
+Probleme}) 10... Ndc5 {Das ist konsistenz zum schwarzen Spiel} 11. Nb3 {
+Andere Züge sind zu verpflichtend} ({(a)} 11. h4 f5 12. gxf5 (12. g5 f4 13.
+Bxc5 Nxc5 {ist sehr gut für Schwarz}) 12... gxf5 13. Qe2 f4 14. Bxc5 f3 ({
+Schwarz vermeidet} 14... Nxc5 15. Bh3 {, aber selbst dies ist nicht so klar})
+15. Qe3 Nxc5 16. Nxf3 Rf4 {mit guter Kompensation für den Bauern}) ({(b)} 11.
+g5 f5 12. h4 Bd7 13. h5 Rf7 14. Rh4 {und jetzt hat Weiß nach} f4 15. Bxc5 Nxc5
+{Probleme mit dem g-Bauern}) 11... Nxb3 12. Qxb3 Qh4 13. Rg1 ({Shirov
+empfiehlt hier} 13. Qd1 Bh6 14. Qd2 {, aber dann folgt} Bxe3 15. Qxe3 Bxg4 $1)
+13... Bh6 14. g5 Bg7 15. O-O-O f5 16. gxf6 $6 {Schwarz hat bereits die
+Initiative hier, aber das führt zu einer scharfen Erwiderung} (16. exf5 Bxf5
+17. Qxb7 Bd7 18. Qb3 ({Auf} 18. Ba7 {folgt} Rxa7 19. Qxa7 Nc5 {mit der Idee
+Dxf2}) 18... Rxf2 19. Bxf2 Qxf2 {und nach Shirov steht Schwarz klar besser} 20.
+Ne2 e4) 16... Bh6 $1 17. Na4 {[%csl Yc5][%cal Ga6c5,Ra4c5] Weiß möchte gerne
+den Springerzug nach c5 verhindern} ({(a) Nach} 17. Nb5 Rxf6 18. Bxh6 Qxh6+ 19.
+Qe3 Qxe3+ 20. fxe3 Bd7 {hat Schwarz das bessere Endspiel}) ({(b) Das
+Mittelspiel nach} 17. Bxh6 Qxh6+ 18. Rd2 Rxf6 19. Nd1 Nc5 20. Qc2 Bd7 {ist
+auch vorteilhaft für Schwarz}) 17... Bd7 {Schwarz könnte natürlich auch den
+Bauern auf f6 direkt nehmen, aber dann kann Weiß mit c5 noch etwas Unruhe
+stiften} 18. f7+ Rxf7 19. Qxb7 Bxa4 $1 20. Qxa8+ Rf8 21. Qxf8+ (21. Qxa6 {
+verliert auch nach} Qxf2 22. Bd3 Bxe3+ 23. Kb1 Rb8 24. b3 Bxb3 25. axb3 Rxb3+)
+21... Kxf8 22. Bxh6+ Qxh6+ 23. Rd2 Nb4 *
+

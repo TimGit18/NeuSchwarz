@@ -1,0 +1,50 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fianchetto-System"]
+[Black "Temposverlust"]
+[Result "*"]
+[ECO "B91"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "22"]
+[EventDate "2011.06.29"]
+[SourceDate "2011.10.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 {Das
+Fianchetto-System ist eine sehr positionelle Antwort auf das Najydorf-System.
+Weiß will eine starke Kontrolle über das Feld d5 ausüben} e5 {[%csl Ye4,Yg2]
+[%cal Gf1g2,Gg2e4] Dieser Zug ist eine sehr starke Antwort von Schwarz, denn
+dadurch wird der weiße Läufer geblendet. Deswegen ist er auch besser als
+e7-e6, wonach der Läufer seine ganze Kraft entfalten kann} 7. Nde2 {Der
+Springer steht hier am besten, denn er soll hier seinen Kollegen auf d5
+unterstützen. Außerdem kann er den Vormarsch der Königflügelbauern h2-h3
+und g3-g4 unterstützen} Be7 {Das ist ein sinnvoller Entwicklungszug, der die
+kurze Rochade vorbereitet.} {Der folgende Zug kann auch gut als Tempoverlust
+angesehen werden, da Weiß seinen Königsläufer noch nicht entwickelt hat} 8.
+h3 b5 $1 {Diesen Zug kann sich Schwarz erlauben, da er den Angriff auf den
+Springer c3 vorbereitet. Wenn man diese Stellung untersucht, so zeigt sich,
+dass Weiß im Vergleich zum Adams-Angriff (6.h2-h3) ein Tempo verloren hat. Er
+benötigt nämlich jetzt drei Bauernzüge, um den g-Bauern nach g4 zu stellen
+anstatt zwei wie im Adams-Angriff} 9. Bg2 {[%csl Yb4,Yc3,Ye4,Yg2][%cal Gg2e4,
+Gb5b4,Rb4c3,Rf6e4] Bevor Weiß etwas unternimmt, entwickelt er erst einmal
+seinen Läufer und bereitet die kurze Rochade vor. Außerdem verteidigt der
+Läufer den Bauern auf e4, der nach dem Vormarsch des b-Bauern angegriffen
+wäre} Nbd7 {[%csl Yb7,Yc5,Yd7,Ye4][%cal Gd7c5,Gc8b7,Rf6e4,Rc5e4,Rb7e4] Mit
+dem Springer auf d7 soll eine weitere Angriffsfigur gegen den Bauern e4 in
+Stellung gebracht werden, unterstützt von einem Läufer auf b7} 10. a3 {
+Weiß wählt zunächst einmal einen Verteidigungszug, der den Springer auf c3
+vor einem weiteren Vormarsch beschützt.} ({Eine Alternative ist der forsche
+Zug von Alexeev gegen Dominguez Perez} 10. g4 {Dieser Zug hindert allerdings
+nicht den schwarzen Vormarsch} b4 11. Nd5 {Weiß besetzt ein aktives Feld mit
+seinem vertriebenen Springer, aber jetzt kann Schwarz diesen herausnehmen.
+Dann kommt ein weißer Bauer auf das Feld d5, wonach der eigene schwache Bauer
+auf d6 viel besser geschützt ist} Nxd5 12. exd5 a5 {Schwarz beeilt sich nicht
+mit der Rochade, schon gar nicht auf den Königsflügel, auf dem Weiß schon
+seine Bauern in Marsch gesetzt hat} 13. O-O h5 $1 {Jetzt, wo Weiß kurz
+rochiert hat, hat Schwarz eine neue Strategie. Er öffnet die h-Linie und
+verbleibt mit dem König im (sicheren) Zentrum, geschützt von den Bauern e5
+und d6} 14. gxh5 {Weiß kann den Bauern nicht vorziehen. Er möchte statt
+dessen den Turm auf ein Feld locken, auf dem er einen Abzug ausgesetzt ist}
+Rxh5 15. Nd4 Nf6 16. Nc6 Qc7 17. Qf3 Bf5 18. Re1 Qd7) 10... Bb7 11. g4 Nb6 *
+

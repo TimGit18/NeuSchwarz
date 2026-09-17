@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Dunst"]
+[Black "Königsfianchetto"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "10"]
+[EventDate "2010.07.13"]
+
+{[%evp 0,11,16,18,25,-24,-14,-32,-28,-22,-8,-8,1,-2]} 1. Nc3 {Diese Eröffnung hat eigenständigen Wert und gilt nicht als Werkzeug, um in andere Eröffnungen zu transponieren. Manche nennen sie auch die Van Geet-Eröffnung oder Der Linkspringer. Schwarz sollte sicher gut vorbereitet sein.} Nf6 {Das ist eine typische Antwort eines e5-Spielers. Jetzt führt e2-e4 zu einer Wiener Partie.} {Das Königsfianchetto beginnt mit} 2. g3 d5 3. Nf3 c5 4. d3 Nc6 5. Bg2 e6 *
+

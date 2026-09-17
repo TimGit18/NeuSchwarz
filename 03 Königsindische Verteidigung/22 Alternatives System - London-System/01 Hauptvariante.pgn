@@ -1,0 +1,50 @@
+﻿[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "London-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "Victor Bologan"]
+[PlyCount "32"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bf4 {[%csl Ye5][%cal Rf4e5,Rd4e5]
+Weiß spielt ein London-System mit einem Bauern auf c4 und kontrolliert
+zuverlässig das Feld e5. In der Regel wird er die Bauern auf e3, d4 und c4
+stellen. Die Springer bleiben auf f3 und c3 und die Läufer auf f4 und e2. Die
+Türme gegen nach d1 und c1. Schwarz wird Probleme haben, seine Bauern nach c5
+oder e5 zu stellen.} d6 {Schwarz vermeidet mit diesem Zug, in die
+Stellungsmuster der Grünfeld-Verteidigung nach d7-d5 einzulenken. Er möchte
+zunächst eine Art Königsindische Verteidigung spielen} 6. e3 {Dieser Zug
+stellt die Hauptvariante dar. Aber Weiß hat auch noch andere Züge zur
+Verfügung} c5 {Dieser Zug ist die prinzipielle Antwort von Schwarz. Er
+öffnet für die Dame die Diagonale nach b6 oder a5 und kombiniert zusammen
+mit dem Läufer auf g7 ein Druckspiel gegen den Bauern d4 oder sogar gegen b2}
+({Man muss sich klar machen, dass die Läuferjagd an dieser Stelle nicht
+funktioniert} 6... Nh5 7. Bg5 h6 8. Bh4 g5 9. Nd2 $1 {[%csl Yd1,Yh5][%cal
+Rd1h5] Weiß nutzt die ungesicherte Stellung des Springers auf h5 aus und
+nutzt die Schwächung des schwarzen Königsflügels aus} Nf6 10. Bg3 {Schwarz
+hat keine Kompensation für den geschwächten Königsflügel}) 7. Be2 {Das ist
+die Hauptfortsetzung. Weiß setzt die Entwicklung fort und bereitet die kurze
+Rochade vor} Nh5 {Interessanterweise funktioniert jetzt das Konzept der
+Läuferjagd im Gegensatz zu einem Zug vorher} ({Es ist nicht so gut für
+Schwarz, wenn er sich schematisch weiterentwickelt, denn nach} 7... Nc6 8. d5 {
+muss sich der Springer an den Rand des Bretts bewegen} Na5 {Hiernach steht
+Schwarz schlechter}) 8. Bg5 h6 9. Bh4 g5 {[%csl Yd4,Yf4][%cal Rc5d4,Rh5f4]
+Wenn Weiß jetzt den Springer zurückzieht, um seinerseits den Springer auf h5
+anzugreifen, dann schlägt Schwarz auf d4 und wenn Weiß zurückschlägt, dann
+hat der Springer ein schönes Feld auf f4} 10. Bg3 {Der Läuferrückzug ist
+erzwungen} ({Denn nach} 10. Ng1 cxd4 11. exd4 ({Nach} 11. Bxh5 dxc3 12. Bg3
+cxb2 13. Rb1 Bf5 {geht für Weiß Material verloren}) 11... Nf4 {steht Schwarz
+besser}) 10... cxd4 {Schwarz könnte hier sogar mit f7-f5 noch aggressiver
+spielen} 11. Nxd4 {Dieser Zug zwingt Schwarz dazu, den Läufer auf g3 zu
+tauschen} ({Nach} 11. exd4 {spielt Schwarz} Nc6 {nebst} 12. -- Bf5) 11... Nxg3
+12. hxg3 Nc6 {Es sieht zunächst etwas gefährlich aus, dass Schwarz eine
+Linie gegen seinen eigenen König geöffnet hat, aber deswegen muss er im
+Zentrum aktiv werden. In der Zwischenzeit ist der schwarzfeldrige Läufer ein
+zuverlässiger Verteidiger des schwarzen Königs} 13. Qd2 Qa5 14. Rd1 Bd7 15.
+Nd5 Qxd2+ 16. Rxd2 Rae8 {mit gleicher Stellung} *
+

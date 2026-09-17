@@ -1,0 +1,118 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beliavsky-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "David Vigorito"]
+[PlyCount "40"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. Nd2 {Änlich wie in den
+Varianten mit Sf3-e1 soll auch dieser Springerrückzug den schwarzen
+Springerzug Sf6-h5 verhindern und das eigene Zentrum mit f2-f3 stützen. Statt
+den Bauerndurchbruch c4-c5 mit dem Springer auf d3 vorzubereiten, soll der
+Vorstoß ohne diesen durchgeführt werden. Der Springer kann dann auf c4
+platziert, von wo aus er Druck auf b6 und d6 ausübt. Schwarz muss Weiß daran
+hindern} a5 {Das ist die Hauptvariante. Schwarz verhindert b2-b4 und gewinnt
+ein Tempo. Weiß muss a2-a3 und Ta1-b1 spielen, um den Vorstoß durchzusetzen.
+Das ist in der Variante mit dem Springer auf e1 nicht nötig, denn dort kann
+Weiß einfach seinen Läufer nach d2 entwickeln und ganz einfach b2-b4
+durchsetzen} 10. a3 {Weiß führt seinen Plan konsistent aus. Schwarz sollte
+ein Bauernwettrennen vermeiden, denn der weiße Bauernsturm kann mit dem
+Springer auf c4 schnell zu einer tödlichen Stellung werden} ({Weiß kann auch
+} 10. Rb1 {spielen, wonach wir wiederum} Bd7 {spielen. Nach} 11. b3 Nc8 {
+hat Weiß nicht Besseres als} 12. a3 {, wonach wir wieder in die Hauptvariante
+transponieren}) 10... Bd7 {Dieser Zug entwickelt nicht nur eine Figur, sondern
+gewinnt auch ein Tempo, denn Schwarz droht damit, den Damenflügel mit a5-a4
+abzuschließen} 11. b3 {Das ist der populärste Zug, der Schwarz daran hindert,
+den Damenflügel mit a5-a4 abzuschließen. Es ist aber gleichermaßen möglich,
+die schwarze Idee zu ignorieren} ({(a)} 11. Rb1 a4 12. b4 axb3 13. Nxb3 b6 14.
+Ra1 {Weiß kann nun den a-Bauern vorstoßen, aber er hat einige Zeit
+verschwendet} Ne8 15. a4 f5 16. f3 Nf6 17. Be3 c5 18. dxc6 Bxc6 {mit etwa
+gleicher Stellung}) ({(b) Mit} 11. Ra2 {hofft Weiß auf eine verbesserte
+Version der vorhergehenden Variante} c5 12. dxc6 bxc6 {Diese Art des
+Zurücknehmens ist hier ideal, denn Weiß kann das Feld d5 nicht besetzen} 13.
+b4 axb4 14. axb4 Rxa2 15. Nxa2 Qa8 16. Nc3 d5 {und Schwarz hat die Initiative})
+11... c6 {Dieser Zug war früher ungewöhnlich, aber er hat sich neuerdings
+als Hauptvariante herauskristallisiert. Schwarz erzeugt noch mehr Spannung im
+Zentrum und behält sich Optionen auf beiden Seiten des Bretts offen} 12. Bb2 {
+Dieser Zug macht sehr viel Sinn. Weiß vervollständigt seine Entwicklung und
+legt seine Absichten noch nicht offen} Bh6 {Das ist ein typischer
+Entwicklungszug. Der Läufer stellt sich auf die lange Diagonale und
+verhindert den Bauerndurchbruch f2-f4} 13. Kh1 {Weiß nutzt einen Moment der
+Ruhe, um einen prophylaktischen Zug zu machen und seine Absichten noch nicht
+zu offenbaren. Das ist ein sehr geduldiger Ansatz, aber andere Versuche wurden
+hier auch schon probiert.} ({(a) Nach} 13. dxc6 Nxc6 {erhält Schwarz ganz
+gutes Spiel.} 14. Nb5 Be6 15. Bd3 Nd7 16. Nb1 Nc5 17. N1c3 Na7 18. Nxa7 Rxa7
+19. Bc2 Ra6 20. Qe2 Rc6 21. Rad1 Qb6 22. Nb5 a4 {Schwarz erhält gutes
+Gegenspiel gegen den weißen Bauern auf c4. Das ist der Schwachpunkt in der
+weißen Stellung.}) ({(b)} 13. Rb1 Nc8 $5 {[%csl Yb6,Yc4,Yc6,Yc8,Ye7][%cal
+Gc6e7,Ge7c8,Gc8b6,Rb6c4] Wieder sieht man dieses Manöver in einer
+geschlossenen Stellung. Der Springer wandert von c6 nach b6, um den Punkt c4
+anzugreifen.} 14. dxc6 Bxc6 15. Bd3 Nb6 16. b4 axb4 17. axb4 Nh5 18. g3 {
+Weiß verhindert mechanisch den Betritt von f4.} Bd7 19. Qe2 Rc8 20. Nb3 Na4
+21. Nxa4 Bxa4 22. Bc1 Bxc1 23. Rfxc1 Bxb3 24. Rxb3 Ng7 {[%csl Yb3,Yd4,Ye2,Ye6]
+[%cal Gg7e6,Ge6d4,Rd4b3,Rd4e2] Der Springer strebt nach d4, von wo aus er die
+komplette weiße Stellung dominiert.}) ({(c) Ein ganz scharfer Versuch ist} 13.
+c5 $5 dxc5 14. Nc4 cxd5 15. exd5 e4 $1 16. Na4 ({Nach} 16. Nd6 {sieht} Bf5 {
+gut aus} 17. Nxb7 $2 Qb6 {ist sogar noch besser für Schwarz.}) 16... Nexd5 17.
+Nxc5 Bc6 18. Qd4 Nf4 19. Qxd8 Nxe2+ 20. Kh1 Rfxd8 21. Bxf6 Re8 ({Eine gute
+Alternative zum Qualitätsopfer ist} 21... Rd5 22. Nxe4 Rb5 {mit starker
+Initiative.}) 22. Nd6 Bf8 23. Nxe8 Bxc5 {mit Kompensation für die Qualität.})
+13... c5 {Das langsame weiße Spiel überzeugt letztendlich Schwarz, den
+Damenflügel zu blockieren} 14. Bd3 {Der Läufer auf d3 steht eher defensiv.
+Er soll den e-Bauern decken und den Bauernvorstoß f7-f5 vorbereiten} ({
+(a) Nach} 14. Qc2 Ne8 15. Nb5 f5 16. Bd3 fxe4 17. Nxe4 Bxb5 18. cxb5 Nf5 {
+ist alles in Ordnung bei Schwarz.}) ({(b) Weiß kann den Springer auch
+zurückschwingen} 14. Nf3 Nh5 15. g3 f5 {Schwarz hat gutes Spiel.}) 14... Nh5 {
+Da das Feld h5 nicht mehr von weißen Figuren beherrscht wird, kann Schwarz
+den Springer dorthin stellen. Er droht damit, den Springer nach f4 zu bringen,
+von wo aus er die weißen Felder auf dem Königsflügel beherrscht. Auch kann
+der Springer nach g7 sich zurückziehen, um dort den Vorstoß f7-f5
+vorzubereiten} 15. g3 {Weiß verhindert - mechanisch - das Vorrücken des
+Springers auf dieses Feld} Bh3 {Schwarz nutzt das entstandene Loch auf g2, um
+seinen schlechten Läufer zu aktivieren} 16. Re1 {Der Turm muss gerettet
+werden, die schwarzen Figuren kommen allerdings aktiv in das Spiel} f5 {
+Schwarz öffnet die f-Linie und ebnet seinen Figuren den Weg in das Zentrum}
+17. exf5 {Weiß entschließt sich, den e-Bauern aufzugeben, um für sich die
+e-Linie zu öffnen und den Einfluß des weißen Läufers zu vergrößern} Nxf5
+{Der Springer soll über f5 in das Zentrum nach d4 gebracht werden. Dort kann
+er praktisch nie mehr vertrieben werden} 18. Nde4 {Weiß versucht seinerseits,
+das frei gewordene Feld e4 als Stützpunkt für seine Figuren zu nutzen} ({
+Natürlich nicht} 18. g4 $2 Bxd2) 18... Nd4 {Hier steht der Springer ideal.
+Weiß muss den Springer auf d4 eliminieren.} 19. Nb5 {Die einzige Möglichkeit
+für Weiß, den schwarzen Springer zu vertreiben, ist es, ihn abzutauschen}
+Nxb5 20. cxb5 Nf6 {Schwarz will ebenfalls den guten Springer auf e4 abtauschen}
+*
+

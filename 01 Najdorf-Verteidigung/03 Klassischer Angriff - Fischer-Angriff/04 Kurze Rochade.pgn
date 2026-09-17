@@ -1,0 +1,43 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fischer-Angriff"]
+[Black "Kurze Rochade"]
+[Result "*"]
+[ECO "B86"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "42"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 {Der
+Rückzug des Läufers nach b3 ist die Wahl von Bobby Fischer seit 1959. Er
+verhindert insbesondere den Befreiungszug d6-d5 und das viel versprechende
+Scheinopfer Sf6xe4. Gleichzeitig bereitet er den Vormarsch des Bauern f2-f4
+vor. Dass er nicht sofort auf den Königsflügel rochiert, bedeutet, dass es
+noch die Möglichkeit der langen Rochade auf den Damenflügel gibt.} Nbd7 {
+Diese Fortsetzung ist nicht die Hauptfortsetzung, aber sie ist weniger riskant
+als b7-b5. Der Springer soll nach c5 gebracht werden, von wo aus er nicht nur
+den Bauern e4 und den Läufer auf b3 attackiert, sondern auch noch den Bauern
+auf e6 verteidigt. Die sofortige Rochade-Variante wird mit} 8. O-O {
+eingeleitet. Wie in der Hauptvariante auch entgegnet Schwarz mit} Nc5 {, um
+den Läufer auf b3 anzugreifen und den Bauern auf e6 zu verteidigen.} 9. Qe2 {
+Das ist die wichtigste Fortsetzung in der Rochade-Variante} ({Alternativ kann
+Weiß auch den Turm entwickeln und den Bauern e4 decken.} 9. Re1 Be7 10. f4 (
+10. Qf3 {transponiert in die Damenzug-Variante}) 10... O-O 11. e5 (11. Qf3 Qc7
+12. e5 dxe5 13. fxe5 Nxb3 {In dieser Stellung ist die gefährlichste Figur der
+weiße Läufer auf b3, der auf den schwarzen König zeigt. Und er kontrolliert
+die Diagonale a2-g8. Daher eliminiert er den Läufer und macht sich das Leben
+einfacher} 14. Nxb3 Nd5 15. Nxd5 exd5 16. c3 Be6 17. Nd4 Rae8) 11... dxe5 12.
+fxe5 Nxb3 13. axb3 Nd5 14. Ne4 f5 15. exf6 Nxf6 {Die Stellung wird einen
+offenen Charakter einnehmen, wo Schwarz das Läuferpaar besitzt und der weiße
+König schwach wird}) 9... Be7 10. f4 O-O 11. Kh1 Qb6 12. e5 Nxb3 13. Nxb3 {
+Schwarz hat den Läufer auf b3 eliminiert, aber er hat konkrete Probleme, die
+von seiner Entwicklung herrühren.} dxe5 $1 {Dank der weißen Initiative, die
+von seiner überlegenen Entwicklung herrührt, benötigt Schwarz einen
+Springeraustausch und Vereinfachung. Der Textzug, gefolgt von Sf6-d5, löst
+erfolgreich das Problem} 14. fxe5 Nd5 15. Ne4 a5 16. Qd3 ({Nach} 16. Bg5 Bxg5
+17. Nxg5 Qe3 18. Qh5 h6 19. Rxf7 hxg5 20. Rxf8+ Kxf8 21. Rf1+ Kg8 22. Qe8+ Kh7
+23. Qh5+ {führt die Stellungswiederholung zum Remis}) 16... f5 17. exf6 Nxf6
+18. Be3 Qd8 19. Bd4 Nxe4 20. Qxe4 Qd5 21. Qxd5 exd5 {mit ausgeglichener
+Stellung} *
+

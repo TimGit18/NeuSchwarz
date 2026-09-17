@@ -1,0 +1,112 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Amsterdam-System"]
+[Black "Damenzugvariante"]
+[Result "*"]
+[ECO "B93"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "40"]
+[EventDate "2011.06.29"]
+[SourceDate "2011.06.29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 {[%csl Ra7,Rb6,Rc5,
+Rd4,Re3,Ye4,Rf2,Rg1] Dieser Zug ist eine Empfehlung von John Nunn. Er erobert
+Raum, droht e5 und bereitet einen Königsangriff vor. Das System ist nicht
+schwer zu spielen. Schwarz muss Gegenspiel gegen den potentiell schwachen
+Bauern e4 und auf der Diagonale a7-g1 initiieren Dieser Zug ist eine
+Empfehlung von John Nunn. Der Zug ist sehr aggressiv und enthält viele Ideen.
+Er erobert Raum, droht e5 und bereitet einen Königsangriff vor. Weiß will
+damit beginnen, sofort aktive Operationen durchzuführen und verzögert die
+Entwicklung seiner Figuren. Die Dame soll nach f3 gebracht werden, weshalb der
+Zug f2-f4 auch dabei hilft, einen schwarzen Springer fernzuhalten. Von f3 aus
+kann die Dame den Bauern e4 verteidigen und nach h3 hinübergehen, um den
+Druck auf den schwarzen König auszuüben. Das System ist nicht schwer zu
+spielen. Schwarz muss Gegenspiel gegen den potentiell schwachen Bauern e4 und
+auf der Diagonale a7-g1 initiieren} e5 {Schwarz kämpft um das Zentrum. Im
+Vergleich mit dem Zug e7-e6 ist dies der aktivere Zug. Schwarz kämpft um das
+Zentrum. Außerdem verhindert der Zug den Vorstoß g2-g4 und er vertreibt den
+weißen Springer aus dem Zentrum. In der Regel wird er nach f3 gehen, wo er
+also der Dame im Weg steht. Daher muss diese über e1 nach g3 auf den
+Königsflügel gebracht werden, wo sie aber auch von dem Springer auf h5
+angegriffen werden kann} 7. Nf3 {Der Zug ist der aktivste Springerzug. Weiß
+greift ein weiteres Mal den Bauern auf e5 an, den Schwarz jetzt verteidigen
+muss} Qc7 $1 {Dieser Zug ist ebenso wie Sbd7 oft gespielt, da er die
+Entwicklung des weißfeldrigen Läufers nach c4 unterbindet Dieser Zug ist
+ebenso wie der Springerzug nach d7 oft gespielt, da er nicht nur den Bauern
+auf e5 deckt, sondern auch die Entwicklung des weißfeldrigen Läufers nach c4
+unterbindet} 8. Bd3 {Weiß entwickelt seinen Läufer auf das zweitaktivste
+Feld, da ihm die Entwicklung nach c4 versperrt ist Weiß entwickelt seinen
+Läufer auf das zweitaktivste Feld, da ihm die Entwicklung nach c4 versperrt
+ist. Aber er versucht trotzdem seine aggressiven Pläne auf dem Königsflügel
+zu verwirklichen und entwickelt ihn daher nicht auf das Feld e2} Nbd7 {Ein
+logischer Zug, der den Bauern auf e5 weiter verteidigt und damit droht, nach
+c5 zu gehen, um den Angriff auf den Läufer auf d3 vorzubereiten. Der
+Damenläufer soll nach b7 gebracht werden, um den Druck gegen den Bauern e4 zu
+erhöhen. Weiß muss etwas unternehmen} 9. a4 {Der Hauptzug unterbindet den
+Vorstoß b7-b5 und ist daher kein Zeitverlust für Weiß.} Be7 {Schwarz
+entwickelt den Läufer und bereitet die kurze Rochade vor} 10. O-O {Weiß
+bringt seinen König in Sicherheit und droht mit der Öffnung der f-Linie} O-O
+{Auch Schwarz bringt seinen König in Sicherheit.} {Mit dem Zug} 11. Qe1 {
+[%csl Ye1,Yf2,Yg3][%cal Re1g3] beginnt die Damenzugvariante. Weiß verzichtet
+darauf, seinen König in die Ecke zu stellen und geht gleich zur Initiative
+über} ({Im Falle des voreiligen} 11. Nh4 {erhält Schwarz einen Vorteil nach}
+Nc5 12. fxe5 dxe5 13. Nf5 Bxf5 14. Rxf5 Rad8 {Schwarz nagelt den schlechten
+weißen Läufer auf d3 fest. Konkret droht bereits das Schlagen auf e4}) 11...
+Nc5 $1 {Dieser Zug ist hier der stärkste. Schwarz sollte nicht auf f4 nehmen
+und den Läufer auf ein so gutes Feld locken, dabei auch noch die Linie für
+den Turm öffnen. Falls Weiß die Linie öffnen will, so muss er dies schon
+selber tun Dieser Zug ist am stärksten. Schwarz sollte nicht auf f4 schlagen
+und den Läufer auf ein gutes Feld locken und gleichzeitig dem Turm die
+f-Linie öffnen. Weiß kann die Linie selber öffnen, aber dann muss er auf e5
+schlagen} 12. fxe5 {Weiß merkt nun, dass er ohne positionelle Konzession
+nicht einfach aus der Eröffnung herauskommt} dxe5 {Weiß hat zwar seinen
+e-Bauern geschwächt und die schwarze Bauernstruktur aufgewertet, aber er hat
+auch die f-Linie für seinen Turm geöffnet und kann den Damenläufer aktiv
+entwickeln} 13. Qg3 {[%csl Ye5,Yg3,Yg7,Yh6][%cal Rg3e5,Rg3g7,Rc1h6] Das ist
+der Hauptzug in der Stellung. Weiß drückt auf den Bauern e5 und täuscht
+eine Mattdrohung auf g7 an} ({(a) Eine naheliegende Alternative ist der Zug} 
+13. Bg5 {In solchen Strukturen ist es vorteilhaft für Weiß, den Zug h7-h6 zu
+provozieren, denn dann kann Schwarz schlecht g7-g6 folgen lassen. Der letztere
+Zug ist aber auch oft notwendig, um die Kontrolle über das Feld f5 zu erlangen
+} Be6 14. Kh1 h6 15. Be3 Rad8 16. Rd1 Rd7 17. Qg3 Rfd8 $1 18. Bxh6 Nh5 {
+Der Springer greift gleichzeitig die Dame an und deckt das Feld g7. Weiß wird
+so oder so Material verlieren}) ({Eine bekannte Idee lautet} 13. Nh4 {Die
+weiße Grundidee beinhaltet De1 und dann Sh4-f5 mit der Idee eines Gegenspiels}
+Nxd3 14. cxd3 Rd8 15. Qg3 Nh5 16. Qf3 Nf4 17. Bxf4 exf4 18. Nf5 Bf8 19. Rac1
+Bxf5 20. exf5 Qc5+ 21. Kh1 Qxf5 {Schwarz hat eine gute aktive Stellung und
+Weiß hat schwache Bauern auf b2 und d3}) 13... Be6 $1 {[%csl Ye5][%cal Rf3e5,
+Rg3e5,Ge7c5] Eine typische Idee in solchen Stellungen. Schwarz opfert den
+Bauern e5, um die Diagonale g1-a7 für seinen Königsläufer zu öffnen und
+seine Figuren zu aktivieren. Dies ist solange gut solange Weiß seinen Läufer
+auf c1 und den Turm auf a1 noch nicht entwickelt hat} 14. Qxe5 {Weiß nimmt
+den angebotenen Bauern an. Schwarz hat eine ausgezeichnete Kompensation dank
+seiner schönen Figurenkoordination} Bd6 {[%csl Yd3,Yd6,Ye4,Re5,Ye6,Yf4,Yf5,
+Yg3,Yg4,Yh2,Yh3][%cal Gd6h2,Ge6h3,Gf6e4,Gc5e4,Gc5d3] Beide Läufer stehen nun
+auf hervorragenden Diagonalen und die Springer greifen die weißen
+Leichtfiguren an. Die weiße Dame gerät in ein beträchtliches Gedränge} 15.
+Qg5 {Das einzige Fluchtfeld für die weiße Dame} ({Nach} 15. Qd4 {folgt} Nb3
+16. cxb3 Bc5 {und die weiße Dame ist verloren}) 15... h6 {Die weiße Dame
+wird weiter gejagt} 16. Qh4 {Hier steht die weiße Dame noch am relativ
+aktivsten} Ng4 {Dieser Zug greift zwar zunächst nichts an, kontrolliert aber
+viele Felder im Zentrum und auf dem Königsflügel} 17. Nd5 {Weiß muss seine
+Figuren irgendwie aktivieren. Der Springer sollte nicht geschlagen werden} Qd8
+{Schwarz hat zwar einen Bauern weniger, aber er tauscht die Damen, da die
+weiße Dame die einzige aktive Figur ist. Alle anderen Figuren stehen bloß
+herum und Schwarz steht besser} 18. Qxd8 Rfxd8 {Der Tausch reduziert zwar das
+Angriffsmaterial, aber er bringt auch den schwarzen Turm auf ein sehr aktives
+Feld} 19. Nf4 {Weiß zieht den Springer zurück, weil er seine Bauernstruktur
+konservieren will. Dafür ist er bereit, sein Läuferpaar zu geben} Nxd3 20.
+Nxd3 {Dieser Zug sieht seltsam aus, aber es ist der einzige Zug, der den
+Mehrbauern sichert} ({Nach} 20. cxd3 Bxf4 21. Bxf4 Rxd3 {hat Schwarz nicht nur
+materiell ausgeglichen, sondern auch die viel aktiveren Figuren und die
+bessere Bauernstruktur}) 20... Bb8 {[%csl Ya7,Yb6,Yb8,Yc5,Yc8,Yd4,Ye3,Yf2]
+[%cal Gb8a7,Ga7f2,Gg4e3,Gg4f2,Ga8c8] Weiß hat immer noch einen Mehrbauern,
+aber die schwarzen Figuren stehen aktiver und sind insgesamt aggressiver. Der
+Läufer soll nach a7 gebracht werden, von wo aus er hervorragend die lange
+Diagonale kontrolliert. Weiß kann es nicht verhindern, da der Springer auf g4
+die schwarzen Felder f2 und e3 kontrolliert. Der zweite Turm wird auf die
+c-Linie gebracht, von wo aus er die Deckung des Springers auf d3 unterminiert}
+*
+

@@ -1,0 +1,41 @@
+[Event "Experts on the Anti-Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pseudo-Alapin-System"]
+[Black "Zurückhaltung"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Christian Bauer"]
+[PlyCount "35"]
+[SourceVersionDate "2019.04.24"]
+
+1. e4 c5 2. Nf3 d6 3. c3 {Die Idee des Pseudo-Alapin-Aufbaus besteht im Aufbau
+eines starken Zentrums mit e4 und d4, gegen das Schwarz nicht mehr gut mit d5
+gegenschlagen kann, denn er hat bereits seinen d-Bauern auf d6 platziert.} Nf6
+{Das ist die logische Antwort. Schwarz setzt das weiße Zentrum unter Druck.
+Alle anderen Züge sind schlechter.} 4. h3 {Hiermit verhindert Weiß die
+Aktion Lc8-g4. Denn sonst käme der schwarze Damenläufer nach g4, würde den
+weißen Springer fesseln und das Bauernzentrum auf d4 unterminieren. Daher
+kann der vierte weiße Zug als Teil seiner Zentralstrategie angesehen werden.}
+g6 {Das ist die große strategische Fortsetzung von Schwarz mit Spiel auf den
+schwarzen Feldern im Zentrum.} 5. Bd3 {Weiß hat hier auch mit anderen
+Läuferzügen experimentiert - allerdings ohne großen Erfolg.} Bg7 6. Bc2 O-O
+7. O-O Nc6 {Der zurückhaltende Zug} 8. d3 {erlaubt eine langwierige
+Auseinandersetzung anstatt des einschneidenden d2-d4. Weiß will entweder den
+Vorstoß b2-b4 vorbereiten oder will den Bauernvorstoß auf d4 einfach
+verzögern. Dies mag etwas passiv erscheinen, aber andererseits kann Schwarz
+keine Vereinfachungen herbeiführen.} ({Hingegen ist} 8. a3 $6 {ungenau wegen
+der Antwort} c4 {und nach} 9. Qe2 {ist} Na5 {störend, da das unausweisliche}
+10. d3 cxd3 11. Qxd3 {Weiß mit einer schlechten Bauernstruktur zurücklässt.}
+) 8... e5 {Der Textzug ist am konsequentesten.} 9. a3 a5 {Der Zug schwächt
+zwar das Feld b5 und erlaubt es Weiß einen Springer auf c4 für einige Zeit
+zu etablieren.} 10. a4 ({Von Degraeve stammt der Zug} 10. Be3 Re8 11. Nbd2 b6
+12. d4 exd4 13. cxd4 Bb7 {Schwarz hat im Vergleich zur Turmzugvariante ein
+Tempo eingespart, da er nie h7-h6 gespielt hat. Schwarz muss aber auf die
+Struktur der Bauern auf dem Damenflügel aufpassen.}) 10... d5 11. Na3 h6 12.
+exd5 Nxd5 13. Re1 Bf5 {Dieser interessante Zug richtet sich gegen den Bauern
+auf d3.} 14. Bb3 Nf4 15. Bxf4 exf4 16. Bc4 g5 17. Qb3 Qd7 {Schwarz droht mit
+dem Schlagen auf h3. Weiß sollte daher spielen} 18. Kh2 {, wonach ein
+spannendes und unklares Mittelspiel entsteht.} *
+

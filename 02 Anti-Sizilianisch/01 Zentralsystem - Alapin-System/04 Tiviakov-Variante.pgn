@@ -1,0 +1,46 @@
+[Event "Repertoire against the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-Gambit"]
+[Black "Tiviakov-Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Daniel King"]
+[PlyCount "30"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 {Das ist das vielversprechende
+Anti-Alapin-Gambit. Es wurde von Sveshnikov und Emms untersucht, jedoch nicht
+ausführlich behandelt. Allerdings raten sie davon ab, den Bauern behalten zu
+wollen.} 4. d4 {Dieser Zug wurde von Emms empfohlen und er scheint auch der
+beste für Weiß zu sein.} Nxd5 $1 {Emms hat diesen Zug nicht untersucht. Er
+beschäftigt sich mit dem Schlagen des weißen Damenbauern durch den schwarzen
+c-Bauern, wonach der Weiße zwar einen isolierten Damenbauern erhält, aber
+sein Spiel sich auch befreit.} {Von Tiviakov stammt die Fortsetzung} 5. dxc5 {
+Das Spiel läuft nun eine andere Richtung. Die Stellung kann genauso aus der
+Französichen Verteidigung entstehen.} e6 6. Nf3 Bxc5 {Ponomariov entwickelt
+seine Figuren sehr gut und erhält mit Schwarz ein gutes Spiel.} 7. Bd3 ({
+Ein älteres Vorbild ist die Partie Tartakower-Reti aus dem Turnier in
+Baden-Baden 1925} 7. Bb5+ Bd7 8. Bxd7+ Nxd7 {mit baldigem Remis.}) 7... O-O 8.
+Qc2 $146 {Weiß droht mit dem Einschlag auf h7.} ({Konservativer ist die kurze
+Rochade} 8. O-O Nc6 ({Oder} 8... Nd7 {mit der Idee Sd7-f6})) 8... h6 9. O-O Nc6
+10. Rd1 {Weiß will gegen den Springer auf der offenen d-Linie spielen.} ({
+Eine andere Idee, die von Tiviakov besser befunden wurde, ist} 10. Nbd2 $5)
+10... Qc7 {Schwarz entfernt die Dame aus der gefährlichen d-Linie und
+kontrolliert die wichtigen Felder im Zentrum (e5 und f4).} ({Auch gut ist} 
+10... Qf6 $5) 11. a3 $5 {Hier ist die Idee b2-b4 und c3-c4 zu spielen mit
+Druck auf dem Damenflügel.} ({(a) Eine andere Idee ist} 11. Qa4 $5 {mit den
+möglichen Platzierungen der Dame auf e4 oder auf h4.}) ({(b) Zurückhaltender
+ist} 11. Nbd2) 11... b6 {Schwarz bereitet die Entwicklung des weißfeldrigen
+Läufers auf der langen Diagonalen vor.} 12. Nbd2 $6 {Tiviakov kritisiert
+diesen, seinen Zug als zweifelhaft.} ({(a) Die ursprüngliche Idee ist} 12. b4
+{, um den Läufer von seinem guten Feld auf c5 zu vertreiben.} Be7 13. c4 Nf6
+14. Nc3 Bb7 {mit gleichem Spiel}) ({(b) Sehr forsch ist} 12. c4 Nf6 13. b4 Nd4
+$5 {Ein schöner Zwischenzug, der die Figuren aktiviert} ({Nach} 13... Be7 {
+hat Weiß seine Idee durchgesetzt.}) 14. Nxd4 Bxd4 {Schwarz hat sicher
+ausgeglichen.}) 12... Bb7 13. Ne4 Be7 14. c4 Nf4 {Das ist ein schönes,
+aktives Feld für den Springer.} ({Zu gleichem Spiel führt} 14... Nf6 15. b3
+$11) 15. Bf1 Rad8 {Schwarz hat schon ganz leicht ausgeglichen und steht
+vermutlich schon besser in der Partie Tiviakov-Ponomariov aus Pamplona 2005} ({
+Auch gut ist} 15... Ne5) *
+

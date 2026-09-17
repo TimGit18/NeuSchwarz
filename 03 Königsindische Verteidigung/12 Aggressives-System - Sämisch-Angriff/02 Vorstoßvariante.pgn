@@ -1,0 +1,89 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-Angriff"]
+[Black "Vorstoßvariante"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "42"]
+[EventDate "2011.10.25"]
+[SourceDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. h4 {Das ist der
+aggressivste Zug, obwohl Weiß in bestimmten Varianten auch positionell
+spielen kann. Die grundlegende Idee dieses Zuges ist offensichtlich. Weiß
+beabsichtigt, den schwarzen König anzugreifen. Das Spiel ähnelt sehr der
+Sizilianischen Drachenverteidigung. Gewöhnlich antwortet Schwarz mit h7-h5
+wie in der Soltis-Variante} h5 {Schwarz blockiert mechanisch den Vorstoß des
+h-Bauern} 10. O-O-O {Das ist die Hauptvariante im Sämisch-Angriff. Das Spiel
+wird sehr kompliziert, aber Schwarz kann eigene Komplikationen verursachen} b5
+{Schwarz beginnt sein eigenes Gegenspiel. Weiß muss nun entscheiden, wie er
+fortsetzen will} 11. Bh6 {Weiß will den mächtigen Läufer auf g7 abtauschen.}
+e5 {Das ist die Hauptvariante. Schwarz kombiniert Zentrumsspiel mit den
+Angriff auf den Flügeln. Die Variante} 12. Nd5 {sieht zunächst einmal gut
+aus, denn der weiße Springer wird zentralisiert und kann auch nicht so
+einfach geschlagen werden. Trotzdem gilt dieser Zug als schlechtes Timing,
+denn Schwarz hat eine gute Antwort} Bxh6 $1 {Warum ist dieser Zug gut?
+Zunächst einmal sieht er riskant aus, denn die weiße Dame wird in die
+unmittelbare Nähe des schwarzen Königs gebracht. Aber die schwarze Stellung
+ist trotz der geschwächten schwarzen Felder rund um den eigenen König immer
+noch sehr sicher, da Weiß nicht so einfach Linien öffnen kann} 13. Qxh6 {
+[%csl Yc3,Yd2][%cal Rd2h6,Rc3d5] Jetzt muss es Schwarz ausnutzen, dass Weiß
+mit der Dame und dem Springer zwei Figuren von dem eigenen König abgezogen
+hat und ein Gegenspiel gegen den weißen König starten} bxc4 {[%csl Yb2,Yb5,
+Yb8,Yc4][%cal Rb5c4,Rb8b2] Der erste Schritt, um das Gegenspiel zu eröffnen,
+ist die Öffnung der b-Linie in die Rochade-Stellung des Weißen und der
+Aktivierung des eigenen Turms auf b8} 14. g4 {[%csl Yg1,Yg4,Yg7,Yh5,Yh6][%cal
+Rg4h5,Rh1g1,Rg1g7] Am besten ist es für Weiß, wenn er auch Linien (in diesem
+Fall die g-Linie) gegen den gegnerischen König öffnet - auch wenn ihn dieser
+Zug einen Bauern kosten kann} ({Nach} 14. Nxf6+ Qxf6 15. d5 Na5 16. Ng3 Qf4+
+17. Qxf4 exf4 18. Ne2 Bd7 19. Nxf4 Rb4 {steht Schwarz gut}) 14... Nxd5 {
+Schwarz tauscht im richtigen Augenblick eine gefährliche Angriffsfigur von
+Weiß ab und vermindert dadurch den Druck auf die eigene Stellung} ({Schwarz
+kann es sich nicht erlauben, diesen Bauern zu nehmen, denn nach} 14... hxg4 15.
+h5 gxh5 {verliert er sofort durch} 16. Qg5+) 15. exd5 {Weiß hat zwar immer
+noch einen gewissen Druck auf dem Königsflügel aufgebaut, aber die weißen
+Figuren sind nicht gut koordiniert und Schwarz kann mit seinem Gegenangriff
+fortfahren} Nb4 {[%csl Ya2,Yb2,Yd3][%cal Rb4a2,Rb4d3,Rd3b2,Gb8b2] Der Springer
+musste ziehen, da er angegriffen war und zieht optimalerweise auf ein aktives
+Feld. Hier greift er den Bauern a2 und das Feld d3 an mit direktem Druck gegen
+b2} 16. Nc3 {Dieser Zug von Weiß verbessert seine Figurenkoordination
+drastisch und deckt beide schwarzen Drohungen. Jetzt droht Weiß seinerseits
+wieder mit g4xh5} ({Weiß kann es sich nicht erlauben, die schwarze Drohung zu
+ignorieren} 16. gxh5 Nxa2+ 17. Kb1 Bf5+ 18. Kxa2 c5 {gewinnt für Schwarz})
+16... exd4 {Schwarz muss sofort nachlegen und die Spannung im Zentrum
+auflösen. In dieser Stellung zählt jedes Tempo sehr viel} 17. Rxd4 {Es kommt
+zwar eine weitere weiße Figur in das Zentrum, aber es erlaubt es Schwarz auch,
+seine Dame mit Tempo in das Spiel zu bringen} Qf6 {[%csl Yb2,Yd4,Yf3,Yg6,Yg7,
+Yh8][%cal Rf6f3,Rf6d4,Rd4b2,Rb8b2,Gf6g6,Gf6g7,Gg7h8] Die Dame greift den Turm
+auf d4 an, den Bauern auf f3 und strahlt gleichzeitig gegen den Bauern auf b2.
+Außerdem deckt sie den Bauern auf g6 und die kritischen Felder g7 und h8} 18.
+Qf4 {Das ist die sicherste Variante. Weiß wählt ein Endspiel} ({(a)} 18. Rf4
+Nxa2+ 19. Kc2 Rxb2+ 20. Kxb2 Qxc3+ 21. Kxa2 Qb3+ 22. Ka1 c3 {gewinnt für
+Schwarz}) ({(b)} 18. Rd2 Qxf3 {gewinnt auch für Schwarz}) ({(c) Vernünfig
+sieht aus} 18. Qe3 hxg4 19. fxg4 Bxg4 20. Bxc4 (20. Rxg4 Nxa2+ 21. Kc2 Qf5+ 22.
+Re4 Nxc3 23. bxc3 Rfe8 24. Bg2 Qd7 {mit Kompensation}) 20... Rfe8 {Schwarz
+steht sehr gut}) 18... Qxf4+ 19. Rxf4 Nd3+ {Schwarz optiert für einen
+weiteren Figurentausch. Er wird zwar seinen Mehrbauern loswerden, aber er kann
+hoffen, dass sein Läufer auf d7 und die Türme auf e8 und b8 genügend
+Aktivität für Schwarz ausüben} 20. Bxd3 cxd3 {Das Endspiel ist mehr oder
+weniger gleich} 21. Rd1 Re8 {[%csl Yb2,Yd3,Ye1,Yg1,Yg2,Yg4][%cal Rd1d3,Ge8e1,
+Ge1g1,Rg1g4,Yg1g2,Rg2b2,Rb8b2] Der schwar} *
+

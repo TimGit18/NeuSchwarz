@@ -1,0 +1,44 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fischer-Angriff"]
+[Black "Pseudo-Englischer Angriff"]
+[Result "*"]
+[ECO "B86"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "48"]
+[SourceDate "2015.02.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 {Der
+Rückzug des Läufers nach b3 ist die Wahl von Bobby Fischer seit 1959. Er
+verhindert insbesondere den Befreiungszug d6-d5 und das viel versprechende
+Scheinopfer Sf6xe4. Gleichzeitig bereitet er den Vormarsch des Bauern f2-f4
+vor. Dass er nicht sofort auf den Königsflügel rochiert, bedeutet, dass es
+noch die Möglichkeit der langen Rochade auf den Damenflügel gibt.} Nbd7 {
+Diese Fortsetzung ist nicht die Hauptfortsetzung, aber sie ist weniger riskant
+als b7-b5. Der Springer soll nach c5 gebracht werden, von wo aus er nicht nur
+den Bauern e4 und den Läufer auf b3 attackiert, sondern auch noch den Bauern
+auf e6 verteidigt. Die sofortige Rochade-Variante wird mit} 8. Be3 {Weiß
+wählt einen Aufbau, der dem Englischen Angriff ähnelt.} Nc5 {Schwarz führt
+den Standardplan aus} 9. f3 {Die Kombination des Zuges f2-f3 mit dem Transfer
+des Läufers nach b3 ist nicht besonders gut. Entweder gehört der Läufer
+nach f1 oder der f-Bauer geht nach f4} ({Nach} 9. Qf3 b5 {[%csl Yb7,Yc6,Yc8,
+Yd5,Ye4][%cal Gc8b7,Gb7e4,Gf6e4,Gc5e4] steht die weiße Dame auf f3 schlecht.
+Der schwarze Damenläufer geht nach b7, wonach der weiße e-Bauer nicht zu
+verteidigen ist.} 10. Bg5 Bb7 11. Bxf6 Qxf6 12. Qxf6 gxf6 13. f3 h5 14. Rd1 Bh6
+15. a4 b4 16. Na2 a5 17. Nb5 Ke7 18. Kf2 {Die weiße Stellung ist strategisch
+verloren. Schwarz muss bloß das Spiel genau zu Ende führen. Weiß kann nicht
+auf d6 nehmen, denn dann spielt Schwarz Lb7-a6 und Th8-d8} Rhd8) 9... Be7 10.
+Qd2 ({In das weiße Konzept passt besser der Zug} 10. Qe2 Qc7 11. g4 b5 12. g5
+Nfd7 {Es ist weise von Weiß den Vorstoß b5-b4 zu verhindern} 13. a3 (13. h4
+b4 14. Na4 Nxb3 15. axb3 Nc5) 13... Nxb3 14. cxb3 O-O {und Schwarz ist etwas
+besser}) 10... O-O 11. g4 {Dieser Zug ist auch nicht so gefährlich für
+Schwarz. Es ist klar, dass Weiß lang rochieren will und auf dem
+Königsflügel angreifen will. Aber Schwarz sollte schneller sein.} Nfd7 $1 12.
+g5 Qc7 13. O-O-O b5 {Schwarz hat eine ausgezeichnete Stellung. Er will Lc8-b7
+spielen und dann mit b5-b4 und d6-d5 fortsetzen. Anschließend kann er auf b3
+nehmen oder a6-a5 spielen, um den Läufer zu fangen} 14. Kb1 Nb6 15. a3 Rb8 16.
+h4 Nca4 17. Nxa4 bxa4 18. Ba2 d5 19. exd5 Nxd5 20. Bxd5 exd5 21. Bf4 Bd6 22.
+Bxd6 Qxd6 23. Ka1 Bd7 24. h5 Rb6 *
+

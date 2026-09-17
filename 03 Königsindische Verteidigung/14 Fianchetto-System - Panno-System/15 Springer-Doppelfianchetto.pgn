@@ -1,0 +1,74 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Springer-Doppelfianchetto"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "48"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitestetn und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben (a)
+Der Zug} 8. b3 {will ein Doppelfianchetto auf dem Damenflügel einleiten.
+Dieser einfache Zug ist immer sehr beliebt. Weiß vermeidet damit die
+Komplikationen der Hauptvariante und bereitet die Entwicklung des
+Damenläufers vor} Rb8 {Nach diesem Zug hat Weiß die Wahl zwischen einer
+Stützung des Bauern d4 oder einer weiteren Entwicklung} 9. Nd5 {Dieser Sprung
+nach vorn im Springer-Doppelfianchetto ist sehr beliebt. Es ist überhaupt
+nicht klar, ob Weiß klassische Prinzipien verletzt. Er vermeidet nämlich die
+Belästigung durch den schwarzen b-Bauern und limitiert mit einem
+Springertausch das schwarze Gegenspiel} Nh5 $5 {Dieser genauso extravagante
+Gegenzug ist die Hauptantwort von Schwarz. Damit hofft er Zeit für e7-e6 oder
+auch f7-f5 zu gewinnen} 10. Bb2 ({Statt dessen führt} 10. e4 {nach} Bg4 $1 11.
+Bb2 e5 12. h3 Bxf3 13. Bxf3 Nf6 14. Nxf6+ (14. dxe5 Nxd5 15. cxd5 Nxe5 {
+mit der Idee} 16. Bg2 Nf3+ 17. Bxf3 Bxb2) 14... Qxf6 15. d5 Nd4 {und Schwarz
+hat vollständig ausgeglichen}) 10... e6 11. Nc3 {Weiß zieht den Springer
+einfach zurück. Weiß denkt, dass Schwarz seinen Springer nach f6
+zurückzieht. Dann haben beide Seiten jeweils ein Tempo verloren. Schwarz
+wurde dazu verlockt, den nützlichen, aber vielleicht nicht optimalen Zug e6
+zu spielen. Andere Rückzüge sind vielleicht zweckmäßiger, aber sie sind
+nicht unbedingt besser} ({(a)} 11. Nf4 $6 {kompromittiert die weiße
+Bauernstruktur} Nxf4 12. gxf4 b5 13. Rc1 Ne7 {Flexibel und gut} 14. Qd2 Bb7 {
+mit einer dynamischen und flexiblen Stellung für Schwarz} 15. Rfd1 ({Oder} 15.
+c5 Be4 $1 {mit einer ausgezeichneten Stellung für Schwarz}) (15. Ba3 Re8 16.
+Rfd1 Be4 17. Qe3 Bxf3 18. Qxf3 Nf5 19. e3 b4 20. Bb2 c5 {mit gutem Spiel gegen
+die weißen Bauernstruktur}) 15... bxc4 16. Rxc4 Nd5 17. Rdc1 h6 18. e3 f5 19.
+Ne1 g5 {mit gutem Gegenspiel für Schwarz}) ({(b)} 11. Ne3 {ist wichtiger. Auf
+e3 verteidigt der Springer den Bauern c4, so dass der Vormarsch b7-b5 etwas
+Zeit verliert. Andererseits steht der Springer etwas nachteilig auf e3, denn
+er blockiert den e-Bauern und er wird ein Ziel für den schwarzen f-Bauern} Ne7
+{sieht am besten aus} 12. Rc1 ({Oder} 12. Qd2 b6 13. Rac1 Bb7 14. Rfd1 h6 15.
+c5 Nf6 {mit ausreichendem Gegenspiel für Schwarz}) 12... Bd7 13. c5 Bh6 14.
+cxd6 cxd6 15. Rc2 Bc6 16. Ng4 Bg7) 11... b5 {Da der weiße Springer auf c3
+steht, setzt Schwarz mit seinem ursprünglichen Plan fort} 12. d5 ({Eine
+andere, aber vertraute Idee ist} 12. cxb5 axb5 13. Rc1 b4 14. Na4 ({Oder} 14.
+Nb1 Na7 15. Ne1 Nb5 16. Qd2 Bb7 17. Rc4) 14... Bd7 15. Qc2 Qe7 16. e3 Rfc8 17.
+Ne1 Na5 18. Nd3 Nf6) 12... Ne7 {Schwarz entscheidet sich dafür, von dem Zug
+e6 mittlerweile Gebrauch zu machen} 13. dxe6 Bxe6 14. cxb5 axb5 15. Qd2 b4 16.
+Ne4 ({Statt dessen führt} 16. Na4 Bd5 17. Bxg7 Nxg7 18. Ng5 Bxg2 19. Kxg2 Ne6
+{zu Gleichstand laut Bologan}) 16... Bxb2 17. Qxb2 f5 $5 {Dieser forcierte Zug
+sollte von Schwarz in Betracht gezogen} 18. Neg5 Bd5 19. Nd4 Qd7 {und es wird
+klar, dass Weiß nicht das Feld e6 ausnutzen kann} 20. e4 ({Nach} 20. Bxd5+
+Nxd5 {kommt der schwarze Springer nach c3 und} 21. Nge6 Rfe8 {verliert Material
+}) 20... fxe4 21. Nxe4 Bxe4 22. Bxe4 Nf6 23. Bg2 c5 24. Ne2 Rbe8 {mit schöner
+Stellung für Schwarz} *
+

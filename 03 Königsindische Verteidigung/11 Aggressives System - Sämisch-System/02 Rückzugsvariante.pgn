@@ -1,0 +1,74 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-System"]
+[Black "Rückzugsvariante"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "58"]
+[EventDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. Nc1 {Hiermit entscheidet
+sich Weiß für den positionellen Weg anstatt mit h2-h4 nach vorne zu stürmen.
+Es gibt einige Ähnlichkeiten zum Sämisch-Angriff} e5 {[%csl Yd4][%cal Re5d4,
+Rc6d4,Rg7e5] Natürlich schlägt Schwarz gegen das geschwächte weiße Feld d4}
+10. d5 {Das ist die logische Fortsetzung} Nd4 {Dieser Zug verliert keinen
+Bauern, denn nach zweimaligem Schlagen verliert Weiß den Bauern auf d4} 11.
+N1e2 {Dieser Zug macht hier mehr Sinn als wenn schon die Züge h2-h4 und h7-h5
+eingeschlossen wären. Denn würde jetzt Schwarz c7-c5 spielen, dann könnte
+Weiß noch kurz rochieren.} Nxe2 {Das ist ein einfacher Weg. Schwarz strebt
+nach einer normalen Stellung} 12. Bxe2 Nh5 {Wenn man diesen Zug zur Verfügung
+hat, dann ist dies ein Vorteil. Der Bauernvorstoß c7-c5 ist nicht so gut,
+weil Weiß en passant schlagen kann} 13. O-O-O {Andere Züge sind nicht so
+häufig, aber Schwarz antwortet immer gleich} f5 {[%csl Ye4,Yf4,Yf5,Yh5][%cal
+Rh5f4,Rf5e4,Rf5f4] Der vorhergehende Springerabtausch hat den Leichtfiguren
+Platz gegeben. Er hat eine flexible Stellung und kann verschiedene Pläne
+ausüben (f5-f4, f5xe4, Sh5-f4)} 14. Kb1 {Weiß bringt den König in die Ecke
+und bereitet c4-c5 vor.} ({(a) Nach} 14. exf5 gxf5 {hat Schwarz bereits direkt
+Gegenspiel.}) ({(b) Auch nach} 14. g3 Nf6 {hat Schwarz Gegenspiel.}) ({(c)
+Ebenfalls zu passiv ist} 14. Bd3 Nf4 15. Bc2 b5 16. c5 b4 17. Na4 a5 18. c6
+fxe4 19. fxe4 Ba6 {ebenfalls mit Gegenspiel für Schwarz.}) ({(d) Die
+Hauptalternative lautet} 14. c5 Qe7 15. cxd6 ({Nach} 15. b4 Nf4 16. Bf1 fxe4
+17. Nxe4 Bf5 {ist der weiße König etwas offen.}) 15... cxd6 16. Bd3 b5 17.
+Kb1 Bd7 {mit schöner Stellung für Schwarz in Lutsko,I (2420)-Fedorov,A (2505)
+Minsk 1994.}) 14... Bd7 15. Bd3 ({(a) Oder} 15. Rc1 Qe7 16. Bd3 Nf6 {mit
+beiderseitigen Chancen.}) ({(b) Stattdessen sieht} 15. a3 {etwas sinnlos aus
+und} Kh8 16. Bd3 Qe7 17. Rc1 Nf4 18. Bc2 c5 19. dxc6 bxc6 {mit der Idee von
+Sf4-e6, um das Feld d4 zu besetzen.} 20. c5 $2 d5 $1 {mit gutem Spiel für
+Schwarz in Dreev,A (2690)-Ye,J (2671) Shanghai 2001. Weiß kann hier keinen
+Bauern gewinnen wegen} 21. exd5 Nxd5 22. Nxd5 cxd5 23. Qxd5 Be6 24. Qd2 e4)
+15... Kh8 16. Rhg1 $5 {Weiß denkt an g2-g4.} Qe7 17. Bc2 Nf6 18. h3 ({Nach} 
+18. exf5 gxf5 19. g4 fxg4 20. fxg4 Nxg4 21. Bg5 Bf6 {hat Weiß etwas Spiel,
+aber Schwarz hat einen gesunden Mehrbauern.}) 18... b5 19. cxb5 axb5 20. g4 b4
+21. Ne2 fxe4 22. fxe4 c5 23. dxc6 Bxc6 {[%cal Rd6d5,Ge4d5,Re5e4,Gg7b2] Schwarz
+hat gutes Gegenspiel gegen den Bauern e4 und eine andere Möglichkeit ist es,
+den Durchbruch im Zentrum mit d5 durchzuführen, um die Diagonale für den
+Läufer auf g7 zu öffnen.} 24. Bg5 {Weiß nimmt irgendwann den Springer auf
+f6, um den Druck auf den Bauern e4 zu vermindern. Aber Schwarz hat noch gute
+Chancen.} ({Vielleicht ist es besser, den Bauern zu nehmen} 24. Qxd6 Qb7 25.
+Ng3 b3 26. axb3 Nxe4 27. Nxe4 Bxe4 28. Bxe4 Qxe4+ 29. Qd3 Qxd3+ 30. Rxd3 e4 31.
+Rd7 Rxb3 32. Bc1 {, wonach Weiß das Endspiel halten sollte, aber Schwarz
+ziemlichen Druck ausüben kann.}) 24... Qa7 25. Bxf6 Rxf6 26. Nc1 {Soweit die
+Partie Ibragimov,I (2585)-Fedorov,A (2600) Sochi 1997. Nun wäre sehr stark}
+Rf2 $1 27. Qxd6 b3 28. Bxb3 ({Schwarz gewinnt nach} 28. Nxb3 Rxc2 29. Kxc2
+Bxe4+) ({Oder nach} 28. axb3 Ra8 29. Qa3 Qb6 30. Qe7 Bf8 31. Qxe5+ Bg7 32. Qe7
+Qa5 33. Qa3 Bxe4) 28... Bxe4+ 29. Ka1 Bc2 {mit der Idee von e5-e4 (Fedorov),
+was sehr gut für Schwarz wäre.} *
+

@@ -1,0 +1,14 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsindische Verteidigung"]
+[Black "Seirawan-System"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "David Vigorito"]
+[PlyCount "28"]
+[EventDate "2014.01.18"]
+
+{[%evp 0,19,28,28,27,-20,35,39,37,35,35,17,19,27,25,28,42,41,60,46,61,52]} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 {Das ist die Seirawan-Variante. Angeblich ist sie nicht so aggressiv wie andere Systeme gegen die Königsindische Verteidigung, aber sehr solide und kompakt. Das entscheidende Feld ist d4, weil es in dieser Variante geschwächt ist. Schwarz muss ein Druckspiel gegen dieses Feld organisieren} O-O {Schwarz muss oder will einen Standard-Aufbau wählen} 6. Nge2 {Der Sinn dieses Zuges ist es, d4 zu überdecken und den Bauern f2-f3-f4 nicht zu verstellen. Außerdem wird die kurze Rochade ermöglicht} Nc6 {Dieser Zug ist sehr natürlich und direkt. Schwarz hat hier auch schon andere Ideen ausprobiert, aber dieser Zug passt besser in das eigene Repertoire. Schwarz attackiert das Zentrum mit seinen leichten Figuren und wird schnell mit e7-e5 zurückschlagen} 7. O-O {Das wird ausschließlich gespielt. Schwarz hat jetzt drei Möglichkeiten. Er kann sofort e7-e5 spielen, um den Springer nach auf d4 zu verankern oder moderater den anderen Springer nach d7 zurückziehen. Letztendlich ist der moderne Ansatz mit Springer nach h5 der ehrgeizigste, aber auch strategisch riskanteste} ({(a) Stattdessen erlaubt} 7. d5 Ne5 {die Eroberung des Läuferpaars durch Schwarz}) ({(b)} 7. f3 {ist in Ordnung, aber Weiß braucht sich nicht so früh festzulegen. Nach} e5 8. d5 Nd4 9. Be3 {spielt Schwarz} Nh5 {, wonach man in die Hauptvarianten gelangt}) 7... Nh5 {[%csl Rd4][%cal Gg7d4,Gc6d4] Das ist die modernste Fortsetzung, aber etwas ungeöhnlich. Schwarz attackiert den Bauern d4 sofort und verankert den Springer auf den Königsflügel. Schwarz wird wieder e7-e5 folgen lassen, aber hier wird der Damenspringer nach e7 zurückgezogen, um den schwarzen Angriff auf dem Königsflügel zu unterstützen . Mit} 8. Bc2 {schützt Weiß den d-Bauern ohne sich auf einen Läuferzug zu verpflichten. Dieser Zug ist beliebter als der andere Zug. Er ist auch gut, da er eine Figur von der dritten Reihe bewegt} ({(a)} 8. Be3 {ist der offensichtliche Weg, um d4 zu überdecken. Andererseits ist der Läufer auf e3 auch ein Ziel für den Bauernvormarsch f7-f5} e5 9. d5 Ne7 {[%csl Yf5][%cal Rf7f5] Dieser Zug ist konsistent zum Aufbau mit dem Springer auf h5. Schwarz wird f7-f5 spielen und danach mit dem Springer nehmen}) ({(b) Weiß hat auch schon} 8. d5 {gespielt, aber dies sieht nicht sehr gefährlich aus} Ne5 9. f4 Nxd3 10. Qxd3 c5 11. Bd2 f5 {Schwarz schlägt sehr effektiv auf den weißen Feldern zu} 12. Rae1 e6 13. Ng3 Nxg3 14. Qxg3 fxe4 15. Nxe4 exd5 16. cxd5 Bxb2 {Weiß hat wenig Kompensation für den Bauern}) 8... e5 9. d5 Ne7 10. a4 {Dieser Zug hat sich zur weißen Hauptvariante entwickelt} f5 11. exf5 gxf5 12. Ng3 Nf4 13. Nh5 Nxh5 14. Qxh5 Ng6 *
+

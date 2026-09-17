@@ -1,0 +1,115 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Barry-Angriff"]
+[Black "Moderne Variante"]
+[Result "*"]
+[ECO "D00"]
+[Annotator "Yelena Dembo"]
+[PlyCount "40"]
+[EventDate "2011.08.08"]
+[SourceDate "2011.08.08"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 {Der Barry-Angriff ähnelt dem
+Veresov-System, da er auch einen Springer auf c3 platziert. Allerdings gibt es
+auch Unterschiede, da Weiß hier nicht nach e3-e4 strebt. Der englische
+Großmeister Mark Hebden ist einer der Protagonisten dieses Angriffs und
+erzielte damit beeindruckende Resultate. Der Hauptplan von Weiß ist die
+langsame Entwicklung mit e2-e3 und Lf1-e2. Danach spielt er Sf3-e5, um mit
+seinem h-Bauern die Linie entlang zu rennen. Der hauptsächliche Nachteil ist,
+dass der Aufbau eher inflexibel ist. Daher sollte es Schwarz nicht zu schwer
+haben, um die weißen Absichten zu entgegnen} Bg7 {Hiernach kann Weiß zwei
+verschiedenen Optionen wählen. Wir betrachten jetzt nicht den 150-Angriff,
+sondern den langsamen Aufbau} 5. e3 {Das ist die Hauptfortsetzung. Weiß hat
+hier aber andere Fortsetzungen praktiziert} O-O 6. Be2 {Dies ist der
+konsistenteste Zug. Der Läufer unterstützt einen zukünftigen Vormarsch
+h4-h5. Er stört auch nicht den Einfluß der Dame auf der d-Linie. Weiß hat
+auch andere Züge versucht} c5 $1 {[%csl Rd4] Anscheinend ist dieser Zug das
+beste Zugang zu der Stellung. Durch den sofortigen Schlag im Zentrum erlaubt
+Schwarz Weiß nicht den Aufbau eines Königsangriffs. Dieser Zug ist die Wahl
+von starken Spielern. Die Grundidee ist es, den Druck gegen d4 zu erhöhen.
+Ein Flügelangriff von Weiß ist in der Eröffnung nur erfolgreich, wenn er
+die Kontrolle im Zentrum hat, was Schwarz aber nicht zuläßt. Der Hauptzug in
+dieser Stellung ist die Moderne Variante mit} 7. dxc5 {Die Idee dieser
+Fortsetzung ist es, Druck auf den Bauern d5 aufzubauen. Weiß versucht die
+Kontrolle über die Felder d4 und e5 zu übernehmen und dann auf dem
+Damenflügel angreifen. Aber es gibt in dieser Stellung auch einige andere
+Züge} Nbd7 {Dieser Zug ist die geeignetste Methode um den schwarzen Aufbau zu
+untermauern. Schwarz hat auch Dd8-a5 versucht. Aber der Textzug entwickelt
+eine Leichtfigur und bedroht den Bauern auf c5} 8. O-O {Das ist der
+natürlichste Zug, aber Weiß hat hier auch noch einige andere Züge, ohne
+dass diese überzeugten} ({(a) Der Zug} 8. Nxd5 {ist ein frecher Bauernraub,
+aber nach} Nxd5 9. Qxd5 Bxb2 10. Rb1 Qa5+ 11. Kf1 ({Auch nicht besser ist} 11.
+Nd2 Nf6 12. Qc4 Bc3 13. e4 Rd8 14. Bd3 Rd4 15. Qb5 Qxb5 16. Rxb5 Nxe4 {und
+nach diesen forcierten Zügen steht Schwarz sehr gut}) 11... Bg7 12. Bc4 ({
+Der Textzug ist viel besser als} 12. Bb5 Nf6 13. Qb3 Ne4 14. Qb4 Qxa2 15. Bd3
+a5 16. Qb6 Nxc5 17. Be5 Nxd3 18. cxd3 f6 {mit zerstörter weißer Stellung})
+12... Qc3 {steht Schwarz schon sehr gut weil er seine Entwicklung mit
+Zeitgewinn Sd7-f6 und Lc8-f5 beenden kann, wohingegen der Königsflügel von
+Weiß noch lahmt}) ({(b) Der Zug} 8. Nb5 {droht mit einer Invasion auf c7,
+aber nach} a6 9. Nc7 ({Eine Alternative ist} 9. Nbd4 Nxc5 10. O-O Nh5 11. Bg5 {
+, aber nach} h6 12. Bh4 g5 13. Bg3 Nxg3 14. hxg3 Ne4 {hat Schwarz die
+Initiative}) ({Auch nach} 9. Bc7 Qe8 10. Nbd4 Nxc5 11. O-O b5 12. Nb3 Qc6 13.
+Be5 Ncd7 14. Bc3 Qd6 {setzt Schwarz e7-e5 durch}) 9... Ra7 10. Nxd5 Nxd5 11.
+Qxd5 Bxb2 12. Rb1 (12. O-O Bxa1 13. Rxa1 Qa5 14. Bh6 {sieht wie ein
+interessantes Qualitätsopfer aus, aber Schwarz kann zurückschlagen mit} Qxc5
+15. Qxc5 Nxc5 16. Bxf8 Kxf8) 12... Qa5+ {erhält Schwarz wiederum eine starke
+Initiative und seine Züge erfolgen wiederum mit Tempo. Weiß hingegen hat
+eine schlechte Königsstellung}) ({(c) Mit} 8. Qd4 {hält Weiß an dem Bauern
+fest, allerdings auf Kosten des schwarzfeldrigen Läufers. Nach} Ne4 9. Be5
+Nxe5 10. Nxe5 Qc7 11. f4 Nxc3 12. Qxc3 Be6 13. O-O Rfc8 14. b4 {sollte Schwarz
+den weißen Damenflügel wie folgt aufbrechen} a5 15. a3 b6 {mit guter
+Kompensation für Schwarz}) ({(d)} 8. Be5 Nxe5 9. Nxe5 Qc7 10. Nd3 (10. f4 Qxc5
+{ist besser für Schwarz}) 10... e6 11. O-O Ne4 {mit schwarzer Initiative}) ({
+(e) Mit} 8. c6 {hofft Weiß auf Zeitgewinn, aber nun erstarkt das schwarze
+Zentrum} bxc6 9. Ne5 Ne4 $1 10. Nxe4 Nxe5 11. Nd2 Nd7 12. Rb1 e5 13. Bg3 {
+Die weiße Stellung wirkt langsam miserabel} f5 14. f3 Nc5 15. O-O Ne6 16. Re1
+f4 17. exf4 Nxf4 18. Bf1 h5) 8... Nxc5 {Schwarz hat den Bauern zurückgewonnen
+und ist im Zentrum präsent. Andererseits kontrolliert Weiß das Feld e5 und
+stoppt den schwarzen Vormarsch im Zentrum. Er hofft auf Spiel am Damenflügel.
+Die Aussichten sind gleich} 9. Be5 {Die weiße Strategie erinnert an die
+damenindische Verteidigung. Er blockiert den Vormarsch des schwarzen e-Bauern
+und stellt eine Bedrohung des Bauern d5 nach Abtausch auf f6 dar. Andere Züge
+sind völlig harmlos} ({(a)} 9. h3 b6 10. Nb5 Bb7 11. Be5 a6 12. Nbd4 Ncd7 13.
+Bh2 Rc8 14. c3 Ne4 {Das weiße Spiel ist planlos und zerfahren}) ({(b) Der Zug
+} 9. Nd2 Re8 10. Nb3 {bildet ein seltsames Manöver. Schwarz setzt wie folgt
+fort} Nce4 11. Be5 Nxc3 12. bxc3 {Das verdirbt zwar die weiße Bauernstruktur,
+aber wenn der Läufer nimmt, dann folgt e7-e5} Ne4 13. Bxg7 Kxg7 14. c4 dxc4
+15. Bxc4 e5 {Schwarz sollte etwas besser stehen, da der weiße Springer
+dominiert wird}) ({(c) Der Zug} 9. Nb5 {beeindruckt ebensowenig} Bg4 10. a4 a6
+11. Nbd4 Nfe4 12. c3 f6 13. Nb3 e5 14. Nxc5 Nxc5 15. Bg3 Be6 {Schwarz hat
+einfach die Zentrumskontrolle erlangt}) 9... Bg4 $1 {Diesen Zug muss man
+einfach mögen. Schwarz kämpft um das Feld e5, indem er den Springer f3
+abtauschen will. Außerdem kann der Damenturm nach c8 und der Damenbauer mit
+e7-e6 gestützt werden} 10. h3 {Dieser Zug forciert das Spiel, bevor Schwarz
+im Zentrum aktiv werden kann} ({(a) Die kritische Alternative lautet} 10. Bxf6
+Bxf6 11. Qxd5 Qb6 {Der Druck von Schwarz auf den schwarzen Feldern sollte
+genügend Kompensation für den Bauern geben} 12. Rab1 (12. Nd4 Bxe2 13. Ndxe2
+Rfd8 14. Qc4 Rac8 {mit starkem Druck für Schwarz}) (12. Qc4 Be6 13. Nd5 Bxd5
+14. Qxd5 Rfd8 15. Qc4 Rac8 {ist auch nicht besser, da der Mehrbauer fällt})
+12... Be6 13. Qd2 Rad8 {Die weißen Figuren werden auf passive Felder gedrückt
+} 14. Qc1 (14. Qe1 Bf5 15. Qc1 (15. Bd1 Rfe8) 15... Bxc3 16. bxc3 Qa5 {mit
+Kompensation}) (14. Bd3 Bc4 15. Ne1 Rd7 {mit Turmverdopplung}) (14. Nd4 {
+Ein natürlicher Versuch, die d-Linie zu blockieren, aber Schwarz hat die
+starke Antwort} Bc8 {mit der Drohung e5} 15. Qc1 (15. Bf3 {ist ziemlich
+schlecht wegen} e5 16. Nd5 Rxd5 17. Bxd5 exd4 18. exd4 Ne6 19. c3 Qa5 20. Bxe6
+(20. Be4 Bxd4 21. b4 Qe5 22. cxd4 Qxe4 {mit klarem Vorteil}) 20... Bxe6 21. a3
+Bf5 {mit dem Läuferpaar für Schwarz, das stärker als der Turm sein sollte})
+15... Ne6 16. Nxe6 Bxe6) 14... Bxc3 15. bxc3 Qa5 16. Nd4 Qxc3 17. Nxe6 fxe6 {
+mit starker Initiative für Schwarz}) ({(b) Sehr zahm ist} 10. Bd4 Rc8 11. Ne5
+Bxe2 12. Qxe2 Nfe4 13. Nxe4 Nxe4 14. f3 Nd6 {wonach Schwarz das Zentrum
+beherrscht}) 10... Bxf3 11. Bxf3 e6 {Das Spiel ähnelt nun der Katalanischen
+Eröffnung mit vertauschten Farben. Schwarz kann zufrieden sein. Weiß hat
+kaum Gegenspiel und Schwarz kann langsam die Stellung verbessern} 12. Qe2 {
+Weiß möchte einen Turm nach d1 stellen und mit e3-e4 im Zentrum vorgehen} ({
+(a) Nach} 12. Nb5 Qb6 13. Na3 Rfd8 14. c4 Nfe4 15. Bxg7 Kxg7 16. Qe2 Ng5 17.
+cxd5 Nxf3+ 18. Qxf3 Rxd5 {steht Schwarz etwas besser}) ({(b)} 12. Re1 Rc8 13.
+Qd4 {möchte wieder e4 durchsetzen, aber Schwarz hat die Kontrolle im Zentrum
+mit} Ncd7 14. Bxf6 Bxf6 15. Qxa7 Ra8 16. Qxb7 Rb8 17. Qa7 Rxb2 {Schwarz hat
+ausgezeichnetes Spiel}) 12... Nfd7 {Eine genaue Reaktion, die das Zentrum
+kontrolliert und die beste Leichtfigur von Weiß tauscht} 13. Bxg7 Kxg7 14. Qd2
+(14. Rad1 Ne5 {gibt Schwarz einen kleinen Vorteil}) 14... Qb6 15. Qd4+ f6 16.
+e4 dxe4 17. Nxe4 e5 18. Qe3 Nxe4 19. Qxb6 Nxb6 20. Bxe4 Rab8 {mit der Absicht
+f7-f5 um den Läufer zurückzudrängen} *
+

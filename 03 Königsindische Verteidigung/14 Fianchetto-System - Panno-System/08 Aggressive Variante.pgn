@@ -1,0 +1,65 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Aggressive Variante"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "46"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitestetn und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben. Der
+Zug} 8. e4 {scheint zunächst naiv zu sein, sollte aber nicht zu sehr auf die
+leichte Schulter genommen zu werden. Falls Weiß zu lässig spielt, kann
+Schwarz mit einfachen Mitteln eine gute Stellung erreichen. Aber falls Weiß
+mit den Einzelheiten der Stellung besser vertraut ist, dann Schwarz abdriften}
+Bg4 {Diese Fesselung übt starken Druck auf das Feld d4 aus. Das schwarze
+Spiel ist thematisch und gut.} 9. Be3 {Dieser Zug ist sehr beliebt. Schwarz
+wird oft dazu gezwungen, den Läufer auf f3 abzutauschen. Also spart Weiß
+auch ein Tempo, dass er sonst für h2-h3 aufbringen müsste.} Nd7 10. Qd2 Bxf3
+{Das ist der gebräuchlichste Zug in dieser Stellung, da er sofort den
+verletztlichen Bauern d4 in das Visier nimmt} 11. Bxf3 e5 12. d5 ({(a) Wie
+immer ist der Abtausch auf e5 harmlos für Schwarz} 12. dxe5 dxe5) ({(b)} 12.
+Ne2 {wird mit einem bekannten Trick begegnet} Nb6 13. Rac1 Qf6) 12... Nd4 13.
+Bg2 c5 14. dxc6 bxc6 {Die Stellung ist im dynamischen Gleichgewicht. Sie
+ähnelt einer aus der Naiven Variante. Zunächst scheint dies Weiß zu
+begünstigen, aber das ist nicht so einfach} 15. f4 {Das ist ein sehr direkter
+Vorstoß. Weiß will direkt auf dem Königsflügel die Initiative ergreifen.
+Weiß hat aber auch Alternativen} ({(a)} 15. Ne2 {verlockt Schwarz seine
+Bauernstruktur zu verändern, aber Weiß verschwendet Zeit} c5 16. Nc3 Rb8 17.
+b3 a5 18. Rab1 Nb6 {Schwarz beabsichtigt a5 mit Gegenspiel} 19. a4 Nc8 20. Nb5
+Ne7 21. f4 Bh6 22. Rf2 f6 23. h4 Nec6 {Die Stellung ist ungefähr ausgeglichen
+und daher remisträchtig}) ({(b)} 15. b4 {ist die Hauptalternative} Nb6 16. Qd3
+Qd7 17. Ne2 (17. c5 dxc5 18. bxc5 $4 Nf3+ {verliert die Dame}) 17... c5 18. a3
+Rab8 19. Rab1 Rfc8 20. Rfc1 Qe6 {mit gleichen Chancen nach Bologan}) 15... Rb8
+{Das ist ein logischer Zug} 16. Rf2 {Das ist ein typischer Zug. Weiß
+überbewacht den Bauern b2 und beretiet die Turmverdopplung auf der f-Linie
+vor. Einige andere Züge wurden auch schon ausprobiert} ({(a)} 16. Rac1 a5 17.
+f5 Qb6 18. Rf2 Qb4 19. b3 Rb7 {mit Übergang in die Variante (b).}) ({(b)} 16.
+f5 Qb6 17. Rf2 Qb4 18. b3 a5 19. Raf1 Rb7 20. Kh1 ({Nach} 20. f6 {folgt} Nxf6
+21. Rxf6 Bxf6 22. Rxf6 Qxc3 23. Qxc3 Ne2+ {und materiellen Vorteil für Schwarz
+})) 16... Nf6 {Schwarz hat den Vorteil ausgenutzt, dass Weiß nicht h2-h3
+gespielt hat} 17. Bh3 ({Stattdessen gibt} 17. h3 Nh5 {Schwarz gutes Gegenspiel
+nach} 18. fxe5 ({Oder} 18. Kh2 exf4 19. gxf4 c5) 18... dxe5) 17... h5 18. Re1
+Ng4 19. Bxg4 hxg4 20. Bxd4 exd4 21. Nd1 Qb6 22. b3 Rfe8 23. Qd3 a5 {würde
+Schwarz gutes Spiel geben} *
+

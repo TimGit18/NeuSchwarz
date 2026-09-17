@@ -1,0 +1,34 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blockadesystem"]
+[Black "Läufervariante"]
+[Result "*"]
+[ECO "B93"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "28"]
+[EventDate "2011.06.29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 {Dieser Zug ist
+nicht der prinzipiellste, aber er verhindert b7-b5 und droht mit der
+Einschnürung des Damenflügels} e5 {Schwarz reagiert im Najdorf-Stil} 7. Nf3 {
+Das ist die Hauptvariante. Immer dann, wenn Weiß noch nicht Lf1-e2 gezogen hat,
+will er über Sf3-g5 den Punkt f7 bedrohen. Hier ist aber dieser Angriff nicht
+so gefährlich wie in dem Nunn-System, weil Weiß die f-Linie nicht öffnen kann}
+Be7 {Das ist der konsistente Folgezug. Schwarz entwickelt sich und bereitet
+die kurze Rochade vor} 8. Bc4 Be6 {Hier hat Weiß zwei Hauptfortsetzungen} 9.
+Qe2 {Das ist die Hauptfortsetzung an dieser Stelle} ({(a) Nach} 9. Bxe6 fxe6
+10. O-O O-O 11. Qe2 Nc6 12. Be3 Rc8 {steht Schwarz etwas besser. Es macht
+keinen Sinn auf e6 zu nehmen, denn Schwarz hat die offene f-Linie und
+überdeckt die Schwäche auf d5}) ({(b) Da das Nehmen auf e6 keinen Sinn macht,
+kann Weiß den Läufer zurückziehen} 9. Bb3 Nc6 10. O-O Na5 11. Ba2 (11. Bxe6
+fxe6 12. Qd3 Qc8 13. Ng5 Nc6 14. Qh3 Nd4 15. Be3 h6 16. Nf3 Nxf3+ 17. Qxf3 O-O)
+11... Rc8 12. Qe2 O-O 13. Rd1 Qc7 14. Bg5 Nc4 15. Bxf6 Bxf6 16. Bxc4 Bxc4 17.
+Qd2 Rfd8 18. Ne1 Qb6) 9... Qc7 {Der Damenzug ist an dieser Stelle das stärkste,
+denn er zwingt Weiß dazu das Problem mit dem weißen Läufer zu lösen. Das
+Schlagen auf e6 macht eigentlich keinen Sinn, so dass der Läufer nach b3
+zurückgeht. Aber in dieser Variante steht Schwarz hervorragend, wie man später
+sehen wird} 10. Bb3 Nc6 11. O-O Rc8 12. Bg5 Na5 13. Bxf6 Nxb3 14. cxb3 Bxf6 {
+Schwarz steht an dieser Stelle sehr gut} *
+

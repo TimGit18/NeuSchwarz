@@ -1,0 +1,56 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Geschlossenes Sizilianisch"]
+[Black "Klassische Entwicklung"]
+[Result "*"]
+[ECO "B25"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "26"]
+[EventDate "2011.10.16"]
+[SourceDate "2011.10.16"]
+
+1. e4 c5 2. Nc3 d6 3. g3 {Weiß vermeidet mit der Wahl des Geschlossenen
+Sizilianers, der durch die Züge Sb1-c3 und g2-g3 gekennzeichnet ist, eine
+frühe Öffnung des Zentrums in dieser Stellung oder sogar direkten Kontakt
+der Figuren. Er will die Energie seiner Figuren speichern und erst später in
+der Partie entfesseln lassen. Sein Traum besteht in einem vernichtetenden
+Königsangriff, während sein Gegner damit beschäftigt ist, einen oder zwei
+uninteressante Bauern auf dem Damenflügel zu gewinnen. Daher muss Schwarz
+sehr schnell spielen und ohne jede Verzögerung ein Gegenspiel organisieren.
+Dabei muss er immer die Konsequenzen einer möglichen Öffnung im Zentrum im
+Auge behalten} Nc6 4. Bg2 g6 {Das Königsfianchetto ist das beachtenswerteste
+System für Schwarz.} 5. d3 Bg7 {An dieser Stelle kann Weiß zwischen drei
+Plänen wählen: 1) Er spielt einen Klassischen Anti-Englischen Aufbau mit
+Sg1-f3 2) Er spielt einen Bauernsturm auf dem Königsflügel mit f2-f4 3) Er
+spielt einen Jugoslawischen Angriff mit Lc1-e3} 6. f4 {Das ist ein
+Lieblingssystem von Spassky. Am besten dagegen ist ein System mit dem Springer
+auf e7. Dann nämlich kann Schwarz gegen das weiße Zentrum mit f7-f5 und
+gegen den weißen Königsflügel vorgehen.} e6 7. Nf3 Nge7 8. O-O O-O {Das ist
+die Anfangsstellung für die Klassischen Varianten in der Geschlossenen
+Sizilianischen Verteidigung. Allgemein gesagt, kann man feststellen, dass
+Schwarz gut vorbereitet ist, falls er seine Kräfte mobilisieren kann. Weiß
+muss sich jetzt entscheiden, wohin er seinen Damenläufer entwickeln will} 9.
+Bd2 ({Für einen direkten Bauernsturm ist es wohl zu früh} 9. g4 f5 {Das ist
+eine Daumenregel. Wenn Weiß f4-f5 droht, dann sollte Schwarz selber f5 spielen
+} 10. gxf5 exf5 11. Be3 Nd4 12. Qd2 {Die folgende Abwicklung sieht ganz gut
+aus für Schwarz} Qb6 13. Rab1 Bd7 14. Rfe1 Rac8 {Schwarz hat seine Figuren
+mobilisiert und erfreuliche Resultate erzielt.}) 9... b6 $5 ({Der Standardzug
+lautet} 9... Rb8 {, der folgenden Zug beabsichtigt} 10. -- b5 {Aber der
+bescheidene Textzug ist bestimmt genauso attraktiv}) 10. Rb1 {Das ist die
+typische Idee in der Variante mit Lc1-d2. Die ursprüngliche Absicht ist es,
+die Züge a3 und b4 vorzubereiten. Eine weitere Absicht ist es, den b-Bauern
+zu verteidigen, um den Springer c3 auf den Königsflügel zu bringen.} Bb7 11.
+a3 ({Eine andere beliebte Fortsetzung ist gewesen} 11. Ne2 Qd7 12. g4 f5 13.
+gxf5 exf5 14. c4 {Schwarz hat hier die Qual der Wahl} Nd8 15. Nc3 Ne6 16. Ng5
+Nxg5 17. fxg5 fxe4 18. Nxe4 Bd4+ 19. Kh1 Rxf1+ 20. Qxf1 Rf8 21. Qe2 Nf5 {
+Schwarz hat eine traumhafte Stellung, in der alle seine Figuren aktiv stehen
+und perfekt miteinander harmonieren}) 11... Qd7 12. b4 {Das ist der
+konsistente Zug. In einigen Partien hat Weiß den Springerrückzug vorgezogen}
+(12. Ne2 {Aber Schwarz kann immer noch wie folgt spielen} Nd4 13. Nexd4 cxd4
+14. Qe2 Rac8 {mit besseren Aussichten für Schwarz. Denn in der entstehenden
+Struktur sind die Züge a2-a3 und Ta1-b1 völlig überflüssig.}) 12... Nd4 13.
+Ne2 (13. bxc5 bxc5 {ändert nichts an der Bewertung der Stellung}) 13... Rac8 {
+Schwarz hat ein bequemes Spiel} *
+

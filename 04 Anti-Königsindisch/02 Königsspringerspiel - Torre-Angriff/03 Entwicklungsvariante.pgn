@@ -1,0 +1,65 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torre-Angriff"]
+[Black "Entwicklungsvariante"]
+[Result "*"]
+[ECO "A48"]
+[Annotator "Yelena Dembo"]
+[PlyCount "38"]
+[EventDate "2011.08.09"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 {[%csl Yd2,Ye4][%cal Gb1d2,Ge2e4] Der
+Torre-Angriff ist ein seriöser Versuch um den Eröffnungsvorteil zu kämpfen.
+Im Gegensatz zum London-System entwickelt Weiß seine Figuren aktiver und baut
+an starkes Zentrum mit e2-e4 und Sb1-d2. Der Damenläufer übt Druck auf
+Schwarz aus, wohingegen der Königsläufer nach c4 entwickelt werden soll.
+Alles in allem ist dies kein harmloses System und muss daher aktiv bekämpft
+werden. Schwarz operiert wieder mit der Bauernkette d6 und c5 und baut Druck
+gegen den Bauern d4 auf, den Weiß meistens abtauscht.} 4. Nbd2 {Weiß
+bereitet e2-e4 vor.} O-O {Weiß muss nun eine Wahl treffen zwischen zwei
+verschiedenen Strategien.} 5. c3 d6 6. e4 {Das ist der konsistenteste und
+vermutlich beste Ansatz.} c5 {Weiß muss nun entscheiden, was er mit der
+Spannung zwischen d4 und c5 machen muss.} {Die Entwicklungsvariante} 7. Bd3 {
+ist relativ verbreitet, aber nicht besonders gut für Weiß. Schwarz muss
+trotzdem dynamisch und konkret antworten, denn jede Verzögerung würde es
+Weiß erlauben, sein zentrales Übergewicht zu stabilisieren und ein Vorteil
+zu sichern.} cxd4 8. cxd4 ({Nach} 8. Nxd4 Nc6 {entsteht eine Art
+Sizilianischer Drachen, wobei die weißen Figuren seltsam und schlecht
+platziert sind, wohingegen Schwarz bereits d6-d5 droht.} 9. Nxc6 {Andere Züge
+sind auch nicht besser.} ({(a)} 9. O-O d5 {ist bereits gut für Schwarz.}) ({
+(b)} 9. N2f3 h6 10. Bh4 (10. Be3 d5 {mit Vorteil für Schwarz}) 10... Ne5 11.
+Nxe5 dxe5 12. Nf3 Nh5 {und Schwarz behält die Oberhand.}) ({(c)} 9. N2b3 d5
+10. Nxc6 bxc6 {ist wieder gut für Schwarz.}) 9... bxc6 10. O-O h6 {beläßt
+Weiß in Nachteil.} {Alle Züge sind gut für Schwarz.} 11. Bh4 (11. Bf4 e5) (
+11. Be3 Ng4 12. Bf4 Rb8) 11... Rb8) 8... h6 $1 {Wie immer gegen das
+Doppelzentrum ist diese Befragung ein guter Zug, der den Läufer auf ein
+schlechteres Feld zwingt.} 9. Bh4 ({(a) Stattdessen ist} 9. Bxf6 Bxf6 10. O-O
+Nc6 11. d5 {eine Konzession von Weiß, wonach} Nd4 12. Nxd4 Bxd4 13. Nc4 b5 {
+Schwarz in Vorteil bringt.}) ({(b) Ähnlich ist} 9. Be3 Ng4 10. Bf4 e5 {
+auch gut für Schwarz.}) 9... Nh5 $1 {Die Ankunft des Springers auf f4
+verursacht Schwierigkeiten für Weiß.} 10. O-O ({(a) Weiß kann das Feld f4
+nicht schützen mit} 10. Bg3 $2 {wegen} Nc6 11. Nb3 Bg4 12. Be2 Qb6 {und
+verliert einen Bauern nach} 13. O-O Nxg3 14. hxg3 Bxf3 15. Bxf3 Bxd4) ({
+(b) Relativ besser ist} 10. Nb3 Nc6 {mit Druck auf d4 und der Idee} 11. Z0 a5)
+10... g5 11. Bg3 (11. Nxg5 {scheitert an} Nf4 12. Bc4 hxg5 13. Bxg5 Ne6 {
+, wonach die weiße Kompensation nicht ausreicht.}) 11... g4 12. Nh4 Nxg3 13.
+hxg3 Bxd4 {Das energische schwarze Spiel führt zu Bauerngewinn. Weiß hat
+etwas Kompensation dank des geschwächten schwarzen Königsflügels, aber mehr
+auch nicht.} 14. Nf5 (14. Nc4 Nc6 {ist ok für Schwarz.}) 14... Bxf5 15. exf5
+h5 {Weiß hat den schwarzen Königsflügel geschwächt. Aber der Läufer auf
+d4 bleibt ärgerlich für ihn, denn er kann nicht f2-f3 spielen und er hat
+keinen Opponenten. Weiß würde gerne die Diagonale öffnen.} 16. f6 $5 {
+Das ist am interessantesten.} ({(a)} 16. Ne4 $2 d5 17. Nc3 Bxc3 18. bxc3 Nd7
+$17) ({(b)} 16. Qe2 Nc6 17. f6 d5 $1 {verhindert die Batterie.} 18. Bc2 Bxf6
+19. Qd3 Re8 20. Qh7+ Kf8 21. Qxh5 e6 22. Qxg4 Ke7 {Weiß hat seine Bauern
+wieder, aber der schwarze König steht im Zentrum sicherer.}) ({(c)} 16. Nb3 $2
+Bf6 17. f3 Qb6+ 18. Kh1 (18. Rf2 Nd7 19. Kf1 Ne5 {ist gut für Schwarz.}) 18...
+Qe3 {Schwarz hat alles unter Kontrolle.}) ({(d)} 16. Kh2 Nd7 17. Nc4 Bf6 {
+Der weiße Angriff führt in das Nirgendwo.}) 16... Bxf6 {Am besten einfach
+zurücknehmen.} 17. Qa4 {[%csl Ya4,Yd3,Ye4][%cal Ga4e4,Re4h7] Weiß
+beabsichtigt die Batterie auf e4 aufzubauen.} (17. Ne4 Bg7 {überzeugt nicht.})
+17... d5 18. Qf4 {[%csl Yf5] Die Dame soll nach f5. Es kann folgen} Kg7 19. Qf5
+Rh8 {Schwarz hat zwei Bauern mehr.} *
+

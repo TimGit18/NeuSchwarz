@@ -1,0 +1,68 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Makogonov-System"]
+[Black "Flexible Variante"]
+[Result "*"]
+[ECO "E71"]
+[Annotator "David Vigorito"]
+[PlyCount "48"]
+[EventDate "2011.06.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 {[%csl Ye3,Yg4,Yg5][%cal Rg2g4,
+Rc1e3,Re3g5] Das Makogonov-System mit dem Zug h2-h3 hat zwei Hauptideen. Die
+erste Idee ist die Unterstützung des Vorstoßes g2-g4. Zum einen gewinnt
+dieser Vorstoß etwas Raum auf dem Königsflügel, zum anderen soll Schwarz
+von dem traditionellen Gegenstoß f7-f5 abgehalten werden. Die zweite Idee
+liegt darin, dass nun der Entwicklungszug des Damenläufers Lc1-e3 gespielt
+werden kann, ohne auf das störende Sf6-g4 Rücksicht zu nehmen. Oft geht der
+Damenäufer allerdings auch auf das Feld g5 (um den Vorstoße e7-e5 zu
+verhindern) und zieht sich nach der Befragung h7-h6 auf das Feld e3 zurück.
+Die weißen Ideen hinter dem Makogonov-Zug h2-h3 sind also ähnlich wie im
+Sämisch-System oder im Petrosian-System und transponieren oft ineinander.} O-O
+{Schwarz sollte mit dem traditionellen Gegenstoß e7-e5 antworten. In der
+Regel versucht hier Weiß zunächst einen traditionellen Entwicklungszug,
+bevor er seine Läuferentwicklung vorantreibt.} {Die Flexible Variante beginnt
+mit} 6. Be3 {, aber es ist nicht so harmlos und wurde von starken Spielern
+gespielt} e5 {Schwarz kann auch direkt Sb8-a6 spielen, aber das gibt Weiß
+mehr Möglichkeiten} ({Zum Beispiel} 6... Na6 7. Nf3 e5 8. dxe5 dxe5 9. c5 {
+mit Angriff auf den Springer a6. Es gibt keinen Grund dies Weiß zu erlauben})
+7. d5 Na6 8. Bd3 ({(a)} 8. Nf3 {transponiert wieder in die Hauptvariante}) ({
+(b)} 8. g4 Nc5 {[%csl Ye4][%cal Gf6e4,Gc5e4] läßt den Angriff auf den
+e-Bauern zu bevor der weiße Springer nach g3 kommt. Also muss Weiß einen Zug
+machen, den er eigentlichen nicht machen will} 9. Bg2 {Schwarz spielt
+normalerweise so weiter} a5 10. Nge2 c6 {Es sollen folgende Ideen ausprobiert
+werden: cxd5, Ld7 und dann a4 nebst Da5 oder Db6}) 8... Nc5 {Das sofortige
+Spiel nach c5 soll sicherstellen, dass der Springer nicht von a3 und b4
+belästigt wird} 9. Bc2 a5 10. Nge2 {Dies ist die gebräuchlichste Fortsetzung,
+aber es gibt ein paar Alternativen} ({(a)} 10. g4 c6 11. Nge2 cxd5 12. cxd5 Bd7
+13. a3 (13. Ng3 b5 {mit gutem Gegenspiel auf dem Damenflügel}) 13... b5 14. b4
+Na6 15. Rb1 axb4 16. axb4 {Weiß hat zwar den schwarzen Springer
+zurückgeworfen, aber seine Stellung etwas überdehnt} h5 $1 {Schwarz beginnt
+das typische königsindische Gegenspiel} 17. f3 ({Auf} 17. g5 {folgt} Nh7 {
+mit der Idee f6}) 17... Nh7 18. Kd2 (18. gxh5 Qh4+) 18... h4 19. Qg1 Bf6 {
+mit einem ausgezeichneten Spiel für Schwarz}) ({(b) Bologan warnt vor} 10. Qd2
+{Weiß verhindert c6 und Schwarz muss etwas aufpassen} Bd7 {Das ist am
+sichersten}) ({(c)} 10. a3 c6 11. Nf3 {ist eine seltsame Form des
+Makogonov-Systems} cxd5 12. cxd5 Bd7 13. O-O Qc7 14. Rc1 Rfc8 15. b4 axb4 16.
+axb4 Na6 17. Bb1 Qd8 18. Qb3 Nh5 {mit schwarzen Gegenspiel auf beiden Flügeln}
+) 10... c6 11. a3 cxd5 12. cxd5 Bd7 13. b4 {Das Zurückdrängen des Springers
+bildet die kritische Fortsetzung} ({Nach} 13. O-O a4 {ist b4 ersteinmal
+verhindert und Schwarz hat erst einmal keine Probleme}) 13... axb4 14. axb4 Na6
+15. Rb1 {Weiß hat Schwarz zuirückgedrängt, aber nun seinen Turm an den
+Bauern b4 gebunden. Schwarz führt auch in der Entwicklung, obwohl er Zeit mit
+den Springerzügen verbraucht hat} Nh5 16. Na4 ({Oder} 16. Qd2 Rc8 {und nun}
+17. g3 {Weiß verhindert das Eindringen des Springers auf f4, aber er kann
+nicht mehr rochieren} ({Pia Cramling verlor nach} 17. O-O Nf4 18. Rfc1 Qh4 19.
+Bd1 Nxg2 20. Kxg2 Qxh3+ 21. Kg1 f5 {Schwarz hat zwei Bauern und eine starke
+Initiative für die Figur} 22. f4 $2 g5 23. fxg5 f4) 17... Rc4 18. Nd1 Qf6 {
+[%csl Yf3][%cal Gf6f3] Die schwarze Dame will nach f3} 19. Bd3 Qf3 20. Rh2 Rxe4
+$1 21. Bxe4 Qxe4 {mit ausgezeichneter Kompensation für die Qualität}) 16...
+Nf4 17. O-O (17. Nxf4 {ist zu gierig. Nach} exf4 18. Bxf4 {spielt Schwarz} b5
+$1 {und hat gute Kompensation für den Bauern} 19. Nb2 Nxb4 20. Bxd6 Nxc2+ 21.
+Qxc2 Rc8 {Es droht Te8 oder Da5+, wonach Schwarz eine gewaltige Initiative
+besitzt}) 17... Qg5 {Das ist die kritische Fortsetzung} 18. g3 Nxh3+ 19. Kg2
+Qh5 20. Nec3 Nf4+ 21. gxf4 Qh3+ 22. Kg1 Bg4 23. f3 Qg3+ 24. Kh1 Qh3+ {mit
+Remis durch Dauerschach} *
+

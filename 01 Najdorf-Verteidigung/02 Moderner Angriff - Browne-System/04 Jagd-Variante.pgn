@@ -1,0 +1,62 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Jagd-Variante"]
+[Result "*"]
+[ECO "B95"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "56"]
+[EventDate "2012.04.21"]
+[SourceDate "2012.04.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Der Versuch der
+direkten Widerlegung von Najdorf: Weiß möchte lang rochieren, im Zentrum oder
+auf dem Königsflügel durchbrechen - je nachdem, ob Schwarz kurz rochiert oder
+in der Mitte bleibt} e6 {Das ist die übliche Antwort von Schwarz. Er
+kontrolliert das Schlüsselfeld d5. Das Bauernpaar e6 und d6 soll Weiß auf
+Abstand halten, den Entwicklungsrückstand aufholen und Gegenspiel am
+Damenflügel beginnen} 7. f4 {Dieser aggressive Bauernvorstoß ist die weiße
+Standardmethode. Er möchte Schwarz mit einem schnellen Vorstoß e4-e5 vom Brett
+fegen.} h6 {Dieser Zug ist vielleicht unterbewertet. Er passt gut in das
+Konzept mit g7-g5 und einem späteren Sd7-e5} 8. Bh4 {Weiß erreicht nichts mit
+dem Schlagen des Springers} Be7 {Schwarz verhindert mechanisch den Vorstoß
+e4-e5} 9. Qf3 {Weiß überdeckt e4, bringt die Dame auf den Königsflügel und
+bereitet die lange Rochade vor} Qc7 {Ein wichtiger Zug, der e5 überdeckt und
+den Königsläufer von Weiß nicht nach c4 läßt} 10. O-O-O {Weiß hat seine
+Figuren sehr aggressiv aufgestellt, wohingegen Schwarz mehr auf die
+Koordination seiner Figuren geachtet hat} Nbd7 {In dieser Stellung hat Weiß
+mehrere Optionen} 11. Qg3 {Diese Variante ist nicht so beliebt wie die anderen
+Züge, aber nicht weniger gefährlich} g5 {Dies ist die thematische und
+prinzipielle Reaktion} 12. fxg5 Nh5 13. Qe3 (13. Qg4 hxg5 14. Bxg5 Ne5 15. Qh4
+Ng6) 13... Qc5 {Diese wichtige Ressource befähigt Schwarz, den Bauern
+zurückzugewinnen. Die richtige Schlacht hat noch nicht begonnen. Wenn Schwarz
+den Bauern g5 gewonnen hat, dann wird er gute Aussichten besitzen, da er die
+bessere Bauernstruktur und die Kontrolle über das Feld e5 hat. Andererseits
+ist sein König etwas gefährdet und die halboffene f-Linie wird eine wichtige
+Angriffsressource für Weiß} 14. Kb1 {Damit vermeidet Weiß den Damentausch} ({
+Wie oben beschrieben könnte eine Stellung ohne Damen für Schwarz vorteilhaft
+sein} 14. Qd2 Bxg5 15. Bxg5 Qxg5 16. Be2 Nhf6 17. Nf3 Qxd2+ 18. Rxd2 Ke7 {
+Wäre da nicht die Verwundbarkeit des schwarzen Bauern auf d6, so könnte
+Schwarz schon besser stehen} 19. Rhd1 Ne8 20. a4 b6 21. b3 Ra7 22. Kb2 Rc7 23.
+Rd4 Bb7) 14... hxg5 15. Bf2 Ne5 16. Qd2 Qc7 17. Nf3 Nxf3 18. gxf3 Bd7 {Obwohl
+in dieser Stellung Weiß häufig punktet, hat Schwarz gute praktische Aussichten}
+19. h4 {Das ist der logischste Zug, der die h-Linie öffnet und eine
+langfristige Schwäche beseitigt} ({Nach} 19. Rg1 O-O-O 20. Be3 f6 21. Qf2 Nf4
+22. Bxf4 gxf4 23. Rg4 Qc5 {steht Schwarz besser}) 19... gxh4 20. Bxh4 {Ein
+starker Zug für Weiß} ({Nach} 20. Be2 O-O-O 21. Bxh4 Bc6 {hat Schwarz auch
+keine Probleme}) 20... Ng3 $1 {Dieser Zug führt zu wilden Komplikationen, die
+beide Seiten sehr genau behandeln müssen} 21. Bxe7 ({Weniger kritisch ist} 21.
+Qd4 f6 22. Rg1 Rxh4 23. Rxg3 O-O-O 24. Rg7 Re8) 21... Rxh1 22. Bf6 {Dieser
+ruhige Zug ist der stärkste Zug von Weiß} ({(a) Mit} 22. Qg5 Qc5 {erreicht er
+nichts}) ({(b) Etwas anspruchsvoller, aber ebenso ungenügend ist} 22. Bxd6 Nxf1
+23. Qg2 Nd2+ 24. Qxd2 Rxd1+ 25. Nxd1 Qb6) 22... Qc5 {Die schwarze Dame geht
+wieder nach c5, wo die schwarzen Felder, vor allem g5, kontrolliert} 23. Be2 {
+Das ist vielleicht der anspruchvollste Zug von Weiß in dieser Stellung} ({
+Möglich ist auch} 23. Qg2 Qg1 24. Qd2 Qc5 {mit Zugwiederholung}) 23... Rh3 24.
+Bd3 Nh5 25. Qh6 Nxf6 26. Qxh3 Ke7 {Schwarz hat sein Mehrmaterial zurückgegeben,
+um die Initiative seines Gegners zu neutralisieren. Der schwarze König steht
+sicher im Zentrum bei soviel reduziertem Material} 27. Qh2 Qh5 28. Qf4 Rc8 {
+Der weiße Vorteil ist minimal, falls überhaupt} *
+

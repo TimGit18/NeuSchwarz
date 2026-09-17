@@ -1,0 +1,63 @@
+﻿[Event "The King"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsindische Verteidigung"]
+[Black "Anti-Averbakh-System"]
+[Result "*"]
+[ECO "E90"]
+[Annotator "David Vigorito"]
+[PlyCount "16"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 ({Vorsichtige Spieler vermeiden den
+Doppelschritt des e-Bauern und versuchen ein London-System zu spielen} 4. Nf3
+O-O 5. Bf4 {Weiß spielt ein London-System mit einem Bauern auf c4} d6 6. e3
+Nbd7 {Das ist ein normaler flexibler Zug. Den weißen Läufer zu jagen mit dem
+Springer auf h5 ist keine gute Idee} 7. h3 b6 $1 {Das ist ein schöner Zug.
+Schwarz benutzt seine Figuren, um das Zentrum zu bekämpfen.} 8. Be2 Bb7) 4...
+d6 {In dieser Stellung kann Weiß einige Varianten versuchen, die von dem
+Klassischen System oder dem Averbakh-System abweichen. In den meisten dieser
+Varianten wird der Damenläufer aktiviert, entweder wie in der
+Averbakh-Variante nach g5, wie im London-System nach f4 oder in einer soliden
+Variante nach e3.} 5. Nf3 ({(a) Die Beschleunigte Averbakh- und die
+Nikolaidis-Variante beginnt mit} 5. Bg5 {Mit dieser Variante wird ein weiteres
+System mit dem Läuferzug nach g5 eingeleitet. Obwohl die Abspiele alle
+ähnlich aussehen, sind sie es nicht. In dieser Stellung sollte Schwarz sofort
+den weißen Läufer befragen.} h6 {Der Textzug ist insofern logisch, da er es
+Weiß nich erlaubt, eine günstige Transposition in das Averbakh-System zu
+erreichen.} 6. Be3 {Der Textzug ist vielleicht nicht oft in Gebrauch, aber er
+ist wahrscheinlich der beste Zug für Weiß. Die Variante stammt von dem
+griechischen Großmeister Nikolaidis und wurde auch von Ivan Sokolov
+gelegentlich gespielt.} (6. Bh4 {Dies kann man als Hauptvariante betrachten,
+aber Weiß hat die schwarze Antwort nicht auf der Rechnung gehabt.} c5 7. d5
+Qa5 8. Bd3 g5 9. Bg3 {Das ist ein Trick, der in diesen Stellungen oft vorkommt.
+Hier funktioniert er sogar noch besser, denn Weiß kann gar nicht rochieren.}
+Nxe4 $1 10. Bxe4 Bxc3+ 11. bxc3 Qxc3+ 12. Kf1 f5 {Schwarz wird die Figur
+zurückgewinnen. Er hat den sichereren König und wird einen Bauern mehr haben.
+}) 6... Ng4 {Schwarz muss das Rennen forcieren}) ({(b) Eine solidere Option
+bleibt die Variante} 5. Be2 O-O {Normalerweise spielt Weiß an dieser Stelle
+Lc1-g5, um in das Averbakh-System überzuleiten oder er spielt Sg1-f3, um in
+die Klassischen Systeme überzuleiten.} 6. Be3 {Das ist eine sehr solide
+Variante für Weiß, aber sie übt weniger Druck auf die schwarze Stellung aus
+als das Averbakh-System. Daneben gibt es auch noch einige seltsame
+Alternativen, mit denen Weiß einen ungerechtfertigten Königsflügelangriff
+startet.} e5 7. d5 a5 {Schwarz spielt im Sinne des Petrosian-Systems weiter.}
+8. g4 Na6 9. h4) 5... O-O 6. Bg5 {Das ist ein Averbakh-System mit dem
+Königsspringer statt des Königsläufers} ({Die Larsen-Variante beginnt mit} 
+6. Be3 {Dieser Zug wurde von Larsen in den 1970er Jahren häufig gestelt.
+Schwarz sollte aufpassen, dass er nicht in eine Variante gerät, in der er
+sich nicht auskennt.} e5 {Dieser prinzipielle Zug ist wie so oft der beste in
+der Königsindischen Verteidigung} 7. dxe5 {Diese Abtauschvariante schenkt der
+ganzen Eröffnung ein eigenes Aroma} dxe5 8. Qxd8 Rxd8 {Die weißen Hoffnungen
+beruhen auf diesem Endspiel, aber Schwarz hat sicher mehr als eine gute
+Antwort. Wahrscheinlich sind seine Aussichten sogar besser als in der
+Klassischen Abtauschvariante.} 9. Nd5 Na6 {Dieser Zug punktet gut für Schwarz}
+) 6... c5 {Das ist der genaueste Zug} 7. d5 h6 8. Bh4 ({(a) Nach} 8. Be3 {folgt
+} e6) ({(b)} 8. Bf4 {transponiert nach} e6 9. dxe6 Bxe6 10. Bxd6 Re8 {in das
+Averbakh-System}) 8... Qa5 $5 {[%csl Ye4][%cal Rf6e4] Dieser Zug ist
+normalerweise richtig, denn Weiß kann ja seinen Damenläufer nicht mehr
+zurück auf den Damenflügel bringen. Schwarz droht bereits mit dem Schlagen
+auf e4.} *
+

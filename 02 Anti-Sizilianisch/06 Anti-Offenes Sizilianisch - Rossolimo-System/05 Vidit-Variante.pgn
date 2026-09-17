@@ -1,0 +1,47 @@
+[Event "CBM 185"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rossolimo-System"]
+[Black "Vidit-Variante"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Evgeny Postny"]
+[PlyCount "44"]
+[SourceVersionDate "2018.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ {Dieser Zug vermeidet die scharfen Komplikationen
+des Najdorf- oder Drachen-Systems. Er kann sehr gut in einen positionellen
+Vorteil für Weiß münden, wenn Schwarz passiv und ängstlich spielt.
+Andererseits sind die Ausgelichsmöglichkeiten für Schwarz hier auch sehr
+viel besser.} Nd7 $1 {Das ist die schärfste Erwiderung auf das
+Rossolimo-System. Schwarz vermeidet die remisliche Variante Lc8-d7, die im
+weißen Sinne ist, da beide weißfeldrigen Läufer verschwinden.} {Der Zug} 4.
+O-O {führt oft zu Zugumstellung, kann aber auch zu eigenständigen Strukturen
+führen, wenn Weiß den Läufer nicht tauscht. In einer Partie von Vidit kam}
+a6 5. Bd3 Ngf6 6. Re1 e6 7. c3 b5 8. Bc2 c4 {Das ist hier am prinzipiellsten}
+9. a4 {[%csl Yb5,Yb7][%cal Ga4b5,Gc8b7,Gb7a8] Weiß nimmt den Bauern b5 auf
+das Korn.} ({(a) Der Zug} 9. d4 {öffnet das Zentrum.} cxd3 10. Qxd3 Bb7 11. a4
+Nc5 12. Qe2 bxa4 13. e5 ({Nach} 13. Nbd2 Be7 14. e5 dxe5 15. Nxe5 O-O {hat
+Schwarz keine besonderen Probleme und beendet seine Entwicklung normal.}) 13...
+dxe5 14. Nxe5 Be7 15. Rd1 Qb6) ({(b) Nach} 9. b3 Bb7 10. bxc4 bxc4 11. Na3 Rc8
+{steht Schwarz gut.}) 9... Bb7 10. axb5 {Dies führt zu einem forcierten
+Abtausch von Figuren.} ({Statt dessen öffnet} 10. d4 {wieder das Zentrum,
+wonach folgen kann} cxd3 11. Bxd3 bxa4 12. Qxa4 Be7 13. h3 O-O 14. Be3 Qc7 15.
+Nbd2 Rfb8) 10... axb5 11. Rxa8 Qxa8 12. Na3 {[%csl Rb5] Weiß opfert den
+Bauern auf e4.} ({Die Verteidigung des Bauern e4 ergibt nur gleiches Spiel.} 
+12. d3 Be7 13. Qe2 Nc5 14. dxc4 bxc4 15. Qxc4 Ncxe4 $11) 12... Bxe4 {Schwarz
+muss hier etwas aufpassen, wie er den Bauern schlägt.} (12... Nxe4 $2 {
+ist schlecht wegen} 13. Nxb5 Qa5 14. Na3 d5 15. Nxc4 $16 {und Weiß hat einen
+gesunden Mehrbauern.}) 13. Bxe4 Nxe4 14. d3 (14. Nxb5 Qb7 15. d3 (15. Qa4 $6 d5
+$15) 15... Nxf2 (15... cxd3 16. Qxd3 d5 {transponiert in die Hauptvariante.})
+16. Nxd6+ Bxd6 17. Kxf2 cxd3 18. Qxd3 Be7 {Weiß hat hier zwar zwei verbundene
+Freibauern, aber sein König steht noch im Zentrum und ist unsicher.}) 14...
+cxd3 15. Qxd3 (15. Nxb5 {droht mit der Gabel auf c7 und daher antwortet Schwarz
+} Qb7 16. c4 d5 17. cxd5 exd5 18. Qb3 Ndc5 19. Qxd5 Qxd5 20. Nc7+ Kd7 21. Nxd5
+Bd6 $11 {mit baldigem Remis in einer Partie von Karjakin}) 15... d5 16. Nxb5
+Qb7 17. b4 (17. c4 Bc5 18. Be3 O-O 19. cxd5 exd5 20. Nc3 Bxe3 21. Qxe3 Ndf6 22.
+Qd4 Nxc3 23. bxc3 Rc8 $11 {Mit einem remislichen Endspiel in einer Partie von
+Leko.}) 17... Be7 18. Bg5 (18. Bf4 O-O $11) 18... Nxg5 19. Nxg5 g6 20. Ra1 O-O
+21. Ra7 Qb6 22. Rxd7 Bxg5 {Mit gleichem Spiel.} *
+

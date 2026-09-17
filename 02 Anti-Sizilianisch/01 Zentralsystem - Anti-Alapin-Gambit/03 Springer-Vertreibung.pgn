@@ -1,0 +1,13 @@
+[Event "Repertoire against the Anti-Sicilians  / The Anti-Alapin-Gambit"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-Gambit"]
+[Black "Springervertreibung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Daniel King / Cyrus Lakdawala & Carsten Hansen"]
+[PlyCount "25"]
+
+{[%evp 0,18,19,28,40,7,16,-3,21,-17,31,-8,14,9,15,16,29,35,16,25,24]} 1. e4 c5 2. c3 d5 3. exd5 Nf6 {Das ist das vielversprechende Anti-Alapin-Gambit. Es wurde von Evgeny Sveshnikov und John Emms untersucht, jedoch nicht ausführlich behandelt. Allerdings raten sie davon ab, den Bauern behalten zu wollen.} 4. d4 {Dieser Zug wurde von John Emms empfohlen und er scheint auch der beste für Weiß zu sein. Jedenfalls ist er die beliebteste Fortsetzung in der Datenbank. Weiß versucht das Gambit soweit wie möglich zu ignorieren und in "normale" Alapin-Stellungen zu gelangen. Dies gelingt aber nur zum Teil, da Schwarz mit dem Springer auf d5 nehmen kann, was in den regulären Alapin-Varianten nicht passiert.} Nxd5 $1 {Emms hat diesen Zug nicht untersucht. Er beschäftigt sich mit dem Schlagen des weißen Damenbauern durch den schwarzen c-Bauern, wonach der Weiße zwar einen isolierten Damenbauern erhält, aber sein Spiel sich auch befreit. Stattdessen bevorzugen Lakdawala und Hansen diesen Zug, auch King findet ihn besser als das Schlagen mit der Dame. Allerdings beinhaltet der Zug auch ein Bauernopfer, das in die Tiviakov-Variante führt.} 5. Nf3 {Das ist auch der Zug, der in die Hauptvariante führt.} e6 {Alternativ kann Weiß auch versuchen, den schwarzen Springer aus dem Zentrum zu vertreiben.} 6. c4 Nf6 $1 7. Nc3 cxd4 8. Qxd4 ({Wenn Weiß mit dem Springer schlägt, wird dieser einfach vertrieben.} 8. Nxd4 e5 $1) 8... Qa5 $5 {Schwarz weicht dem Damentausch aus.} 9. Be2 Nc6 10. Qh4 Be7 11. O-O Nd5 12. Qg3 Nxc3 13. bxc3 $15 {Nach diesen forcierten Zügen steht Schwarz sogar etwas besser.} *
+

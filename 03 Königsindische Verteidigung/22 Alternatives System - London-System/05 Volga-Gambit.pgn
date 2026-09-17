@@ -1,0 +1,52 @@
+﻿[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "London-System"]
+[Black "Volga-Gambit"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "Victor Bologan"]
+[PlyCount "30"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bf4 {[%csl Ye5][%cal Rf4e5,Rd4e5]
+Weiß spielt ein London-System mit einem Bauern auf c4 und kontrolliert
+zuverlässig das Feld e5. In der Regel wird er die Bauern auf e3, d4 und c4
+stellen. Die Springer bleiben auf f3 und c3 und die Läufer auf f4 und e2. Die
+Türme gegen nach d1 und c1. Schwarz wird Probleme haben, seine Bauern nach c5
+oder e5 zu stellen.} d6 {Schwarz vermeidet mit diesem Zug, in die
+Stellungsmuster der Grünfeld-Verteidigung nach d7-d5 einzulenken. Er möchte
+zunächst eine Art Königsindische Verteidigung spielen.} {Eine gängige Idee
+ist} 6. h3 {Weiß möchte seinen schwarzfeldrigen Läufer vor einem Abtausch
+sichern und sichert das Feld h2 für einen Rückzug. Wie auch immer ist der
+Zug zu langsam} ({(c) Mit dem Zug} 6. Qd2 {bereitet Weiß den Läufertausch vor
+} c5 7. Bh6 Bxh6 8. Qxh6 cxd4 9. Nxd4 Nc6 {Die Stellung ist halb-offen.
+Schwarz ist etwas in der Entwicklung voraus, denn Weiß hat zuviel Zeit
+verloren durch den Abtausch der schwarzfeldrigen Läufer. Es gibt keine
+richtigen Angriffschancen gegen den schwarzen König}) 6... c5 {Schwarz muss
+diesen Zug im allgemeinen spielen, wenn er Ausgleich erreichen will.} {Nach
+dem Vorstoß} 7. d5 {kann Schwarz eine Art Volga-Gambit spielen} b5 8. cxb5 a6
+9. bxa6 {[%csl Ya5,Ya6,Yb8,Yd7][%cal Gd8a5,Gb8d7,Gc8a6,Gf8b8] Nach diesem
+klaren Zug ist das schwarze Spiel einfach und verständlich. Die Dame geht
+nach a5, der Damenläufer nach a6, der Damenspringer nach d7 und die Türme
+gehen auf die a- und die b-Linie} ({(a) Trickreicher für Weiß ist die
+Fortsetzung} 9. e3 {, denn Schwarz sollte auf b5 nur nach Vorbereitung nehmen}
+Nbd7 10. Bd3 Qa5 11. Qb3 Rb8 12. O-O axb5 {Das ist der richtige Augenblick,
+denn wenn Weiß jetzt auf b5 nimmt, ist eine Figur gefesselt} 13. Nxb5 {
+Sonst wird die schwarze Initiative zu stark} Ba6 14. a4 Nb6 15. e4 c4 16. Bxc4
+Nxe4 {Der weiße Mehrbauer ist bedeutungslos, denn seine Figuren hängen und
+die Bauern b2 und d5 sind schwach}) ({(b) Den Zug} 9. a4 {kann Schwarz kontern
+mit} Qa5 {[%csl Yb5,Ye4][%cal Gf6e4,Ga6b5] , wonach axb5 und Sf6-e4 droht} 10.
+Bd2 axb5 11. Nxb5 Qb6 12. Nc3 {Das ist eine gute Resource für Weiß, denn
+Schwarz verliert die Dame, sollte er auf b2 nehmen} Ba6 (12... Qxb2 $4 13. Rb1
+Qa3 14. Qc2 Nbd7 15. Bc1) 13. Qc2 Nbd7 {Die Stellungen sind mehr oder weniger
+alle gleich. Weiß ist in der Entwicklung zurück und hat schwache Bauern})
+9... Qa5 10. Qd2 Bxa6 11. g4 {Dieser Zug sieht langsam und gekünstelt aus} ({
+Besser ist} 11. e3 {, auch wenn danach das Rochaderecht verloren geht}) 11...
+Bc4 {Schwarz attackiert sofort den Bauern auf d5, der nicht gut gedeckt werden
+kann} 12. Rd1 Qb4 {Die schwarze Initiative entfaltet sich mühelos. Weiß
+behält den Bauern auf a2, aber er schwächt den Flügel} 13. a3 Qb3 14. e3
+Nbd7 15. -- Rfb8 {Schwarz wird die weißen Bauern erobern} *
+

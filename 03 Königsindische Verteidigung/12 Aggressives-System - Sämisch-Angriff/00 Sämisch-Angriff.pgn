@@ -1,0 +1,71 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsindische Verteidigung"]
+[Black "Sämisch-Angriff"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "24"]
+[EventDate "2011.10.25"]
+[SourceDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. h4 {Das ist der
+aggressivste Zug, obwohl Weiß in bestimmten Varianten auch positionell
+spielen kann. Die grundlegende Idee dieses Zuges ist offensichtlich. Weiß
+beabsichtigt, den schwarzen König anzugreifen. Das Spiel ähnelt sehr der
+Sizilianischen Drachenverteidigung. Gewöhnlich antwortet Schwarz mit h7-h5
+wie in der Soltis-Variante} ({(a) Der Zug} 9. O-O-O {transponiert oft in
+andere Varianten} b5 10. h4 e5 11. d5 Na5 12. Ng3 b4 {Schwarz hat schon
+Initiative}) ({(b)} 9. g4 {Dieser Zug ist sehr scharf, aber auch verpflichtend.
+Weiß verhindert h7-h5 und Se2-g3 blockiert jetzt auch nicht mehr den g-Bauern}
+b5 10. h4 h5 {Sonst erhält Weiß die Initiative} 11. Ng3 e5 12. dxe5 Nxe5 {
+[%csl Yc4,Yf3][%cal Ge5c4,Ge5f3]} 13. Be2 hxg4 14. f4) ({(c)} 9. Bh6 {Sehr
+direktes Spiel, mit dem Weiß den schwarzen Königsläufer tauschen will} Bxh6
+10. Qxh6 {Die Idee ist es, dass die weiße Dame vom Zentrum abgelenkt wird} e5
+11. O-O-O b5 12. h4 bxc4 13. h5 Qe7) 9... h5 {Schwarz blockiert mechanisch den
+Vorstoß des h-Bauern} 10. O-O-O {Das ist die Hauptvariante im
+Sämisch-Angriff. Das Spiel wird sehr kompliziert, aber Schwarz kann eigene
+Komplikationen verursachen} ({Mit dem Zug} 10. Nc1 {scheint Weiß einen
+Gedankenwechsel vorzunehmen und wieder positionelles Spiel beginnen zu wollen.
+Der Zug erinnert an das eigentliche Sämisch-System, aber mit dem Bauern auf
+h4 ist der Stellungstyp etwas anders} e5 {Das ist der thematische Zug. Schwarz
+geht gegen das geschwächte Feld d4 vor. Allerdings muss er noch einige
+Schwierigkeiten überwinden} 11. d5 Nd4 12. Nb3 {Sonst macht der
+Springerrückzug wenig Sinn} c5 {Dieser Zug beinhaltet ein Bauernopfer und ist
+die wichtigste Ressource für Schwarz}) 10... b5 {Schwarz beginnt sein eigenes
+Gegenspiel. Weiß muss nun entscheiden, wie er fortsetzen will} 11. Bh6 {
+Weiß will den mächtigen Läufer auf g7 abtauschen.} ({(a) Die
+Abtauschvariante beginnt mit dem Zug} 11. Nd5 {Der schwarze Verteidiger auf f6
+wird entfernt. Allerdings kostet es Zeit und Schwarz kann ein Gegenspiel
+initiieren} bxc4 12. Nxf6+ Bxf6 13. g4 Nb4 {Ein thematischer Zug. Der Springer
+zielt nach d3 und a2, wohingegen der c-Bauer nach vorn marschieren kann}) ({(b)
+} 11. Nf4 {Das ist ein seltsamer Zug. In der Absicht die Diagonale für den
+Königsläufer zu öffnen verhindert er selber den Abtausch der
+schwarzfeldrigen Läufer auf h6 und schwächt somit die Kontrolle über das
+Feld d4} bxc4 12. Bxc4 {Die Fesselung des Bauern auf f7 kommt nun manchmal zum
+Tragen.} e5 13. dxe5 Nxe5 14. Bb3 Qe8 {Das ist ein Schlüsselzug. Schwarz
+entfernt die Dame aus der d-Linie und verteidigt den Springer auf e5.
+Außerdem ist der Vorstoß c7-c5 möglich, ohne dass auf d6 die Damen
+getauscht werden können S�misch-Angriff-Seltsame Variante The King's Indian 
+(David Vigorito)}) 11... e5 {Das ist die Hauptvariante. Schwarz kombiniert
+Zentrumsspiel mit den Angriff auf den Flügeln. Nun folgt eine weitere Variante
+} 12. Bxg7 ({Die Variante} 12. Nd5 {gilt als schlechtes Timing, denn Schwarz
+hat eine gute Antwort} Bxh6 $1 13. Qxh6 bxc4) 12... Kxg7 *
+

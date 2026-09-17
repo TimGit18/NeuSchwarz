@@ -1,0 +1,28 @@
+﻿[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "London-System"]
+[Black "Abtauschvariante"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "Victor Bologan"]
+[PlyCount "20"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bf4 {[%csl Ye5][%cal Rf4e5,Rd4e5]
+Weiß spielt ein London-System mit einem Bauern auf c4 und kontrolliert
+zuverlässig das Feld e5. In der Regel wird er die Bauern auf e3, d4 und c4
+stellen. Die Springer bleiben auf f3 und c3 und die Läufer auf f4 und e2. Die
+Türme gegen nach d1 und c1. Schwarz wird Probleme haben, seine Bauern nach c5
+oder e5 zu stellen.} d6 {Schwarz vermeidet mit diesem Zug, in die
+Stellungsmuster der Grünfeld-Verteidigung nach d7-d5 einzulenken. Er möchte
+zunächst eine Art Königsindische Verteidigung spielen (b) Eine gängige Idee
+ist} 6. h3 {Weiß möchte seinen schwarzfeldrigen Läufer vor einem Abtausch
+sichern und sichert das Feld h2 für einen Rückzug. Wie auch immer ist der
+Zug zu langsam} c5 {Schwarz muss diesen Zug im allgemeinen spielen, wenn er
+Ausgleich erreichen will Die Abtauschvariante} 7. dxc5 dxc5 8. Qxd8 Rxd8 9. Nb5
+{ist nicht so gefährlich für Schwarz} Ne8 10. Be5 Nc6 {Die schwarzen Figuren
+sind besser mobilisiert und daher steht er in der Stellung besser} *
+

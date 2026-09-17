@@ -1,0 +1,39 @@
+﻿[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Abtauschvariante"]
+[Result "*"]
+[ECO "B95"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "26"]
+[EventDate "2012.04.21"]
+[SourceDate "2012.04.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Der Versuch der
+direkten Widerlegung von Najdorf: Weiß möchte lang rochieren, im Zentrum
+oder auf dem Königsflügel durchbrechen - je nachdem, ob Schwarz kurz
+rochiert oder in der Mitte bleibt} e6 {Das ist die übliche Antwort von
+Schwarz. Er kontrolliert das Schlüsselfeld d5. Das Bauernpaar e6 und d6 soll
+Weiß auf Abstand halten, den Entwicklungsrückstand aufholen und Gegenspiel
+am Damenflügel beginnen} 7. f4 {Das ist die übliche Fortsetzung, mit der
+Weiß e4-e5 droht. Jetzt gibt es aber noch drei alternative Damenzüge} ({(a)} 
+7. Qd2 {soll ein Gegendruckspiel aufziehen}) ({(b)} 7. Qf3 {ist eine
+klassische Fortsetzung aus den fünfziger Jahren}) ({(c)} 7. Qd3 {ist ein
+neuer Damenzug, der aber die eigene Entwicklung etwas behindert}) 7... h6 {
+Schwarz befragt sofort den gegnerischen störenden Läufer, um in das
+Browne-System zu gelangen} 8. Bxf6 {Üblich ist hier der Rückzug nach h4.
+Weiß erreicht nichts mit dem Abtausch auf f6} Qxf6 9. Qd2 g5 (9... Nc6 {ist
+auch in Ordnung, aber der Textzug ist viel ehrgeiziger. Schwarz möchte den
+Gegner auf den schwarzen Feldern beherrschen}) 10. f5 {Das einzige, was für
+Weiß spricht, ist sein Entwicklungsvorsprung. Schwarz würde gerne die Damen
+tauschen, um seinen Stellungsvorteil im Endspiel auszunutzen ohne einen
+Opferangriff fürchten zu müssen} ({(a)} 10. g3 gxf4 11. gxf4 Qh4+ 12. Qf2
+Qxf2+ 13. Kxf2 Nc6 {und Weiß kann das Fehlen des schwarzfeldrigen Läufers
+nicht kompensieren}) ({(b)} 10. fxg5 hxg5 11. O-O-O Nc6 12. Be2 Nxd4 13. Qxd4
+Qxd4 14. Rxd4 Bd7 {Das Läuferpaar und die Bauernmehrheit im Zentrum
+garantieren Schwarz gutes Spiel}) 10... Nc6 11. Nxc6 bxc6 12. O-O-O Qe5 13. g3
+Rb8 {Das ist die logische Fortsetzung. Die schwarzen Chancen sind besser, da
+er die schwarzen Felder dominiert} *
+

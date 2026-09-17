@@ -1,0 +1,74 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Langsames Doppelfianchetto"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "46"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitestetn und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben} 8. b3
+{will ein Doppelfianchetto auf dem Damenflügel einleiten. Dieser einfache Zug
+ist immer sehr beliebt. Weiß vermeidet damit die Komplikationen der
+Hauptvariante und bereitet die Entwicklung des Damenläufers vor} Rb8 {Nach
+diesem Zug hat Weiß die Wahl zwischen einer Stützung des Bauern d4 oder
+einer weiteren Entwicklung} 9. e3 {Dieser Zug ist ziemlich beliebt, aber er
+macht einen seltsamen Eindruck} ({Weiß kann auch} 9. d5 {spielen, aber dann
+geht man in den Jugoslawischen Angriff über mit} Na5) 9... b5 10. Qe2 {
+Weiß möchte den Bauern auf c4 schützen und den auf b5 unter Druck setzen} ({
+Die Alternative} 10. Nd2 {wird mit dem störenden} Bg4 {beantwortet} 11. f3 {
+Damit gewinnt Weiß zumindest etwas Zeit, aber die weiße Bauernstruktur sieht
+später seltsam aus} (11. Ne2 {ist von Nachteil} Na5 12. h3 Bd7 13. Qc2 c5 14.
+dxc5 dxc5 15. Ba3 bxc4 16. bxc4 Qc8 17. Kh2 Bc6) (11. Bf3 Bxf3 {gleicht sofort
+aus} 12. Qxf3 Qd7) 11... Bd7 12. Bb2 ({Nach} 12. Qe2 Na5 13. Bb2 e5 14. dxe5
+dxe5 15. cxb5 axb5 16. b4 Nb7 17. Nde4 Nxe4 18. Nxe4 f5 19. Nf2 Nd6 {steht
+Schwarz gut}) 12... e5 13. d5 Ne7 14. e4 c6 15. Rb1 Bh6 16. Qe2 cxd5 17. cxd5
+Qb6+ 18. Kh1 Nh5 {mit Gegenspiel}) 10... bxc4 {Aus taktischen Gründen löst
+Schwarz sofrt die Spannung im Zentrum auf} 11. Qxc4 {Weiß möchte den
+instabilen Springer auf c3 decken} (11. bxc4 e5 $1 12. d5 ({Oder} 12. dxe5 Ng4
+13. Nd4 Ncxe5 {mit der Idee} 14. h3 c5) 12... e4 13. dxc6 exf3 14. Bxf3 Ng4 15.
+Rb1 Rxb1 16. Nxb1 Ne5 17. Bd5 Qe8 18. c5 {mit unklarer Stellung}) 11... Nb4 {
+Schwarz erhält gutes Figurenspiel. Der Springer stellt ein Ärgernis dar, und
+Schwarz kann die Initiative auf den weißen Feldern ergreifen} 12. a3 {Weiß
+versucht sofort, den Springer loszuwerden} ({Denn nach} 12. Qe2 {findet der
+schwarze Springer einen anderen Weg mit} a5 13. Rd1 Ba6 14. Qd2 {Nun erhält
+Schwarz auf einmal das bessere Spiel} c5 15. Ba3 ({Falls} 15. a3 {so folgt} Nd3
+) ({während nach} 15. dxc5 dxc5 {Schwarz in der Entwicklung führt und eine
+klare Initiative hat}) 15... Qc7 16. Ne1 (16. Rac1 Rfc8 17. dxc5 dxc5 {mit der
+Idee von Td8 gibt Schwarz einige Initiative}) 16... cxd4 17. exd4 Rfc8 18. Rac1
+Qd7 {Schwarz hat eine schöne Stellung}) 12... Be6 13. Qe2 Nbd5 14. Nxd5 Bxd5
+15. b4 {Weiß versucht die Bauerndurchbrüche von Schwarz aufzuhalten, aber
+wir werden sehen, dass dieses keinen Erfolg hat} ({(a)} 15. Qxa6 Bxb3 {ist
+günstig für Schwarz}) ({(b) Vielleicht sollte Weiß versuchen mit} 15. Nd2 {
+Ausgleich zu erreichen}) 15... c5 $1 {Das ist der aggressivste Zug} 16. bxc5 ({
+Anstelle dessen überlässt} 16. Bd2 c4 {Schwarz einen starken Freibauern und
+gutem Zugriff auf das Zentrum. Weiß kann schnell auseinanderfallen} 17. Rfc1
+Qd7 18. Bf1 Qb7 19. Ne1 e5 20. dxe5 Ne4 21. Rab1 Bxe5) 16... dxc5 17. Qxa6 ({
+Weiß rafft Material, denn Schwarz steht sonst gut} 17. Bb2 Ne4) 17... cxd4 18.
+exd4 ({Nach} 18. Nxd4 {hat Schwarz eine mächtige Initiative} Bxg2 19. Kxg2
+Qd5+ 20. f3 (20. Kg1 Ne4) 20... Rfc8 21. Nb3) 18... Rb3 19. Be3 Ng4 20. Rfe1
+Nxe3 21. Rxe3 ({Auch nach} 21. fxe3 {hat Schwarz einen ähnlichen Trick} Bxf3
+22. Bxf3 Bxd4 23. exd4 Rxf3) 21... Rxe3 22. fxe3 Bxf3 23. Bxf3 Bxd4 {Schwarz
+gewinnt einen Bauern und hat einen netten Vorteil aufgrund seiner besseren
+Struktur} *
+

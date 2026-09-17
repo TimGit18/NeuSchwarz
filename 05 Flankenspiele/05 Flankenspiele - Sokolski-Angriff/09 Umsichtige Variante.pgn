@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sokolski-Angriff"]
+[Black "Umsichtige Variante"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "30"]
+[SourceVersionDate "2024.09.28"]
+
+{[%evp 0,22,16,-49,-54,-54,-43,-43,-43,-49,-22,-62,-10,-80,-36,-36,-36,-49,-20,-53,-53,-45,-39,-39,-47]} 1. b4 {Die Sokolski-Eröffnung gewinnt Raum auf dem Damenflügel, bevor das schwarze Zentrum angegriffen wird.} e5 2. Bb2 {Das ist der Hauptzug, aber Weiß kann auch ruhiger spielen.} Bxb4 {Dieser aktive Schlagzug ist nicht so beliebt wie man denkt. Denn Schwarz gibt einen Zentrumsbauern gegen einen Flügelbauern, erhält aber dafür einfache und schnelle Entwicklung sowie taktische Möglichkeiten auf der e-Linie.} 3. Bxe5 Nf6 4. e3 {Diese gewöhnliche Stellung kann als Ausgangspunkt gesehen werden.} O-O 5. Nf3 Re8 $1 {Schwarz braucht wirklich nicht viele Kenntnisse, um diese Variante zu spielen. Er muss sich nur schnell und aktiv entwickeln. Außerdem soll er zuerst den Königsflügel entwickeln und dann mit d7-d5 durchbrechen, wobei die Damenspringer-Entwicklung wegen der aggressiven Lf1-b5 verzögert wird.} {Eine umsichtige Variante entsteht nach} 6. Be2 d5 7. O-O ({Besser ist vielleicht} 7. c4 c5 8. cxd5 Nxd5 9. O-O Nc6 10. Bb2 Bf5 {und Schwarz übt großen Druck auf den zentralen Linien aus bevor er am Ende Vorteil erlangt} 11. Qc1 Qe7 12. Nc3 Rad8 13. Na4 Nf4 $1) 7... Nbd7 {, aber die schwarze Entwicklung wird nicht gestört.} 8. Bb2 Nb6 9. d3 Bd7 10. Qc1 Na4 11. Ba3 Ba5 12. Nd4 Bb6 13. Bf3 c5 14. Ne2 Bc7 15. Nbc3 Ng4 {, wonach Schwarz den Ton angibt.} *
+

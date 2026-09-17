@@ -1,0 +1,35 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sizilianisches Springerspiel"]
+[Black "Zentralvariante"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "38"]
+[SourceDate "2014.08.23"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 {Von dieser Stelle aus verzweigt das Spiel oft
+in den Offenen Sizilianer. Weiß kann aber auch auf unabhängigen Wegen gehen.}
+4. e5 dxe5 5. Nxe5 {Weiß strebt nach aktivem Figurenspiel, unterstützt von
+seinem minimalen Entwicklungsvorsprung} Nbd7 {Schwarz fordert sofort den
+weißen Springer heraus.} 6. d4 {Der Zug zeigt etwas mehr Kampfgeist. Schwarz
+muss es ernst nehmen, dass alle weißen Figuren frei und beweglich sind} e6 7.
+Bb5 a6 8. Bxd7+ ({Die Alternative} 8. Nxd7 Bxd7 9. Bxd7+ Qxd7 10. Be3 Rc8 11.
+dxc5 Qxd1+ 12. Nxd1 Bxc5 13. Bxc5 Rxc5 14. Ne3 Nd5 {führt zu einem absolut
+gleichen Endspiel}) 8... Nxd7 9. Qh5 {Die Mattdrohung sollte Schwarz zu
+ruhiger Verteidigung leiten} g6 10. Qf3 f5 11. Be3 {Es ist oft das weiße
+Vorrecht, das Leben aus der Stellung zu nehmen. Hier kann er das auch machen.}
+(11. Nxd7 Bxd7 12. dxc5 Bc6 13. Qg3 Bxc5 14. Qe5 {Schwarz muss sich auf seine
+Läufer in diesem nahezu ausgeglichenen Endspiel verlassen} Bd4 15. Qxe6+ Qe7
+16. Qxe7+ Kxe7 {mit Kompensation}) 11... Bg7 12. Qg3 $1 ({Natürlich (aber
+nicht so gut) ist} 12. O-O-O cxd4 13. Bxd4 Qg5+ 14. Be3 Nxe5 15. Bxg5 Nxf3 16.
+gxf3 h6 17. Rd8+ ({Oder} 17. Bf4 g5 18. Bd6 Bd7 19. Rhe1 Kf7) 17... Kf7 18.
+Rxh8 Bxh8 19. Bxh6 Bd7 {mit schwierigem Endspiel für Weiß}) 12... O-O 13.
+O-O-O Qa5 14. Nxd7 Bxd7 15. dxc5 ({Eine andere kritische Variante führt zu
+Dauerschach} 15. Qd6 Rf7 16. Qxc5 b5 17. d5 Rc8 18. dxe6 Bxe6 19. Qb6 Bxc3 20.
+Qxe6 Bxb2+ 21. Kxb2 Qc3+ 22. Kb1 Qxc2+ {mit Remis}) 15... Bxc3 16. bxc3 f4 $1 {
+verhindert den weißen Angriffsplan mit Le3-d4 und Dg3-e5} 17. Bxf4 Bc6 18. Kb2
+Bxg2 19. Qxg2 Qb5+ *
+

@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sokolski-Angriff"]
+[Black "Falle"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "26"]
+[SourceVersionDate "2024.09.28"]
+
+{[%evp 0,26,38,-34,-65,-79,-60,-80,-82,-71,-18,-69,-13,-56,-56,-80,-52,-55,56,-32,-39,-30,-186,-420,-428,-738,-757,-764,-757]} 1. b4 {Die Sokolski-Eröffnung gewinnt Raum auf dem Damenflügel, bevor das schwarze Zentrum angegriffen wird.} e5 2. Bb2 {Das ist der Hauptzug, aber Weiß kann auch ruhiger spielen.} Bxb4 {Dieser aktive Schlagzug ist nicht so beliebt wie man denkt. Denn Schwarz gibt einen Zentrumsbauern gegen einen Flügelbauern, erhält aber dafür einfache und schnelle Entwicklung sowie taktische Möglichkeiten auf der e-Linie.} 3. Bxe5 Nf6 4. e3 {Diese gewöhnliche Stellung kann als Ausgangspunkt gesehen werden.} O-O 5. Nf3 Re8 $1 {Schwarz braucht wirklich nicht viele Kenntnisse, um diese Variante zu spielen. Er muss sich nur schnell und aktiv entwickeln. Außerdem soll er zuerst den Königsflügel entwickeln und dann mit d7-d5 durchbrechen, wobei die Damenspringer-Entwicklung wegen der aggressiven Lf1-b5 verzögert wird.} 6. c4 {Weiß sollte üblicherweise das schwarze Zentrum mit einem schnellen c2-c4 anfechten.} d5 7. cxd5 {Weiß muss schon wissen, was er tut.} ({Weniger gebräuchlich ist} 7. Bb2 Nc6 8. cxd5 Nxd5 9. a3 Ba5) 7... Nxd5 8. Bb2 {Weiß versucht, den Taktiken auf der e-Linie auszuweichen.} Nf4 $1 {Stört die weiße Entwicklung.} 9. Ne5 {Blockiert zwar die e-Linie, aber angesichts der aggressiven schwarzen Antwort, sollte Weiß andere Optionen vorziehen.} Qg5 $1 {Bereitet ein vielversprechendes Qualitätsopfer vor und setzt gleichzeitig eine scheußliche Falle. Die Falle lautet} 10. g3 Rxe5 11. gxf4 ({Oder} 11. Bxe5 Qxe5 12. Nc3 Nd5 {und die weiße Stellung ist kurz vor dem Kollaps.}) 11... Rxe3+ 12. fxe3 ({Kaum eine Veresserung ist} 12. Be2 Qg2 13. Rf1 Re4 {, wonach Weiß nicht mehr langedurchält.}) 12... Qh4+ 13. Ke2 Bg4+ {, wonach die weiße Dame verloren geht.} *
+

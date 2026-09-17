@@ -1,0 +1,92 @@
+﻿[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Smyslov-System"]
+[Black "Benoni-Struktur"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "David Vigorito"]
+[PlyCount "47"]
+[EventDate "2011.06.04"]
+[SourceDate "2011.06.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 c5 6. d5 {Der Vorstoß in eine
+Benoni-Struktur ist sicherlich die kritische Fortsetzung. Weiß erobert Raum
+und schränkt die schwarze Beweglichkeit ein. Aber er erlaubt auch die
+Dominanz des schwarzfeldrigen Läufers auf der langen Diagonalen. Schwarz kann
+jetzt sogar mit dem Gedanken spielen, eine Art Wolga-Benkö-Gambit zu spielen}
+h6 $1 {Wiederum wird dieser Zug ausgeführt, erst nachdem die Situation im
+Zentrum geklärt ist. Nach Wegzug des Läufers wird er gejagt und abgetauscht}
+({Wiederum sollte man} 6... d6 {vermeiden wegen} 7. Qd2 {Jetzt kann Schwarz
+nicht mehr h7-h6 spielen, da der Bauer einfach nicht mehr gedeckt ist. Der
+Läufer wäre dann ewig auf g5 platziert kann Schwarz nicht mehr den
+thematischen Befragungszug h7-h6 spielen. Daher ist das sofortige c7-c5
+genauer, mit dem Druck auf die weiße Stellung ausgeübt wird.}) 7. Bh4 {
+Dies ist die Ausgangsstellung der Benoni-Variante im Smyslov-System. Mit
+diesem Zug entscheidet sich Weiß für den möglichen Abtausch des Läufers
+und provoziert das Vorrücken der schwarzen Bauern.} ({Die altenative
+Fortsetzung} 7. Bf4 d6 8. e4 e6 9. dxe6 Bxe6 10. Bxd6 Re8 11. Be2 {führt zu
+einer bekannten Stellung des Averbakh-Systems. Schwarz hat einen Bauern
+geopfert, aber auch seine Stellung befreit. Weiß kann den zweiten Bauern
+nicht gut nehmen, da dann die schwarze Dame mit Tempogewinn über a5 nach a3
+kommt. Die schwarzen Läufer sind gut postiert und haben gute Angriffsziele})
+7... d6 {[%csl Yd4,Ye5,Yg4][%cal Rg7e5,Re5d4,Rc8g4] Das ist die kanonische
+Idee gegen die Benoni-Struktur: Schwarz kontrolliert das Feld e5 und
+verstärkt damit auch die Kontrolle über das Feld d4 und die schwarzen Felder
+im Zentrum. Außerdem öffnet er die Diagonalen c8 bis h3 für den schwarzen
+Damenläufer} 8. e3 {Das ist der beste Zug für Weiß. Er überdeckt das Feld
+d4 und bereitet die Entwicklung des Königsläufers vor} ({Der offensichtliche
+Zug} 8. e4 {ist gar nicht so gut, denn der weiße Königsläufer ist nun auf
+ewig begraben, wohingegen beide schwarzen Läufer sehr aktiv stehen} Qa5 {
+Schwarz entwickelt die Dame a tempo und droht mit dem Schlagen auf e4} 9. Nd2 {
+Mit diesem Zug verhindert Weiß zwar scheinbar das Schlagen auf e4, aber hier
+steht der Springer passiv und zurückgedrängt. Wie von Bologan demonstriert
+wurde hat jetzt Schwarz jetzt eine sehr schöne taktische Option zur
+Verfügung, mit der er die Initiative übernimmt} g5 10. Bg3 {Schwarz
+vollzieht dieselbe Idee wie in der Hauptvariante, allerdings ohne die Option,
+den Springer gegen den Läufer abzutauschen} Nxe4 $1 {Das scheinbare
+Figurenopfer wird durch die nächsten beiden Züge gerechtfertigt} 11. Ndxe4 f5
+{Das ist die Pointe der schwarzen Idee und ein bekanntes Motiv. Durch den
+Doppelschritt des f-Bauern erhält Schwarz ein zusätzliches Tempo.} 12. Nd2 f4
+13. Be2 {In dieser Stellung hat Schwarz die angenehme Wahl zwischen dem Nehmen
+auf g3 oder einem Nehmen auf c3 mit einem weiteren Bauerngewinn}) 8... g5 $1 {
+Dieser Zug ist wesentlicher Teil des schwarzen Plans. Schwarz verjagt den
+Läufer von seinem aktiven Feld und tauscht ihn gegen den Springer ab. Hier
+sind bereits viele Züge versucht worden, aber dieser Zug ist der einzige
+konsistente.} 9. Bg3 Nh5 {[%csl Yf4,Yf5,Yg3][%cal Rh5g3,Rf7f5,Rf5f4] Der
+Springerzug hat nicht nur das Ziel, den Läufer auf g3 abzutauschen, sondern
+auch den Weg auf der f-Linie freizumachen, um den Bauern zu mobilisieren} 10.
+Bd3 {[%csl Ye4,Yf5,Yg6,Yh7][%cal Rd3h7] Das ist am verbreitesten, aber andere
+Züge sind genauso möglich. Der Textzug ist aber auch logisch, denn er
+entwickelt die letzte weiße Leichtfigur und sie schaut sich die geschwächten
+weißen Feldern auf dem Königsflügel an} ({(a) Der ruhige Entwicklungszug} 
+10. Be2 {sieht weniger aktiv aus, aber der Zug ist nicht völlig harmlos.} f5
+11. Nd2 Nxg3 12. hxg3 Nd7 13. Qc2 Nf6 14. f4 a6 15. fxg5 hxg5 16. Nf3 Qe8 17.
+Bd3 Ng4 18. Qd2 Qg6 19. O-O-O b5 {mit gutem Gegenspiel für Schwarz}) ({(b)} 
+10. Qc2 f5 11. Be2 (11. Bd3 {blockiert bloß die d-Linie und nach} e5 12. dxe6
+Bxe6 13. Rd1 Nc6 14. Be2 Nxg3 15. hxg3 Qe7 {hat Schwarz ein wichtiges Tempo
+gewonnen}) 11... Nxg3 12. hxg3 e5 13. dxe6 Nc6 14. Rd1 Bxe6 15. a3 Qe7 16. Nd5
+Qf7 17. Nd2 Bxd5 18. cxd5 Ne5) ({(c)} 10. Nd2 {ist die Hauptfortsetzung} Nxg3
+11. hxg3 f5 12. Bd3 {transponiert in die Hauptvariante}) 10... f5 {Das ist die
+flexibelste Fortsetzung} 11. Nd2 {Andere Möglichkeiten sind} ({(a)} 11. Qc2 e5
+{transponiert in die Variante (b) zum 10.Zug}) ({(b)} 11. Nxg5 Nxg3 12. hxg3
+hxg5 13. Qh5 Rf6 14. Qh7+ Kf7 15. Qh5+ Kg8 {mit Zugwiederholung}) ({(c)} 11.
+O-O Bxc3 12. bxc3 Nxg3 13. hxg3 e5 14. dxe6 Bxe6 15. Rb1 Qe7 {ist eine
+interessante Empfehlung von Andrew Martin}) 11... Nxg3 12. hxg3 Nd7 $5 {
+Dieser einfache Zug sieht am besten aus. Andere Züge geben Weiß bessere
+Möglichkeiten auf einen Kampf um die Initiative.} 13. Nf3 {Weiß möchte
+Sd7-e5 verhindern, ohne seine Bauernstruktur zu kompromittieren. Einige andere
+Züge wurden hier auch erfolgreich schon gespielt.} ({(a)} 13. f4 {ist sehr
+logisch. Am besten ist} Nf6 14. -- {mit der Idee} Ng4) ({(b)} 13. Qc2 Ne5 14.
+Be2 Ng4 15. Nf3 e5 16. dxe6 Bxe6 17. Rd1 a6 18. Kf1 Qe7) 13... e6 {Ein
+schöner Zug, der aber nicht erzwungen ist.} 14. dxe6 Nb6 {Schwarz ist dazu
+bereit, auf e6 wiederzunehmen und eine gute Stellung zu erhalten. Also muss
+Weiß etwas unternehmen.} ({Schwarz sollte den Zug} 14... Ne5 {vermeiden, denn
+nach} 15. Nxe5 dxe5 16. Bxf5 $1 {hat Weiß eine Gewinnstellung}) 15. g4 fxg4
+16. Nh2 Bxc3+ $1 {Das ist am stärksten} 17. bxc3 Qf6 $1 {Nun ist das Spiel
+für beide Seiten forciert} 18. Nxg4 Qxc3+ 19. Kf1 Bxe6 20. Nxh6+ Kg7 21. Rh5
+Qxd3+ {Schwarz muss die Stellung vereinfachen, denn sein König ist in großer
+Gefahr.} 22. Qxd3 Bxc4 23. Qxc4 Nxc4 24. Ng4 {Weiß hat wahrscheinlich
+Kompensation für den Bauern, aber wahrscheinlich nicht mehr als das.} *
+

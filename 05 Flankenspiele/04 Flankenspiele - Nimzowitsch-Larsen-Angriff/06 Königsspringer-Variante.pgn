@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nimzowitsch-Larsen-Angriff"]
+[Black "Königsspringer-Variante"]
+[Result "*"]
+[ECO "A01"]
+[Annotator "Richard Palliser"]
+[PlyCount "22"]
+[EventDate "2009.??.??"]
+
+{[%evp 0,26,19,-23,-27,-10,-37,-13,-34,-14,-17,41,57,40,35,35,86,-17,45,-3,67,-3,30,30,64,49,49,35,76] Im Nimzowitsch-Larsen-Angriff bereitet Weiß die Unterminierung jedes schwarzen Zentrums vor.} 1. b3 {Er hofft, dass sein Damenläufer eine integrale Rolle dabei spielt. Schwarz seinerseits kann versuchen, dass der Einfluss des Läufers gedämpft wird.} e5 {Schwarz nimmt die Herausforderung an.} 2. Bb2 Nc6 {Erwähnenswert ist auch die Königsspringer-Variante.} 3. Nf3 $5 {Wie in den anderen Nebenvarianten mit 3.c2-c4, sollte Schwarz nicht auf die weißen Pläne hineinfallen. Mit} e4 4. Nd4 Nf6 5. e3 {kann er gutes Spiel erreichen (wobei 5.c2-c4 wiederum zur bekannten Partie Larsen-Spassky führt).} Bc5 $5 ({Eine solide und sinnvolle Alternative ist} 5... Nxd4 6. Bxd4 d5 {, um sich schnell zu entwickeln mit} 7. c4 dxc4 8. Bxc4 Bd6 9. Nc3 O-O 10. Qc2 Bf5) 6. Nxc6 {Weiß steht hier besser als in der Stammpartie, da er seinen c-Bauern noch nicht bewegt hat, aber Schwarz erfreut sich wieder freier Entwicklung und eines Raumvorteils. Das Spiel kann wie folgt weitergehen} dxc6 7. Nc3 Bf5 {Dies ist die Empfehlung von Larsen.} 8. Be2 (8. Na4 Be7 9. c4 Qd7 10. Qc2 O-O 11. Be2 Rad8 12. Nc3 Rfe8 {ist auch ziemlich bequem für Schwarz.}) 8... Qe7 9. d4 exd3 10. cxd3 O-O-O 11. O-O h5 $1 {Obwohl der Brückenkopf auf e4 abgetauscht wurde, hat Schwarz vielversprechende Angriffschancen.} *
+

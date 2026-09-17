@@ -1,0 +1,65 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Averbakh-System"]
+[Black "Solide Variante"]
+[Result "*"]
+[ECO "E90"]
+[Annotator "David Vigorito"]
+[PlyCount "36"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O {Normalerweise spielt Weiß
+an dieser Stelle Lc1-g5, um in das Averbakh-System überzuleiten oder er
+spielt Sg1-f3, um in die Klassischen Systeme überzuleiten.} 6. Be3 {Das ist
+eine sehr solide Variante für Weiß, aber sie übt weniger Druck auf die
+schwarze Stellung aus als das Averbakh-System. Daneben gibt es auch noch
+einige seltsame Alternativen, mit denen Weiß einen ungerechtfertigten
+Königsflügelangriff startet.} ({(a)} 6. g4 c5 {Der Flankenangriff von Weiß
+funktioniert nicht gut gegen eine Benoni-Struktur. Also kann Schwarz leicht
+die Stellung öffnen.} 7. d5 e6 8. g5 Ne8 9. h4 {Weiß setzt den Angriff fort}
+exd5 10. cxd5 ({Nach} 10. exd5 Nc7 11. h5 Re8 {sieht die weiße Stellung
+albern aus}) ({wohingegen nach} 10. Nxd5 Nc6 {der schwarze Springer nach d4
+gehen kann und der weiße Springer auf d5 mit Sc7 und Le6 abgetauscht wird})
+10... f5 $5) ({(b)} 6. h4 c5 7. d5 e6 8. h5 exd5 9. hxg6 fxg6 10. cxd5 Qe7 11.
+Bg5 Nbd7 12. Bg4 Ne5 13. Bxc8 Raxc8 14. Nf3 Nf7 $5 15. Qc2 Nxg5 16. Nxg5 Nxd5
+17. Nxh7 Bxc3+ 18. bxc3 Rc7 {und Schwarz gewinnt den Springer auf h7}) 6... e5
+7. d5 ({(a) Der Zug} 7. Nf3 {würde in das Gligoric-System überleiten}) ({(b)
+Die Abtauschvariante} 7. dxe5 dxe5 8. Qxd8 Rxd8 {ist völlig harmlos}) 7... a5
+{Schwarz spielt im Sinne des Petrosian-Systems weiter.} 8. g4 ({(a) Der Zug} 8.
+Nf3 {würde in das Petrosian-System überleiten}) ({(b) Natürlich sieht aus} 
+8. c5 {, aber nach} Na6 9. cxd6 cxd6 10. Nf3 Ng4 {ist Weiß in der Entwicklung
+zurück}) 8... Na6 9. h4 ({Weiß kann auch versuchen, Schwarz zurückzustoßen
+mit} 9. g5 Nd7 10. h4 {, aber dann hat Schwarz sofort Gegenspiel} f5 11. f3
+Ndc5 12. Nh3 c6 13. Nf2 cxd5 14. cxd5 Bd7 15. Bb5 Bxb5 16. Nxb5 a4 17. Qe2 Qa5+
+18. Nc3 a3 {mit schwarzer Initiative}) 9... Nc5 10. Bf3 {Dieser Zug sieht
+etwas nachteilung aus.} ({Aber die Alternative} 10. f3 {verringert den
+Einfluß des weißen Königsläufers. Schwarz spielt} h5 {, um die
+Königsflügel-Struktur zu klären} 11. g5 Nfd7 12. Nh3 Nb6 13. Qd2 a4 14.
+O-O-O Bd7 $1 {mit ausgezeichneter Stellung für Schwarz}) 10... Qd7 {Schwarz
+forciert die Stellung. Während dieser Zug etwas seltsam aussieht, so kann
+Weiß doch den Bauern g4 nicht mehr verteidigen und muss ihn vorrücken.} 11.
+g5 {Weiß hat gar keine Wahl.} Ng4 {Schwarz hat eine aktive Stellung, aber er
+muss etwas vorsichtig sein, dass sein Springer nicht eingesperrt wird.} 12.
+Bxc5 {Das ist die einzige Möglichkeit, das weiße Spiel zu rechtfertigen.} ({
+(a)} 12. Bd2 $4 Nd3+ {verliert sofort aufgrund der Schwäche von f2}) ({(b)} 
+12. Bc1 f5 {erlaubt es Schwarz, die Initiative zu ergreifen}) ({(c) Zu einer
+ausgeglichenen Stellung führt} 12. Bxg4 Qxg4 13. Qxg4 Bxg4 14. f3 Bd7 15. Ke2
+f5 {, aber Schwarz behält das Läuferpaar}) 12... dxc5 13. Na4 {Die weiße
+Stellung sieht sehr merkwürdig aus, aber diese Idee ist eine kluge, um
+Initiative zu kämpfen.} ({(a)} 13. h5 {ist unversucht, aber} Ra6 {eine gute
+Antwort}) ({(b)} 13. Qe2 f6) ({(c)} 13. Bg2 {sieht schmerzhaft langsam aus,
+aber Weiß will den Springer gewinnen} f6 14. Bh3 fxg5 15. f3 Qf7 16. hxg5 Ne3
+17. Qd3 Bxh3 18. Qxe3 ({Erzwungen, denn Weiß verliert nach} 18. Nxh3 Qxf3)
+18... Bd7 {mit einer unklaren Stellung}) 13... f5 $1 {Schwarz überläßt den
+c-Bauern seinem Schicksal. Schwarz hat das Läuferpaar und die weiße
+Entwicklung ist nicht gut. Also ist es an der Zeit, die Stellung zu öffnen}
+14. Nxc5 ({Oder} 14. gxf6 Nxf6 15. Nxc5 Qe7 16. Nd3 {Sonst erfolgt das Schach
+auf b4} Bh6 {[%cal Yh6d2,Yc8h3] mit gutem Gegenspiel}) 14... Qe7 15. Nd3 ({
+Nicht} 15. Na4 Qb4+ {und weiße Bauern fallen}) 15... fxe4 16. Bxe4 Bf5 {
+Schwarz erhält eine gute Initiative für den Bauern.} 17. Bxf5 (17. Qe2 {wird
+von} Bxe4 18. Qxe4 Nxf2 19. Nxf2 Qb4+ 20. Kf1 Qxb2 {widerlegt}) 17... gxf5 {
+mit der Idee} 18. -- e4 *
+

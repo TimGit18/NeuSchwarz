@@ -1,0 +1,49 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abtauschsystem"]
+[Black "Verzögerte Abtauschvariante"]
+[Result "*"]
+[ECO "E94"]
+[Annotator "David Vigorito"]
+[PlyCount "42"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird. Die verzögerte
+Abtauschvariante täuscht zunächst die Hauptvariante an} 7. O-O Nc6 8. dxe5 {
+Weiß spielt eine Art verzögerter Abtauschvariante. Dies sollte Schwarz nicht
+so sehr beunruhigen, aber diese Variante ist nicht so unschuldig wie es
+scheint. Schwarz muss immer noch etwas aufpassen und darf nicht einschlafen.}
+dxe5 9. Bg5 ({Nach} 9. Qxd8 Rxd8 10. Bg5 Rf8 11. Rfd1 Bg4 {transponiert es in
+die Hauptvariante}) 9... Qxd1 10. Rfxd1 {Weiß kann auch mit dem anderen Turm
+nehmen, aber dann würde der Turm auf f1 eingeschlossen bleiben} Bg4 11. h3 ({
+(a) Schwarz ist sicher nicht beunruhigt durch} 11. Rac1 h6 12. Be3 Rfd8) ({
+(b) Interessant ist aber} 11. Rd3 h6 12. Be3 Nxe4 13. Nxe4 f5 14. Nc5 e4 15.
+Rb3 exf3 16. gxf3 f4 17. fxg4 fxe3 18. fxe3 Nd4 19. exd4 Bxd4+ 20. Kh1 Bxc5)
+11... Bxf3 12. Bxf3 Nd4 13. Nd5 Nxd5 14. cxd5 {Obwohl der Springer auf d4 sehr
+gut aussieht hat Weiß das Läuferpaar und möglichen Druck auf der c-Linie.
+Daher muss Schwarz sehr schnell agieren} f5 $1 {Das ist der richtige Zug.
+Schwarz schafft Platz auf der siebten Reihe und attackiert das weiße Zentrum.}
+({Schlechter ist} 14... c6 15. dxc6 bxc6 16. Rac1 Rfb8 17. b3 a5 18. Rc4 {
+wonach Weiß wirklich etwas Spiel gegen die schwarze Stellung hat}) 15. Rac1
+Rf7 {[%csl Yc1,Yc7,Yf5][%cal Gf7c7,Rc1c7] Weiß greift den schwachen Bauern c7
+an, der von Schwarz verteidigt wird} 16. Be3 ({Nach} 16. Kf1 {sollte Schwarz
+den Bauernvorstoß vermeiden und stattdessen} Bf8 {spielen}) 16... fxe4 17. Bg4
+({(a) Ein Fehler wäre} 17. Bxe4 Ne2+) ({(b) Auch nicht viel besser ist} 17.
+Bxd4 exf3 18. Be3 fxg2) 17... Nf5 18. Rc3 h5 19. Be2 Bf8 20. Rc4 Nd6 21. Rc3 {
+Diese Stellung sieht nach Zugwiederholung aus} Nf5 *
+

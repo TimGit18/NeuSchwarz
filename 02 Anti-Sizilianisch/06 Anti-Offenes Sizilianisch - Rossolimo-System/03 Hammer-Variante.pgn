@@ -1,0 +1,46 @@
+[Event "CBM 185"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rossolimo-System"]
+[Black "Hammer-Variante"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Evgeny Postny"]
+[PlyCount "34"]
+[SourceVersionDate "2018.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ {Dieser Zug vermeidet die scharfen Komplikationen
+des Najdorf- oder Drachen-Systems. Er kann sehr gut in einen positionellen
+Vorteil für Weiß münden, wenn Schwarz passiv und ängstlich spielt.
+Andererseits sind die Ausgelichsmöglichkeiten für Schwarz hier auch sehr
+viel besser.} Nd7 $1 {Das ist die schärfste Erwiderung auf das
+Rossolimo-System. Schwarz vermeidet die remisliche Variante Lc8-d7, die im
+weißen Sinne ist, da beide weißfeldrigen Läufer verschwinden.} 4. d4 {
+Dies ist die Hauptfortsetzung. Weiß will sofort seine Dame in das Spiel
+bringen, die auf d4 nicht leicht angegriffen werden kann.} cxd4 5. Qxd4 {
+Es ist natürlich für Weiß auch möglich, den Bauern d4 mit dem Springer zu
+nehmen. Generell ist die Kombination von Sf3xd4 und Lf1-b5 in der
+Sizilianischen Verteidigung aber keine besonders gute Idee.} a6 6. Bxd7+ Bxd7 {
+Die Fortsetzung} 7. Nc3 {stammt von Hammer aus einer Partie gegen Svidler.} ({
+(a) Eine Alternative ist der Semi-Maroczy-Aufbau mit} 7. c4 e5 8. Qd3 b5 9. Nc3
+bxc4 10. Qxc4 Be6 11. Qc6+ Bd7 12. Qc4 Be6 13. Qc6+ Bd7 {und schnellem Remis
+in einer Partie zwischen Jones und Wojtaszek aus der Schach-Olympiade in
+Batumi 2018.}) ({(b) Eine andere Alternative lautet} 7. O-O Rc8 8. c4 e5 9. Qd3
+b5 10. Na3 Qb6 11. Be3 Qb7 12. cxb5 axb5 {mit ungefähr gleichem Spiel.}) 7...
+e5 {Das ist der genaueste Zug.} ({Denn nach} 7... Nf6 $6 8. Bg5 e6 9. O-O-O {
+hat Weiß ähnlich wie in der Hauptvariante eine bessere Stellung.}) 8. Qd3 Rc8
+{mit ähnlichen Motiven wie in der Hauptvariante.} (8... Nf6 $6 {wird wieder
+nicht empfohlen wegen} 9. Bg5) 9. Nd2 {Der Springer soll nach e3 überführt
+werden.} ({(a) Eine wichtige Alternative ist hier} 9. O-O Qc7 10. a4 Be7 11.
+Rd1 h6 12. Nd2 Nf6 13. Nf1 O-O 14. Ne3 Be6 15. a5 Rfd8 16. Qe2 g6 17. Bd2 Qc6
+18. Be1 Kg7 19. Qf3 Rd7 20. b3 $14 {mit baldigem Remis zwischen Demchenko und
+Vachier Lagrave bei der Rapid-WM in Riadh 2017.}) ({(b) Weiß kann auch
+versuchen, den Springerzug nach f6 zu provozieren} 9. Bg5 Qc7 10. Nd2 Be6 11.
+Nf1 h6 12. Bh4 Be7 13. Bxe7 Nxe7 14. Ne3 O-O 15. O-O Rfd8 16. Rfd1 b5 {mit
+ungefähr ausgeglichenem Spiel}) 9... Be6 10. Nf1 Be7 11. Ne3 Nf6 12. O-O Qc7
+13. a4 Qc5 14. Rd1 O-O {Die Stellung ist jetzt sehr ausgeglichen.} 15. Bd2 Bd8
+16. Nf5 $2 {Das ist ein Fehler von Jon Ludvig Hammer.} ({Weiß sollte besser
+weiter manövrieren mit} 16. Be1) ({Oder} 16. b3) 16... Bxf5 17. exf5 d5 {
+Eine Traumstellung für Schwarz} *
+

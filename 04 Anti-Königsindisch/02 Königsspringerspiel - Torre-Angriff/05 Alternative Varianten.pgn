@@ -1,0 +1,49 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torre-Angriff"]
+[Black "Alternative Varianten"]
+[Result "*"]
+[ECO "A48"]
+[Annotator "Yelena Dembo"]
+[PlyCount "32"]
+[EventDate "2011.08.09"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 {[%csl Yd2,Ye4][%cal Gb1d2,Ge2e4] Der
+Torre-Angriff ist ein seriöser Versuch um den Eröffnungsvorteil zu kämpfen.
+Im Gegensatz zum London-System entwickelt Weiß seine Figuren aktiver und baut
+an starkes Zentrum mit e2-e4 und Sb1-d2. Der Damenläufer übt Druck auf
+Schwarz aus, wohingegen der Königsläufer nach c4 entwickelt werden soll.
+Alles in allem ist dies kein harmloses System und muss daher aktiv bekämpft
+werden. Schwarz operiert wieder mit der Bauernkette d6 und c5 und baut Druck
+gegen den Bauern d4 auf, den Weiß meistens abtauscht.} 4. Nbd2 {Weiß
+bereitet e2-e4 vor.} O-O {Weiß muss nun eine Wahl treffen zwischen zwei
+verschiedenen Strategien.} 5. c3 d6 6. e4 {Das ist der konsistenteste und
+vermutlich beste Ansatz.} c5 {Weiß muss nun entscheiden, was er mit der
+Spannung zwischen d4 und c5 machen muss.} {Alternative Varianten in dieser
+Stellung beginnen mit} 7. Bc4 {Hier kann der Läufer nicht von einem Springer
+auf f4 angegriffen werden.} ({(a)} 7. Be2 cxd4 8. cxd4 (8. Nxd4 Nc6 {ist
+wiederum harmlos. Diesmal ist der weiße Königsläufer zwar weniger exponiert,
+aber es ändert nicht die Bewertung.} 9. N4f3 h6 10. Bh4 d5 11. Bxf6 Bxf6 12.
+exd5 Qxd5 13. O-O Bf5 {Der schwarze Vorteil ist nicht von der Hand zu weisen.})
+8... h6 9. Bh4 (9. Bxf6 Bxf6 10. O-O Nc6 {forciert wieder eine Konzession} 11.
+d5 Nd4 12. Nxd4 Bxd4 13. Nc4 Bg7 {mit dem üblichen Vorteil des Läuferpaars.})
+9... g5 10. Bg3 Nh5 {erobert das Läuferpaar und ist etwas besser für Schwarz.
+}) ({(b)} 7. h3 cxd4 8. cxd4 (8. Nxd4 Nc6 9. Bd3 Ne5 10. Be2 d5 {ist das
+übliche Geschäft für Schwarz.}) 8... d5 {beutet die langsame Entwicklung
+von Weiß aus.} 9. e5 Ne4 10. Be3 Nc6 11. Be2 f6 12. exf6 exf6 {mit schwarzem
+Vorteil, wonach f5 folgen wird.}) 7... cxd4 8. cxd4 ({Schwarz steht gut nach} 
+8. Nxd4 Nc6 {zum Beispiel} 9. Nxc6 ({Oder} 9. O-O h6 10. Be3 Ng4 {und wieder
+ist Schwarz OK.}) 9... bxc6 10. O-O d5 {mit Vorteil.}) 8... Nc6 9. O-O ({(a)} 
+9. Qe2 Qb6 10. e5 $2 {ist aggressiv, aber funktioniert nicht nach} dxe5 11.
+dxe5 Ng4 12. e6 f6 13. Bf4 (13. h3 $2 {ist ein Fehler wegen} Qxf2+ 14. Qxf2
+Nxf2 15. Kxf2 fxg5 {mit klarem Vorteil.}) 13... Na5 {und die schwarze
+Initiative wird einen Bauern auf e6 gewinnen.}) ({(b) Die Antwort auf} 9. Qb3 {
+lautet} Bg4 {und erlaubt ärgerlichen Druck.}) ({(c) Nach} 9. d5 Nb8 {Schwarz
+kann die Initiative vergrößern mit} 10. O-O Nbd7 11. Re1 h6 12. Be3 Ng4 13.
+Bd4 Bxd4 14. Nxd4 Qb6 15. N2b3 Nde5 16. Bf1 a5 $1 {Dieser typische Zug ist
+sehr stark für Schwarz.}) 9... h6 10. Be3 Ng4 11. a3 {Der schwarze Druck
+steigt mit jedem Zug.} Qb6 12. Qb3 Qxb3 13. Bxb3 Bd7 14. Rac1 Rac8 15. Nb1 {
+Am stärksten ist jetzt} Nxe3 16. fxe3 e5 *
+

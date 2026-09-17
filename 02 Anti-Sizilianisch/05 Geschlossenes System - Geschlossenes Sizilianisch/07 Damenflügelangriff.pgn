@@ -1,0 +1,74 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Geschlossenes Sizilianisch"]
+[Black "Damenflügelangriff"]
+[Result "*"]
+[ECO "B25"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "36"]
+[EventDate "2011.10.16"]
+[SourceDate "2011.10.16"]
+
+1. e4 c5 2. Nc3 d6 3. g3 {Weiß vermeidet mit der Wahl des Geschlossenen
+Sizilianers, der durch die Züge Sb1-c3 und g2-g3 gekennzeichnet ist, eine
+frühe Öffnung des Zentrums in dieser Stellung oder sogar direkten Kontakt
+der Figuren. Er will die Energie seiner Figuren speichern und erst später in
+der Partie entfesseln lassen. Sein Traum besteht in einem vernichtetenden
+Königsangriff, während sein Gegner damit beschäftigt ist, einen oder zwei
+uninteressante Bauern auf dem Damenflügel zu gewinnen. Daher muss Schwarz
+sehr schnell spielen und ohne jede Verzögerung ein Gegenspiel organisieren.
+Dabei muss er immer die Konsequenzen einer möglichen Öffnung im Zentrum im
+Auge behalten} Nc6 4. Bg2 g6 {Das Königsfianchetto ist das beachtenswerteste
+System für Schwarz.} 5. d3 Bg7 {An dieser Stelle kann Weiß zwischen drei
+Plänen wählen: 1) Er spielt einen Klassischen Anti-Englischen Aufbau mit
+Sg1-f3 2) Er spielt einen Bauernsturm auf dem Königsflügel mit f2-f4 3) Er
+spielt einen Jugoslawischen Angriff mit Lc1-e3} 6. Nf3 {Die meiste Literatur
+zur Sizilianischen Verteidigung erwähnt diesen Zug nicht. Aber er hat sicher
+seinen Sinn. Weiß spielt mit einem Mehr-Tempo, in einer Variante, die Schwarz
+gegen die Englische Eröffnung nutzt.} Nf6 {In allen Systemen, in denen Weiß
+auf f2-f4 verzichtet, muss sich Schwarz keine Sorgen über einen Bauernsturm
+auf dem Königsflügel machen. Also braucht er den Springer auch nicht nach e7
+zu entwickeln. Statt dessen spart der Textzug Zeit und und positioniert den
+Springer auf ein aktives Feld.o} 7. O-O O-O 8. h3 {Die Datenbank meldet hier
+schon jeden halbwegs sinnvollen Zug als gespielt an. Trotzdem kann der Zug als
+eine Art Hauptvariante betrachtet werden, denn er bereitet die
+Läuferentwicklung Lc1-e3 vor und verhindert die Belästigung durch Sf6-g4} Rb8
+9. a4 {Die Öffnung der a-Linie sollte für Weiß vorteilhaft sein, denn er
+behielt seinen Turm auf der a-Linie} a6 {Das ist der natürlichste Zug} ({
+Schwarz kann auch} 9... b6 {berücksichtigen, um davon zu profitieren, dass
+der Turm nicht mehr auf der Diagonalen h1-a8 steht} 10. Be3 Bb7 11. Qd2 d5 {
+Dies sollte für ein befriedigendes Spiel ausreichen} 12. Bf4 dxe4 13. dxe4
+Qxd2 14. Nxd2 Rbd8 15. Rfd1 Nh5 16. Be3 Nb4 17. g4 Nf6 18. Rdc1 h5 {mit
+schwarzem Druckspiel}) 10. Be3 b5 {Das ist der konsistenteste Zug zwischen der
+jetzigen Abfolge und der vorhergehenden Variante} 11. axb5 axb5 12. Qd2 {Im
+Unterschied zur vorhergehenden Variante, kann Weiß auch den folgenden Zug
+spielen} (12. e5 {Der Konflikt im Zentrum macht mehr Sinn, wenn Weiß bereits
+die offene a-Linie dominiert. Nichtsdestotrotz hat Schwarz nichts zu fürchten}
+dxe5 13. Bxc5 b4 14. Ne4 Rb5 15. Nxf6+ Bxf6 16. Be3 Qc7 17. Qe2 Rd8 18. Rfc1
+Ra5 {Mit gleichen Chancen. Der Bauer e5 ist nicht schwach und hilft dabei, die
+zentralen Felder zu korrigieren}) 12... b4 {Die Öffnung der a-Linie kann
+beide Spieler begünstigen. Kurzfristig wird die Linie Weiß begünstigen,
+aber da Schwarz den Damenflügel kontrolliert, kann er diese Herausforderung
+bestehen.} 13. Ne2 {Das ist der gebräuchlichste Zug, obwohl dieser Springer
+auf diesem Feld nur beschränkte Aussichten hat.} ({(a)} 13. Nd5 Nxd5 14. exd5
+Nd4 15. Nxd4 cxd4 16. Bh6 Bxh6 17. Qxh6 b3 {Hätte Weiß nicht die a-Linie
+geöffnet, so wäre dieser Zug nicht notwendig} 18. c4 dxc3 19. bxc3 Bf5 {Der
+starke Frei-b-Bauer ist ein sehr hervorragendes Element der Stellung}) ({(b)} 
+13. Nd1 {unterbricht zeitweise die Kommunikation der beiden Türme, aber Weiß
+hofft darauf, dass der Springer auf e3 eine aktive Rolle spielen kann. Weiß
+braucht aber Zeit für dieses Ziel und Schwarz kann die Stellung sehr
+vereinfachen.} Bb7 14. Bh6 Ra8 15. Bxg7 Kxg7 16. Ne3 Rxa1 17. Rxa1 Qc7 18. c3
+Ra8 {Schwarz hat sicher ausgeglichen}) 13... Bb7 14. Nh4 (14. Bh6 Ra8 15. Rab1
+e6 16. Rfe1 Qc7 17. Qe3 {und hier spielt man am besten} Ra5 18. Bxg7 Kxg7 19.
+Ra1 Rfa8 20. Rxa5 Rxa5 {Dank der Kotrolle über die einzige offene Linie kann
+Schwarz sehr hoffnungsvoll in die Zukunft blicken}) 14... Qc7 15. Bh6 (15. Ra2
+Qb6 16. Rfa1 b3 17. cxb3 Qxb3 18. Ra3 Qb4) 15... Bxh6 {Das ist eine
+vielversprechende neue Idee} 16. Qxh6 b3 {Schwarz startet sein Gegenspiel zu
+einem Zeitpunkt, zu dem die weißen Figuren schlecht für einen Konflikt auf
+dem Damenflügel vorbereitet sind} 17. c3 (17. cxb3 {führt zu einer
+demolierten Struktur und Schwarz steht vielleicht danach etwas besser} Qb6 18.
+Ra3 Ra8 19. Rfa1 Rxa3 20. Rxa3 Ra8 21. Rxa8+ Bxa8 22. Nc1 Qb4) 17... Ra8 18.
+Qd2 Rfc8 *
+

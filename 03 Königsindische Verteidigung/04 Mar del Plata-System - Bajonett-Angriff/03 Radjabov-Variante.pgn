@@ -1,0 +1,108 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bajonett-Angriff"]
+[Black "Radjabov-Variante"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "David Vigorito"]
+[PlyCount "42"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {[%csl Yd4][%cal Gc6d4] Schwarz übt damit weiteren Druck auf das
+weiße Zentrum aus. Das ist der aggressivste und beste Entwicklungszug, auch
+wenn er die folgende weiße Antwort provoziert. Der Damenläufer bleibt besser
+noch auf seinem Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von
+dem er aber leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das
+Zentrum und erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug
+ein Tempo unter günstigen Umständen, denn Schwarz muss den Springer auf das
+schlechte Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante
+eingeleitet. Diese Variante ist durch das geschlossene Zentrum charakterisiert.
+In der Regel agiert Weiß auf dem Damenflügel und Schwarz auf dem
+Königsflügel. Der schwarze Springer auf e7 steht nicht gut und muss über g6,
+g8 oder f5 nach einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß
+hat in dieser Stellung verschiedene Systeme zur Verfügung.} 9. b4 {[%csl Yc5]
+[%cal Rc4c5] Der Bajonettangriff war in den 1990er Jahren sehr gefürchtet. Er
+zwingt Schwarz geradezu dazu, sich in seine Verteidigung zu knien. Der weiße
+König steht ziemlich sicher und trotz der geschlossenen Stellung entwickelt
+sich schnell ein Spiel im Zentrum} Nh5 {[%csl Yf4,Yf5][%cal Gf7f5,Gh5f4]
+Dieser Zug stellt die Hauptvariante dar und gilt als die größte
+Herausforderung von Weiß. Schwarz stellt seinen Springer auf ein aktiveres
+Feld als d7 oder e8, was deshalb geht, da Weiß das Feld h5 nicht kontrolliert.
+Der Springer beobachtet das Feld f4 und bereitet f7-f5 vor. Heute entgegnet
+man auf diesen Ausfall seitens Weiß nur noch mit Tf1-e1} 10. Re1 {Dieser Zug
+wurde von Ivan Sokolov in die Turnierpraxis eingeführt. Bald darauf wurde er
+von Vladimir Kramnik übernommen, der damit 1997 gegen Kasparov gewann. Der
+Sinn dieses Zuges liegt auch darin, den Läufer auf e2 nach f1 zurückzuziehen,
+falls ein schwarzer Springer auf f4 auftaucht} f5 {Da der Springer auf h5
+ohnehin zurückweichen muss, schafft Schwarz neue Angriffsoptionen. Dieser Zug
+muss gespielt werden, um die schwarze Stellung zu befreien und Gegenspiel zu
+entwickeln - selbst um den Preis der Schwächung eigener Felder} 11. Ng5 {
+[%csl Ye6,Yh5][%cal Re2h5,Rg5e6] Das ist der thematische Zug in diesem System.
+Weiß droht den schwarzen Springer auf h5 zu schlagen und auf e6 einzusteigen.}
+Nf6 {[%csl Ye4][%cal Gf5e4,Gf6e4] Schwarz zieht den bedrohten Springer zurück
+und greift noch einmal den weißen e-Bauern auf e4 an. Da der zweite
+Deckungsspringer auf g5 etwas wackelig steht, muss Weiß etwas für die
+Verteidigung des e-Bauern leisten} 12. f3 {[%csl Yf3][%cal Gf3e4] Dieser Zug
+deckt den Bauern auf e4. Er ist weniger verpflichtend als den Bauern mit dem
+Läufer zu decken und ist aus diesem Grund heute sehr beliebt. Tatsächlich
+bleibt eine Menge Spannung in der Stellung, obwohl Schwarz hier eine breitere
+Auswahl hat} Kh8 {[%csl Yg8][%cal Gf8g8] Dies wird heute als der
+zuverlässigste Zug betrachtet, auch dank der Bemühungen von Teimur Radjabov.
+Der König steht in der Ecke einfach sicherer und macht auch noch das Feld g8
+frei, auf das unter Umständen der Turm von f8 gehen kann. Da das Manöver
+f2-f3 etwas langsam ist, macht Schwarz einen sinnvollen Abwartezug ohne seine
+Bauernstruktur zu kompromittieren. Weiß hat hier schon einiges ausprobiert,
+ohne Schwarz ernsthaft zu gefährden.} {Der allerdirekteste Versuch, das Spiel
+zu beschleunigen ist die Radjabov-Variante mit} 13. Ne6 {Weiß wartet nicht
+auf den Befragungszug h7-h6, sondern geht direkt mit dem Springer in die
+Stellung des Gegners hinein} Bxe6 14. dxe6 Nh5 {Da momentan kein Druck auf die
+schwarze Stellung herrscht, kann sich Schwarz diesen Zug erlauben. Er ist auch
+die schärfste schwarze Fortsetzung} 15. g3 {[%csl Yf4][%cal Rg3f4] Weiß
+kontrolliert das Einbruchsfeld f4, aber er schwächt auch die eigene
+Königsstellung} ({Eine ernsthafte Alternative für Weiß ist} 15. c5 {Nach}
+Nf4 16. Bc4 fxe4 17. Rxe4 (17. fxe4 Nc6 {mit der Idee} 18. Z0 Nd4 {ist
+zumindest ausgeglichen für Schwarz.}) 17... Nf5 18. Bxf4 (18. g3 Nh3+ 19. Kg2
+Ng5 20. Rg4 ({Radjabov empiehlt auch} 20. Bxg5 Qxg5 21. Nd5 c6 22. cxd6 Nxd6
+23. Rg4 Qh6 24. e7 cxd5 25. exf8=Q+ Rxf8 26. Qxd5 Nf5 27. Re4 Ne3+ 28. Rxe3
+Qxe3 29. Rd1 b6) ({Auch von ihm stammt} 20. e7 Qxe7 21. Nd5 Qd8 22. Bxg5 Qxg5
+23. Nxc7 Ne3+ 24. Rxe3 Qxe3 25. Nxa8 e4 $1 26. f4 Rxa8 27. cxd6 Rd8 {als unklar
+}) 20... Nxf3 21. Kxf3 e4+ 22. Nxe4 Bxa1 23. Bg5 Ne7+ 24. Kg2 Be5 {mit
+unklarer Stellung in Van Wely-Radjabov Biel 2007.}) 18... exf4 19. Nd5 Re8 20.
+Nxf4 c6 ({Und bloß nicht} 20... Bxa1 $2 21. Qxa1+ Ng7 22. e7 Rxe7 23. Nxg6+
+hxg6 24. Rh4#) 21. e7 Rxe7 22. Ne6 Qb8 ({Nach} 22... Qd7 23. Nxg7 Rxe4 24. fxe4
+Ne3 25. Qe2 Qxg7 26. Re1 Nxc4 27. Qxc4 dxc5 28. bxc5 {ist Weiß laut
+Mikhalevski etwas besser.}) 23. Nxg7 Rxg7 24. cxd6 ({Mikhalevski empfiehlt} 24.
+Be6 d5 25. Re2 Qf4 26. Bxf5 gxf5 27. Qe1 Rag8 28. Qc3) 24... Nxd6 25. Rd4 Nf5 {
+Schwarz spielt auf Gewinn.} 26. Rd3 Re7 27. Qd2 Qe5 28. Rd1 Rae8 {war absolut
+ausgeglichen in Van Wely-Radjabov Monte Carlo 2007.}) 15... Bf6 {[%csl Ye6,Yg7]
+[%cal Gh5g7,Gg7e6] Eine typische Idee: Schwarz räumt das Feld g7 für den
+Springer, um den Bauern auf e6 abzuholen.} 16. c5 {Das führt nicht so weit
+für Weiß.} ({Interessanter ist die folgende Variante} 16. exf5 Nxf5 17. g4 {
+Sonst folgt Sf5-d4.} e4 18. Nxe4 Bxa1 19. Bg5 Bd4+ 20. Kh1 Qe8 21. e7 Nxe7 22.
+Qxd4+ Ng7 23. b5 Ng8 24. Bd2 Qf7 25. Bc3 h6 26. f4 Rae8 27. Rf1 Nf6 28. Bf3 {
+aus Cheparinov-Radjabov Sofia 2008}) 16... f4 17. Kg2 ({Schlechter ist} 17. g4
+Ng7 18. Bc4 Nc6 19. cxd6 cxd6 20. Ne2 ({Nach} 20. Nb5 Nxe6 21. Qxd6 {hat
+Schwarz} Ng5 $1 22. Qxd8 Raxd8 23. Rf1 a6 24. Nc3 Nd4 {mit Drohungen wie
+Td8-c8 und Sg5xf3.}) 20... Rc8 21. Bd5 Nxb4 22. Rb1 Nc2 23. Rf1 b6 {mit
+besserer Stellung für Schwarz in Van Wely-Radjabov Wijk aan Zee 2007.}) 17...
+Nc6 18. cxd6 cxd6 19. Nd5 Nd4 20. Bb2 Nxe6 21. g4 Nhg7 {mit ausgeglichenen
+Chancen in Shirov-Radjabov Wijk aan Zee 2007.} *
+

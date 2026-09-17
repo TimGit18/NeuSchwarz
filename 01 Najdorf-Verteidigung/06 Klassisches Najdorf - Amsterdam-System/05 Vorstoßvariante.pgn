@@ -1,0 +1,46 @@
+﻿[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf-Verteidigung"]
+[Black "Amsterdam-System"]
+[Result "*"]
+[ECO "B93"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "24"]
+[EventDate "2011.06.29"]
+[SourceDate "2011.06.29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 {[%csl Ye4,Yf3,Yh3]
+[%cal Gf6e4,Rd1f3,Rf3h3] Dieser Zug ist eine Empfehlung von John Nunn. Der Zug
+ist sehr aggressiv und enthält viele Ideen. Er erobert Raum, droht e5 und
+bereitet einen Königsangriff vor. Weiß will damit beginnen, sofort aktive
+Operationen durchzuführen und verzögert die Entwicklung seiner Figuren. Die
+Dame soll nach f3 gebracht werden, weshalb der Zug f2-f4 auch dabei hilft,
+einen schwarzen Springer fernzuhalten. Von f3 aus kann die Dame den Bauern e4
+verteidigen und nach h3 hinübergehen, um den Druck auf den schwarzen König
+auszuüben. Das System ist nicht schwer zu spielen. Schwarz muss Gegenspiel
+gegen den potentiell schwachen Bauern e4 und auf der Diagonale a7-g1 initiieren
+} e5 {[%csl Yf3,Yg2,Yg4][%cal Rg2g4,Rd4f3] Im Vergleich mit dem Zug e7-e6 ist
+dies der aktivere Zug. Schwarz kämpft um das Zentrum. Außerdem verhindert
+der Zug den Vorstoß g2-g4 und er vertreibt den weißen Springer aus dem
+Zentrum. In der Regel wird er nach f3 gehen, wo er also der Dame im Weg steht.
+Daher muss diese über e1 nach g3 auf den Königsflügel gebracht werden, wo
+sie aber auch von dem Springer auf h5 angegriffen werden kann} {Die
+Vorstoßvariante ist sehr trickreich, aber wahrscheinlich nicht sehr gut. Sie
+beginnt mit} 7. Nf5 {und wird mit} d5 {beantwortet. Jetzt kann Weiß den
+Bauern auf d5 nicht einfach schlagen, denn er würde ja danach Material
+verlieren} ({Eine valide Alternative ist} 7... Nxe4 8. Nxg7+ Bxg7 9. Nxe4 d5
+10. Nc3 Nc6 11. Be2 O-O 12. O-O Bf5 13. Nxd5 Bxc2 14. Qxc2 Nd4 15. Qd1 Qxd5 16.
+fxe5 Nxe2+ 17. Qxe2 Qxe5 {Die Stellung ist ziemlich remislich}) 8. Ne3 {
+Das ist eine sehr geschickte Antwort. Schwarz könnte zwar mit d5-d4 eine
+Figur gewinnen, aber Weiß erhält zwei Bauern als Kompensation. Oder er
+könnte mit dem Springer auf e4 schlagen, aber dann öffnet sich die d-Linie
+und nach dem Massenabtausch wird Weiß besser stehen, da der schwarze König
+das Rochaderecht verloren hat. Also spielt Schwarz am besten} Bb4 {Schwarz
+fesselt den Deckungsspringer auf c3, aber er opfert den Zentralbauern auf d5} (
+8... Nxe4 {ist nicht so gut} 9. Nxe4 dxe4 10. Qxd8+ Kxd8 11. fxe5 Be6 12. Bc4 {
+Weiß steht besser, denn sein König kann noch rochieren und die weißen
+Figuren sind besser koordiniert}) 9. Nexd5 Nxe4 10. Be3 Bxc3+ 11. Nxc3 Qxd1+
+12. Nxd1 exf4 *
+

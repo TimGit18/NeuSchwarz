@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nimzowitsch-Larsen-Angriff"]
+[Black "Bauernopfer-Variante"]
+[Result "*"]
+[ECO "A01"]
+[Annotator "Richard Palliser"]
+[PlyCount "37"]
+[EventDate "2009.??.??"]
+
+{[%evp 0,26,19,-23,-27,-10,-37,-13,-34,-14,-17,41,57,40,35,35,86,-17,45,-3,67,-3,30,30,64,49,49,35,76] Im Nimzowitsch-Larsen-Angriff bereitet Weiß die Unterminierung jedes schwarzen Zentrums vor.} 1. b3 {Er hofft, dass sein Damenläufer eine integrale Rolle dabei spielt. Schwarz seinerseits kann versuchen, dass der Einfluss des Läufers gedämpft wird.} e5 {Schwarz nimmt die Herausforderung an.} 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. f4 {Weiß hat hier auch schon andere Züge versucht.} Qh4+ {erzwingt eine kleine Konzession, bevor die Dame auf e7 den Bauern e5 verteidigt} 6. g3 Qe7 7. Nf3 f6 $1 {Schwarz sollte damit fortfahren, den Bauern auf e5 zu verteidigen.} {Das Bauernopfer entsteht nach} 8. Bxc6+ bxc6 9. fxe5 fxe5 10. Nxe5 {Würde Schwarz auf e5 nehmen, so gibt Weiß das Schach auf h5 und gewinnt die Figur zurück.} Nf6 $1 11. Nxc6 {Das ist jetzt ein Bauernopfer mit Kompensation.} ({Andererseits gibt} 11. Nd3 O-O (11... Bg4 $5 {ist möglicherweise noch effektiver.}) 12. O-O Bh3 13. Bxf6 Rxf6 14. Rxf6 Qxf6 15. Nc3 Rf8 16. Qe2 Qg6 $1 17. Nf2 Bf5 {Schwarz eine Menge Druck in Pridorozhni-Gipslis Decin 1997.}) ({Hingegen war} 11. Nf3 O-O 12. O-O $2 Bh3 13. Re1 Ng4 $1 14. Qe2 Rxf3 15. Qxf3 Rf8 16. Qe2 Rf2 {schon fast entscheidend in Asimenios-Timoshenko, Kavala 2004.}) 11... Qe4 12. O-O Bh3 13. Rf2 Ng4 14. Rf3 ({Oder} 14. Nc3 Qh1+ $1 15. Kxh1 Nxf2+ 16. Kg1 Nxd1 17. Nxd1 O-O 18. Nf2 Bd7 {und Weiß scheint für die Qualität nicht genug Kompensation zu haben in Didoni-Iacchetti, Saint Vincent 2006.}) 14... Nxh2 15. Kxh2 Bg4 16. Nd4 c5 17. Nc3 Qg6 {Obwohl dies nicht völlig klar ist, wird Schwarz seine Figur zurückerobern in Brkic-Susak, Omis 2006, etwa nach} 18. Ndb5 Qh5+ 19. Kg1 *
+

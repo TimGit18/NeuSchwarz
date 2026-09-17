@@ -1,0 +1,36 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blockadesystem"]
+[Black "Rückzugsvariante"]
+[Result "*"]
+[ECO "B93"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "31"]
+[EventDate "2011.06.29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 {Dieser Zug ist
+nicht der prinzipiellste, aber er verhindert b7-b5 und droht mit der
+Einschnürung des Damenflügels} e5 {Schwarz reagiert im Najdorf-Stil} 7. Nde2 {
+Das sieht nicht sehr attraktiv aus, da es den Läufer auf f1 blockiert und
+Schwarz hat folgendes aggressives Bauernopfer, um die Initiative zu ergreifen}
+d5 {Vielleicht kann Weiß einen kleinen Eröffnungsvorteil erhalten, wenn er den
+Bauern zurückgibt und sehr genau spielt} 8. Nxd5 (8. exd5 Bb4 9. Bg5 O-O 10.
+Bxf6 Qxf6 11. Ng3 Qd6 12. Bd3 f5 {und Schwarz hat ausgezeichnete Kompensation
+für den Bauern dank seines Mobilen Zentrums und des starken schwarzfeldrigen
+Läufers}) 8... Nxe4 9. Be3 Nc6 10. f3 (10. Nb6 Qxd1+ 11. Kxd1 (11. Rxd1 Nb4 12.
+Rc1 Rb8 13. Nc3 Bf5 14. Ncd5 Nf6) 11... Rb8 12. Nxc8 Rxc8 13. Ng3 Nf6 {mit
+einer gleichen Stellung. Der Bauer auf a4 ist schlecht platziert und der weiße
+König auf d1 kann unter Beschuss kommen. Obwohl ein Endspiel kann Schwarz den
+weißen König jagen. Der einzige weiße Trumpf ist der Königsläufer, aber die
+aktiven schwarzen Springer sind nicht schlechter} 14. Be2 Rd8+ 15. Kc1 h5 16.
+Re1 g6 17. Bf3 Nd5) 10... Nc5 11. Nec3 Bf5 12. Bc4 Bd6 13. O-O O-O {Das ist
+die Schlüsselstellung. Nachdem Weiß den Mehrbauern zurückgegeben hat, ist es
+Zeit für konkrete Handlungen. Weiß muss einen Springer tauschen, um sich zu
+befreien und einen Bauern nach c3 stellen, um den schwarzen Springer auf c6 zu
+neutralisieren} 14. Ne4 (14. f4 exf4 15. Nxf4 {ist nicht so gut für Weiß, zum
+Beispiel} Ne5 16. Be2 Re8 17. Ncd5 Be4 18. b4 Ne6 19. Nxe6 Rxe6 20. Nf4 Re8 21.
+c3 Qc7 22. Qe1 Ng6 23. Qf2 Bxf4 24. Bxf4 Qxc3 25. Bd6 Bxg2) 14... Nxe4 15. fxe4
+Bg6 16. c3 *
+

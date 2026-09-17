@@ -1,0 +1,85 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vier-Bauern-Angriff"]
+[Black "Läuferrückzug"]
+[Result "*"]
+[ECO "A68"]
+[Annotator "David Vigorito"]
+[PlyCount "43"]
+[EventDate "2012.03.08"]
+[SourceDate "2012.03.08"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 {Der Vier-Bauern-Angriff ist
+nicht so beliebt wie die anderen Varianten, aber attraktiv für aggressive
+Spieler. Weiß erobert soviel Raum wie nötig und will Schwarz mit seinen
+Bauern vom Brett fegen. Schwarz muss daher um Initiative kämpfen und
+rechtzeitig gegen den schwachen Punkt d4 operieren. Weiß will mit e4-e5
+vorgehen und das Zentrum überrennen. Schwarz muss mit c7-c5 dagegen halten,
+eventuell den Springer auf f6 wegziehen und den Läufer auf g7 aktivieren} O-O
+{Der erste schwarze Zug entspricht noch dem Standardplan. Es ist zu früh für
+Weiß., mit den Bauern nach vorne zu marschieren, denn Schwarz zieht einfach
+seinen Springer zurück und schlägt gegen das Zentrum mit c7-c5} 6. Nf3 {
+Weiß unterstützt daher den geplanten Vormarsch mit dem Entwicklungszug
+Sg1-f3. Er überdeckt außerdem ein weiteres Mal das Feld d4} c5 {Schwarz muss
+jetzt das weiße Zentrum attackieren und versuchen, die schwarzen Felder im
+Zentrum zu schwächen. Er steuert damit allerdings eine Benoni-Struktur (mit
+der Bauernkonstellation c5 und d6) an.} 7. d5 {Wie in der Moderenen
+Benoni-Verteidigung üblich zieht Weiß auf d5 vor und erobert Raum im Zentrum.
+Hinter einem massiven Bauernzentrum d5 und nach einem eventuellen e4-e5
+können sich die weißen Leichtfiguren prächtig aufbauen. Schwarz muss
+unverzüglich das weiße Zentrum bekämpfen} e6 8. Be2 exd5 9. cxd5 Bg4 {
+Dieser Zug ist logisch und einfach zu verstehen. Schwarz hat in
+Benoni-Strukturen weniger Raum. Somit will er Leichtfiguren tauschen, die
+nicht vom Feld d7 aus operieren} 10. O-O Nbd7 {[%csl Ya5,Yb5,Yb6,Yc4,Ye5,Yf5]
+[%cal Re4e5,Rf4f5,Rd8a5,Rb7b4,Rd7b6,Rb6c4] Diese Stellung ist das Tabiya der
+Hauptvariante des Vier-Bauern-Angriffs. Weiß wird seine Bauernmehrheit im
+Zentrum dazu nutzen wollen, den Durchbruch auf e5 oder auf f5 zu versuchen.
+Schwarz wird ein Gegenpiel am Damenflügel organisieren, das von den Zügen
+b7-b5-b4, Sd7-b6-c4 und Dd8-a5 geprägt ist} 11. Re1 {Dieser Zug bildet die
+Hauptvariante. Weiß entwickelt den Turm und bereitet mittelfristig den
+Vorstoß e4-e5 vor} Re8 {[%csl Ye5][%cal Re4e5,Re8e5] Auch Schwarz spielt
+einen logischen Entwicklungszug, der sich gegen den Vormarsch des weißen
+e-Bauern richtet. Wie man im späteren Verlauf der Variante sieht, spielt die
+offene e-Linie eine wichtige Rolle} 12. h3 {Es ist sehr sinnvoll für Weiß,
+den Läufer zu befragen, da dieser gar kein Rückzugsfeld mehr hat. Weiß
+sichert sich somit das Läuferpaar und hat auch schon einen Bauern auf dem
+Königsflügel in Stellung gebracht} Bxf3 13. Bxf3 Qa5 {Schwarz aktiviert
+seine Dame und bereitet b5 nebst c4 vor. Die Stellung wird sehr scharf. Der
+Damenszug ist sicher der beliebteste Zug in der Stellung und besitzt viel
+Theorie. Es ist aber fraglich, ob er auch der beste Zug ist} 14. Be3 {In
+dieser Stellung sind auch andere Züge mit den Bauern möglich} b5 15. a3 Nb6 {
+Diese Stellung kann als die wichtigste Stellung des Vier-Bauern-Angriffs
+gesehen werden. Weiß kann entweder den Läufer prophylaktisch zurückziehen
+und direkt zuschlagen} 16. Bf2 {Weiß beschließt mit diesem ruhigen Zug die
+Stellung nicht zu forcieren. Nun droht allerdings direkt e4-e5} Nc4 {[%csl Yb2,
+Ye5][%cal Re4e5,Rc4e5,Rc4b2] Schwarz platziert den Springer auf ein aktives
+Feld, verhindert weiterhin e4-e5 und greift den Bauern auf b2 an} 17. Qc2 {
+Weiß deckt den Bauern b2 und räumt d1 für den Turm. Außerdem wird e4 ein
+weiteres Mal überdeckt} ({Tatsächlich ist auch} 17. e5 {gut spielbar, aber
+es führt praktisch zu nichts} dxe5 18. fxe5 Nxe5 19. Bxc5 Nfd7 20. Bf2 {
+Schwarz kann jetzt auf f3 nehmen oder den Springer nach c4 bringen}) 17... Nd7
+{[%csl Yb6,Yg7][%cal Rd7b6,Rg7c3] Der Springer auf f6 hat sowieso keine guten
+Aussichten. Auf d7 steht der Springer besser, denn er verhindert auch noch
+einmal den Durchbruch auf e5 und öffnet die Diagonale für den eigenen
+Königsläufer} 18. Be2 {Weiß ändert seine Strategie. Ihm geht es jetzt
+nicht mehr um die Durchsetzung von e4-e5, sondern um ein Druckspiel gegen die
+schwarzen Figuren. Er hat aber noch andere Züge} ({(a) Wie vorher ist der Zug
+} 18. e5 {nicht besonders gefährlich} dxe5 19. d6 {Der Sinn dieses Zugs ist
+die Demaskierung des eigenen Läufers. Dafür wird ein Bauer geopfert} Rad8 20.
+Bc6 Nxd6 21. Rad1 Qc7 {Schwarz steht hier sehr schön und kompakt}) ({(b) Nach
+dem Damenflügel-Vorstoß} 18. a4 {hat Schwarz keine Probleme eine gute
+Stellung zu erhalten} b4 19. Nb5 a6 $1 20. Qxc4 axb5 21. Qxb5 Qxb5 22. axb5
+Bxb2 {Die sehr starken Freibauern auf dem Königsflügel sollten Schwarz
+eigentlich gutes Spiel geben}) 18... Rab8 19. a4 ({Nach dem Zug} 19. Nxb5 {
+sollte Schwarz vorsichtig sein} Qxb5 (19... Rxb5 {ist schlecht wegen} 20. b4
+cxb4 21. Qxc4 {und der weiße Damenläufer kommt nach d4}) 20. Bxc4 Qxb2 {
+ist die richtige Antwort}) 19... b4 $1 {Das ist ein sehr guter Vorstoß, denn
+er öffnet die Diagonale für den Läufer auf g7} 20. Nb5 {Wahrscheinlich der
+beste Zug, der den Springer rettet und den Bauern auf d6 angreift. Der
+Nachteil ist allerdings, dass der Bauer auf b2 eingestellt wird} ({Nach} 20.
+Bxc4 bxc3 21. b3 a6 {hatte John Nunn sehr schönes Druckspiel auf dem
+Damenflügel}) 20... Nxb2 21. Nxd6 b3 22. Qb1 {Schwarz hat seine Figuren sehr
+schön aggressiv platziert} *
+

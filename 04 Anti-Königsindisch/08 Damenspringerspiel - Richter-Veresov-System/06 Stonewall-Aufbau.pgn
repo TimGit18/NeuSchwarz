@@ -1,0 +1,14 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Richter-Veresov-System"]
+[Black "Stonewall-Aufbau"]
+[Result "*"]
+[ECO "D01"]
+[Annotator "Yelena Dembo"]
+[PlyCount "28"]
+[EventDate "2011.08.08"]
+
+{[%evp 0,28,22,24,24,17,17,11,10,17,48,-19,7,-13,16,16,27,-6,-6,-20,-32,-43,-43,-42,-35,-33,-31,-55,22,-15,-55]} 1. d4 Nf6 2. Nc3 d5 3. Bg5 {Wenn Weiß den Damenspringer im zweiten Zug spielt, so deutet er den Wunsch an, e2-e4 zu spielen. Sinnvollerweise verhindert dies Schwarz mit d7-d5, denn er will ja nicht den Pirc-Aufbau spielen. Der Richter-Veresov-Angriff ist eine noch einigermaßen scharfe Entgegnung, aber nicht ganz so unsolide wie das Blackmar-Gambit} Nbd7 {Dieser Zug hält unsere Struktur intakt und bereitet gleichzeitig die Durchbrüche e5 und c5 vor. Schwarz kann seine Bauern flexibel an den Spielverlauf anpassen (e6 oder g6) und seine Läufer dynamisch entwickeln.} 4. e3 {Hiermit startet der Stonewall-Aufbau, wonach f4 geschehen kann, weil der Damenläufer bereits außerhalb der Bauernkette steht. Hier ist das Königsfianchetto sehr effektiv.} g6 5. f4 Bg7 6. Bd3 O-O 7. Nf3 {Weiß und Schwarz haben sich beide harmonisch entwickelt.} ({Die Zugfolge} 7. Qd2 c5 8. Nf3 {transponiert in den Text.}) 7... c5 {Dieser logische Gegenschlag führt dazu, dass die schwarze Dame auf b6 eingesetzt werden wird. Weiß muss jetzt überlegen, was dagegen zu tun ist.} 8. Qd2 {Weiß versucht sich alle Optionen offen zu halten und entwickelt sich schnell.} ({Stattdessen ist} 8. O-O Qb6 9. Rb1 a6 {schön für Schwarz, denn er kann mit der Dame nach d6 oder e6 gehen, um den d-Bauern zu schützen, bevor er mit den Damenflügel-Bauern vormarschiert. Weiß hat eigentlich wenig zu tun.}) 8... b6 {Schwarz bereitet das Läuferfianchetto auf dem Damenflügel vor und dann die Zentrumsbesetzung mit Sf6-e4.} ({Hier geht aber auch} 8... Qb6 {, speziell nach dem suizidalen} 9. O-O-O c4 10. Be2 Qa5 11. h3 b5 12. g4 b4) ({Eine andere interessante Idee ist} 8... c4 9. Be2 b5 {, denn nach} 10. Nxb5 {folgt} Ne4 11. Qc1 Qa5+ 12. Nc3 Ndf6 {mit schwarzem Vorteil.}) 9. Ne5 Bb7 10. Rd1 ({Die sofortige Kurze Rochade} 10. O-O {erlaubt das starke} Ne4 11. Bxe4 dxe4 12. dxc5 {Die Aufgabe oder Öffnung des Zentrums kommt eher Schwarz zugute.} ({Der sofortige Tausch} 12. Nxd7 Qxd7 13. Ne2 Ba6 {ist sogar schlimmer. Weiß ist unter Druck und das offensichtliche} 14. c3 {verliert eine Figur nach} h6 15. Bh4 Qg4) 12... Nxe5 13. Qxd8 Rfxd8 14. fxe5 Bxe5 15. Bxe7 Rd2 {, wonach Schwarz sicher sein kann, seinen geopferten Bauern wiederzubekommen, während seine Läufer sehr stark sind und er eine starke Initiative hat.}) 10... cxd4 11. exd4 Ne4 12. Nxe4 dxe4 {Schwarz erfreut sich an gutem Spiel und nach den weiteren Zügen} 13. Bc4 Nf6 14. O-O Nd5 {droht er mit f7-f6 und hat eine vollkommen akzeptable Stellung.} *
+

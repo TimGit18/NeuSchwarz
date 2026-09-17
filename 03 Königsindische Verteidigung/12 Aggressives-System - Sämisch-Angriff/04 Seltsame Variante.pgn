@@ -1,0 +1,75 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-Angriff"]
+[Black "Seltsame Variante"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "50"]
+[EventDate "2011.10.25"]
+[SourceDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. h4 {Das ist der
+aggressivste Zug, obwohl Weiß in bestimmten Varianten auch positionell
+spielen kann. Die grundlegende Idee dieses Zuges ist offensichtlich. Weiß
+beabsichtigt, den schwarzen König anzugreifen. Das Spiel ähnelt sehr der
+Sizilianischen Drachenverteidigung. Gewöhnlich antwortet Schwarz mit h7-h5
+wie in der Soltis-Variante} h5 {Schwarz blockiert mechanisch den Vorstoß des
+h-Bauern} 10. O-O-O {Das ist die Hauptvariante im Sämisch-Angriff. Das Spiel
+wird sehr kompliziert, aber Schwarz kann eigene Komplikationen verursachen} b5
+{Schwarz beginnt sein eigenes Gegenspiel. Weiß muss nun entscheiden, wie er
+fortsetzen will} 11. Nf4 {Das ist ein seltsamer Zug. In der Absicht die
+Diagonale für den Königsläufer zu öffnen verhindert er selber den Abtausch
+der schwarzfeldrigen Läufer auf h6 und schwächt somit die Kontrolle über
+das Feld d4} bxc4 12. Bxc4 {Die Fesselung des Bauern auf f7 kommt nun manchmal
+zum Tragen.} e5 13. dxe5 Nxe5 14. Bb3 Qe8 {[%csl Ya4,Ya5,Ya6,Yb5,Yc6,Yd7,Ye8]
+[%cal Ga6a4] Das ist ein Schlüsselzug. Schwarz entfernt die Dame aus der
+d-Linie und verteidigt den Springer auf e5. Außerdem ist der Vorstoß c7-c5
+möglich, ohne dass auf d6 die Damen getauscht werden können. Darüber hinaus
+kann die Dame sich auf der Diagonalen a4-e8 bewegen und den Vorstoß a5-a4
+unterstützen} 15. Kb1 {Das ist ein natürlicher Zug, aber er funktioniert
+nicht besonders gut} ({Weiß hat auch versucht} 15. Nfd5 Nxd5 16. Nxd5 Be6 17.
+Nxc7 {funktioniert nicht wegen} ({Nach} 17. Qa5 Bxd5 18. Qxd5 {zeigt} ({Nach} 
+18. Rxd5 Qc6+ {gewinnt} 19. Kb1 Nc4) 18... c5 {die schwarzen Ideen} 19. Rd2 c4
+20. Bc2 Rb5 (20... Qc8 {ist sogar noch besser}) 21. Qxd6 Rxb2 22. Qxa6 ({
+Die einzige Chance war} 22. Kxb2 c3+ 23. Kc1 cxd2+ 24. Bxd2) 22... Qb8) (17. f4
+Bxd5 18. exd5 Ng4 {ist sehr bequem für Schwarz}) (17. Bh6 Bxd5 18. exd5 Bxh6
+19. Qxh6 a5 20. Rd4 Rb4 21. Qd2 Rxd4 22. Qxd4 Qb5 23. Rd1 Rb8 {mit einiger
+Initiative für Schwarz}) (17. Bd4 Bxd5 18. exd5 a5 19. Qc2 Qb5 {mit schwarzem
+Gegenspiel}) (17. Kb1 Bxd5 18. Qxd5 c5 19. Bc1 Qc8 {Schwarz unterstützt den
+Vorstoß nach c4}) 17... Qc6+ 18. Qc2 (18. Qc3 Bxb3 19. Qxc6 Nxc6 20. axb3 Rfc8
+{ist gut für Schwarz}) 18... Nc4 {mit gewinnbringendem Angriff}) 15... a5 16.
+Qc2 ({Die Hauptalternative lautet} 16. Bd4 Nfd7 17. Nfd5 c6 18. Ne3 ({Nach} 18.
+Nf4 Ba6 19. Bxe5 Nxe5 20. Qxd6 Bc4 {hat Schwarz die Initiative}) 18... Ba6 {
+[%csl Yd3][%cal Ge5d3,Ga6d3] Schwarz zielt auf das Feld d3} 19. Bxe5 (19. f4
+Nd3 20. Bxg7 Kxg7 {ist viel besser für Schwarz}) 19... Bxe5 20. g4 (20. Bc4
+Qc8 21. g4 Rb4 22. Bxa6 Qxa6 {mit starkem schwarzen Angriff}) 20... Nc5 21. Bc4
+Bxc3 22. Qxc3 Na4 23. Qf6 Rxb2+ 24. Ka1 Bxc4 25. Nxc4 Rc2 26. Nxd6 Qe7 27. Qxe7
+Nc3 28. Qxf8+ Kxf8 29. Nxf7 Rxa2#) 16... Bd7 17. Bd4 Kh7 {Schwarz entfernt
+seinen König von der Diagonalen a2-g8} 18. Nd3 (18. Nh3 {wurde auch empfohlen}
+c5 19. Bxe5 Qxe5 20. f4 Qe7 21. Ng5+ Kg8 22. Qd3 a4 23. Bxa4 Bxa4 24. Nxa4 Rb4
+25. Nc3 Rfb8 {Für den Bauern hat Schwarz starken Angriff}) 18... Nc6 {Das ist
+am ehrgeizigsten} 19. Bxf6 ({Nach} 19. Be3 Nb4 20. Nxb4 Rxb4 {hat Schwarz
+klare Initiative}) 19... Bxf6 20. Nd5 Bg7 21. Ba4 (21. Nxc7 {geht nach hinten
+los} Qd8 22. Nd5 Nd4 23. Qc4 Bb5 24. Qc7 a4 25. Qxd8 Rfxd8 26. Bc2 Rdc8) 21...
+Ne5 22. Bxd7 Qxd7 23. Rd2 ({Der c-Bauer bleibt weiterhin tabu} 23. Qxc7 Qxc7
+24. Nxc7 Nxd3 25. Rxd3 Rxb2+ 26. Kc1 Rc8) 23... Rb7 24. Ne3 Nxd3 25. Qxd3 Rfb8
+{Schwarz hat einen sehr stakren Angriff} *
+

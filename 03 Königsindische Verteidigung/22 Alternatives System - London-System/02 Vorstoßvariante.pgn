@@ -1,0 +1,52 @@
+﻿[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "London-System"]
+[Black "Vorstoßvariante"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "Victor Bologan"]
+[PlyCount "32"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bf4 {[%csl Ye5][%cal Rf4e5,Rd4e5]
+Weiß spielt ein London-System mit einem Bauern auf c4 und kontrolliert
+zuverlässig das Feld e5. In der Regel wird er die Bauern auf e3, d4 und c4
+stellen. Die Springer bleiben auf f3 und c3 und die Läufer auf f4 und e2. Die
+Türme gegen nach d1 und c1. Schwarz wird Probleme haben, seine Bauern nach c5
+oder e5 zu stellen.} d6 {Schwarz vermeidet mit diesem Zug, in die
+Stellungsmuster der Grünfeld-Verteidigung nach d7-d5 einzulenken. Er möchte
+zunächst eine Art Königsindische Verteidigung spielen} 6. e3 {Dieser Zug
+stellt die Hauptvariante dar. Aber Weiß hat auch noch andere Züge zur
+Verfügung} c5 {Dieser Zug ist die prinzipielle Antwort von Schwarz. Er
+öffnet für die Dame die Diagonale nach b6 oder a5 und kombiniert zusammen
+mit dem Läufer auf g7 ein Druckspiel gegen den Bauern d4 oder sogar gegen b2}
+({Man muss sich klar machen, dass die Läuferjagd an dieser Stelle nicht
+funktioniert} 6... Nh5 7. Bg5 h6 8. Bh4 g5 9. Nd2 $1 {[%csl Yd1,Yh5][%cal
+Rd1h5] Weiß nutzt die ungesicherte Stellung des Springers auf h5 aus und
+nutzt die Schwächung des schwarzen Königsflügels aus} Nf6 10. Bg3 {Schwarz
+hat keine Kompensation für den geschwächten Königsflügel}) {Mit der
+Vorstoßvariante} 7. d5 {[%csl Ya3] reduziert Weiß verfrüht die Spannung im
+Zentrum und Schwarz erhält ausgezeichnetes Gegenspiel auf den Flügeln} Qb6 8.
+Rb1 {Weiß verteidigt den angegriffenen Bauern} ({Weiß kann auch versuchen,
+wie im eigentlichen London-System die Damen zu tauschen} 8. Qb3 Qxb3 9. axb3
+Na6 10. e4 Nb4 11. O-O-O $6 {Das ist vielleicht ein etwas unvorsichtiger Zug}
+Ng4 12. Bg3 f5 {Schwarz kommt zu guten Zügen und einer Öffnung der Stellung}
+13. h3 fxe4 14. Nxe4 Nf6 {Die schwarzen Figuren sind viel aktiver als die
+weißen, speziell die Läufer}) 8... e5 {Das ist ein spektakulärer Zug, der
+mit einem möglichen Bauernopfer verknüpft ist} {Das ist die sicherste
+Fortsetzung} 9. Bg5 ({Es ist viel zu riskant, wenn Schwarz das Bauernopfer
+annimmt} 9. dxe6 Bxe6 10. Qxd6 Nc6 11. Qd1 Bf5 {Schwarz hat einen großen
+Entwicklungsvorsprung und eine mächtige Initiative}) 9... Bf5 10. Bd3 e4 $5 {
+Dies führt zu einer forcierten Abwicklung. Wenn Schwarz auf d3 tauschen
+würde, dann garantiert dies keinen Ausgleich für Schwarz} 11. Bxf6 exf3 12.
+Bxg7 fxg2 13. Rg1 Bxd3 14. Qxd3 Kxg7 15. Rxg2 Nd7 {Diese forcierte Abwicklung
+ist nun beendet und die Stellung hat sich beträchtlich vereinfacht. Der
+weiße König ist viel gefährderter als sein Gegenpart und zusätzlich muss
+er sich um das Feld e5 sorgen. Mittlerweile hat Weiß ein sehr mächtiges
+Bauernzentrum aufgebaut und Raumvorteil erhalten} 16. f4 f5 {[%csl Ye4,Yf6,Yh8]
+[%cal Gg7h8,Rd7f6,Rf6e4] Schwarz kann in dieser Stellung den Springer nach f6
+bringen, aber er muss auf die Fesselung des g-Bauern aufpassen} *
+

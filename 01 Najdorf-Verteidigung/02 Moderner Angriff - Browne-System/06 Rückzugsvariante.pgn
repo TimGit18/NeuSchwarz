@@ -1,0 +1,53 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Rückzugsvariante"]
+[Result "*"]
+[ECO "B95"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "50"]
+[EventDate "2012.04.21"]
+[SourceDate "2012.04.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Der Versuch der
+direkten Widerlegung von Najdorf: Weiß möchte lang rochieren, im Zentrum oder
+auf dem Königsflügel durchbrechen - je nachdem, ob Schwarz kurz rochiert oder
+in der Mitte bleibt} e6 {Das ist die übliche Antwort von Schwarz. Er
+kontrolliert das Schlüsselfeld d5. Das Bauernpaar e6 und d6 soll Weiß auf
+Abstand halten, den Entwicklungsrückstand aufholen und Gegenspiel am
+Damenflügel beginnen} 7. f4 {Dieser aggressive Bauernvorstoß ist die weiße
+Standardmethode. Er möchte Schwarz mit einem schnellen Vorstoß e4-e5 vom Brett
+fegen.} h6 {Dieser Zug ist vielleicht unterbewertet. Er passt gut in das
+Konzept mit g7-g5 und einem späteren Sd7-e5} 8. Bh4 {Weiß erreicht nichts mit
+dem Schlagen des Springers} Be7 {Schwarz verhindert mechanisch den Vorstoß
+e4-e5} 9. Qf3 {Weiß überdeckt e4, bringt die Dame auf den Königsflügel und
+bereitet die lange Rochade vor} Qc7 {Ein wichtiger Zug, der e5 überdeckt und
+den Königsläufer von Weiß nicht nach c4 läßt} 10. O-O-O {Weiß hat seine
+Figuren sehr aggressiv aufgestellt, wohingegen Schwarz mehr auf die
+Koordination seiner Figuren geachtet hat} Nbd7 {In dieser Stellung hat Weiß
+mehrere Optionen} 11. Bg3 {Vielleicht ist dies die wichtigste der Alternativen.
+Weiß bereitet e5 vor und hofft auf den verdeckten Angriff auf die schwarze Dame
+} ({(a) Etwas künstlich scheint} 11. Rg1 b5 12. Bd3 b4 13. Nce2 Bb7 14. Kb1 Nc5
+15. Bxf6 Bxf6 16. g4 O-O-O 17. Qe3 Kb8 {Schwarz hat das Läuferpaar und etwas
+Vorteil}) ({(b) Der weiße Vormarsch ist sehr langsam nach} 11. Bf2 b5 12. a3
+Bb7 13. Bd3 Nc5 14. Kb1 Rc8 15. Rhe1 O-O 16. Qh3 d5 17. e5 Nfe4 {und Schwarz
+hat ganz gute Chancen}) 11... b5 12. e5 Bb7 13. Qe2 dxe5 14. fxe5 Nd5 15. Ne4 (
+{(a)} 15. Nxe6 {ist nicht ganz ausreichend, obwohl Schwarz hier aufpassen muss}
+fxe6 16. Nxd5 Bxd5 17. Rxd5 exd5 18. e6 Qc6 19. Qh5+ (19. exd7+ Kxd7 20. Qd1
+Rae8 21. Bd3 Bg5+ 22. Kb1 Rhf8 {konsolidiert Schwarz}) 19... Kd8 20. exd7 g6
+21. Qd1 Kxd7 22. Bd3 Kc8 {Schwarz sollte den König nach b7 bringen und seinen
+Materialvorteil verwerten}) ({(b) Ein anderer aggressiver Versuch ist} 15. Nxd5
+Bxd5 16. Nf5 {Schwarz sollte mutig gegensteuern mit} Bxa2 17. Nxe7 Kxe7 {
+Es scheint so, dass Weiß nicht genügend Ressourcen hat, um den Angriff zu
+beenden} 18. Qf3 ({Oder} 18. Qg4 Rhc8 19. Rd2 Kf8 20. Qb4+ Nc5 21. Bf2 Bd5 {
+Schwarz hat einen Mehrbauern und den sichereren König}) 18... Rhc8 19. Qa3+ (
+19. Rd2 Bd5 20. Qg4 Kf8 21. Qb4+ Nc5) 19... Qc5 20. Qxc5+ Rxc5 21. Be1 Rc6 22.
+Bb4+ Ke8 23. Bd6 Bd5 {Schwarz hat einen Mehrbauern}) 15... Qa5 {[%csl Ya2]
+[%cal Ra5a2]} 16. Kb1 (16. Nd6+ Bxd6 17. exd6 Nc5 18. Kb1 Rd8) 16... O-O 17.
+Nd6 Bxd6 18. exd6 {Weiß hat das Läuferpaar und einen starken Freibauern, aber
+das sollte Schwarz nicht stören} Nb4 {provoziert eine Schwäche} 19. a3 Nd5 20.
+Nb3 Qb6 21. Qd2 N5f6 22. Bd3 Be4 23. Bxe4 Nxe4 24. Qd4 Qxd4 25. Rxd4 f5 {
+mit etwas Vorteil für Schwarz} *
+

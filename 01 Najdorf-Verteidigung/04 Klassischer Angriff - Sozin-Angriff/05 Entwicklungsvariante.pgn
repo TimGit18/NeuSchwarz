@@ -1,0 +1,32 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sozin-Angriff"]
+[Black "Entwicklungsvariante"]
+[Result "*"]
+[ECO "B87"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "19"]
+[SourceDate "2015.02.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 {Die
+Entwicklungsvariante beginnt mit} 7. Bg5 Be7 8. Bb3 ({(a)} 8. f4 Qc7 9. Bb3 h6
+10. Bh4 {Der Abtausch gibt Weiß keinen Vorteil, daher muss er den Läufer
+zurückziehen} Nxe4 11. Bxe7 Nxc3 12. Qg4 Qxe7 13. Qxg7 Qf8 14. Qxf8+ Kxf8 15.
+bxc3 Nd7 {In diesem Endspiel ist Schwarz leicht besser, denn die
+Bauernstruktur von Weiß ist zerstört und die meisten Figuren sind schon
+abgetauscht}) ({(b)} 8. O-O Qc7 9. Bb3 O-O 10. Qf3 ({Oder} 10. f4 h6 11. Bh4
+Nxe4 12. Bxe7 Nxc3 13. Bxd6 Qxd6 14. bxc3 Nc6 $15) 10... b5 11. a3 Nbd7 12. Qg3
+Bb7 {Dank seiner gut entwickelten Figuren hat Schwarz eine ausgezeichnete
+Stellung}) ({(c)} 8. Qd2 h6 $1 9. Be3 Ng4 10. O-O Qc7 11. Bb3 O-O 12. Rad1 Nxe3
+13. Qxe3 Nc6 {Schwarz ist leicht besser dank seiner zwei Läufer und der
+schwachen schwarzen Felder im eigenen Lager}) 8... Qa5 ({Oder auch} 8... Nc6 {
+wie im Klassischen Sozin-Angriff}) 9. Qd2 (9. Bd2 {Kein großer Zug, aber
+Weiß will den Abtausch des Läufers verhindern} Qc7 10. O-O O-O 11. Qf3 b5 12.
+a3 Bb7 {führt zu einer vernünftigen Stellung, in der Schwarz keine Probleme
+hat}) 9... h6 10. Bxf6 ({(a) Nach} 10. Bh4 Nxe4 11. Nxe4 Qxd2+ 12. Kxd2 Bxh4
+13. Nxd6+ Ke7 {steht Schwarz leicht besser}) ({(b)} 10. Be3 Ng4 11. O-O-O Nxe3
+12. Qxe3 Bd7 {Nach Eliminierung des weißen Damenläufers kann Schwarz keine
+Probleme mehr haben und er kann um die Inititiative kämpfen}) *
+

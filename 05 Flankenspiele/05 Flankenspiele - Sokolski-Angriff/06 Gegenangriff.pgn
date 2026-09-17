@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sokolski-Angriff"]
+[Black "Gegenangriff"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "42"]
+[SourceVersionDate "2024.09.28"]
+
+{[%evp 0,22,16,-49,-54,-54,-43,-43,-43,-49,-22,-62,-10,-80,-36,-36,-36,-49,-20,-53,-53,-45,-39,-39,-47]} 1. b4 {Die Sokolski-Eröffnung gewinnt Raum auf dem Damenflügel, bevor das schwarze Zentrum angegriffen wird.} e5 2. Bb2 {Das ist der Hauptzug, aber Weiß kann auch ruhiger spielen.} Bxb4 {Dieser aktive Schlagzug ist nicht so beliebt wie man denkt. Denn Schwarz gibt einen Zentrumsbauern gegen einen Flügelbauern, erhält aber dafür einfache und schnelle Entwicklung sowie taktische Möglichkeiten auf der e-Linie.} 3. Bxe5 Nf6 4. e3 {Diese gewöhnliche Stellung kann als Ausgangspunkt gesehen werden.} O-O 5. Nf3 Re8 $1 {Schwarz braucht wirklich nicht viele Kenntnisse, um diese Variante zu spielen. Er muss sich nur schnell und aktiv entwickeln. Außerdem soll er zuerst den Königsflügel entwickeln und dann mit d7-d5 durchbrechen, wobei die Damenspringer-Entwicklung wegen der aggressiven Lf1-b5 verzögert wird.} 6. c4 {Weiß sollte üblicherweise das schwarze Zentrum mit einem schnellen c2-c4 anfechten.} d5 7. cxd5 {Weiß muss schon wissen, was er tut.} Nxd5 {Der Gegenangriff} 8. Bc4 Bg4 9. Bb2 Nxe3 $1 {ist praktisch sehr gefährlich, führt aber vielleicht nur zu einem Remis, sollte sich Weiß korrekt verteidigen.} ({Schwarz kann auch in Betracht ziehen, sich umsichtiger zu entwicklen mit} 9... Nc6 10. O-O Qd7) 10. fxe3 Rxe3+ 11. Kf2 Rxf3+ 12. gxf3 Qh4+ 13. Kg1 (13. Ke3 $6 {ermutigt Schwarz für mehr zu spielen} Bh5 14. Qg1 $2 Bc5+ 15. d4 Nc6 16. dxc5 Re8+ 17. Kd3 Bg6+ 18. Kc3 Qf6+ {mit gewinnbringender Königsjagd}) 13... Bh3 14. Bf1 {Mehr verspricht} Nc6 {mit guten Angriffschancen, einem gesunden Entwicklungsvorsprung und drei Bauern für den Turm. Eine gute Engine mag das Opfer widerlegen, aber in der Praxis kann folgen} (14... Qg5+ 15. Kf2 Qh4+ 16. Ke2 Qe7+ {ist ein Dauerschach.}) 15. Bxh3 Qxh3 16. Qf1 Qf5 17. Qg2 (17. Qe2 Rd8 18. Qe4 {ist eine Engine-Idee, aber Schwarz kann zumindest remisieren} Bc5+ 19. Kg2 Qg5+ 20. Kh3 Qh6+ 21. Kg3 Nd4) 17... Bc5+ 18. Kf1 Nd4 19. Qg4 $2 ({Korrekt ist} 19. Bxd4 $1 Bxd4 20. Nc3 Re8 21. Re1 {, wonach Schwarz das Remis forcieren kann} Rxe1+ ({Oder er strebt nach höherem} 21... Qd3+ 22. Ne2 Qxd2 23. f4 Bc5) 22. Kxe1 Bxc3 23. dxc3 Qb1+ 24. Kf2 Qb6+) 19... Qd3+ 20. Kg2 Re8 21. Rg1 f5 {mit gewinnbringenden Angriff für Schwarz, da die Mehrheit der weißen Figuren noch nicht in der Lage sind, dem eigenen König zu helfen.} *
+

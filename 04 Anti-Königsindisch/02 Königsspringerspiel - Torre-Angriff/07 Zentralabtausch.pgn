@@ -1,0 +1,57 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torre-Angriff"]
+[Black "Zentralabtausch"]
+[Result "*"]
+[ECO "A48"]
+[Annotator "Yelena Dembo"]
+[PlyCount "34"]
+[EventDate "2011.08.09"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 {Der Torre-Angriff ist ein seriöser Versuch um
+den Eröffnungsvorteil zu kämpfen. Im Gegensatz zum London-System entwickelt
+Weiß seine Figuren aktiver und baut an starkes Zentrum mit e2-e4 und Sb1-d2.
+Der Damenläufer übt Druck auf Schwarz aus, wohingegen der Königsläufer
+nach c4 entwickelt werden soll. Alles in allem ist dies kein harmloses System
+und muss daher aktiv bekämpft werden. Schwarz operiert wieder mit der
+Bauernkette d6 und c5 und baut Druck gegen den Bauern d4 auf, den Weiß
+meistens abtauscht.} 4. Nbd2 {Weiß bereitet e2-e4 vor.} O-O {Weiß muss nun
+eine Wahl treffen zwischen zwei verschiedenen Strategien.} {Grundsätzlich hat
+Weiß immer die Option} 5. e4 {direkt zu spielen. Hier muss Schwarz energisch
+reagieren.} d5 6. exd5 {Der Zentralabtausch garantiert Schwarz beträchtliche
+Aktivität - dank seinem zentralisierten Springer.} Nxd5 {Weiß hat eine
+verlangsamte Entwicklung, die schwarzen Prioritäten liegen auf dem Durchbruch
+c7-c5 und dem Zug h7-h6 (wonach der Läufer abgetauscht wird oder der Springer
+auf das Feld f4 kommt).} 7. c4 {Weiß versucht die Initiative an sich zu
+reißen, aber dies wird scheitern und ein Loch auf d4 hinterlassen.} ({(a)} 7.
+c3 h6 8. Bh4 (8. Be3 Nxe3 9. fxe3 e5 10. Bc4 exd4 11. exd4 c5 {zerstört die
+weiße Zentralbastion, nach dem weiteren} 12. dxc5 Re8+ 13. Kf2 Qe7 14. Re1
+Qxc5+ 15. Kf1 Rxe1+ 16. Qxe1 Bd7 {steht Schwarz sehr gut.}) 8... Be6 $1 9. Bc4
+Nd7 {und Schwarz ist bereit für den Befreiungsschlag c7-c5.}) ({(b)} 7. Nb3 {
+öffnet ein Feld für den Läufer, aber der weiße Plan ist zu passiv.} h6 8.
+Bd2 Nd7 {Schwarz bereitet nun den Durchbruch mit e7-e5 vor.} 9. c4 N5b6 $1 {
+Weiß muss hier eine Wahl treffen.} 10. Bf4 {verhindert den Durchbruch auf e5,
+aber erlaubt} (10. Be2 e5 $1 11. Nxe5 Nxe5 12. dxe5 Bxe5 13. Bxh6 Re8 {mit
+Initiative für den Bauern, der bald wiedergeholt wird.}) 10... c5 11. d5 Na4
+12. Rb1 b5 $1 {Weiß wird kein Aufschub gewährt.} 13. cxb5 Ndb6 14. Be5 Qxd5
+15. Qxd5 Nxd5 16. Bd3 Be6 17. O-O Nb4 {mit starker schwarzer Initiative.}) ({
+(c) Nach} 7. Bc4 c5 8. Nb3 ({Oder} 8. c3 cxd4 9. Nxd4 Nb6 10. Bb3 h6 11. Be3
+Nd5 12. Bxd5 Qxd5 13. Qf3 Qxf3 14. N2xf3 Bd7 15. O-O-O Nc6 {, wonach das
+Läuferpaar gute Chancen verheißt.}) 8... cxd4 9. Nbxd4 {liegen die
+langfristigen Aussichten eher bei Schwarz, da er einen Zentralbauern mehr hat.
+Weiterhin muss Weiß einige unangenehme Probleme nach} h6 {lösen, zum Beispiel
+} 10. Bc1 (10. Bh4 Nf4 11. O-O Qc7 {ist ebenso besser für Schwarz.}) 10... e5
+11. Nb3 Nb6 12. Qxd8 Rxd8 13. Be2 Nc6 14. c3 Bf8 15. Bd2 a5 $1 {blamiert den
+Springr auf b3.} 16. O-O-O a4 {und Schwarz hat das bessere Spiel.}) 7... Nb6 {
+[%csl Yc6,Yd4,Yg4][%cal Gb8c6,Rc6d4,Gc8g4,Rg4f3] Schwarz will den Druck auf d4
+erhöhen. Weiß hat keinen bequemen Weg, um mit diesem Problem umzugehen.} 8.
+Nb3 a5 $1 {Wie üblich ist dieser Vorstoß gegen den Springer b3 gerichtet,
+was den Punkt d4 unterminiert.} 9. Qd2 (9. a4 {stoppt den Vormarsch des
+a-Bauern, aber löst nicht die weißen Probleme nach} Be6) 9... a4 10. Nc5 a3 {
+Obwohl die meisten seiner Figuren noch auf der Grundreihe stehen, übt Schwarz
+starken Druck aus und steht bereits besser.} 11. b3 Nc6 12. Rd1 Bg4 {Weiß
+muss nun das Feld d4 aufgeben.} 13. d5 Bxf3 14. gxf3 Nd4 15. Bg2 Nd7 {Sehr
+stark, denn} 16. Nxb7 $6 {scheitert an} Qc8 17. Be3 Nxb3 $1 *
+

@@ -1,0 +1,80 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vier-Bauern-Angriff"]
+[Black "Symmetrie-Variante"]
+[Result "*"]
+[ECO "E77"]
+[Annotator "David Vigorito"]
+[PlyCount "32"]
+[EventDate "2012.03.08"]
+[SourceDate "2012.03.08"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 {Der Vier-Bauern-Angriff ist
+nicht so beliebt wie die anderen Varianten, aber attraktiv für aggressive
+Spieler. Weiß erobert soviel Raum wie nötig und will Schwarz mit seinen Bauern
+vom Brett fegen. Schwarz muss daher um Initiative kämpfen und rechtzeitig
+gegen den schwachen Punkt d4 operieren. Weiß will mit e4-e5 vorgehen und das
+Zentrum überrennen. Schwarz muss mit c7-c5 dagegen halten, eventuell den
+Springer auf f6 wegziehen und den Läufer auf g7 aktivieren} O-O {Der erste
+schwarze Zug entspricht noch dem Standardplan. Es ist zu früh für Weiß, mit
+den Bauern nach vorne zu marschieren, denn Schwarz zieht einfach seinen
+Springer zurück und schlägt gegen das Zentrum mit c7-c5} 6. Nf3 {Weiß
+unterstützt daher den geplanten Vormarsch mit dem Entwicklungszug Sg1-f3. Er
+überdeckt außerdem ein weiteres Mal das Feld d4} c5 {Schwarz muss jetzt das
+weiße Zentrum attackieren und verushcen, die schwarzen Felder im Zentrum zu
+schwächen. Er steuert damit allerdings eine Benoni-Struktur (mit der
+Bauernkonstellation c5 und d6) an.} 7. d5 {Wie in der Moderenen
+Benoni-Verteidigung üblich zieht Weiß auf d5 vor und erobert Raum im Zentrum.
+Hinter einem massiven Bauernzentrum d5 und nach einem eventuellen e4-e5 können
+sich die weißen Leichtfiguren prächtig aufbauen. Schwarz muss unverzüglich
+dsas weiße Zentrum bekämpfen} e6 {Schwarz greift den vorgerückten Damenbauern
+wie im Modernen Benoni mit seinem Königsbauern an. Er will die Königslinie
+öffnen und Druck auf den weißen Bauern e4 aufbauen} 8. Be2 {Weiß könnte auch
+auf e6 nehmen und Schwarz eine Bauernschwäche auf d6 zufügen wie in der
+Moskalenko-Variante. Er möchte aber zunächst seine Entwicklung beenden und den
+König rochieren} exd5 {Schwarz öffnet plangemäß die e-Linie. Jetzt muss sich
+Weiß überlegen, ob er in eine symmetrische oder asymmetrische Zentrumsstruktur
+wiedernehmen will oder ob er den gewagten Vorstoß e4-e5 risikiert} 9. exd5 {
+Dieser unnatürliche Zug ist sehr ungewöhnlich. Weiß gibt sein großes
+Bauernzentrum einfach auf. Er schwächt alle Felder auf der e-Linie in der
+Hoffnung auf einen Angriff mit dem vereinzelten f-Bauern. Die weißen
+Möglichkeiten sollten nicht leichtfertig unterschätzt werden, aber der ganze
+Aufbau ist nicht konsequent im Sinne des Vier-Bauern-Angriffs} Re8 {Dieser Zug
+bildet die Hauptvariante und er sieht auch am logischsten aus. Schwarz
+kontrolliert die e-Linie und er wird versuchen, einige Leichtfiguren
+abzutauschen, da er weniger Raum hat} 10. O-O {Weiß entfernt den König aus der
+e-Linie und bringt den Turm an das Zentrum} Bf5 {Ein zentralisierender
+Entwicklungszug, der die Kontrolle über die schwachen weißen Felder verstärkt.
+Außerdem blockiert er den Bauern f4, so dass dieser nicht vorrücken kann} 11.
+Bd3 {Weiß bewegt die bereits entwickelte Leichtfigur ein zweites Mal, um den
+gut platzierten Läufer von Schwarz zu entfernen und seinen eigenen schlechten
+Läufer los zu werden} Qd7 {Schwarz hält die Blockade am besten aufrecht. Er
+könnte auch auf d3 tauschen, aber das Schlagen würde nur die gegnerischen
+Figuren auf bessere Felder führen} 12. Qc2 {Weiß versucht die Läufer
+abzutauschen, um den Widerstand auf dem Feld f5 zu brechen} ({(a) Der Zug} 12.
+Nh4 {versucht ebenfalls die Blockate auf f5 zu brechen, aber der Springer
+steht hier schlecht} Bxd3 13. Qxd3 Ng4 14. Nf3 Na6 15. a3 f5 16. h3 Nf6 17. Ng5
+Nc7 18. Bd2 Rab8 {mit mindestens gleichen Chancen für Schwarz}) ({(b) Die
+Empfehlung} 12. Bxf5 {stammt von Taylor} gxf5 {Das ist eine Standardidee.
+Schwarz hat gute Kontrolle über die weißen Felder im Zentrum und keine
+großen Schwächen} 13. Qd3 Na6 14. a3 Ne4 15. Be3 Nc7 16. Rae1 Re7 17. Bf2 {
+Der Läufer soll nach h4 gebracht werden} Rae8 18. Bh4 Bxc3 19. bxc3 f6 {
+mit der Idee Te7-g7 ergibt eine zweischneidige Stellung}) ({(c) Mit dem Zug} 
+12. h3 {versucht Weiß, die Blockade auf dem Feld f5 auf die grundlegende Art
+zu durchbrechen}) 12... Na6 {Schwarz entwickelt seine letzte Leichtfigur. Er
+droht zwar mit einer Gabel auf b4, aber Weiß kann zunächst Schwarz einen
+Doppelbauern auf f5 schaffen} 13. Bxf5 gxf5 {Schwarz darf nicht mit der Dame
+schlagen, denn nach dem Damentausch würde Weiß ohne Probleme den Bauern f5 mit
+Springer auf h4 gewinnen. Jetzt kann Schwarz immer noch den Springer auf e4
+dazwischenziehen} 14. a3 {Weiß überdeckt das Feld b4 und bereitet den
+Vormarsch auf dem Damenflügel vor} Ne4 {Schwarz platziert seinen Springer auf
+einem schönen Zentralfeld. Außerdem öffnet er die lange Läuferdiagonale in die
+weiße Stellung} 15. Bd2 {Weiß entwickelt seine letzte Figur und verteidigt den
+geschwächten Punkt c3} Nc7 {Auf a6 stand der Springer wegen des Bauern a3
+nicht mehr gut. Auf c7 kann er noch den Vormarsch b7-b5 unterstützen} 16. Rae1
+{Weiß versucht ein Druckspiel gegen den Springer auf e4 aufzuziehen. Aber er
+kann nicht einfach nehmen, denn am Ende hängt auch b2} b5 {Schwarz hat in
+dieser Stellung ein ausgezeichnetes Gegenspiel} *
+

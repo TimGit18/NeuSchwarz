@@ -1,0 +1,54 @@
+﻿[Event "Bologan's King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Königsindisch"]
+[Black "Doppelfianchetto"]
+[Result "*"]
+[ECO "A49"]
+[Annotator "Victor Bologan"]
+[PlyCount "31"]
+[SourceVersionDate "2022.10.09"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 d6 5. d4 {Das Doppelfianchetto ist eine
+ernsthafte Waffe gegen Königsindisch und erfordert präzises Spiel.} c5 $1 {
+Es ist wichtig einen Angriff auf das Zentrum vor der Rochade zu starten.} 6.
+Bg2 ({(a) Sehr zahm ist} 6. c3 O-O 7. Bg2 cxd4 8. cxd4 Qa5+ 9. Qd2 Qxd2+ 10.
+Nbxd2 Nc6 11. O-O {Schwarz hat schon quasi ausgeglichen.} Bf5 12. Rfc1 Rfc8 13.
+Ne1 d5) ({(b) Ebensowenig gefährlich ist} 6. e3 O-O 7. Bg2 d5 8. O-O Nc6 9.
+dxc5 Qa5 10. Nd4 Qxc5 11. Ba3 Qb6 12. Nxc6 bxc6 13. Bxe7 Re8 14. Bxf6 Bxf6 15.
+c3 Bf5 {Mit dem Läuferpaar steht eher Schwarz besser in einer halboffenen
+Stellung.} 16. Qd2 a5 17. Rc1 Rad8 18. Qd1 c5 19. Nd2 d4 {Schwarz ergreift die
+Initiative und öffnet das Zentrum.}) ({(c) Die Tauschvariante startet mit} 6.
+dxc5 Qa5+ 7. Nbd2 Qxc5 {mit einer Bauern-Mehrheit im Zentrum.}) ({(d) Der
+Vorstoß} 6. d5 {wird gekontert mit} b5 {, wonach es Schwarz leichter gemacht
+wird, die b-Linie zu öffnen.} 7. Bg2 O-O 8. O-O Bb7 9. c4 bxc4 10. bxc4 Nbd7
+11. Nbd2 Nb6 12. Qc2 Bc8 13. e4 Qe8 14. e5 {1/2-1/2 (14) Petkevich,J (2442)
+-Arizmendi Martinez,J (2521) Biel 2003}) ({(e) Die Königsindische Variante
+lautet} 6. c4 {Schwarz kann die Tatsache ausnutzen, dass Weiß noch nicht
+rochiert hat.} Ne4 7. Bg2 Qa5+ 8. Nfd2) 6... cxd4 7. Nxd4 d5 {Der Kampf um das
+Zentrum ist ein Hauptprinzip der Entwicklung in der frühen Phase der Partie.}
+8. O-O O-O 9. c4 ({(a) Trödelei kann sich Weiß nicht erlauben} 9. Na3 e5 10.
+Nf3 e4 11. Nd4 Nc6) ({(b) Kaum Vorteil verspricht} 9. Nf3 Nc6 10. Na3 Qa5 {
+mit der Idee e7-e5 und d5-d4 unter Ausnutzung der Fesselung auf der langen
+Diagonalen.}) 9... dxc4 10. bxc4 {Weiß scheint hier einige Vorteile zu haben:
+der aktive Springer auf d4, der mächtige Läufer auf g2 und einen möglichen
+Druck auf der b-Linie.} Qb6 11. Qb3 ({(a) Das passive} 11. Nb3 {ist schlecht,
+da Schwarz jetzt die Initiative ergreifen kann} Rd8 12. Qc1 Nc6 13. Nc3 Be6 14.
+Na4 Qc7 15. Nac5 Bd7 16. Nd3 Rac8 17. Qf4 Qxf4 18. Nxf4 Nh5 {mit etwas
+besserer Stellung für Schwarz in ½-½ (35) Jovic,A (2381)-Arsovic,G (2469)
+Zlatibor 2008}) ({(b) Gegen} 11. Qc2 {spielt Schwarz im Zentrum} Nc6 12. Nxc6
+bxc6 13. Nd2 Bf5) ({(c) Das aggressive} 11. Nb5 {verursacht keine Probleme nach
+} Rd8 12. Qb3 a6 13. N5c3 Qxb3 14. axb3 Nc6 15. Na4 Bf5 16. Nb6 Rab8 17. Bxc6
+bxc6 18. Rxa6 Nd7 19. Nxd7 Rxd7 20. Bxg7 Kxg7 21. Ra3 Bc2 {1/2-1/2 (73) Muse,D
+(2418)-Brener,I (2321) Playchess. com INT 2005}) ({(d) Falls} 11. Qc1 {, so
+folgt} Bd7 12. Nd2 Nc6 13. c5 Qc7 14. Nb5 Qc8 15. Ne4 Nxe4 16. Bxe4 Ne5 17. Nd4
+Rb8 18. Rb1 Qc7 19. Qc2 Rfc8 20. Rfc1 Qa5 21. Qc3 Qxc3 22. Rxc3 Nc6 23. Nxc6
+Bxc6 24. Rc4 $2 b5 {0-1 (24) Dizdarevic, E (2520)-Svidler,P (2690) Bled 2002})
+11... Nfd7 $1 {Die Fesselung des Springers auf d4 spielt eine Schlüsselrolle
+für Schwarz in diesem System.} 12. e3 ({Den Turmzug} 12. Rd1 {sollte Weiß
+vermeiden wegen} Nc6 13. e3 Nc5) 12... e5 {Auf Kosten der Schwächung der
+Felder d6 und d5 entwickelt Schwarz seinen Damenflügel.} 13. Nb5 Nc5 14. Qa3
+Be6 15. Nd2 Rd8 16. Bc3 {Sonst geht die Initiative im Zentrum verloren. Dieses
+ist die Hauptvariante.} *
+

@@ -1,0 +1,52 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Zahme Variante"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "44"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitestetn und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben} {
+Der Zug} 8. e3 {ist ziemlich zahm, aber Schwarz sollte schon wissen, wie er
+das Gegenspiel organisiert} Rb8 {Wahrscheinlich ist es wie immer am besten,
+dem Hauptplan zu folgen} 9. Qe2 {Ander Züge transponieren bloß} ({(a) In das
+Doppelfianchetto mündet} 9. b3) ({(b) Nach Bologan wird} 9. Ne1 {mit} Bg4 10.
+f3 Bd7 11. Nd3 b5 {und Gegenspiel beantwortet}) 9... b5 {Weiß kann diesen
+Bauern nicht gewinnen} 10. Rd1 ({(a) Er kann es versuchen} 10. cxb5 axb5 11.
+Nxb5 Ba6 12. a4 Na7) ({(b)} 10. b3 bxc4 {transponiert wieder in das
+Doppelfianchetto}) ({(c)} 10. Nd2 {erlaubt wieder} Bg4) 10... e6 {Schwarz
+entgegnet dem nicht sehr verpflichtenden Spiel von Weiß mit einem flexiblen
+Zug seinerseits} 11. Nd2 ({Auf} 11. b3 {empfiehlt Bologan wieder} Bb7 12. cxb5
+axb5 13. Nxb5 (13. Qxb5 Nxd4) 13... Ba6 14. a4 Na7 {mit einer ähnlichen
+Stellung wie oben}) 11... Ne7 {Schwarz will den Springer behalten} 12. a3 Qe8 {
+Schwarz unterstützt den Bauern b5 und enfernt die Dame aus der vom weißen
+Turm gehaltenen d-Linie} 13. b4 ({Von Malaniuk ist der Zug} 13. Rb1 {, aber es
+sieht etwas sinnlos aus. Nach} Bb7 14. Bxb7 Rxb7 15. b4 c6 16. e4 d5 17. e5 Nd7
+18. c5 Nf5 19. Nf3 Qe7 20. Re1 f6 21. h4 fxe5 22. dxe5 {könnte Schwarz hier
+ernsthaft einen Bauern gewinnen} Nxe5 23. Nxe5 Nd4 {wegen} 24. Qe3 Bxe5 25.
+Qxe5 Nf3+) 13... Bb7 14. Bxb7 Rxb7 15. Nb3 ({Weiß kann auch zuerst auf b5
+nehmen} 15. cxb5 axb5 16. Nb3 Nfd5) 15... Rb8 16. cxb5 axb5 17. e4 Qd7 18. Be3
+c6 19. Qf3 Ne8 20. Rac1 Ra8 21. Na5 d5 {Die Idee ist es, den Springer über d6
+nach c4 zu bringen} 22. e5 f6 {Jetzt hat Schwarz Gegenspiel} *
+

@@ -1,0 +1,23 @@
+[Event "Theorie der Schacheröffnungen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bird-Eröffnung"]
+[Black "Krause-System"]
+[Result "*"]
+[ECO "A02"]
+[Annotator "Dr. Max Euwe"]
+[PlyCount "24"]
+[EventDate "2015.??.??"]
+
+1. f4 Nf6 2. Nf3 g6 {Das ist der sogenannte Indo-Bird. Schwarz behält sich
+die Wahl zwischen einem Aufbau mit d7-d5 oder d7-d6 vor. Der Aufbau mit d7-d5
+führt allerdings meistens in die Bahnen des Holländisch im Anzuge.} {Aus der
+Holländischen Verteidigung bekannt ist die Idee von Krause} 3. d3 d5 {
+Gespielt, um e2-e4 zu verhindern.} 4. Nbd2 Nc6 $1 {Das ist eine schlaue Idee
+von Aronin. Er verhindert indirekt den Vorstoß e2-e4.} 5. c3 ({Denn falls
+jetzt} 5. e4 {, so folgt wieder einmal das typische Motiv im Indo-Bird.} e5 6.
+fxe5 Ng4) 5... Qd6 6. g3 e5 7. fxe5 Nxe5 8. Nxe5 Qxe5 9. Nf3 Qe7 10. Bg2 Bg7
+11. O-O O-O 12. Bf4 Re8 {mit besserem Spiel für Schwarz trotz eines Sieges
+für Weiß in Larsen,B-Aronin,L Moscow 1962.} *
+

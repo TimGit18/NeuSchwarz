@@ -1,0 +1,120 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Makogonov-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "E71"]
+[Annotator "David Vigorito"]
+[PlyCount "40"]
+[EventDate "2011.06.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 {[%csl Ye3,Yg4,Yg5][%cal Rg2g4,
+Rc1e3,Re3g5] Das Makogonov-System mit dem Zug h2-h3 hat zwei Hauptideen. Die
+erste Idee ist die Unterstützung des Vorstoßes g2-g4. Zum einen gewinnt
+dieser Vorstoß etwas Raum auf dem Königsflügel, zum anderen soll Schwarz
+von dem traditionellen Gegenstoß f7-f5 abgehalten werden. Die zweite Idee
+liegt darin, dass nun der Entwicklungszug des Damenläufers Lc1-e3 gespielt
+werden kann, ohne auf das störende Sf6-g4 Rücksicht zu nehmen. Oft geht der
+Damenäufer allerdings auch auf das Feld g5 (um den Vorstoße e7-e5 zu
+verhindern) und zieht sich nach der Befragung h7-h6 auf das Feld e3 zurück.
+Die weißen Ideen hinter dem Makogonov-Zug h2-h3 sind also ähnlich wie im
+Sämisch-System oder im Petrosian-System und transponieren oft ineinander.} O-O
+{Schwarz sollte mit dem traditionellen Gegenstoß e7-e5 antworten. In der
+Regel versucht hier Weiß zunächst einen traditionellen Entwicklungszug,
+bevor er seine Läuferentwicklung vorantreibt.} 6. Nf3 {Diese Stellung kann
+auch aus einer Zugumstellung hervorgehen, nämlich wenn Weiß zunächst im
+füngten Zug den Springer nach f3 entwickelt und dann den Bauernzug h2-h3
+vornimmt. Für Schwarz bedeutet dies in der Regel keinen Unterschied} e5 {
+Das ist die prinzipielle Antwort von Schwarz in der Königsindischen
+Verteidigung, mit der ein Anspruch auf das Zentrum abgeleitet wird.} 7. d5 {
+Dieser Zug gilt als die weiße Hauptfortsetzung. Weiß spielt im Geiste der
+Petrosian-Fortsetzung.} a5 {[%csl Ya6,Yc5,Yd7,Ye8][%cal Rb8a6,Rf6d7,Rd7c5,
+Rd8e8] Dieser Zug ist die einfachste Antwort auf das Makogonov-System. Schwarz
+versucht wie gegen das Petrosian-System zu spielen, indem er Sb8-a6, Dd8-e8
+und Sf6-d7 spielt. Wenn diese Züge ausgeführt sind, dann kann Schwarz f7-f5
+spielen. Allerdings sollte Schwarz diesen Plan auch nicht allzu sehr forcieren}
+8. Bg5 {Genau wie im Petrosian-System gilt dieser Zug als der Hauptzug. Weiß
+übt unmittelbar Figurendruck auf die schwarze Stellung aus} ({Die Variante} 8.
+Be2 {führt direkt in das Petrosian-System}) 8... Na6 {[%csl Yb4,Yc5][%cal
+Ga6c5,Ga6b4] Schwarz vermeidet mit diesem Zug jedwede positionellen
+Zugeständnisse wie etwa nach h7-h6 und operiert wie gegen das
+Petrosian-System. Der Springer soll nach c5 gebracht werden, um den Druck auf
+den Bauern e4 zu erhöhen} 9. Nd2 {[%csl Yb3,Ye4,Yf4][%cal Rf2f4,Rd2e4,Rd2b3]
+Der Springer verteidigt zusätzlich den Bauern e4 und mobilisiert den f-Bauern}
+({(a) Die aggressive Zugfolge} 9. g4 Qe8 10. Nd2 {ist nur eine Transposition
+in die Hauptvariante}) ({(b) Weiß kann auch} 9. Bd3 {spielen, aber dies
+sollte Schwarz nicht beunruhigen, denn er kann sein übliches Schema spielen}
+Qe8 10. g4 Nd7 11. Rg1 ({Wenn Weiß} 11. a3 {spielt, dann verhindert er den
+Vorstoß Sa6-b4 mechanisch} Ndc5 12. Bc2 Bd7 {Schwarz überdeckt noch ein
+weiteres Mal die Felder a4 und b5}) 11... Ndc5 {[%csl Yb4][%cal Ra6b4] Wie
+üblich geht der Springer von d7 aus nach c5, um den Läufer auf c8 zu
+befreien und weiteren Figurendruck auf die weiße Stellung auszuüben} 12. Bc2
+{Weiß will den Läufer retten und verhindern, dass ein weiterer Springer nach
+c5 gelangt} Bd7 {[%csl Ya4,Yb5,Yc6][%cal Rd7a4] Schwarz steht gut und der
+Vorstoß Sa6-b4 liegt in der Luft. Der Läufer überdeckt auch noch die
+geschwächten weißen Felder auf dem Damenflügel}) 9... Qe8 {Schwarz hebt die
+Fesselung auf ohne den Königsflügel zu schwächen. Obwohl Grivas den Zug
+h7-h6 empfiehlt, schwächt er damit den Königsflügel. Daher gefällt vielen
+der Zug nicht} 10. g4 {[%csl Yd7,Yf5][%cal Rf6d7,Rf7f5] Das ist ein
+eigenständiger Ansatz von Weiß und einer der Gründe, warum Weiß h2-h3
+spielt. Es wird für Schwarz jetzt noch einmal schwieriger, f7-f5 zu spielen,
+ohne die Stellung seines Königs zu schwächen. Trotzdem sollte Schwarz diesen
+Zug anstreben, denn auch Weiß hat seine Stellung auf dem Königsflügel
+geschwächt und kann jetzt nicht mehr gut kurz rochieren. Ein weiterer Effekt
+des Zugs ist die Verhinderung des Springerzugs nach h5, so dass der Springer
+woanders hinziehen muss} ({Wieder geht} 10. Be2 {in das Petrosian-System über:
+Schwarz spielt} Nd7 {und man erreicht die h3-Variante des Petrosian-Systems})
+10... Nd7 {Schwarz spielt den Springer zurück, um seinerseits den f-Bauern zu
+mobilisieren und den Springer auf den Damenflügel zu transferieren. Auf dem
+Königsflügel hatte er ohnehin keine guten Felder mehr} 11. a3 {Weiß stellt
+mit diesem Zug eine kleine Falle. Vordergründig verhindert er den Einstieg
+des Randspringers auf b4. In Wirklichkeit nimmt er dem Springer auf d7 das
+Feld c5, dass dieser wegen der Fesselung des Springers auf a6 nicht betreten
+darf.} ({(a) Der nassforsche Vorstoß} 11. h4 Ndc5 12. h5 {wird mit} Nb4 $1 {
+entgegnet. Aus zwei schlechten Springern sind zwei sehr starke geworden.
+Schwarz droht sofort mit dem Einstieg auf d3, und die weiße Dame muss den
+Bauern auf g4 verteidigen} 13. Nb3 Nxb3 14. axb3 {Diese Stellung ist schlecht
+für Weiß. Der Springer auf b4 steht sehr stark}) ({(b) Manchmal spielt Weiß
+} 11. Rg1 Ndc5 12. Nb3 Nxb3 13. Qxb3 Nc5 {mit der Idee} 14. Qc2 Bd7 {[%csl Ya4,
+Yb5,Yc6][%cal Rd7a4] Schwarz hat die Standardaufstellung für seine Figuren
+gewählt. Er kontrolliert die wichtigen weißen Felder auf dem Damenflügel.
+Auf dem Königsflügel geht es momentan nicht weiter voran. Der König sollte
+in die Ecke gehen, bevor Schwarz die Stellung mit f7-f5 öffnet}) ({(c) Der Zug
+} 11. Be2 {führt wiederum in das Petrosian-System}) 11... Nb6 {Dieser Zug ist
+hier notwendig. Der Springer steht hier zwar nicht so gut wie auf c5, aber er
+öffnet die Läuferdiagonale und greift wichtige Felder auf dem Damenflügel an
+} ({Der Zug} 11... Ndc5 $2 {ist ein Fehler wegen} 12. b4 axb4 13. axb4 Nd7 14.
+b5 {und die Fesselung auf der a-Linie verliert Material}) 12. h4 {Das ist die
+kritische Fortsetzung. Weiß nutzt das eingesparte Tempo, was er für die
+Läuferentwicklung nach e2 gespart hat} ({(a) Die Entwicklung des Läufers} 12.
+Bd3 Nc5 13. Bc2 a4 {[%csl Yb3][%cal Rc5b3,Ra4b3] ist ein Vorschlag von Bologan.
+Der Damenflügel ist abgeschlossen und kann von Weiß nicht gut geöffnet
+werden, weil sein a-Bauer schwach wird. Schwarz wird Lc8-d7 spielen und den
+eigenen a-Bauern verteidigen. Dann kann er zum Königsflügel übergehen}) ({
+(b) Weiß kann auch den typischen Zug} 12. Rg1 {spielen} Kh8 13. Bd3 Nc5 14.
+Bc2 Bd7 {Schwarz stellt f7-f5 zurück, bis der Augenblick günstig ist}) 12...
+f5 {Dieser Vorschlag stammt von Bologan. Er ist sehr zweischneidig, aber
+Schwarz muss auch etwas riskieren, um die verklumpte Stellung aufzubrechen} 13.
+gxf5 gxf5 14. Rg1 {Weiß erhofft sich von der offenen g-Linie etwas Druckspiel
+gegen den schwarzen König. Aber Schwarz hat die Felder rund um den König
+ganz gut unter Kontrolle} Kh8 15. h5 {Weiß will Schwarz mit diesem Zug
+provozieren selber h7-h6 zu spielen. Aber dies würde nur seine Stellung
+schwächen} Nc5 {Schwarz bringt seine schlechteste Figur in das Spiel} 16. Be3
+{Der Läufer öffnet die g-Linie für den Turm und droht gleichzeitig damit,
+einen der beiden Springer in der Läuferdiagonale zu schlagen. Dies würde die
+schwarze Bauernstruktur sehr schwächen} Nba4 {[%csl Ya4,Yb5,Yc3,Yc6,Yd7][%cal
+Re8a4,Rc5a4,Ra4c3] Spiel auf beiden Flügeln: der Springer auf a4 ist
+hinreichend überdeckt und deckt gleichzeitig seinen Kollegen auf c5. Zum
+anderen droht er den Springer auf c3 zu schlagen und Weiß eine schlechte
+Struktur zu verpassen} 17. Nb5 {Weiß entgegnet der der Drohung mit einer
+Gegendrohung der Gabel auf c7} Qe7 {[%csl Yc7,Ye7,Yh4][%cal Re7c7,Re7h4]
+Schwarz deckt den Bauern auf c7 und visiert das Feld h4 an} 18. b3 {Auf diesen
+Bauernzug muss Schwarz vorbereitet sein} f4 $1 {Das ist ein guter Konter und
+Gegenangriff. Jetzt kann sich der Springer auf a4 befreien} 19. Bxc5 ({Den
+Gefallen} 19. bxa4 fxe3 20. fxe3 Qh4+ {wird Weiß nicht erweisen}) 19... Nxc5
+20. b4 Na6 {Es ist eine interessante Stellung entstanden, jetzt wieder mit den
+klassischen Mustern von weißem Angriff am Damenflügel und schwarzer
+Gegeninitiative am Königsflügel} *
+

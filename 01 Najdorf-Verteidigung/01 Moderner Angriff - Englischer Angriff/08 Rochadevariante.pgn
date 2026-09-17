@@ -1,0 +1,35 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Englischer Angriff"]
+[Black "Rochadevariante"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "24"]
+[EventDate "2012.03.31"]
+[SourceDate "2012.03.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 {Der Englische
+Angriff stammt aus den 1980er Jahren und ist ein aggressives System, das auf
+den Zügen Le3, f3 und g4 basiert. Er strebt die lange Rochade an und will
+seine g- und h-Bauern gegen den gegnerischen König marschieren lassen. Weiß
+kombiniert diese Angrffspläne häufig mit Operationen im Zentrum und auf dem
+Damenflügel} e5 {Der schwarze Aufbau mit d6 und e5 ist der thematische im
+Najdorf-System. Er ist weiniger flexibel als der Scheveninger Aufbau, gewinnt
+jedoch mehr Raum und vertreibt den weißen Springer von seinem schönen Feld d4}
+7. Nb3 {Das ist der ambitionierteste und theoretisch wichtigste Zug für Weiß}
+Be7 {Wie in dem Klassischen System hält Schwarz die Symmetrie zunächst am
+besten aufrecht. Vielleicht transponiert ja Weiß auch mit Lf1-e2 in die
+Klassische Variante} 8. Qd2 {Weiß läßt sich die Option f2-f4 offen und
+vermeidet die ausanalysierten Varianten} O-O 9. O-O-O a5 {Ähnlich wie in der
+Hauptvariante stößt Schwarz vor und stellt Weiß vor neue Probleme} 10. a4 ({(a)
+} 10. Bb5 {stoppt den a-Bauern, aber das ist eine Legende, denn der e-Bauer
+ist schwach} a4 11. Nxa4 Nxe4 12. Qe2 Bd7) ({(b)} 10. Kb1 {ist der
+prinzipielle Königszug} a4 11. Nc1 a3 12. b3 Be6 13. h3 Ra5 14. g4 d5 15. g5
+Nxe4 16. Nxe4 Qc7 {und Schwarz hat Initiative}) 10... Ng4 {Schwarz nutzt aus,
+dass Weiß noch nicht f2-f3 gespielt hat. Er erhält damit Übergewicht auf den
+schwarzen Feldern} 11. Nd5 Nxe3 12. fxe3 ({Auf} 12. Qxe3 {folgt} Bg5) 12... Nc6
+*
+

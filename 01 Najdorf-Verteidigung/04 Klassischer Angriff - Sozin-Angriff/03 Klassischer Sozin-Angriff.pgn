@@ -1,0 +1,75 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sozin-Angriff"]
+[Black "Klassischer Sozin-Angriff"]
+[Result "*"]
+[ECO "B87"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "48"]
+[SourceDate "2015.02.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O {Das ist
+der gefährlichste Plan für Weiß, der Sozin-Angriff. Streng genommen ist der
+Sozin-Angriff ein System, dass nach Sb8-c6 entsteht. Aber dieser Zug passt
+nicht in das Najdorf-System} b5 {In diesem Fall ist der Bauernzug nach b5
+vorzuziehen, denn Weiß hat schon beträchtlichen Entwicklungsvorsprung} ({
+Der Zug} 7... Nbd7 {ist hier nicht so gut, denn nun wird e6 schwach} 8. Re1 Qc7
+9. Bxe6 $1 fxe6 10. Nxe6 {Weiß erhält zwar "nur" zwei Bauern für die Figur,
+aber einen gefährlichen Angriff, dank des unrochierten Königs in der Mitte}
+Qc6 11. Nd5) 8. Bb3 {Diese Stellung ähnelt wieder mehr dem normalen
+Fischer-Angriff nur mit schneller kurzer Rochade. Schwarz kann hier auch auf
+Bauerngewinn spielen, aber dann erhält Weiß exzellente Kompensation und
+einen gefährlichen Angriff} Be7 {Das ist die sicherste Fortsetzung, mit der
+die kurze Rochade von Schwarz eingeleitet wird} 9. f4 {Das ist die Klassische
+Version des Sozin-Angriffs. Der f-Bauer kann ein gefährlicher Bauer werden,
+wenn er vorstößt. Schwarz muss sehr vorsichtig sein, denn Weiß wird den
+Bauern auf e6 angreifen. Schwarz hofft auf Gegenspiel gegen den schwachen
+Bauern auf e4} O-O {Diese Fortsetzung ist die sicherste und logischste} 10. e5
+{Dieser Zug ist die Hauptfortsetzung} ({Der Zug} 10. f5 {ist die
+Hauptalternative. Weiß geht direkt auf die Schwäche e6 los} b4 $1 11. Na4 e5
+12. Ne2 Bb7 13. Ng3 {Schwarz sollte den Bauern auf e4 nicht nehmen, denn Weiß
+kann einen Angriff gegen den König starten} Nbd7 14. Qe1 ({Nach} 14. Qf3 Bc6 {
+steht Schwarz einfach besser, denn die weißen Figuren sind alle schlecht
+platziert und sind fast am Brettrand}) 14... a5 15. c4 Qc7 16. Qe2 Rfc8 17. Bg5
+Nc5 18. Rac1 h6 19. Be3 Ncd7 20. Bf2 Ra6 21. Rc2 Qb8 22. Re1 Qa8 {Ivanchuk als
+Schwarz erhält einen großen Vorteil}) 10... dxe5 11. fxe5 Nfd7 {Diese
+Fortsetzung führt zu einem komplizierten und dynamischen Kampf} 12. Qh5 ({
+(a) Der Zug} 12. Be3 $6 {ist wahrscheinlich nicht so gut} Nxe5 13. Qh5 {
+Weiß opfert einen Bauern für sehr starke Initiative. In einer solchen
+Stellung muss Schwarz ein Leichtfigurenpaar abtauschen, um den Druck
+abzumildern und die gegnerischen Angriffschancen zu vermindern} Nbc6 14. Nxc6
+Nxc6 {An dieser Stelle hat Weiß zwei Fortsetzungen, aber Schwarz kann das
+Gleichgewicht mit genauem Gegenspiel halten} 15. Rf3 {Das ist die
+Hauptfortsetzung, aber Weiß hat auch die interessante Option eines
+Springeropfers} (15. Rad1 Qa5 16. Nd5 exd5 17. Bxd5 Be6 {Schwarz gibt die
+Figur zurück und hat die leicht bessere Stellung}) 15... Qd6 16. Rh3 h6 17.
+Bxh6 ({Nach} 17. Rg3 Qe5 18. Qxe5 Nxe5 19. Bxh6 Ng6 {steht Schwarz gut, denn
+der weiße Angriff ist vorbei. Schwarz kann ausgleichen und auf seine bessere
+Bauernstruktur hoffen}) 17... Qc5+ 18. Qxc5 Bxc5+ 19. Be3 Bxe3+ 20. Rxe3 Rd8 {
+Die Stellung ist ausgeglichen, aber vielleicht besser für Schwarz}) ({(c)} 12.
+Qg4 Nxe5 13. Qe4 Bc5 14. Be3 Nbc6 15. Nxc6 Bxe3+ 16. Qxe3 Nxc6 {Schwarz hat
+einen gesunden Mehrbauern und kann jetzt die Damen tauschen und sollte seinen
+Läufer aktivieren} 17. Rad1 Qe7 18. Ne4 Bb7 19. Ng5 Rae8 20. Rde1 {mit
+späterem schwarzen Gewinn}) 12... Nc6 13. Nxc6 {Das wird zwar am meisten
+gespielt, ist aber vielleicht nicht so stark} ({Die Alternative lautet} 13. Be3
+Nxd4 14. Bxd4 Bc5 $1 15. Rad1 Qb6 $1 {Der weiße Springer soll den Läufer auf
+e2 verteidigen, damit er nicht auf das wichtige Feld e4 geht} 16. Rf4 ({Nach} 
+16. Ne2 Qc7 {kann Weiß den Bauern e5 nicht mehr verteidigen}) 16... Qc7 17.
+Rg4 Bxd4+ 18. Rgxd4 Nxe5 {Schwarz gewinnt den Bauern auf e5 sowieso. Die
+weißen Leichtfiguren können den Anggriff nicht unterstützen und auch nicht
+gut verteidigen}) 13... Qb6+ 14. Be3 Qxc6 15. Rf3 ({Nach} 15. Rf4 {folgt
+wieder das motivische} Qc7 16. Bd4 (16. Re1 Qxe5 17. Qf3 Bg5) 16... Bc5) 15...
+Bc5 16. Re1 Bb7 17. a3 Rad8 18. Rg3 g6 19. Qh6 Bxe3+ 20. Rexe3 (20. Qxe3 Qc5 $1
+{Nach dem Damentausch hat Schwarz großen Vorteil. Die weiße Bauernstruktur
+ist schlecht und der Bauer auf e5 abgeschnitten. Der Läufer auf b3 ist tot.})
+20... Nc5 {Der einzige Zug, der aber ausreicht. Schwarz erlaubt nicht den
+Einstieg des weißen Springers auf e4 und droht nach wie vor mit Matt auf g2.
+Außerdem droht Td8-d2, nachdem Weiß den Bauern g2 nicht mehr verteidigen
+kann. Schwarz hat eine ausgezeichnete Stellung} 21. Rg4 {Der Turm macht den
+Weg frei für den anderen Turm, um h7 anzugreifen} Rd7 {Der einzige Zug, um
+das Matt auf h7 zu decken mit f7-f5} 22. Ba2 f5 23. exf6 Rxf6 24. h3 Rdf7 {
+Schwarz hat den weißen Angriff abgewendet und beginnt einen Gegenangriff
+gegen den weißen König} *
+

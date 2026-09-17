@@ -1,0 +1,14 @@
+[Event "The King's Indian, Vol 1"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gligoric-System"]
+[Black "Verhinderungsvariante"]
+[Result "*"]
+[ECO "E92"]
+[Annotator "David Vigorito"]
+[PlyCount "44"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische Variante ist eines der prinzipiellsten Systeme gegen die Königsindische Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert. Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug. Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum, insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten. Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat. Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. Be3 {Das Gligoric-System ist eine ziemlich flexible Fortsetzung für Weiß, was es sehr gefährlich macht. Weiß hält die Zentrumsspannung. Er zeigt noch nicht, wohin er mit dem König gehen will. Da Schwarz eine Reihe von Antworten hat, die alle zu unterschiedlichen Stellungen führen, ist das System bei starken Spielern sehr beliebt.} Ng4 {Das ist die Hauptfortsetzung, die auch von Radjabov bevorzugt wird. Sie ist prinzipiell und forciert. Weiß kann es sich nicht erlauben, den Läufer abzutauschen.} 8. Bg5 f6 {Weiß hat verschiedene Rückzugsmöglichkeiten} 9. Bh4 g5 {Dieser häßliche Zug stellt den weißen Läufer kalt. Dieser kann ein Ziel von Angriffen werden.} 10. Bg3 Nh6 {Die Verhinderungsvariante beginnt mit} 11. h3 {, womit Weiß dem Vorstoß g5-g4 vorbeugt. Denn dann könnte Weiß die h-Linie mit Angriff öffnen.} Nc6 {Hier sind auch andere Züge möglich, aber dieser passt am besten in das Repertoire.} 12. d5 Ne7 {Das ist die Grundstellung dieser Variante. Der andere Springer zieht sich nach f7 zurück, wonach der Bauer g5 gedeckt ist und f6-f5 gespielt werden kann.} 13. Qd2 Nf7 14. Nh2 f5 15. exf5 Nxf5 16. O-O Nh8 17. Bh5 Nd4 18. Ne4 h6 19. Rfe1 Bf5 20. Rac1 Ng6 21. c5 $2 {Dieser Zug verliert einen Bauern nach in der Partie} ({Besser ist womöglich} 21. Bg4 {mit annähernd gleichem Spiel.}) ({Nach} 21. Bxg6 Bxg6 {steht Schwarz besser dank seines Läuferpaars.}) 21... dxc5 22. Rxc5 b6 {0-1 Boensch,U (2530)-Gelfand,B (2615) Dortmunder Schachtage-A 18th 1990 (6)} *
+

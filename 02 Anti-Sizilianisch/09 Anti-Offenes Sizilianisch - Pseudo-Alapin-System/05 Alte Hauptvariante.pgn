@@ -1,0 +1,43 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pseudo-Alapin-System"]
+[Black "Alte Hauptvariante"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "32"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 {Der Angriff auf e4 hält Weiß davon ab, mit
+d2-d4 vorzugehen. Schwarz kann wegen der Damengabel auf a4 zwar nicht den
+Bauern nehmen, aber er zwingt Weiß sich zu entscheiden.} 4. Be2 {
+Bescheidenheit ist eine Zier, aber dieser Zug wird am häufigsten gespielt und
+muss einige Vorteile haben.} Nbd7 {Schwarz blockt das Schach auf der Diagonale
+ab und macht aus dem Angriff auf den Bauern e4 eine reale Bedrohung.} 5. d3 ({
+Weiß hat nicht viel von} 5. Qc2 Qc7 {Dies stellt klar, dass das weiße
+Traumzentrum e4-d4 eine Fantasie bleibt.} 6. O-O b6 7. c4 {Dieser Zug mag
+seltsam erscheinen} ({Aber nach} 7. Re1 Bb7 8. d3 c4 9. Nbd2 cxd3 10. Bxd3 e6
+11. Nd4 Be7 {hat Weiß auch keinen Vorteil nachzuweisen}) 7... Bb7 8. Nc3 e6 9.
+d4 cxd4 10. Nxd4 a6 {Schwarz wählt einen Igel-Aufbau} 11. Be3 Be7 12. Rac1 O-O
+13. f3 Rac8 14. Rfd1 Rfe8 {Die Dame auf c2 steht alles andere als günstig.
+Schwarz hat eine harmonische Stellung mit mindestens gleichen Chancen.}) 5...
+g6 6. O-O Bg7 7. Nbd2 O-O 8. d4 {Andere Züge führen mehr oder weniger zu
+derselben Stellung} ({(a)} 8. Re1 b6 9. d4 Qc7 {führt zu der selben Stellung
+wie im Text}) ({(b) Der langsame Ansatz bringt keine Freude für Weiß} 8. a4
+b6 9. Nc4 Bb7 10. Ne3 Qc7 11. Re1 (11. Qb3 e6 12. g3 d5 $11) 11... d5 12. exd5
+Nxd5 13. Nxd5 Bxd5 14. d4 cxd4 15. Nxd4 Nc5 {Schwarz hat es geschafft, die
+Stellung im richtigen Augenblick zu öffnen mit ermutigenden Konsequenzen.})
+8... Qc7 9. Re1 b6 10. Bf1 e6 11. a4 ({Eine andere Möglichkeit ist} 11. b3 Bb7
+12. Bb2 Rfd8 13. a4 a6 14. b4 Rac8 15. Qb3 {Hier sieht} Bh6 {interessant aus.
+Schwarz hat eine harmonische Entwicklung und versucht, den Gegner mit einer
+unüblichen Läuferentwicklung zu irritieren. Das Spiel kann so weitergehen}
+16. bxc5 bxc5 17. Rab1 Rb8 {mit gleichen Chancen.}) 11... Bb7 12. a5 Rac8 13.
+h3 {Die Stellung ist ausgeglichen, zumindest sollte Schwarz gut stehen. Eine
+mögliche Fortsetzung lautet:} cxd4 14. Nxd4 {Es ist nicht so attraktiv für
+Weiß mit dem c-Bauern zu nehmen, da Schwarz die c-Linie kontrolliert.} Rfd8
+15. axb6 axb6 16. Nb5 Qb8 {Weiß scheint einige Fortschritte auf der c-Linie
+gemacht zu haben, aber der Bauer auf b6 ist keine wirkliche Schwäche und der
+Springer auf b5 schmerzt Schwarz nicht. Schwarz hat eine harmonische Stellung
+und kann darauf warten, im Zentrum durchzubrechen.} *
+

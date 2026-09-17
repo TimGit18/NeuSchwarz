@@ -1,0 +1,62 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Amsterdam-System"]
+[Black "Rochadevariante"]
+[Result "*"]
+[ECO "B93"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "40"]
+[EventDate "2011.06.29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 {[%csl Ra7,Rb6,Rc5,
+Rd4,Re3,Ye4,Rf2,Rg1] Dieser Zug ist eine Empfehlung von John Nunn. Er erobert
+Raum, droht e5 und bereitet einen Königsangriff vor. Das System ist nicht
+schwer zu spielen. Schwarz muss Gegenspiel gegen den potentiell schwachen
+Bauern e4 und auf der Diagonale a7-g1 initiieren Dieser Zug ist eine
+Empfehlung von John Nunn. Der Zug ist sehr aggressiv und enthält viele Ideen.
+Er erobert Raum, droht e5 und bereitet einen Königsangriff vor. Weiß will
+damit beginnen, sofort aktive Operationen durchzuführen und verzögert die
+Entwicklung seiner Figuren. Die Dame soll nach f3 gebracht werden, weshalb der
+Zug f2-f4 auch dabei hilft, einen schwarzen Springer fernzuhalten. Von f3 aus
+kann die Dame den Bauern e4 verteidigen und nach h3 hinübergehen, um den
+Druck auf den schwarzen König auszuüben. Das System ist nicht schwer zu
+spielen. Schwarz muss Gegenspiel gegen den potentiell schwachen Bauern e4 und
+auf der Diagonale a7-g1 initiieren} e5 {Schwarz kämpft um das Zentrum. Im
+Vergleich mit dem Zug e7-e6 ist dies der aktivere Zug. Schwarz kämpft um das
+Zentrum. Außerdem verhindert der Zug den Vorstoß g2-g4 und er vertreibt den
+weißen Springer aus dem Zentrum. In der Regel wird er nach f3 gehen, wo er
+also der Dame im Weg steht. Daher muss diese über e1 nach g3 auf den
+Königsflügel gebracht werden, wo sie aber auch von dem Springer auf h5
+angegriffen werden kann} 7. Nf3 {Der Zug ist der aktivste Springerzug. Weiß
+greift ein weiteres Mal den Bauern auf e5 an, den Schwarz jetzt verteidigen
+muss} Qc7 $1 {Dieser Zug ist ebenso wie Sbd7 oft gespielt, da er die
+Entwicklung des weißfeldrigen Läufers nach c4 unterbindet Dieser Zug ist
+ebenso wie der Springerzug nach d7 oft gespielt, da er nicht nur den Bauern
+auf e5 deckt, sondern auch die Entwicklung des weißfeldrigen Läufers nach c4
+unterbindet} 8. Bd3 {Weiß entwickelt seinen Läufer auf das zweitaktivste
+Feld, da ihm die Entwicklung nach c4 versperrt ist. Aber er versucht trotzdem
+seine aggressiven Pläne auf dem Königsflügel zu verwirklichen und
+entwickelt ihn daher nicht auf das Feld e2} Nbd7 {Ein logischer Zug, der den
+Bauern auf e5 weiter verteidigt und damit droht, nach c5 zu gehen, um den
+Angriff auf den Läufer auf d3 vorzubereiten. Der Damenläufer soll nach b7
+gebracht werden, um den Druck gegen den Bauern e4 zu erhöhen. Weiß muss
+etwas unternehmen.} {Die hauptsächliche Alternative zu a2-a4 lautet} 9. O-O {
+Weiß kümmert sich überhaupt nicht um die zu erwartende Offensive auf dem
+Damenflügel. Er möchte statt dessen sofort auf dem Königsflügel aktiv
+werden} Be7 {Schwarz entwickelt seinen Läufer und bereitet die kurze Rochade
+vor} 10. Kh1 {Weiß bringt den König in Sicherheit und vermeidet Schachs auf
+der Diagonalen a7-g1} O-O {Auch Schwarz bringt seinen König in Sicherheit} 11.
+Qe1 {Weiß möchte die Dame auf den Königsflügel bringen, um dort Druck
+auszuüben} ({Die Alternative zu dem Damenzug ist das direkte Schlagen auf e5
+mit} 11. fxe5 dxe5 12. Nh4 {[%csl Yf5][%cal Rh4f5,Rf1f6] Das ist die weiße
+Grundidee. Er will den Springer nach f5 überführen und Druck auf der f-Linie
+ausüben} Nc5 {[%csl Yc5,Yd3,Ye4,Yf6][%cal Gf6e4,Gc5e4,Gc5d3] Schwarz kontert
+mit dem üblichen Manöver. Er bringt den Springer auf ein aktives Feld, von
+aus er den Läufer auf d3 und den Bauern auf e4 angreift} 13. Bg5 Rd8 14. Bxf6
+Nxd3 15. cxd3 Bxf6 16. Rxf6 gxf6 17. Nd5 Rxd5 18. exd5 Bd7 19. Qh5 Qc2 20. Qh6
+Qxd3 21. Qxf6 Qxd5 22. Qg5+ Kf8 23. Qh6+ Kg8) 11... Nc5 12. fxe5 dxe5 13. Qg3
+Be6 14. Qxe5 Bd6 15. Qd4 Nxd3 16. cxd3 Ng4 17. Qg1 f5 18. Bg5 Bc5 19. d4 fxe4
+20. Nxe4 Ba7 {und Schwarz hat ausgezeichnete Kompensation für den Bauern} *
+

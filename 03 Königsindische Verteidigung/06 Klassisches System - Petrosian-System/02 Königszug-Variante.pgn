@@ -1,0 +1,65 @@
+[Event "The King's Indian (Vol 1)"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Petrosian-System"]
+[Black "Königzug-Variante"]
+[Result "*"]
+[ECO "E92"]
+[Annotator "David Vigorito"]
+[PlyCount "62"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. d5 {Dies ist die
+Ausgangsstellung des Petrosian-Systems der Königsindischen Verteidigung.
+Weiß schließt relativ früh das Zentrum, um freie Hand für Operationen auf
+den Flügeln zu haben. Schwarz muss daher sehr vorsichtig spielen.} a5 $1 {
+[%csl Ya4,Ya6,Yb4,Yc5,Yd7,Ye8][%cal Ga5b4,Gb8a6,Ga6c5,Gd8e8,Gc8d7,Rc5a4,Re8d7,
+Rd7a4] Dieser prophylaktische Zug bildet die Hauptvariante. Schwarz verhindert
+b2-b4, um seinem Damenspringer das Feld c5 zu sichern. Manchmal spielt Weiß
+Ta1-b1, b2-b3 und a2-a3, um trotzdem b4 durchzusetzen. Dann muss Schwarz das
+Feld a4 mit der Dame auf e8 und dem Läufer auf d7 überdecken, um mit dem
+Springer nach a4 gehen zu können} 8. Bg5 {Das ist der absolute Hauptzug in
+dieser Stellung. Weiß möchte es Schwarz erschweren, f7-f5 durchzusetzen} h6 {
+Schwarz muss die Fesselung irgendwie lösen. Wenn der Läufer jetzt nach e3
+ginge, dann sollte Schwarz mit Sf6-g4 nachlegen, denn sonst würde Schwarz
+keinen Springer auf c5 etablieren können} 9. Bh4 Na6 10. Nd2 {Das ist der
+gebräuchlichste Zug} Qe8 {Schwarz löst die Fesselung auf und nimmt das Feld
+a4 unter Kontrolle} 11. O-O Nh7 12. a3 Bd7 13. b3 h5 14. f3 Bh6 {Der Königszug
+} 15. Kh1 {ist ein sehr guter prophylaktischer Zug, der oft in die
+Hauptvariante transponiert. In dieser Variante wird allerdings nicht Ta1-b1
+gespielt.} Be3 16. Qc2 {Das ist die kritische Fortsetzung. Weiß kümmert sich
+nicht um den Vorstoß des b-Bauern, sondern bereitet einen Krieg am Brett vor.}
+({Eine Alternative ist} 16. Ra2 Kg7 17. Qb1 Bc5 18. Nd1 c6 19. Nb2 {Schwarz
+sollte jetzt wie folgt antworten} Bd4 20. Nd3 Nc5 {mit Ausgleich.}) 16... f5 {
+Dieser Zug ist sehr natürlich, aber Schwarz muss natürlich berücksichtigen,
+dass Weiß auch auf dem Königsflügel operieren kann - speziell, wenn der
+schwarze Königsläufer auf Wanderschaft geht. Die Stellung ist sehr reich an
+Möglichkeiten.} 17. exf5 gxf5 ({Nach} 17... Bxf5 $2 18. Bd3 {bricht der
+schwarze Königsflügel zusammen.}) 18. Bf2 ({Oder} 18. Rae1 Qg6 19. Bd3 Qh6
+20. Ndb1 Nc5 21. Nd1 Bd4 22. Bf2 a4 23. b4 Nb3 {ist viel besser für Schwarz
+nach Komarov.}) 18... Bxf2 19. Rxf2 Nf6 20. Rg1 $1 {Hier sehen wir einen
+weiteren Plan von Kramnik. Weiß spielt wieder auf dem Königsflügel.} Kh8 21.
+Qb2 Nc5 22. b4 axb4 23. axb4 Na4 24. Nxa4 Rxa4 25. Bd1 Ra8 26. f4 {Der Plan
+ist klar: Öffnung er Diagonalen a1-h8 gegen den schwarzen König.} exf4 {
+Schwarz will Figurenspiel fördern.} ({Aber} 26... e4 27. Nf1 Qg6 28. Ne3 Kh7 {
+sieht ebenfalls gut für Schwarz aus.}) 27. Re2 ({Nach} 27. Rxf4 Qe5 {endet
+die weiße Initiative. Die schwarze Stellung sieht etwas wacklig aus, aber es
+gibt nicht mehr viele Steine auf dem Brett und er hat genug Aktivität, um das
+Gleichgewicht zu halten.}) 27... Qg6 28. Re7 Rf7 29. Rxf7 Qxf7 30. Qd4 ({
+Und nicht} 30. Bxh5 Qg7 31. Bf3 Ng4 {mit schwarzer Initiative.}) 30... Qg7 31.
+Qxf4 {aus der berühmten Partie Kramnik-Gelfand, Linares 1994. Gegenspiel
+wäre nun} b5 $1 *
+

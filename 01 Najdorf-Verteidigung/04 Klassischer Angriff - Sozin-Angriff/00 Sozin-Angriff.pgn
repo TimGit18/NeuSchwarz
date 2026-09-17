@@ -1,0 +1,46 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf-Verteidigung"]
+[Black "Sozin-Angriff"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "26"]
+[SourceDate "2015.02.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O {Das ist
+der gefährlichste Plan für Weiß, der Sozin-Angriff. Streng genommen ist der
+Sozin-Angriff ein System, dass nach Sb8-c6 entsteht. Aber dieser Zug passt
+nicht in das Najdorf-System} ({(a) Die Rückzugsvariante beginnt mit} 7. a3 Be7
+8. Ba2 O-O 9. O-O b5 10. f4 Bb7 11. f5 e5 12. Nde2 Nbd7 $1 13. Ng3 Rc8 14. Qe2
+{Weiß will den Bauern e4 verteidigen}) ({(b) Die Entwicklungsvariante beginnt
+mit} 7. Bg5 Be7 8. Bb3 Qa5 9. Bd2 {Kein großer Zug, aber Weiß will den
+Abtausch des Läufers verhindern} Qc7 10. O-O O-O 11. Qf3 b5 12. a3 Bb7 {
+führt zu einer vernünftigen Stellung, in der Schwarz keine Probleme hat}) ({
+(c) Der Zug} 7. Be3 {erinnert an den Englischen Angriff} b5 8. Bb3 Bb7 9. f4 {
+Schwarz könnte hier einen Bauern gewinnen, aber ist vielleicht besser dran
+die Entwicklung zu beenden} Nbd7 10. O-O Rc8 11. Qe2 b4 12. Na4 Qa5 {Damit
+verhindert Schwarz das gefährliche Springeropfer auf e6} 13. c3 Bxe4) 7... b5
+{In diesem Fall ist der Bauernzug nach b5 vorzuziehen, denn Weiß hat schon
+beträchtlichen Entwicklungsvorsprung} ({Der Zug} 7... Nbd7 {ist hier nicht so
+gut, denn nun wird e6 schwach} 8. Re1 Qc7 9. Bxe6 $1 fxe6 10. Nxe6 {Weiß
+erhält zwar "nur" zwei Bauern für die Figur, aber einen gefährlichen
+Angriff, dank des unrochierten Königs in der Mitte} Qc6 11. Nd5) 8. Bb3 {
+Diese Stellung ähnelt wieder mehr dem normalen Fischer-Angriff nur mit
+schneller kurzer Rochade. Schwarz kann hier auch auf Bauerngewinn spielen,
+aber dann erhält Weiß exzellente Kompensation und einen gefährlichen Angriff
+} Be7 {Das ist die sicherste Fortsetzung, mit der die kurze Rochade von
+Schwarz eingeleitet wird} 9. Qf3 {Das ist der Moderne Sozin-Angriff, der seit
+den 1990er Jahren die Klassische Fortsetzung abgelöst hat. Weiß bringt die
+Dame auf den Königsflügel und droht gleichzeitig mit der Fortsetzung e4-e5} (
+{Der Klassische Sozin-Angriff beginnt mit} 9. f4 O-O 10. e5 dxe5 11. fxe5 Nfd7
+{Diese Stellung führt zu einem komplizierten und dynamischen Kampf} 12. Qh5
+Nc6 13. Nxc6 Qb6+ 14. Be3 Qxc6) 9... Qc7 {Schwarz rochiert nicht sofort,
+sondern entwickelt zunächst die Dame auf ein gutes Feld. Jetzt hat er
+immernoch die Option, den Läufer c8 nach b7 zu ziehen, wenn Weiß aggressiv
+e4-e5 spielt.} 10. Qg3 ({Im Gegensatz dazu ist} 10. Re1 {sehr langsam und
+nicht besonders gefährlich für Schwarz} O-O 11. Qg3 Kh8 12. Bg5 b4) 10... O-O
+11. Bh6 Ne8 12. Rad1 Bd7 13. f4 Nc6 *
+

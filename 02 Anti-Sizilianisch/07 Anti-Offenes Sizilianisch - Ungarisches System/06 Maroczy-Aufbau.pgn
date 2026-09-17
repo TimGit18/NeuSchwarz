@@ -1,0 +1,53 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ungarisches System"]
+[Black "Maroczy-Aufbau"]
+[Result "*"]
+[ECO "B53"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "40"]
+[EventDate "2013.11.14"]
+[SourceDate "2013.11.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 {Neulingen wird beigebracht, dass die
+Dame nicht zu schnell in das Spiel gebracht werden sollte. Aber erfahrene
+Spieler, die eine Partie gewinnen wollen, werden genau dieses tun. Das
+Moskauer System ist eine Ausnahme von der Regel. Die weiße Dame erscheint
+bereits sehr früh im Zentrum. Obwohl die Bauernstruktur denjenigen der
+Offenen Sizilianischen Verteidigung entspricht, gibt die unübliche Stellung
+der schwarzen Dame der Variante einen eigentümlichen Charakter, so dass die
+Variante sehr sorgfältig studiert werden muss.} Nc6 {Dieser Zug, der sofort
+die exponierte weiße Dame angreift, bildet die Hauptfortsetzung} ({Manchmal
+verhindert Schwarz die Fesselung mit} 4... a6 {oder auch dem Läuferzug auf d7,
+aber der Textzug bildet die Hauptvariante und daher die Hauptfortsetzung}) 5.
+Bb5 {Weiß ist dazu bereit, seinen Läufer früh zu tauschen, da dieser Tausch
+die Entwicklung seiner Leichtfiguren fördert und die starke Stellung der Dame
+sichert} Bd7 {Schwarz muss sich weiterentwickeln und die Bedrohung der Dame
+aufrechterhalten} 6. Bxc6 {Als Kompensation für das Läuferpaar erhält Weiß
+etwas Entwicklungsvorsprung und eine starke Stellung im Zentrum. Die schwarzen
+Chancen liegen dann eher im Endspiel} Bxc6 {An dieser Stelle hat Weiß zwei
+Hauptzüge: er kann einen Maroczy-Aufbau mit c4 versuchen oder seine
+Entwicklung mit Sb1-c3 weitertreiben} 7. c4 {Weiß entscheidet sich für einen
+Maroczy-Aufbau und hofft darauf, dass die zentralisierte Dame seine Aktionen
+auf dem Brett unterstützen wird.} Nf6 8. Nc3 g6 {Dieser Aufbau ist sicher die
+bequemste Lösung für die schwarze Entwicklung. Außerdem wird die
+zentralisierte Dame gezwungen, sich zu bewegen, dass sie nicht mehr auf der
+Diagonalen a1-h8 bleiben kann.} 9. O-O Bg7 10. Qd3 {Streng genommen muss die
+Dame sich nicht zurückziehen, aber sie muss es nach der schwarzen Rochade
+ohnehin.} O-O 11. Nd4 {Weiß hat hier schon alle möglichen Züge ausprobiert,
+die schwarze Grundaufstellung bleibt immer mehr oder weniger dieselbe.} Rc8 {
+Dieser Zug bereitet ein interessantes taktisches Motiv vor. Dies soll als
+Hauptvariante dienen, obwohl auch der Rückzug des Springers nach d7 geht} 12.
+b3 {Das ist die natürlichste Reaktion auf das Auftauchen des Turms auf der
+c-Linie (um Druck gegen c4 zu verhindern)} ({Alternativen sollten Schwarz
+nicht beunruhigen} 12. Rd1 Qa5 13. b3 a6 14. Bb2 Rfe8 15. Rab1 Qh5 16. h3 Nd7
+17. Re1 Qc5 18. Nxc6 Rxc6 {Weiß hat in dieser Stellung gar nichts erreicht})
+12... Nxe4 {Diese schön getarnte Kombination mag als unangenehme
+Überraschung für den ein oder anderen Spieler in Frage kommen.} 13. Nxe4 d5
+14. Nxc6 Rxc6 15. Rb1 dxe4 16. Qxe4 Qd7 17. Be3 {Hier kommt jetzt folgende
+Verbesserung für Schwarz in Frage.} Rd8 {Es gibt keinen Grund, den Bauern auf
+a7 zu verteidigen, denn nach} 18. Bxa7 {folgt} Re6 19. Qg4 h5 20. Qf3 b6 {mit
+Verlust des Läufers} *
+

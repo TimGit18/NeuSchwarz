@@ -1,0 +1,82 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abtauschsystem"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "E94"]
+[Annotator "David Vigorito"]
+[PlyCount "56"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. dxe5 dxe5 8. Qxd8
+Rxd8 {Das ist die grausame Abtauschvariante. Sie hat einen sehr remislichen
+Ruf und entmutigte Spieler davon, e7-e5 zu spielen.} 9. Bg5 Re8 {Dieser solide
+Zug ist ein Ausgleichszug und wurde schon von dem jungen Bobby Fischer
+bevorzugt. Er wird auch von Gallagher empfohlen. Weiß hat große
+Schwierigkeiten etwas gegen diesen Zug zu unternehmen oder zu gewinnen, aber
+die Remisbreite ist sehr hoch} 10. Nd5 {Dieser forcierte Zug ist die
+Hauptfortsetzung und führt zu Simplifikation und einer symmetrischen
+Bauernstruktur} Nxd5 11. cxd5 c6 {Falls Schwarz diesen Zug nicht spielt, dann
+wird sein c-Bauern rückständig} 12. Bc4 {Weiß möchte den relativ passiven
+Läufer von dem Feld e2 auf das schöne Feld d5 führen} ({(a)} 12. dxc6 Nxc6 {
+hilft bloß der schwarzen Entwicklung}) ({(b)} 12. d6 f6 13. Be3 Be6 {
+schwächt den weißen d-Bauern. Schwarz wird diesen mit Tf8-d8 und Lg7-d8
+einkreisen}) ({(c)} 12. Rd1 {ist ein schlechter Zug, um den d-Bauern zu
+stützen} cxd5 13. exd5 (13. Rxd5 Be6) (13. Bb5 Bd7 14. Rxd5 Bxb5 15. Rxb5 b6
+16. Ke2 Na6 {[%cal Ga6c7,Gc7e6] ist auch gut für Schwarz}) 13... e4 14. Nd2
+Bxb2 {Schwarz hat einen gesunden Mehrbauern gewonnen}) ({(d) Der
+interessanteste Zug ist die Gambitfortsetzung} 12. O-O h6 13. Be3 cxd5 14. exd5
+f5 15. Rfd1 Nd7 16. Rac1 f4 17. Bc5 e4 18. Nd4 Nxc5 19. Rxc5 Kf8 {nach einer
+Empfehlung von Bologan}) 12... cxd5 13. Bxd5 Nd7 $1 {Der Textzug soll von
+Sd7-f6 bzw h7-h6 gefolgt werden. Die Idee ist einen großen Druck auf den
+Bauern e4 aufzubauen} 14. Nd2 ({(a)} 14. Ke2 h6 15. Be3 Nf6) ({(b)} 14. O-O h6
+15. Bh4 g5 16. Bg3 Nf6) ({(c)} 14. O-O-O h6 15. Be3 Nf6) ({(d) Nach} 14. Rc1 {
+muss Schwarz präzise spielen} h6 15. Be3 Nf6 16. Bb3 Nxe4 17. Rc7 Be6 18. Bxe6
+Rxe6 19. Rxb7 Ra6 20. a3 Nd6 {Schwarz hat die bessere Entwicklung und aktive
+Figuren}) 14... Nc5 15. O-O-O {Andere Züge sind für Schwarz nicht gefährlich
+} ({(a)} 15. O-O Be6 16. Bxe6 Nxe6 17. Be3 Nd4 {und Schwarz besitzt bereits
+Initiative. Weiß hat Mühe damit, die Stellung zu stabilisieren} 18. Bxd4 exd4
+19. Rac1 Rac8 20. f4 d3 21. e5 f6 {Der schwarze Läufer wird jetzt sehr stark})
+({(b)} 15. Be3 Nd3+ 16. Ke2 Nf4+ 17. Bxf4 exf4 18. Rac1 Bxb2 19. Rc7 Be6 20.
+Bxe6 Rxe6 21. Rxb7 (21. Rb1 Be5 22. Rcxb7 Ra6 {ist gut für Schwarz}) 21... Bc3
+22. Nb1 Rxe4+ 23. Kf3 Rb4 24. Rxb4 Bxb4 25. Rc1 Rd8 26. Kxf4 Bd2+ 27. Nxd2 Rxd2
+{und Schwarz gewinnt einen Bauern}) ({(c)} 15. Ke2 Be6 16. Rhc1 Rec8 17. Be3
+Bxd5 18. exd5 Nd7 19. Ne4 Bf8 20. Bg5 f5 21. Nf6+ Nxf6 22. Bxf6 {mit gleicher
+Stellung}) ({(d)} 15. Nc4 Bf8 16. Rd1 {Dieser Vorschlag stammt von Grivas} (16.
+O-O-O Be6 17. Kb1 Rac8 {mit Druck auf e4 und c4}) (16. O-O Be6 17. Bxe6 ({
+Möglicherweise ist} 17. Rfd1 {besser mit der Idee} Nxe4 18. Bxe4 Bxc4 19. Bxb7
+Rab8 20. Bc6) 17... Rxe6 {Die Stellung sieht zwar symmetrisch aus, aber man
+kann mit b7-b5 den weißen Springer jagen und die eigenen Figuren aktivieren}
+18. f3 b5 19. Ne3 h6 20. Bh4 Nd3 21. Nd5 Rc8) 16... Be6 17. f3 Rac8 18. b3 (18.
+Ne3 Na4 {mit Gegenspiel}) 18... Bxd5 19. Rxd5 b5 20. Nd6 Bxd6 21. Rxd6 Ne6 22.
+Be3 Rc2 23. Rd2 Rc1+ 24. Rd1 Rc2) 15... Ne6 ({Das gierige} 15... Nd3+ {sollte
+Schwarz vermeiden wegen} 16. Kb1 Nxf2 17. Rdf1 Nxh1 18. Bxf7+ {und Weiß
+gewinnt}) 16. Be3 Nf4 17. Bxf4 exf4 {Mit dieser Stellung hat Schwarz keine
+Probleme mehr} 18. f3 ({(a)} 18. Nc4 Be6 19. Nd6 Re7 {führt zu nichts}) ({(b)
+} 18. Nb3 Be6 19. Bxb7 Rab8 20. Bd5 a5 {mit gutem Spiel für Schwarz}) ({(c)} 
+18. Kb1 Be6 19. Bxe6 Rxe6 20. f3 f5 21. exf5 (21. Rc1 Rd8 22. Rc2 Bd4 23. exf5
+gxf5) 21... Re2 22. fxg6 hxg6 23. g3 b5 {mit guter Kompensation für den Bauern
+}) 18... Be6 19. Nb3 (19. Bxe6 Rxe6 {ergibt ebenfalls Ausgleich}) 19... Bxd5
+20. Rxd5 f5 {Thematisch. Schwarz öffnet Linien für seine Türme} 21. exf5
+Rac8+ 22. Kb1 Re2 23. Rd2 ({Von Cramling stammt die Fortsetzung} 23. f6 Bxf6
+24. Rd2 Rce8) 23... Rxd2 24. Nxd2 gxf5 25. Re1 ({(a)} 25. Rc1 Re8 26. Rc7 Re2)
+({(b)} 25. Nb3 Re8 26. Nc1 Rd8 27. Kc2 Rc8+ 28. Kb1 Rd8 29. Kc2 Rc8+ {mit Remis
+}) 25... Bd4 26. Re2 ({Die Idee dabei ist, dass} 26. Re7 Be3 27. Nb3 Rc6 28.
+Rxb7 Rg6 {Gegenspiel für Schwarz erlaubt}) 26... Be3 27. Nb3 b6 28. Rc2 Rd8 {
+Schwarz hat hier gutes Gegenspiel} *
+

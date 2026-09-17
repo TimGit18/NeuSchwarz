@@ -1,0 +1,84 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Barry-Angriff"]
+[Black "Hebden-Variante"]
+[Result "*"]
+[ECO "D00"]
+[Annotator "Yelena Dembo"]
+[PlyCount "46"]
+[EventDate "2011.08.08"]
+[SourceDate "2011.08.08"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 {Der Barry-Angriff ähnelt dem
+Veresov-System, da er auch einen Springer auf c3 platziert. Allerdings gibt es
+auch Unterschiede, da Weiß hier nicht nach e3-e4 strebt. Der englische
+Großmeister Mark Hebden ist einer der Protagonisten dieses Angriffs und
+erzielte damit beeindruckende Resultate. Der Hauptplan von Weiß ist die
+langsame Entwicklung mit e2-e3 und Lf1-e2. Danach spielt er Sf3-e5, um mit
+seinem h-Bauern die Linie entlang zu rennen. Der hauptsächliche Nachteil ist,
+dass der Aufbau eher inflexibel ist. Daher sollte es Schwarz nicht zu schwer
+haben, um die weißen Absichten zu entgegnen} Bg7 {Hiernach kann Weiß zwei
+verschiedenen Optionen wählen. Wir betrachten jetzt nicht den 150-Angriff,
+sondern den langsamen Aufbau} 5. e3 {Das ist die Hauptfortsetzung. Weiß hat
+hier aber andere Fortsetzungen praktiziert} O-O 6. Be2 {Dies ist der
+konsistenteste Zug. Der Läufer unterstützt einen zukünftigen Vormarsch
+h4-h5. Er stört auch nicht den Einfluß der Dame auf der d-Linie. Weiß hat
+auch andere Züge versucht} c5 $1 {[%csl Rd4] Anscheinend ist dieser Zug das
+beste Zugang zu der Stellung. Durch den sofortigen Schlag im Zentrum erlaubt
+Schwarz Weiß nicht den Aufbau eines Königsangriffs. Dieser Zug ist die Wahl
+von starken Spielern. Die Grundidee ist es, den Druck gegen d4 zu erhöhen.
+Ein Flügelangriff von Weiß ist in der Eröffnung nur erfolgreich, wenn er
+die Kontrolle im Zentrum hat, was Schwarz aber nicht zuläßt Der Hauptzug in
+dieser Stellung ist die Moderne Variante mit Die Hauptfortsetzung beginnt mit}
+7. Ne5 {Weiß schreitet mit dem traditionellen Barry-Angriff voran} Nc6 {
+Es wird nun klar, dass der weiße Angriff nicht wie vorgesehen stattfinden kann
+} 8. O-O {Weiß wechselt seine Pläne. Er will jetzt nicht mehr um jeden Preis
+angreifen, sondern wendet sich einem eher friedlichen, positionellen
+Mittelspiel zu. Andere Züge sind schlechter und erleichtern die schwarze
+Aufgabe} cxd4 9. exd4 {Nach der kurzen Rochade von Weiß hat sich jede weiße
+Idee von Angriff verflüchtigt. Trotzdem ist die Stellung keinesfalls harmlos
+für Schwarz. Weiß will auf c6 tauschen und dann mit Sc3-a4 den schwachen
+Bauern auf c6 fixieren. Weiterhin wird Weiß den Läufer nach e5 stellen, um
+ihn gegen den schwarzen Läufer abzutauschen. Obwohl dies nicht besonders viel
+für Weiß verspricht, sollte Schwarz diese Möglichkeit besser vermeiden} Qb6
+{Jetzt kann Schwarz auf c6 einfach mit der Dame zurücknehmen} 10. Nxc6 Qxc6 {
+Die schwarze Stellung ist ziemlich gesund und nicht schwierig zu bespielen.
+Die offensichtlichste Idee ist ein Minoritätsangriff auf dem Damenflügel mit
+a7-a6 und b7-b5. Damit nutzt Schwarz die Kontrolle der c-Linie aus und die
+unglückliche Stellung des weißen Springers auf c3. Wenn er dieses Feld
+verläßt, kann Schwarz mit Sf6-e4 einen starken Zentralspringer etablieren.
+Diese Stellung kann auch als Tabiya für den gesamten Barry-Angriff ansehen.} {
+Die Hebden-Variante beginnt mit} 11. Re1 {Weiß möchte keine Zeit mit der
+Entwicklung der Leichtfiguren verschwenden und möchte den Minoritätsangriff
+auf dem Damenflügel mit a4 stoppen} a6 12. a4 ({Mit dem Zug} 12. Bf3 $6 {
+liegt Weiß daneben. Der Zug verhindert zwar Sf6-e4, aber er läßt den
+Minoritätsangriff zu} Be6 13. a4 b5 14. axb5 axb5 {Schwarz sollte in dieser
+Stellung in Vorteil kommen}) 12... Bf5 13. a5 {Weiß fixiert den schwarzen
+Damenflügel und stoppt den Minoritätsangriff. Andererseits bleibt so der
+a-Bauer ziemlich entblößt, was bedeutet, dass der Turm auf a1 an die
+Verteidigung des Bauern gebunden ist. Auf jeden Fall muss Schwarz seine Pläne
+ändern, und das bedeutet ein Spiel im Zentrum mit dem Zug Sf6-e4} Rad8 14. Bf1
+({In einer früheren Partie spielte Hebden schon einmal} 14. Qc1 Rfe8 {und
+aktivierte mit} 15. Ra3 $5 {den Damenturm. Schwarz reagiert gemäß seines
+Standardplans mit} Ne4 16. Nxe4 dxe4 17. c3 e5 18. dxe5 Bxe5 19. Bxe5 Rxe5 {
+und stand schon ziemlich gut. In der Praxis ist die Stellung für Schwarz
+einfacher zu spielen, denn er hat den Zentrumsbauern und die besser
+koordinierten Figuren}) 14... Rfe8 15. h3 ({Stattdessen ist} 15. Be5 {eher
+nachteilig wegen} Ne4 {Würde Weiß jetzt tauschen, dann erhielte Schwarz
+Druckspiel gegen den Bauern d4} 16. Bxg7 Nxc3 17. bxc3 Kxg7 {Die weiße
+Bauernstruktur ist hoffnungslos zersplittert und die c-Bauern sehr leicht
+angreifbar}) 15... Ne4 $1 {Nach diesem Zug ist schon klar, dass Schwarz gut
+stehen muss} 16. Nxe4 ({Das übliche} 16. Ra3 {wird entgegnet mit} b5 17. axb6
+Qxb6 {[%csl Ya6,Yb2,Yd4][%cal Gb6d4,Gb6b2,Ra3a6,Rf1a6] mit Angriff auf die
+Bauern d4 und b2. Dagegen fällt der Verlust des schwazen a-Bauern nicht so
+sehr in das Gewicht}) 16... dxe4 17. c3 e5 {Ohne große Gegenwehr landet Weiß
+in einer schlechteren Stellung. Sein Zentrum ist unter Beschuss und er wird
+einen isolierten Bauern erhalten} 18. Be3 exd4 19. cxd4 {Die Partie könnte
+wie folgt weitergehen} Rd6 20. Qa4 Red8 21. Qxc6 Rxc6 22. Ra4 ({Nach} 22. Red1
+Rc2 23. b4 Rb2 24. Rab1 Rxb1 25. Rxb1 Bxd4 {fällt zwar der schwache d-Bauer,
+aber Weiß kann vielleicht die Bauern auf dem Damenflügel alle abtauschen})
+22... Be6 23. Rb4 Rd7 {mit der Absicht Lg7-f8-d6, Le6-d5 und dem Vormarsch des
+f-Bauern. Dann steht er besser} *
+

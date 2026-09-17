@@ -1,0 +1,39 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Colle-System"]
+[Black "Speckled Egg Variation"]
+[Result "*"]
+[ECO "D94"]
+[Annotator "Yelena Dembo"]
+[PlyCount "39"]
+[EventDate "2011.08.10"]
+
+1. d4 Nf6 2. Nf3 g6 3. b4 {Das ist die Speckled-Egg-Variation von Keith Arkell.
+Der Läufer soll nach b2 entwickelt werden.} ({Weiß kann hier auch zahmer} 3.
+b3 {spielen, aber nach} Bg7 4. Bb2 O-O {geht das Spiel entweder in das
+Zukertort-System oder in den Königsindischen Angriff hinüber.}) 3... Bg7 4.
+Bb2 O-O 5. e3 d6 6. c4 {transponiert in eine seltene Variante der
+Königsindischen Verteidigung. Es kann folgen:} Nbd7 7. Be2 e5 8. O-O ({Oder} 
+8. dxe5 Ng4 9. O-O Re8 10. Nc3 Ndxe5 11. Nxe5 Nxe5 12. Qc2 a5 {, wonach
+Schwarz gegen die weiße Stellung schlägt und bereits Initiative besitzt.})
+8... Re8 9. Nc3 e4 $5 {Schwarz erobert Raum im Zentrum und bereitet einen
+Königsflügel-Angriff vor. Es entsteht ein Rennen auf entgegengesetzten
+Flügeln, aber der weiße Damenläufer ist weit entfernt für ein solches
+Szenario.} 10. Nd2 (10. Ne1 Nf8 11. Nc2 h5 {erlaubt es Schwarz mit seinen
+Plänen fortzusetzen. Weiß versucht den Gang der Partie zu verändern mit} 12.
+f4 exf3 13. Bxf3 {in Barnaure-Timoshenko Bucharest 2006, aber nach} Ne6 14. Qd3
+Ng5 15. Rae1 (15. e4 h4 {schenkt Schwarz die Initiative}) 15... Nxf3+ 16. Rxf3
+a5 {hätte er in einer schlechtern Stellung landen können.}) 10... Nf8 11. a4
+h5 12. a5 N8h7 {[%csl Yg4,Yg5][%cal Gh7g5,Gf6g4,Gc8g4] Ein Standard-Angriff:
+Schwarz bringt den Springer nach g5 und spielt danach Lg4 oder Sg4, bevor man
+versucht, die Dame in den Angriff einzuschalten.} 13. a6 (13. b5 Bf5 14. Nd5
+Nxd5 15. cxd5 Qg5 16. Kh1 Bg4 $1 {war für Schwarz auch sehr vielversprechend
+in Doda-Westerinen, Havana 1966.}) 13... b6 14. f4 exf3 15. Bxf3 Bg4 16. h3 Bh6
+$1 {und nun scheitert} 17. hxg4 $2 {wegen} ({Sogar das bessere} 17. Re1 Bxf3
+18. Qxf3 Ng5 {erlaubt Schwarz einen Vorteil durch Festsetzen eines Springers
+auf e4.}) 17... Bxe3+ $1 18. Rf2 (18. Kh2 Nxg4+ 19. Bxg4 hxg4 20. Qxg4 Bxd2 21.
+Ne4 Bg5 {und Schwarz steht wieder besser.}) 18... Nxg4 19. Bxg4 Qh4 20. Qf3 {
+mit einem großen Vorteil für Schwarz in Kozomara-Byrne,R 1967} *
+

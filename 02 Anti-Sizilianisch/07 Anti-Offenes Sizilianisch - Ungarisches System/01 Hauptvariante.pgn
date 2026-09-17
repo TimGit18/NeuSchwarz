@@ -1,0 +1,134 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ungarisches System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B53"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "54"]
+[EventDate "2013.11.14"]
+[SourceDate "2013.11.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 {Neulingen wird beigebracht, dass die
+Dame nicht zu schnell in das Spiel gebracht werden sollte. Aber erfahrene
+Spieler, die eine Partie gewinnen wollen, werden genau dieses tun. Das
+Moskauer System ist eine Ausnahme von der Regel. Die weiße Dame erscheint
+bereits sehr früh im Zentrum. Obwohl die Bauernstruktur denjenigen der
+Offenen Sizilianischen Verteidigung entspricht, gibt die unübliche Stellung
+der schwarzen Dame der Variante einen eigentümlichen Charakter, so dass die
+Variante sehr sorgfältig studiert werden muss.} Nc6 {Dieser Zug, der sofort
+die exponierte weiße Dame angreift, bildet die Hauptfortsetzung} ({Manchmal
+verhindert Schwarz die Fesselung mit} 4... a6 {oder auch dem Läuferzug auf d7,
+aber der Textzug bildet die Hauptvariante und daher die Hauptfortsetzung}) 5.
+Bb5 {Weiß ist dazu bereit, seinen Läufer früh zu tauschen, da dieser Tausch
+die Entwicklung seiner Leichtfiguren fördert und die starke Stellung der Dame
+sichert} Bd7 {Schwarz muss sich weiterentwickeln und die Bedrohung der Dame
+aufrechterhalten} 6. Bxc6 {Als Kompensation für das Läuferpaar erhält Weiß
+etwas Entwicklungsvorsprung und eine starke Stellung im Zentrum. Die schwarzen
+Chancen liegen dann eher im Endspiel} Bxc6 {An dieser Stelle hat Weiß zwei
+Hauptzüge: er kann einen Maroczy-Aufbau mit c4 versuchen oder seine
+Entwicklung mit Sb1-c3 weitertreiben} 7. Nc3 {Dieser Zug bildet die
+Hauptfortsetzung. Tatsächlich erscheint der Plan einer schnelllen Entwicklung
+der weißen Figuren eine konsequentere Fortsetzung als der Maroczy-Aufbau.} Nf6
+{Schwarz entwickeelt seinen Königsflügel und greift den Bauern e4 an.} 8. Bg5
+{Weiß entwickelt sich logisch weiter. Der Zug entwickelt nicht nur den
+weißen Damenläufer, sondern bereitet auch die lange Rochade vor.} e6 {[%csl
+Yd5] Schwarz deckt ein weiteres Mal den Springer, obwohl das hier nicht
+notwendig wäre. Aber er bildet auch ein Entwicklungsfeld für den schwarzen
+Königsläufer. Hier ist das Königsläuferfianchetto nicht so gut. Schwarz
+muss außerdem auf das Zentrum, insbesondere auf das Feld d5, aufpassen.} 9.
+O-O-O {Weiß bringt seinen König in Sicherheit und drückt auf den
+rückständigen Bauern d6} ({Schwarz hat überhaupt keinen Grund, die
+Dopppelbauern zu fürchten, die nach} 9. Bxf6 Qxf6 10. Qxf6 gxf6 11. O-O-O Rg8
+{entstehen. Andererseits hat Schwarz jetzt das Läuferpaar, was einen enormen
+Wert in dem Endspiel darstellen kann}) 9... Be7 {An dieser Stelle hat Weiß
+wieder mehrere Optionen zur Verfügung. Er kann seinen Königsturm in die
+Mitte bringen (die absolute Hauptvariante), er kann deine Dame zurückziehen
+oder den König auf die Seite schieben.} 10. Rhe1 {Dieser Zug bildet die
+absolute Hauptvariante, mit der Weiß die letzte Figur entwickelt.} O-O {In
+dieser Stellung kann Weiß wählen zwischen direkter Aktion im Zentrum mit
+e4-e5, dem Damenrückzug Dd4-d2 oder dem prophylaktischem Königszug Kc1-b1}
+11. Kb1 {Dieser Zug bildet die Hauptvariante. Nun hat Weiß etwas den
+taktischen Komplikationen vorgebeugt, die dort in den anderen Varianten
+lauerten.} Qc7 {Das ist die Hauptfortsetzung und bildet auch die Buchempfehlung
+} 12. Qd2 {Weiß setzt mit dem Standardplan fort und will im nächsten Zug
+Sf3-d4 spielen. Es sieht etwas seltsam aus, dass Weiß die Dame zunächst nach
+d4 und dann nach d2 zurückentwickelt. Irgendwie hat die Aufgabe des
+Läuferpaars und der Verzicht auf die Offene Sizilianische Verteidigung nicht
+viel gebracht} ({Der schnelle Bauerngewinn auf d6 kann im Endpsiel nach hinten
+losgehen} 12. Bxf6 Bxf6 13. Qxd6 Qb6 14. Qd2 Rfd8 15. Qe3 Bxc3 16. Qxb6 Rxd1+
+17. Rxd1 axb6 18. bxc3 Bxe4 {und es ist Weiß, der sich im Endspiel Sorgen
+machen muss}) 12... Rfd8 {Diese Idee ist sehr prophylaktisch von Schwarz, denn
+damit schützt er seinen d-Bauern nach einem eventuellen Abtausch auf f6} ({
+Schwarz muss immer noch alarmiert sein und sehr genau aufpassen. Nach} 12...
+Rab8 13. Nd4 b5 14. Bxf6 $1 Bxf6 15. Nxc6 Qxc6 16. Qxd6 {hat Schwarz keine
+ausreichende Kompensation für den verloren gegangenen Bauern}) 13. Nd4 {Damit
+verwirklicht Weiß die ursprüngliche Idee der Zentralisierung seiner
+Leichfiguren} Rab8 {Schwarz muss anfangen, langsam den Damenflügel zu
+mobilisieren. Er darf nicht warten, bis Weiß seine Stellung im Zentrum
+stabilisiert und einen entscheidenden Angriff auf dem Königsflügel starten.}
+14. f3 {Dieser Zug, der das weiße Zentrum stabilisiert und einen weißen
+Bauernsturm auf dem Königsflügel vorbereitet, sieht am solidesten aus.} ({
+Der aggressive Zug} 14. f4 $6 {ist nicht ganz gesund} b5 15. e5 ({Auch nicht
+besonders solide scheint} 15. f5 b4 16. fxe6 bxc3 17. exf7+ Kxf7 18. Qxc3 Rdc8
+19. Bxf6 Bxf6 20. Qc4+ d5 21. exd5 Ba8 {mit einfachem Gewinn für Schwarz})
+15... dxe5 16. fxe5 Nd5 17. Nxc6 Bxg5 18. Qxg5 Qxc6 19. Nxd5 Rxd5 {Das weiße
+Spiel im Zentrum führt zu nichts und er muss sich auf der c-Linie einer
+schwierigen Verteidigung stellen}) 14... b5 {Damit geht es endlich los.
+Schwarz wird seinen Damenflügel nach vorne schicken und nicht einfach
+abwarten, bis Weiß seine Stellung verbessert hat} 15. g4 {Auch Weiß zögert
+keine Sekunde. Der schwarze Königsflügel wirkt sehr fest, also muss er
+aufgerissen werden.} Be8 {[%cal Rc7c2] Schwarz zieht eine Figur zur
+Verteidigung des Königsflügels zurück und entlüftet die c-Linie für seine
+Schwerfiguren. Der Vorstoß b5-b4 liegt jetzt unmittelbar in der Luft.} ({Eine
+andere versprechende Option lautet} 15... b4 16. Nce2 Ba8 {, die in letzter
+Zeit recht erfolgreich für Schwarz gepunktet hat}) 16. Nce2 {[%csl Ye2,Yg3,
+Yh5][%cal Re2g3,Rg3h5] Weiß nimmt die Vertreibung seines Springers, die
+sowieso nicht verhindert werden kann, vorweg. Er plant, diesen nach h5 zu
+transportieren, wo er unangenehmen Druck gegen den schwarzen Königsflügel
+ausüben kann. Natürlich könnte Schwarz ihn auf h5 tauschen, aber dann
+würde er ja die g-Linie für Weiß öffnen.} h6 $5 {Dieser Bauernzug vor dem
+König scheint sehr riskant, aber die Belohnung sehr verheißungsvoll. Früher
+hat man b5-b4 gespielt.} 17. Be3 {Dieser Zug sieht logisch aus. Weiß behält
+seinen wichtigen Damenläufer und markiert die schwarze Schwäche auf h6, die
+mit g4-g5 attackiert werden soll.} ({Sehr beachtlich ist das Figurenopfer} 17.
+Bxh6 $5 gxh6 {Beide Seiten müssen nun ausgesprochen kreatives Schach zeigen}
+18. Qxh6 (18. g5 {ist auch sehr interessant, aber nicht ausreichend} Nh5 19.
+gxh6 Kh8 20. Rg1 Qc5 21. f4 Bd7 {Schwarz muss die Türme so schnell wie
+möglich verbinden} 22. Nf3 Rg8 23. Ng5 Rbf8 24. e5 Bxg5 25. Rxg5 Rxg5 26. fxg5
+Qxe5 {und Schwarz hat die vielleicht gröbsten Komplikationen überstanden})
+18... Nh7 19. g5 Bf8 20. Qh4 Rdc8 21. Rd2 Bg7 22. f4 Qa5 23. Rd3 {mit
+schwieriger Stellung, die nicht einfach zu bewerten ist. Weiß hat etwas
+Initiative für die Figur, aber Schwarz hat Gegenchancen entwickelt.}) 17... d5
+{Es ist richtig, im Zentrum zurückzuschlagen, wenn der Gegner einen
+Flügelangriff startet} 18. e5 {Nun ist es viel zu spät für Weiß, auf h6 zu
+schlagen} ({Das Figurenopfer nach} 18. Bxh6 dxe4 19. Bxg7 Kxg7 20. Qg5+ Kh8 21.
+fxe4 Nh7 {ist nicht gut für Weiß}) 18... Nd7 ({Nach} 18... Qxe5 {verliert
+Schwarz sofort die Dame} 19. Bf4) 19. Nf4 {Das ist der dynamischste Zug für
+Weiß. Er überläßt den Bauern e5 seinem Schicksal und hat statt dessen
+mögliche Figurenopfer auf e6 im Sinn.} ({Nach} 19. f4 Rdc8 {hat Schwarz
+ziemlich ähnliche Ideen wie in der Hauptvariante im Sinn.}) 19... Rdc8 {Eine
+der wesentlichen Ideen dieses Textzugs ist es, den folgenden Vorstoß f4-f5
+mit einem Schlagen auf e5 durch den Springer d7 zu begegnen. Dann ist nämlich
+die Dame auf c7 durch den Turm gedeckt und die Fesselung durch den Läufer auf
+f4 gar nicht mehr so schlimm, denn Schwarz kann mit dem Springerzug nach c4
+einen Gegenangriff auf die weiße Dame beginnen} 20. Nh5 {[%csl Rg7][%cal
+Gh5g7] Weiß ignoriert erst einmal die Bedrohung des Bauern e5 und droht auf
+dem Königsflügel mit diversen Einschlägen} Bf8 {Das ist ein feiner
+Verteidigungszug von Schwarz, der nicht nur den Bauern g7, sondern per
+Fernwirkung auch den Bauern h6 deckt.} ({Hingegen wäre} 20... Nxe5 $2 {ein
+Fehler wegen} 21. Bxh6 Nxf3 22. Nxf3 gxh6 23. Re2 {und Weiß hat gorßen
+Angriffsvorteil}) 21. f4 {Weiß deckt seinen Zentrumsbauern und hofft auf
+weiteren Königsflügelangriff} Rb6 {Das ist auch ein logischer und
+folgerichtiger Zug, denn Schwarz bereitet eine gefährliche Turmverdopplung
+vor und er überdeckt auch ein weiteres Mal den Bauern e6} 22. f5 {Weiß
+bricht jetzt die Brücken hinter sich ab. Er will die Linien auf dem
+Königsflügel öffnen und die Schwachpunkte der schwarzen Stellung (e6, g7,
+h6) angreifen.} Nxe5 $1 {Es scheint nun so, als gingen die folgenden
+Komplikationen günstig für Schwarz aus. Ein Beispiel} 23. Bf4 Nc4 {Das ist
+das vorher angesprochene Motiv.} 24. Bxc7 Nxd2+ 25. Rxd2 Rxc7 26. Nf4 Rc4 27.
+fxe6 Bc5 {Die heftigen Komplikationen sind zwar abgeflaut, aber das
+balancierte Endspiel ist noch immer lebendig.} *
+

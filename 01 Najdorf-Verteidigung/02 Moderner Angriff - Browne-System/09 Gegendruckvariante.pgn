@@ -1,0 +1,39 @@
+﻿[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Gegendruckvariante"]
+[Result "*"]
+[ECO "B95"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "32"]
+[EventDate "2012.04.21"]
+[SourceDate "2012.04.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Der Versuch der
+direkten Widerlegung von Najdorf: Weiß möchte lang rochieren, im Zentrum
+oder auf dem Königsflügel durchbrechen - je nachdem, ob Schwarz kurz
+rochiert oder in der Mitte bleibt} e6 {Das ist die übliche Antwort von
+Schwarz. Er kontrolliert das Schlüsselfeld d5. Das Bauernpaar e6 und d6 soll
+Weiß auf Abstand halten, den Entwicklungsrückstand aufholen und Gegenspiel
+am Damenflügel beginnen} 7. Qd2 {Ein alter Zug, der aber gut entgegnet werden
+kann} h6 $1 {Wieder einmal verursacht dieser wohl-getimete Zug Probleme für
+Weiß} 8. Bxf6 {Weiß muss den Läufer schon geben} ({(a) Das thematische} 8.
+Bh4 {verliert einen Bauern nach} Nxe4) ({(b) Wenig ideal ist auch} 8. Be3 {
+wegen} Ng4 9. Be2 Nxe3 10. Qxe3 Nc6 11. O-O-O Qb6 12. g4 Be7 13. h4 Nxd4 14.
+Qxd4 Qxd4 15. Rxd4 Bd7) 8... Qxf6 9. O-O-O {Weiß muss aktiv und aggressiv
+spielen, denn sonst kann er den Verlust des Läuferpaares nicht kompensieren} (
+{Nach} 9. a4 Nc6 10. Nb3 Qd8 11. Be2 Be7 12. O-O O-O 13. f4 b6 14. Bf3 Bb7 15.
+Rad1 b5 16. Kh1 Qb6 {entsteht ein normale Sizilianisch-Stellung, in der
+Schwarz den Vorteil des Läuferpaares hat}) 9... Nc6 {Eine gute Möglichkeit,
+die Damenpräsenz auf f6 zu untermauern. Weiß will keinen Damentausch auf d4
+zulassen, da Schwarz aufgrund des Läuferpaares ein angenehmes Endspiel hat}
+10. Nb3 ({(a)} 10. Kb1 Nxd4 11. Qxd4 Qxd4 12. Rxd4 Bd7 {verschafft Schwarz
+einen kleinen, aber dauerhaften Vorteil}) ({(b)} 10. Nxc6 {ist möglich, aber
+Schwarz besitzt eine bessere Bauernstruktur nach} bxc6 11. f4 Qd8 12. Na4 Be7
+13. Qe3 Rb8) 10... Qd8 11. f4 Be7 12. Qf2 b5 {Der typische Gegenangriff
+sichert Schwarz ein exzellentes Spiel} 13. g4 b4 14. Na4 Rb8 15. h4 Qc7 16. Kb1
+Bd7 {Der weiße Angriff erreicht noch nichts und der weiße Springer auf a4
+steht etwas seltsam} *
+

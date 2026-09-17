@@ -1,0 +1,55 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-Angriff"]
+[Black "Läufertausch"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "53"]
+[EventDate "2011.10.25"]
+[SourceDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. Bh6 {Sehr direktes Spiel,
+mit dem Weiß den schwarzen Königsläufer tauschen will} Bxh6 10. Qxh6 {
+Die Idee ist es, dass die weiße Dame vom Zentrum und vom Damenflügel
+abgelenkt wird. Schwarz hofft, dass das unheilvolle Feld beim König nicht so
+gefährlich ist} e5 11. O-O-O ({Weiß kann auch wie folgt spielen} 11. d5 Nd4
+12. Nxd4 ({(a)} 12. Qd2 c5 13. dxc6 bxc6 14. Nxd4 exd4 15. Qxd4 Rxb2 16. Be2
+Nh5 17. g3 Qa5 18. O-O Bh3 19. Rfd1 Rc2 20. Rd3 Rb8 21. Qxd6 Rbb2 {mit
+schwarzer Initiative}) ({(b)} 12. O-O-O c5 13. dxc6 bxc6 14. Nxd4 exd4 15. Rxd4
+Rxb2 $1 {Schwarz hat keine Angst vor} 16. c5 Rb8 17. Rxd6 Qa5 18. Kc2 Be6 {
+, denn der Bauer auf g6 ist sicher verteidigt und das Qualitätsopfer auf e6
+ist nicht effektiv hier}) 12... exd4 13. Ne2 c5 {Dann steht Schwarz schon sehr
+bequem}) 11... b5 12. h4 (12. d5 Na5 13. Ng3 ({Schlechter ist} 13. cxb5 axb5 {
+gefolgt von b5-b4}) 13... b4 14. Nb1 {Am einfachsten ist jetzt} Nb7 {mit der
+Idee Sd7-c5}) 12... bxc4 13. h5 Qe7 14. g4 ({Nach} 14. d5 Na5 15. Ng3 Bd7 16.
+Be2 Rb6 17. Rd2 c5 18. Nf1 ({Nach} 18. dxc6 Rxc6 19. Nf1 Be6 20. Ne3 Rc5 {
+ist die Stellung unklar}) 18... Ne8 19. Ne3 Nc7 20. Bd1 Nb5 21. Na4 Rb7 {
+entsteht eine zweischneidige Situration}) 14... exd4 15. Nxd4 Nxd4 16. Rxd4 Be6
+17. Bxc4 $1 {Das ist eine sehr kreative Idee. Weiß opfert einen ganzen Turm.}
+({Die Alternative} 17. hxg6 fxg6 18. Bxc4 Bxc4 19. Rxc4 c5 {läßt den Turm
+auf c4 etwas seltsam aussehen}) 17... c5 18. hxg6 cxd4 19. Nd5 Bxd5 20. Bxd5 d3
+{Dieser Zug ist notwendig, denn Schwarz droht mit De7-c7+} 21. Rh2 ({Zum Remis
+führt} 21. Kb1 Qe5 22. b3 Qc3 23. Rc1 ({Oder} 23. g5 Qc2+ 24. Ka1 Qc3+) 23...
+d2 24. Rxc3 d1=Q+) 21... Qe5 22. g5 $1 {Hier muss Schwarz aufpassen} (22. Kb1 {
+ist nicht so gut} d2 23. Rxd2 hxg6 24. Qxg6+ Kh8) 22... Qd4 23. gxf7+ Rxf7 24.
+Bxf7+ Kxf7 25. Qxf6+ Qxf6 26. gxf6 Kxf6 {Schwarz hat zwar den Mattangriff
+abgewehrt, muss aber noch um das Remis kämpfen} 27. Rd2 *
+

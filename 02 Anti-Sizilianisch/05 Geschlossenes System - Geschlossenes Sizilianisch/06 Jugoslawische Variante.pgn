@@ -1,0 +1,82 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Geschlossenes Sizilianisch"]
+[Black "Jugoslawische Variante"]
+[Result "*"]
+[ECO "B25"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "58"]
+[EventDate "2011.10.16"]
+[SourceDate "2011.10.16"]
+
+1. e4 c5 2. Nc3 d6 3. g3 {Weiß vermeidet mit der Wahl des Geschlossenen
+Sizilianers, der durch die Züge Sb1-c3 und g2-g3 gekennzeichnet ist, eine
+frühe Öffnung des Zentrums in dieser Stellung oder sogar direkten Kontakt
+der Figuren. Er will die Energie seiner Figuren speichern und erst später in
+der Partie entfesseln lassen. Sein Traum besteht in einem vernichtetenden
+Königsangriff, während sein Gegner damit beschäftigt ist, einen oder zwei
+uninteressante Bauern auf dem Damenflügel zu gewinnen. Daher muss Schwarz
+sehr schnell spielen und ohne jede Verzögerung ein Gegenspiel organisieren.
+Dabei muss er immer die Konsequenzen einer möglichen Öffnung im Zentrum im
+Auge behalten} Nc6 4. Bg2 g6 {Das Königsfianchetto ist das beachtenswerteste
+System für Schwarz.} 5. d3 Bg7 {An dieser Stelle kann Weiß zwischen drei
+Plänen wählen: 1) Er spielt einen Klassischen Anti-Englischen Aufbau mit
+Sg1-f3 2) Er spielt einen Bauernsturm auf dem Königsflügel mit f2-f4 3) Er
+spielt einen Jugoslawischen Angriff mit Lc1-e3} 6. Nf3 {Die meiste Literatur
+zur Sizilianischen Verteidigung erwähnt diesen Zug nicht. Aber er hat sicher
+seinen Sinn. Weiß spielt mit einem Mehr-Tempo, in einer Variante, die Schwarz
+gegen die Englische Eröffnung nutzt.} Nf6 {In allen Systemen, in denen Weiß
+auf f2-f4 verzichtet, muss sich Schwarz keine Sorgen über einen Bauernsturm
+auf dem Königsflügel machen. Also braucht er den Springer auch nicht nach e7
+zu entwickeln. Statt dessen spart der Textzug Zeit und und positioniert den
+Springer auf ein aktives Feld.o} 7. O-O O-O 8. h3 {Die Datenbank meldet hier
+schon jeden halbwegs sinnvollen Zug als gespielt an. Trotzdem kann der Zug als
+eine Art Hauptvariante betrachtet werden, denn er bereitet die
+Läuferentwicklung Lc1-e3 vor und verhindert die Belästigung durch Sf6-g4} Rb8
+9. Be3 ({Erwähnt werden soll noch} 9. Re1 {Weiß versucht im Zentrum gegen
+die schwarzen Figuren zu spielen} Nd7 10. Be3 b5 11. d4 {Die weiße Strategie
+ist ziemlich logisch. Er weiß, dass sein f-Bauer besser auf f2 als auf f4
+platziert ist in einem offenen Zentrum} b4 12. Ne2 a5 {Schwarz will nicht
+kooperieren und vermeidet zur Zeit c5xd4} 13. Qd2 Ba6 14. Rad1 Qc7 15. d5 {
+Unfähig, irgendwelche anderen Fortschritte zu machen, prescht Weiß nach vorne
+} Na7 16. Bh6 {Dieser Zug erlaubt ein starkes Qualitätsopfer} Bxb2 17. Bxf8
+Rxf8 18. Qh6 Bg7 19. Qh4 Bxe2 20. Rxe2 Nb5 {Schwarz hat eine fantastische
+Stellung für ein geringes materielles Investment}) 9... b5 10. Qd2 ({Nach} 10.
+e5 {sind die weißen Figuren nicht auf eine Öffnung des Zentrums vorbereitet}
+dxe5 11. Bxc5 b4 12. Ne4 Nxe4 13. dxe4 Qa5 14. Be3 Ba6 15. Re1 Rfd8 16. Qc1 Nd4
+{mit schwarzem Vorteil}) 10... b4 11. Nd1 ({Nach} 11. Nd5 {sieht folgendes
+interessant aus} Be6 12. Nf4 Bd7 13. Nd5 Qc8 14. Kh2 e6 15. Nxf6+ Bxf6 {
+Schwarz hat die angenehmere Stellung ohne Hinweis auf irgendwelche Probleme})
+11... e5 $5 {Dieser ehrgeizige Vorstoß gewinnt nicht nur Raum, sondern
+schränkt auch das weiße Zentrum ein, indem er sämtliche Ideen von e4-e5
+verhindert.} ({Weniger verpflichtend ist vielleicht} 11... Bd7 {, wonach} 12.
+Bh6 Nd4 13. Bxg7 Kxg7 {keine Probleme für Schwarz verursacht}) 12. Bh6 ({(a)
+Weiß erreicht nicht viel mit} 12. c3 Be6 13. Ng5 Bd7 14. cxb4 cxb4) ({(b)
+Ebenso unbeeindruckend ist} 12. b3 Nd4 13. Bxd4 cxd4 14. Nb2 Qc7 15. Nc4 Be6 {
+Weiß hat zwar die Schwächen auf der c-Linie maskiert, aber der schwarze
+Raumvorteil und sein Läuferpaar sind wichtige Trümpfe}) 12... Nh5 {Schwarz
+erfreut sich bereits einem Raumvorteil im Zentrum und auf dem Damenflügel und
+bereitet einen Kampf auf dem Köngisflügel vor} 13. Bxg7 Kxg7 14. a3 (14. Nh4
+{ist ein instruktiver Fehler. Es kann folgen} Nf4 15. Nf5+ gxf5 16. gxf4 Rg8 {
+Mit diesem natürlichen Zug kann Schwarz die Initiative ergreifen. Die offene
+g-Linie wird den Spieler bevorzugen, der sie als erster besetzen kann} 17. fxe5
+Kh8 18. Kh1 dxe5 19. f4 fxe4 {Weiß hat lediglich die Stellung gegen seinen
+eigenen König geöffnet}) 14... b3 {Schwarz sollte die a-Linie geschlossen
+halten, um Gegenspiel zu verhindern. Er ist bereits in der Lage, die
+Initiative auf der gegenüberliegenden Seite zu ergreifen} 15. c3 f5 16. exf5
+gxf5 17. Re1 f4 18. g4 Nf6 19. c4 {Dieser Zug schafft Platz für den Springer,
+der auf das Feld c3 zurückkehrt. Aber er schwächt auch das Feld d4} (19. d4
+e4 20. Nh2 f3 21. Bf1 cxd4 22. cxd4 d5 {sieht unangenehm für Weiß aus wegen
+seines Mangels an Raum und seines unsicheren Königs.}) 19... Kh8 20. Nc3 Nxg4
+{Dieses brillante Opfer funktioniert, da die weiße Stellung zu verkrampft ist
+und er keine Verteidiger auf den Königsflügel bringen kann} 21. hxg4 Bxg4 22.
+Nh2 Rg8 23. Kh1 Nd4 {Es ist nicht klar, ob Sd4-c2 wirklich eine Drohung
+darstellt, da der Springer auf d4 viel stärker ist.} 24. f3 Bh5 25. Qf2 Rb7 {
+Die schwarze Initiative kompensiert das Figurenopfer. Eine plausible
+Fortsetzung lautet:} 26. Ne4 Rbg7 27. Bh3 (27. Rg1 {wird durch} Nf5 {widerlegt}
+) 27... Rg3 28. Bg4 Bxg4 29. fxg4 Qa8 {Es droht Tg6-h6. Schwarz kann auch die
+materielle Gleichheit wiederherstellen mit Td3xd3 zu jedem Zeitpunkt. Seine
+Stellung ist klar besser und vermutlich gewinnend} *
+

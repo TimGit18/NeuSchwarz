@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grob-Basman-Angriff"]
+[Black "Vorbereitung"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "12"]
+[EventDate "2009.??.??"]
+
+{[%evp 0,18,28,-63,-63,-69,-68,-77,-88,-96,-98,-84,-83,-153,-142,-140,-153,-156,-134,-222,-177]} 1. g4 {Dieser Aufzug ist der Grob-Angriff. Der Zug sieht zwar zweifelhaft aus, aber er führt zu obskuren Stelungen. Schwarz sollte sich sehr schnell entwickeln und den Aufzug des h-Bauern vermeiden.} d5 2. h3 {Dieser Zug charakterisiert das Basman-System. Michael Basman deckte damit den angegriffenen g-Bauern. Aber er gibt damit auch Schwarz Zeit, seine Entwicklung und die Besetzung des Zentrums zu vervollständigen.} e5 {Folgerichtig besetzt Schwarz mit dem zweiten Bauern das klassische Zentrum.} 3. Bg2 {Weiß entwickelt den Läufer auf die lange Diagonale. Vermutlich ist dies der einzige Vorteil, den der Grob-Angriff bietet.} Nc6 {Schwarz entwickelt sich schleunig und provoziert Weiß mitunter zu einem zweifelhaften Aufzug seines c-Bauern. Die Verteidigung mit dem Bauernzug c7-c6 ist zwar vernünftig, aber dies könnte den Weißen eher liegen.} {Die Vorbereitung} 4. c3 {bereitet d4 vor, aber} Bc5 {verhindert dieses Ziel, und Schwarz beendet eilig die Königsflügel-Entwicklung verhindert dieses Ziel, und Schwarz beendet eilig die Königsflügel-Entwicklung} 5. Nf3 e4 6. Nd4 Qf6 $1 {und Weiß hat den Kampf um d4 verloren} *
+

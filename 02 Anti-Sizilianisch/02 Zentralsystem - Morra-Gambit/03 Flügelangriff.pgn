@@ -1,0 +1,40 @@
+[Event "Fighting the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Morra-Gambit"]
+[Black "Flügelangriff"]
+[Result "*"]
+[ECO "B21"]
+[Annotator "Richard Palliser"]
+[PlyCount "31"]
+[EventDate "2013.09.15"]
+[SourceDate "2013.09.15"]
+
+1. e4 c5 2. d4 cxd4 3. c3 {Dieser Zug charakterisiert das Morra-Gambit. Weiß
+erhält freies Spiel und eine gute Entwicklung, verliert aber seine
+Zentrumsbauern} dxc3 {Die einzige Möglichkeit, das zweifelhafte Gambit zu
+widerlegen ist die Annahme. Das führt zu offenen und zweischneidigen Stellungen
+} 4. Nxc3 Nc6 {Dieser Zug leitet den besten Aufbau für Schwarz gegen das
+Gambit ein} 5. Nf3 d6 {Die Idee von diesem Zug ist die Entwicklung des
+Damenläufers nach g4, um den Springer auf g3 abzutauschen. Dies reduziert
+nicht nur das weiße Angriffspotential, sondern nimmt auch den Vorstoß e4-e5
+aus der Stellung} 6. Bc4 {Das ist das weiße Standardschema in der Stellung.} a6
+$1 {Das ist die Grundstellung im Angenommenen Morra-Gambit. Die Zugreihenfolge
+ist hier sehr wichtig} 7. O-O Nf6 8. b4 {Eine Zeitlang war dieses sehr
+undurchsichtige Gambit aus den Neunziger Jahren sehr beliebt} Bg4 {Der Bauer
+sollte natürlich wegen e4-e5 nicht genommen werden, sondern der schwarze Plan
+ausgeführt werden} 9. b5 {Das Vorrücken des Bauern soll nicht so gefährlich
+sein} Bxf3 10. gxf3 ({Die Theorie mag nicht} 10. Qxf3 Ne5 11. Qe2 Rc8 {, denn
+Schwarz scheint eine Figur zu gewinnen, aber so klar ist die Sache nicht} 12.
+bxa6 bxa6 13. Bxa6 Rxc3 14. Bb2 Rc5 15. Bd4) 10... axb5 {Das ist jetzt gescheit
+} 11. Bxb5 {Dies ist der weiße Hauptzug, aber Schwarz kann jetzt seinen
+Königsflügel entwickeln} ({Vielleicht sollte Weiß} 11. Nxb5 {versuchen mit der
+Folge} Ne5 {Das ist notwendig} 12. Bb3 Qd7 {Eine neue prophylaktische Idee} 13.
+Ba4 ({(1) Nach} 13. Nc3 Qh3 {gewinnt Schwarz}) ({(2)} 13. Nd4 e6 14. Bb2 Be7
+15. f4 Nc6 16. e5 dxe5 17. Nxc6 bxc6) 13... Kd8 14. Be3 Ra6 15. Rc1 Qh3 16. Nd4
+Rxa4 17. Qxa4 Nxf3+ 18. Nxf3 Qg4+ 19. Kh1 Qxf3+ 20. Kg1 Qg4+ {mit Dauerschach})
+11... g6 12. Nd5 Bg7 13. Bb2 O-O {Weiß kann jetzt den schwarzen Königsflügel
+demolieren, muss dafür aber Figuren abtauschen und schwarze Gegenspiel zulassen
+} 14. Nxf6+ Bxf6 15. Bxf6 exf6 16. Qd5 {Weiß muss jetzt schon etwas kämpfen} *
+

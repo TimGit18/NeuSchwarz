@@ -1,0 +1,84 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-Angriff"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "44"]
+[EventDate "2011.10.25"]
+[SourceDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. h4 {Das ist der
+aggressivste Zug, obwohl Weiß in bestimmten Varianten auch positionell
+spielen kann. Die grundlegende Idee dieses Zuges ist offensichtlich. Weiß
+beabsichtigt, den schwarzen König anzugreifen. Das Spiel ähnelt sehr der
+Sizilianischen Drachenverteidigung. Gewöhnlich antwortet Schwarz mit h7-h5
+wie in der Soltis-Variante} h5 {Schwarz blockiert mechanisch den Vorstoß des
+h-Bauern} 10. O-O-O {Das ist die Hauptvariante im Sämisch-Angriff. Das Spiel
+wird sehr kompliziert, aber Schwarz kann eigene Komplikationen verursachen} b5
+{[%csl Yb2,Yb4,Yc4][%cal Gb5c4,Rb8b2] Schwarz beginnt sein eigenes Gegenspiel.
+Weiß muss nun entscheiden, wie er fortsetzen will} 11. Bh6 {Weiß will den
+mächtigen Läufer auf g7 abtauschen.} e5 {Das ist die Hauptvariante. Schwarz
+kombiniert Zentrumsspiel mit den Angriff auf den Flügeln. Nun folgt eine
+weitere Variante} 12. Bxg7 Kxg7 {Weiß hat erfolgreich die schwarzfeldrigen
+Läufer getauscht und den König ein Feld nach vorne gelockt. Wenn er die
+Stellung auf dem Königsflügel aufreißen kann, dann würde der schwarze
+König in Gefahr geraten} 13. dxe5 {In der Hauptvariante versucht Weiß sofort
+das Spiel im Zentrum zu öffnen, aber der schwarze Springer gelangt auf ein
+gutes Feld} ({(a)} 13. cxb5 axb5 14. dxe5 Nxe5 {transponiert in die
+Hauptvariante}) ({(b)} 13. d5 {ist kein guter Zeitpunkt} Na5 14. Ng3 b4 15. Nb1
+c6 16. Qg5 cxd5 17. exd5 Nb7 18. Bd3 Nc5 {und wieder steht Schwarz besser}) ({
+(c)} 13. Nd5 bxc4 14. Nxf6 Qxf6 15. d5 c3 16. Qxc3 Nb4 17. Kb1 a5 {mit
+schwarzem Gegenspiel}) 13... Nxe5 {[%csl Yc4][%cal Re5c4,Rb5c4] Schwarz kann
+auch mit dem Bauern schlagen, aber der Springer steht hier sehr aktiv. Es
+droht bereits das Schlagen des zweimal angegriffenen Bauern auf c4, der aus
+weißer Sicht selber schlagen muss} 14. cxb5 {Wieder gibt es Alternativen, die
+aber wahrscheinlich nicht so gut sind.} ({(a)} 14. c5 b4 15. Nd5 Nxd5 16. Qxd5
+Rb5 {und Schwarz gewinnt einen Bauern}) ({(b)} 14. Nf4 bxc4 15. Be2 ({
+Schlimmer sind} 15. Qd4 Nfd7 16. Bxc4 c5) (15. Nfd5 Nxd5 16. Nxd5 Be6 17. Ne3)
+15... Bd7 16. Kb1 ({Nach} 16. g4 hxg4 17. h5 g5 {ist Schwarz gut}) 16... Bc6
+17. Qd4 Qc8 18. Ncd5 Bxd5 19. Nxd5 Nxd5 20. exd5 Qf5+ 21. Ka1 Qf6 {und Schwarz
+steht besser}) ({(c)} 14. Nd4 b4 15. Nd5 c5 16. Nb3 Nxd5 17. Qxd5 Rb6 18. Nxc5
+Rc6 19. Nb3 Be6 20. Qd2 Bxc4 21. Nd4 Rc8 {mit gleicher Stellung}) 14... axb5 {
+Schwarz hat bereits eine mobile und dynamische Bauernmasse auf dem
+Damenflügel, die nun nach vorne marschieren kann. Die anderen Figuren können
+später eingreifen} 15. Nf4 {[%csl Yb5,Yc3,Yd5,Yf4][%cal Rc3b5,Rf1b5,Gf4d5,
+Gc3d5] Weiß muss mit aktivem Figurenspiel gegenhalten. Er möchte nun auf den
+weißen Feldern d5 und b5 agieren, auf denen er einigen Druck aufgebaut hat} b4
+16. Ncd5 Nxd5 17. Nxd5 c5 {Nach dem logischen Abtausch auf d5 hat Weiß einen
+mächtigen Springer auf d5 etabliert, aber Schwarz hat seine Bauernkette auf
+dem Damenflügel stabilisieren können. Der weißfeldrige Läufer überdeckt
+die komplementären Felder} 18. f4 {Wenn Weiß in dieser Stellung etwas
+erreichen will, dann muss er auf den schwarzen Feldern aktiv werden, denn dort
+sind die größten schwarzen Schwächen auf dem Königsflügel} ({(a) Die
+Fortsetzung} 18. Ne3 Be6 19. Qxd6 Qxd6 20. Rxd6 Bxa2 {ermöglicht Schwarz ein
+angenehmes Endspiel}) ({(b)} 18. Be2 {ist eine scharfe Alternative, Schwarz
+muss hier etwas aufpassen, sollte aber ein Remis erreichen} Ra8 19. f4 Ng4 20.
+f5 Nf2 21. f6+ Kh7 22. Bxh5 ({Oder} 22. Bc4 Nxh1 23. Rxh1 Ba6) 22... Nxh1 23.
+Qg5 (23. Rxh1 Rxa2) 23... Ng3 24. Bxg6+ fxg6 25. Ne7 Qe8 26. h5 Nxh5 27. Rh1
+Rxf6 28. Qxf6 Rxa2 {sieht nach schwarzem Gewinn aus}) 18... Ng4 {Dieser Zug
+gilt als sicherste Fortsetzung} 19. f5 ({(a)} 19. Bd3 Be6) ({(b)} 19. Bc4 Be6)
+19... gxf5 {Der Zug schwächt zwar den schwarzen Königsflügel, aber er
+verhindert auch den Bauernvormarsch nach f6} 20. Bd3 {Weiß spielt weiter um
+die Initiative} ({Nach} 20. Nf4 Rh8 21. Qxd6 Qxd6 22. Rxd6 Nf2 23. Rg1 fxe4 {
+hat Schwarz das bessere Endspiel}) 20... fxe4 21. Bxe4 Rh8 22. Rdf1 Be6 {
+Diese Stellung führt zu ausgeglichenen Endspielen} *
+

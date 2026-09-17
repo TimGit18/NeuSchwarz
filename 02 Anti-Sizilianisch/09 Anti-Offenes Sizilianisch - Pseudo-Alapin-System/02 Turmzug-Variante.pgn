@@ -1,0 +1,38 @@
+[Event "Experts on the Anti-Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pseudo-Alapin-System"]
+[Black "Turmzug-Variante"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Christian Bauer"]
+[PlyCount "22"]
+[SourceVersionDate "2019.04.24"]
+
+1. e4 c5 2. Nf3 d6 3. c3 {Die Idee des Pseudo-Alapin-Aufbaus besteht im Aufbau
+eines starken Zentrums mit e4 und d4, gegen das Schwarz nicht mehr gut mit d5
+gegenschlagen kann, denn er hat bereits seinen d-Bauern auf d6 platziert.} Nf6
+{Das ist die logische Antwort. Schwarz setzt das weiße Zentrum unter Druck.
+Alle anderen Züge sind schlechter.} 4. h3 {Hiermit verhindert Weiß die
+Aktion Lc8-g4. Denn sonst käme der schwarze Damenläufer nach g4, würde den
+weißen Springer fesseln und das Bauernzentrum auf d4 unterminieren. Daher
+kann der vierte weiße Zug als Teil seiner Zentralstrategie angesehen werden.}
+g6 {Das ist die große strategische Fortsetzung von Schwarz mit Spiel auf den
+schwarzen Feldern im Zentrum.} 5. Bd3 {Weiß hat hier auch mit anderen
+Läuferzügen experimentiert - allerdings ohne großen Erfolg.} Bg7 6. Bc2 O-O
+7. O-O Nc6 {Die Turmzug-Variante beginnt mit} 8. Re1 {Der Turmzug ist sehr
+flexibel bezüglich des d-Bauern. Allerdings hat sein Gegner auch ein Tempo
+gewonnen, um sich auf einen Durchbruch vorzubereiten.} b6 9. d3 ({(a) Oder} 9.
+Na3 $5 Bb7 10. d4 cxd4 11. cxd4 Rc8 12. d5 {Sonst würde Schwarz selber d6-d5
+spielen.} Nb4 13. Bb1 Nd7 14. Nb5 a6 15. Nbd4 Ne5 {mit einer ausgeglichenen
+Stellung.}) ({(b) Das prinzipielle} 9. d4 {ist nicht so schlecht, aber
+wahrscheinlich ohne Vorteil} cxd4 10. cxd4 Nb4 11. Bb3 Ba6 12. e5 dxe5 13. dxe5
+$6 (13. Nxe5 {ist gleich}) 13... Qxd1 14. Rxd1 Ne4 {Schwarz steht im Endspiel
+besser. Seine ganze Armee ist mobililsiert, der Bauer e5 ist schwach und das
+Feld d3 ebenfalls.}) ({(c)} 9. a3 $6 {ist wiederum schlecht wegen} c4) 9... e5
+{Mit diesem Zug hält sich Schwarz die Option offen, Lc8-e6 zu spielen.} 10. a3
+h6 11. b4 Be6 {Weiß hat zwar sein Ziel erreicht und b2-b4 durchgesetzt. Aber
+die die gegnerische Stellung ist schwer zu durchbrechen. Die Chancen sind
+daher gleich.} *
+

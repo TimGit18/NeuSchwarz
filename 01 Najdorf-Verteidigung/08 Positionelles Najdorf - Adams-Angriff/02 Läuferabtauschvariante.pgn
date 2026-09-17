@@ -1,0 +1,33 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Adams-Angriff"]
+[Black "Läuferabtauschvariante"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "32"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 {Das ist ein sehr
+giftiger Zug, der neuerdings von vielen Elitespielern gespielt wird. Die Idee
+ist es, g2-g4 zu spielen und schnell einen Angriff auf dem Königsflügel zu
+starten} e5 {Dieser Zug stellt die aggressivste und kompromissloseste Antwort
+dar. Schwarz erhält die Chance auf Gegenspiel} 7. Nde2 {[%csl Yf5][%cal Re2g3,
+Rg3f5] Der Springer steht auf e2 besser als auf f3, denn so nimmt er am Kampf
+um das Feld d5 teil. Außerdem kann er über g3 nach f5 gebracht werden,
+wogegen er auf f3 keine Zukunft hat} h5 {Dieser Zug hindert Weiß daran,
+selber g2-g4 zu spielen und den Springer auf g3 hinterher zu schieben.
+Zugegebenermaßen besitzt der Zug auch Nachteile. Das Feld g5 wird Weiß
+überlassen, auf dem ein Läufer ideal steht. Schwarz sollte daher nicht so
+schnell kurz rochieren, denn er könnte unter einem Angriff mit g2-g4 kommen}
+8. Bg5 Be7 {Die Abtauschvariante ist auch populär und beginnt mit} 9. Bxf6 (9.
+Qd2 {ist auch möglich, aber dann folgt stark} b5 $1 10. a3) 9... Bxf6 10. Nd5
+{Schwarz hat die Wahl. Er kann entweder Weiß erlauben, den Springer gegen den
+Läufer zu tauschen oder Schwarz zieht den Läufer weg und versucht mit h5-h4
+die schwarzen felder zu kontrollieren} Nc6 (10... Bg5 11. Nec3 Be6 12. Be2 h4 {
+Schwarz fixiert die weißen Bauern und dehnt die schwarzen Felder aus. Schwarz
+erreicht eine gleiche Stellung und nach einer kurzen Rochade kann er g7-g6 mit
+der Idee f7-f5 spielen}) 11. Nec3 g6 12. Nxf6+ Qxf6 13. Nd5 Qd8 14. Qd2 Be6 15.
+c3 Rc8 16. Be2 Ne7 {mit einer ausgeglichenen Stellung} *
+

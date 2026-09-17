@@ -1,0 +1,90 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Sizilianisch"]
+[Black "Ungarisches System"]
+[Result "*"]
+[ECO "B53"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "22"]
+[EventDate "2013.11.14"]
+[SourceDate "2013.11.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 {Neulingen wird beigebracht, dass die
+Dame nicht zu schnell in das Spiel gebracht werden sollte. Aber erfahrene
+Spieler, die eine Partie gewinnen wollen, werden genau dieses tun. Das
+Moskauer System ist eine Ausnahme von der Regel. Die weiße Dame erscheint
+bereits sehr früh im Zentrum. Obwohl die Bauernstruktur denjenigen der
+Offenen Sizilianischen Verteidigung entspricht, gibt die unübliche Stellung
+der schwarzen Dame der Variante einen eigentümlichen Charakter, so dass die
+Variante sehr sorgfältig studiert werden muss.} Nc6 {Dieser Zug, der sofort
+die exponierte weiße Dame angreift, bildet die Hauptfortsetzung} ({Manchmal
+verhindert Schwarz die Fesselung mit} 4... a6 {oder auch dem Läuferzug auf d7,
+aber der Textzug bildet die Hauptvariante und daher die Hauptfortsetzung}) 5.
+Bb5 {Weiß ist dazu bereit, seinen Läufer früh zu tauschen, da dieser Tausch
+die Entwicklung seiner Leichtfiguren fördert und die starke Stellung der Dame
+sichert} Bd7 {Schwarz muss sich weiterentwickeln und die Bedrohung der Dame
+aufrechterhalten} 6. Bxc6 {Als Kompensation für das Läuferpaar erhält Weiß
+etwas Entwicklungsvorsprung und eine starke Stellung im Zentrum. Die schwarzen
+Chancen liegen dann eher im Endspiel} Bxc6 {An dieser Stelle hat Weiß zwei
+Hauptzüge: er kann einen Maroczy-Aufbau mit c4 versuchen oder seine
+Entwicklung mit Sb1-c3 weitertreiben} 7. Nc3 {Dieser Zug bildet die
+Hauptfortsetzung. Tatsächlich erscheint der Plan einer schnelllen Entwicklung
+der weißen Figuren eine konsequentere Fortsetzung als der Maroczy-Aufbau.} ({
+Der Maroczy-Aufbau beginnt nämlich mit dem Zug} 7. c4 {Weiß entscheidet sich
+für diesen Aufbau und hofft darauf, dass die zentralisierte Dame seine
+Aktionen auf dem Brett unterstützen wird.} Nf6 {Schwarz entwickelt sich
+einfach logisch weiter} 8. Nc3 g6 {Anders als in der Hauptvariante des
+Ungarischesn Systems ist dieser Aufbau sicher die bequemste Lösung für die
+schwarze Entwicklung. Außerdem wird die zentralisierte Dame gezwungen, sich
+zu bewegen, dass sie nicht mehr auf der Diagonalen a1-h8 bleiben kann.} 9. O-O
+Bg7 10. Qd3 {Streng genommen muss die Dame sich nicht zurückziehen, aber sie
+muss es nach der schwarzen Rochade ohnehin.} O-O 11. Nd4 {Weiß hat hier schon
+alle möglichen Züge ausprobiert, die schwarze Grundaufstellung bleibt immer
+mehr oder weniger dieselbe.}) 7... Nf6 {Schwarz entwickelt seinen
+Königsflügel und greift den Bauern e4 an.} 8. Bg5 {Weiß entwickelt sich
+logisch weiter. Der Zug entwickelt nicht nur den weißen Damenläufer, sondern
+bereitet auch die lange Rochade vor. Außerdem droht in manchen Varianten -
+ähnlich wie im Rauzer-Angriff oder im Trompowsky - das Schlagen auf f6 mit
+einem anschließenden Doppelbauern} e6 {[%csl Yd5] Schwarz deckt ein weiteres
+Mal den Springer, obwohl das hier nicht notwendig wäre. Aber er bildet auch
+ein Entwicklungsfeld für den schwarzen Königsläufer. Hier ist das
+Königsläuferfianchetto nicht so gut. Schwarz muss außerdem auf das Zentrum,
+insbesondere auf das Feld d5, aufpassen.} 9. O-O-O {Weiß bringt seinen König
+in Sicherheit und drückt auf den rückständigen Bauern d6} ({Schwarz hat
+überhaupt keinen Grund, die Dopppelbauern zu fürchten, die nach} 9. Bxf6 Qxf6
+10. Qxf6 gxf6 11. O-O-O Rg8 {entstehen. Andererseits hat Schwarz jetzt das
+Läuferpaar, was einen enormen Wert in dem Endspiel darstellen kann}) 9... Be7
+{An dieser Stelle hat Weiß wieder mehrere Optionen zur Verfügung. Er kann
+seinen Königsturm in die Mitte bringen (die absolute Hauptvariante), er kann
+deine Dame zurückziehen oder den König auf die Seite schieben.} 10. Rhe1 {
+Dieser Zug bildet die absolute Hauptvariante, mit der Weiß die letzte Figur
+entwickelt.} ({(a)} 10. Qd3 {Mit diesem Zug plant Weiß eine Umgruppierung des
+Springers auf f3, um danach einen Vormarsch der Königsflügel-Bauern folgen
+zu lassen.} Qa5 {Nach Ftacnik ist dies die genaueste Antwort. Schwarz schaut
+sich den Läufer g5 genau an und droht bezeiten mit dem Zug Sf6xe4} 11. h4) ({
+(b)} 10. Kb1 {Mit diesem Zug bringt Weiß manchmal die Zugreihenfolge
+durcheinander} O-O {Einige Spieler experimentierten hier mit der Variante} 11.
+Qd3 {Weiß versuch eine verbessserte Version des Königsflügelsvormarschs zu
+erhalten. Allerdings hat diese Zugreihenfolge auch ihre Nachteile.} h6 $1 {
+Das ist ein sehr genauer Zug.}) 10... O-O {In dieser Stellung kann Weiß
+wählen zwischen direkter Aktion im Zentrum mit e4-e5, dem Damenrückzug
+Dd4-d2 oder dem prophylaktischem Königszug Kc1-b1 Der Regelzug lautet hier}
+11. Kb1 {Dieser Zug bildet die Hauptvariante. Nun hat Weiß etwas den
+taktischen Komplikationen vorgebeugt, die dort in den anderen Varianten
+lauerten. , was in die Hauptvariante transponiert} ({(a)} 11. Qd2 {Dieser Zug
+wird gespielt mit der Absicht, das Feld d4 für den Springer zu räumen. Das
+ist eine absolute Standard-Idee in dieser Stellung, aber in der besonderen
+Situation hat Weiß bestimmte taktische Schwierigkeiten zu erwarten} h6 $1 {
+Dieser Zug erfolgt zum richtigen Zeitpunkt. Er erzeugt nachteilige Probleme
+für Weiß} 12. Bf4 e5 {Schwarz schließt in klassischer Manier das Zentrum
+und vermindert den Druck auf d6} 13. Bg3 {Der einzig richtige Rückzug, um den
+Bauern e4 zu sichern}) ({(b)} 11. e5 {Die Öffnung des Zentrums sieht für
+Weiß logisch aus, denn alle weißen Figuren sind mobilisiert und bereit für
+Aktionen. Umgekehrt profitiert Schwarz von dem Läuferpaar und ist nur leicht
+in der Figurenentwicklung zurück. Letztlich sollten sich diese beide Faktoren
+aufheben.} dxe5 {Im Grunde hat Schwarz keine Alternativen zum Schlagen auf e5}
+12. Qh4) 11... Qc7 {Das ist die Hauptfortsetzung und bildet auch die
+Buchempfehlung} *
+

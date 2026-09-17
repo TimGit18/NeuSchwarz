@@ -1,0 +1,63 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-Angriff"]
+[Black "Bauernopfer"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "48"]
+[EventDate "2011.10.25"]
+[SourceDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. h4 {Das ist der
+aggressivste Zug, obwohl Weiß in bestimmten Varianten auch positionell
+spielen kann. Die grundlegende Idee dieses Zuges ist offensichtlich. Weiß
+beabsichtigt, den schwarzen König anzugreifen. Das Spiel ähnelt sehr der
+Sizilianischen Drachenverteidigung. Gewöhnlich antwortet Schwarz mit h7-h5
+wie in der Soltis-Variante} h5 {Schwarz blockiert mechanisch den Vorstoß des
+h-Bauern. Mit dem Zug} 10. Nc1 {scheint Weiß einen Gedankenwechsel
+vorzunehmen und wieder positionelles Spiel beginnen zu wollen. Der Zug
+erinnert an das eigentliche Sämisch-System, aber mit dem Bauern auf h4 ist
+der Stellungstyp etwas anders} e5 {Das ist der thematische Zug. Schwarz geht
+gegen das geschwächte Feld d4 vor. Allerdings muss er noch einige
+Schwierigkeiten überwinden} 11. d5 Nd4 ({Schwarz hat auch mit} 11... Ne7 {
+experimentiert, aber ohne großen Erfolg}) 12. Nb3 {Sonst macht der
+Springerrückzug wenig Sinn. Schwarz hat eine wichtige Wahl. Er kann versuchen,
+die Stellung zu vereinfachen oder er kann ein thematisches Bauernopfer spielen}
+({Der Zug} 12. N1e2 {macht hier weniger Sinn als wenn die h-Bauern noch auf
+ihrem Ausgangsfeld stünden. Schwarz sollte wie folgt spielen} c5 13. dxc6 Nxc6
+14. Rd1 Be6 15. b3 ({Oder} 15. Nd5 b5) 15... b5 16. cxb5 ({Nach} 16. Qxd6 Qxd6
+17. Rxd6 Nb4 {hat Schwarz Kompensation}) 16... axb5 17. Qxd6 Qc8 {Schwarz hat
+gutes Spiel für den Bauern}) 12... c5 {Dieser Zug beinhaltet ein Bauernopfer
+und ist die wichtigste Ressource für Schwarz, aber er muss noch viele
+Probleme lösen} 13. dxc6 bxc6 14. Nxd4 exd4 15. Bxd4 {Für den Bauern hat
+Schwarz einige offene Linien, einen leichten Entwicklungsvorsprung und die
+Möglichkeit, das Zentrum mit d5 zu öffnen} Be6 {Das ist vielleicht der beste
+Zug, um das schwarze Bauernopfer zu rechtfertigen} ({Der gebräuchlichste Zug
+ist} 15... Re8 {, aber die Stellung nach} 16. Be2 d5 {wird gefährlich für
+Schwarz. Schwarz muss zuschlagen solange der weiße König im Zentrum steht}
+17. e5 {Dieser Zug ist sehr gefährlich, aber er ist nicht sehr verbreitet} Nd7
+18. e6 $1 {Dieser Zug bereitet den Abtausch der schwarzfeldrigen Läufer vor,
+die lange Rochade und den Durchbruch mit g2-g4. Der Zug deplatziert außerdem
+die} Rxe6 19. Bxg7 Kxg7) 16. Be2 ({Eine Alternative wert ist} 16. Rc1) 16... d5
+17. cxd5 cxd5 18. exd5 (18. e5 Nd7 19. f4 f6 20. exf6 Nxf6 {gibt Schwarz
+Gegenspiel}) 18... Nxd5 19. Bxg7 Kxg7 20. Rd1 Nxc3 21. Qxc3+ Qf6 22. Qxf6+ Kxf6
+{Schwarz hat Möglichkeiten, das Endspiel zu halten} 23. b3 Rfc8 24. Kd2 a5 *
+

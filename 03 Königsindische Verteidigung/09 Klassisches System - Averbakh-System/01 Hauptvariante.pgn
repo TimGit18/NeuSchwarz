@@ -1,0 +1,113 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Averbakh-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "E73"]
+[Annotator "David Vigorito"]
+[PlyCount "50"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 {Die
+Averbakh-Variante ist flexibel und gefährlich, aber nicht mehr so beliebt wie
+früher. Diese Variante erinnert an die Gligoric-Variante des Klassischen
+Systems, die heute viel beliebter ist als das Averbakh-System. Schwarz muss
+sehr genau spielen und versuchen, typische Benoni-Stellungen zu vermeiden, in
+denen er wenig Gegenspiel hat und Weiß den gesamten Raumvorteil besitzt.} c5 {
+Das ist der einzige Zug, der das weiße Zentrum direkt angreift. Schwarz kann
+hier nicht das an sich wünschenswerte e7-e5 spielen, denn er fesselte den
+eigenen Springer und erlaubt es Weiß auf d5 einzusteigen} 7. d5 {Das ist der
+wichtigste Zug. Weiß erobert Raum und zwingt Schwarz dazu, ein Gegenspiel
+aufzuziehen. Alternativ kann Weiß auch versuchen, in eine Maroczy-Struktur zu
+transponieren} ({(a) Der direkte Vormarsch} 7. e5 {ist ein Fehler, denn Weiß
+verliert einen Bauern nach} cxd4 8. exf6 exf6) ({(b) Weiß kann auch versuchen,
+direkt in die Maroczy-Variante zu gehen mit} 7. Nf3 {Nach} cxd4 8. Nxd4 Nc6 {
+ist der weiße Damenläufer auf dem Feld g5 etwas unglücklich platziert}) 7... h6
+{Dieser eingeschobene Zwischenzug ist sehr wichtig, falls Schwarz einmal e7-e6
+spielen will} ({Würde Schwarz sofort} 7... e6 {spielen, so geriete er nach} 8.
+Qd2 exd5 9. exd5 {in eine eher passive Stellung. Das Spiel könnte so
+weitergehen} a6 10. a4 Re8 11. Nf3 Bg4 12. O-O Nbd7 13. h3 Bxf3 14. Bxf3 {In
+dieser Benoni-Struktur hat Weiß auf jeden Fall die besseren Aussichten.
+Schwarz hat große Schwierigkeiten. Die Fesselung auf f6 ist nicht aufzulösen.
+Die Türme werden wohl auf der e-Linie abgetauscht. Danach hat Weiß das
+Läuferpaar und großen Raumvorteil. Der typische Plan ist der Durchbruch auf
+dem Damenflügel mit a4-a5 und b2-b4. Diese Stellung kann Schwarz vielleicht
+halten, aber gewinnen sollte er sie kaum}) 8. Bf4 {Das ist der kritische Zug.
+Jetzt muss Schwarz etwas Platz für seine Leichtfiguren schaffen, sogar auf
+Kosten eines Bauern} e6 $1 {Das ist sicherlich der genaueste Zug} ({Würde er} 
+8... e5 {spielen, so könnte Weiß} 9. Be3 {entgegnen mit guten Chancen nach
+g2-g4 und h2-h4-h5 zu einem Angriff zu kommen}) 9. dxe6 {[%csl Rd6][%cal Gd1d6,
+Gf4d6] Dieser Zug ist sicherlich konsistent mit der Läuferentwicklung nach f4.
+Allerdings kann Weiß sich auch entwickeln. Schwarz sollte keine besonderen
+Probleme erwarten} ({(a)} 9. Nf3 exd5 10. exd5 Re8 11. O-O Ne4 12. Nxe4 Rxe4 {
+Weiß verliert zuviel Zeit damit, den Läufer zu retten. Nach} 13. Qd2 {folgt}
+Qf6 {und Weiß kann jetzt mit} 14. Bxh6 Bxh6 15. Qxh6 {keinen Bauern gewinnen,
+denn Weiß verliert den Läufer mit} Rxe2) ({(b)} 9. Qd2 {Weiß bedroht den
+Bauern h6. Schwarz sollte jetzt erst einmal die Situation im Zentrum klären}
+exd5 10. exd5 Kh7 {Er verteidigt den hängenden Bauern h6} 11. Nf3 Bf5 12. O-O
+Ne4 13. Nxe4 Bxe4 14. Ne1 {Der Srpinger soll auf den Damenflügel gebracht
+werden} Qf6 15. Nd3 Nd7 16. f3 Bxd3 17. Bxd3 Rfe8 18. Rfe1 Qd4+ 19. Kh1 {Weiß
+hat jetzt ein Problem mit seiner Grundreihe} Qxb2 20. Qxb2 Bxb2 21. Rab1 Rxe1+
+22. Rxe1 Be5 {Schwarz hat einen gesunden Mehrbauern gewonnen}) 9... Bxe6 {Mit
+diesem Zug bietet Schwarz ein Bauernopfer an, um sich schnell und effektiv zu
+entwickeln. Weiß kann nun versuchen, den geschwächten schwarzen Königsflügel
+anzugreifen oder den Bauern zu gewinnen} 10. Bxd6 {Das ist die natürliche
+Fortsetzung und konsistent mit dem 8.Zug von Weiß. Weiß gewinnt einfach einen
+Bauern} Re8 {Schwarz rettet seine Qualität und bringt den Turm auf eine aktive
+Linie. Weiß muss sich nun entscheiden, ob er einen Bauern gewinnt oder sich
+natürlich weiterentwickelt} 11. Nf3 {Dieser Zug ist der Hauptzug. Weiß ist mit
+seinem Mehrbauern zufrieden und beeilt sich, seine Entwicklung zu
+vervollständigen} Qb6 {Dieser Zug stellt die heute beliebteste Fortsetzung dar.
+Schwarz deckt zunächst den Bauern c5 und droht mit dem Schlagen auf b2. Weiß
+muss außerdem auf den Fesselungszug Tf8-d8 aufpassen} 12. Bxb8 {Weiß vermeidet
+die Fesselung auf der d-Linie durch geschickten Tausch des Läufers.
+Andererseits ist der Läufer schon entwickelt gewesen im Gegensatz zum
+schwarzen Springer und daher eine Art Konzession. Weiß hofft darauf, sehr
+schnell seinen Mehrbauern konsolidieren zu können. Andere Züge punkten für
+Weiß deutlich schlechter} ({(a)} 12. Qd2 Nc6 {Dieser Zug sieht am besten aus}
+13. O-O Red8 {mit der Absicht Sf6-e8 sieht gut aus für Schwarz. Auf} 14. e5 {
+folgt} Nxe5 {mit Rückgewinn der Figur}) ({(b)} 12. e5 Nfd7 13. Nb5 Nc6 14. Nc7
+Ndxe5 15. Nxe5 Nxe5 16. Nxa8 Qb4+ 17. Kf1 Nxc4 {mit starker Initiative}) 12...
+Raxb8 13. Qc2 {Weiß entfernt seine Dame aus der gefährlichen d-Linie und deckt
+den angegriffenen b-Bauern} Nh5 {Schwarz visiert für seinen Springer das Feld
+f4 an. Außerdem öffnet er die lange Diagonale für seinen Läufer} 14. g3 {Weiß
+verhindert mechanisch das Einsteigen des Springers auf f4, aber er schwächt
+auch die weißen Felder} ({Stattdessen kann Weiß auch} 14. O-O {probieren mit
+der Folge} Nf4 15. Rfe1 Nxe2+ 16. Qxe2 Qb4 17. Nd5 Qxb2 {und Schwarz hat den
+Bauern zurückgewonnen}) 14... Bh3 {Das ist der unternehmerischste Zug} 15. Nd2
+{Weiß will seinen Läufer auf den geschwächten Königsflügel bringen. Weiterhin
+bedroht der Läufer auch den Springer auf h5} Nf6 {Schwarz vermeidet den
+Abtausch des Läufers gegen den Springer und hält soviel Spannung in der
+Stellung wie möglich} 16. f3 {Dieser Zug ist sicher nicht gewöhnlich, wurde
+aber schon ausanalysiert. Es handelt sich um die kritische Stellung} ({Die
+Alternative lautet} 16. O-O-O Bg2 17. Rhe1 Nxe4 {ist am zwingendsten} 18. Ndxe4
+Bxe4 19. Nxe4 Rxe4 {und Schwarz hat klare Initiative. Weiß darf nicht auf e4
+nehmen, denn es hängt der Bauer auf b2 mit Matt}) 16... Qc6 {Schwarz überdeckt
+weiterhin die weißen Felder} 17. Kf2 {Schwarz versucht künstlich zu rochieren
+und seinen Turm in die Mitte zu bringen} ({Die Alternative} 17. O-O-O {kann mit
+} a6 {und} 18. -- b5 {gekontert werden}) 17... Nh7 {[%csl Rd4,Re3,Re5,Rf6,Rg7]
+[%cal Gg7d4] Mit diesem Zug droht Schwarz Lg7-d4} 18. Nb3 {Weiß überdeckt das
+Feld d4 und greift den Bauern c5 an} f5 $5 {Dieser aggressive Zug eröffnet
+eine interessante Option. Jetzt sind alle Kräfte gegen den weißen e-Bauern
+gebündelt} 19. exf5 Nf6 {Das ist ein ganz starker Zug. Nun ist die Möglichkeit
+Sf6-g4 mit Schach sehr gefährlich für Weiß} 20. Bf1 {Weiß muss das gefährdete
+Feld g2 überdecken und will den Läufer h3 abtauschen} ({(a) Nach} 20. fxg6 Ng4+
+21. Kg1 Bxc3 22. bxc3 Ne3 {besitzt Schwarz eine starke Initiative}) ({(b) Auch
+} 20. Rhe1 Ng4+ 21. Kg1 Ne3 22. Qd2 Bxf5 {ist für Schwarz vorteilhaft}) 20...
+Bxf5 {Schwarz hat eine schöne Dominanz im Zentrum} 21. Bd3 {Weiß versucht
+weiter zu tauschen} Bh3 {Klugerweise lehnt Schwarz diesen Tausch weiter ab. Er
+hofft, dass Weiß auf g6 nimmt oder einen anderen schlechten Zug wählt, so dass
+Schwarz auf g4 Schach geben kann mit verheerenden Konsequenzen} 22. Ne4 ({Nach
+} 22. Rhe1 Ng4+ 23. Kg1 Rxe1+ 24. Rxe1 Ne5 {wird Schwarz Material gewinnen})
+22... Nd7 {[%csl Re5][%cal Gd7e5] Der Springer soll nach e5} 23. Nc3 {Weiß
+versucht in eine Zugwiederholung einzulenken} Bxc3 {Schwarz vermeidet die
+Zugwiederholung und versucht den Angriff fortzusetzen} 24. bxc3 ({Nach} 24.
+Qxc3 Nf6 {lautet die kkonkrete Drohung wieder Sf6-g4}) 24... Ne5 {Hier steht
+der Springer zentral und dominiert die weißen Felder im Zentrum} 25. Be4 {Der
+Läufer ist die beste Figur von Weiß und muss auf jeden Fall gehalten werden}
+Qf6 {[%csl Yf3] Die schwarzen Figuren drücken wieder sehr unangenehm gegen f3}
+*
+

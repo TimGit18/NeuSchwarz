@@ -1,0 +1,76 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Englischer Angriff"]
+[Black "Springermanöver"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "36"]
+[EventDate "2012.03.31"]
+[SourceDate "2012.03.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 {Der Englische
+Angriff stammt aus den 1980er Jahren und ist ein aggressives System, das auf
+den Zügen Le3, f3 und g4 basiert. Er strebt die lange Rochade an und will
+seine g- und h-Bauern gegen den gegnerischen König marschieren lassen. Weiß
+kombiniert diese Angrffspläne häufig mit Operationen im Zentrum und auf dem
+Damenflügel} e5 {Der schwarze Aufbau mit d6 und e5 ist der thematische im
+Najdorf-System. Er ist weiniger flexibel als der Scheveninger Aufbau, gewinnt
+jedoch mehr Raum und vertreibt den weißen Springer von seinem schönen Feld d4
+} 7. Nb3 {Das ist der ambitionierteste und theoretisch wichtigste Zug für
+Weiß} Be7 {Wie in dem Klassischen System hält Schwarz die Symmetrie
+zunächst am besten aufrecht. Vielleicht transponiert ja Weiß auch mit Lf1-e2
+in die Klassische Variante} 8. f3 {Hiermit leitet Weiß das System des
+Englischen Angriffs ein. Es soll mit g2-g4, h2-h4, h4-h5 nebst langer Rochade
+und Sturm auf dem schwarzen König fortgesetzt werden} Be6 {Schwarz entwickelt
+eine Figur und überdeckt das schwache Feld d5. Außerdem verhindert der Zug
+die Entwicklung des weißen Läufers nach c4} 9. Qd2 {Weiß bereitet die lange
+Rochade vor} O-O {Schwarz bringt den König in Sicherheit und einen Turm zum
+Zentrum} 10. O-O-O {Weiß rochiert lang und bringt seinerseits den König in
+Sicherheit. Außerdem verstärkt er den Druck auf der d-Linie} a5 {Dieser
+überraschende Zug schwächt zwar die schwarze Bauernstruktur, verspricht aber
+gute Angriffschancen} 11. Na4 {Der Zug ist nicht sehr beliebt, denn der Kampf
+um das Feld d5 wird vernachlässigt. Der Springer steht am Rand in der Regel
+schlecht. Allerdings kann Schwarz hier auch schnell in Schwierigkeiten geraten,
+sollte er die Kontrolle über die schwarzen Felder verlieren.} d5 $1 {
+Natürlich muss dieser Zug kommen, wenn die Kontrolle über das Feld d5
+verloren geht. Allerdings muss man die konkreten Varianten kennen, um nicht in
+Nachteil zu geraten} 12. Nb6 {Das ist die konsequente Fortsetzung von Weiß.
+Er will auf jeden Fall die Qualität gewinnen, was Schwarz nicht verhindern
+kann} ({(a) Viel defensiver ist der Zug} 12. c3 {, der den Vormarsch des
+d-Bauern nach d4 verhindern soll. Es scheint aber, als sei der Plan etwas
+langsam und verperrt dem weißen Springer auf a4 das Rückzugsfeld} Nbd7 {
+[%csl Rb6][%cal Gd7b6,Gd8b6] Schwarz entwickelt sich logisch weiter. Er muss
+den Bauern auf d5 nicht mehr dreifach verteidigen. Außerdem kontrolliert
+Schwarz mit diesem Zug wieder das Feld b6} 13. Nbc5 {Weiß versucht die
+Kontrolle über das Feld c5 zu erlangen, da der ursprüngliche Plan mit dem
+Einstieg auf b6 nicht mehr möglich ist.} Nxc5 14. Nxc5 {Der Abtausch befreit
+die schwarze Stellung. Der Springer steht auf c5 eigentlich falsch. Er muss
+sich abtauschen oder wird angegriffen} a4 {Der schwarze Angriff gerät in das
+Rollen. Weiß kann nicht auf b7 nehmen, da dann der weiße Springer verloren
+geht.}) ({(b) Weiß kann auch direkt auf das Feld c5 gehen. Aber dann geht
+Schwarz im Zentrum vor} 12. Nbc5 d4 {Wenn man Raum erobern kann, dann sollte
+man dies tun} 13. Nxe6 {Was soll Weiß tun? Der Springer auf c5 ist etwas
+wacklig und muss sich retten} fxe6 14. Bg1 {Aber jetzt sind alle weißen
+Figuren auf schlechten Feldern gelandet} Ne8 {Der Springer geht nach c7 und
+dann fängt er den Springer auf a4 mit dem Zug b7-b5}) 12... d4 $1 {Wer A sagt,
+muss auch B sagen. Die Qualität kann geopfert werden.} 13. Nxa8 {Sicher nimmt
+Weiß die Qualität, da sonst die vorangegangenen Züge sinnlos geworden
+wären.} ({Nach} 13. Bxd4 {folgt} a4 {Alle weißen Figuren hängen und können
+nicht gleichzeitig verteidigt werden}) 13... Nc6 {Weiß gewinnt zwar
+zwischenzeitlich die Qualität, verliert aber noch eine Figur, denn der
+Springer auf a8 ist gefangen. Außerdem deckt dieser Zug auch noch den Bauern
+auf a5, so dass Weiß nicht diesen zwischenzeitlich nehmen kann.} 14. Bxd4 {
+Weiß versucht sein Heil in einem Generalabtausch. Aber er kann sich nicht
+darauf verlassen, dass er ohne materielle Verluste aus der Sache herauskommt.
+Es folgt ein längerer Generalabtausch} ({Nach} 14. Bf2 a4 15. Na1 Bxa2 {hat
+Schwarz materiell schon ausgeglichen und die bessere Stellung dank Angriff.})
+14... exd4 15. Nxd4 Nxd4 16. Qxd4 Qxd4 17. Rxd4 {Schwarz erhält zwei echte
+Figuren für die Qualität und zwei Bauern} Bc5 $1 {Das ist ein ganz starker
+Zug, der den schwarzen Königsläufer aktiviert und zentralisiert} 18. Rd1 {
+Der Seitschritt nach a4 ist auch nicht viel besser, denn der Bauer auf a5 ist
+ja nach dem Schlagen des Springers auf a8 gedeckt} Rxa8 {und Schwarz steht
+materiell etwas besser} *
+

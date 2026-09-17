@@ -1,0 +1,40 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Averbakh-System"]
+[Black "Beschleunigter Averbakh"]
+[Result "*"]
+[ECO "E90"]
+[Annotator "David Vigorito"]
+[PlyCount "42"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 {Mit dieser Variante wird ein
+weiteres System mit dem Läuferzug nach g5 eingeleitet. Obwohl die Abspiele
+alle ähnlich aussehen, sind sie es nicht. In dieser Stellung sollte Schwarz
+sofort den weißen Läufer befragen.} h6 {Der Textzug ist insofern logisch, da
+er es Weiß nich erlaubt, eine günstige Transposition in das Averbakh-System
+zu erreichen.} 6. Bh4 {Dies kann man als Hauptvariante betrachten, aber Weiß
+hat die schwarze Antwort nicht auf der Rechnung gehabt.} c5 7. d5 Qa5 8. Bd3 ({
+Die Alternative} 8. Qd2 {ist viel solider, aber auch hiernach steht Schwarz gut
+} g5 9. Bg3 Nh5 10. Nge2 ({(a)} 10. Bd3 Nd7 11. Nge2 Ne5 12. O-O Nxg3 13. Nxg3
+h5 14. Be2 {mit ausgezeichnetem Spiel}) ({(b)} 10. Be2 Nxg3 11. hxg3 Nd7 12.
+Rc1 a6 13. a3 Rb8 14. f4 gxf4 15. gxf4 b5 16. Nf3 b4 17. Nd1 Qa4 {mit gutem
+Spiel für Schwarz}) 10... Nd7 11. h4 Nb6 12. b3 Nxg3 13. fxg3 Nd7 {und
+Schwarz hat einen großen Vorteil}) 8... g5 9. Bg3 {Das ist ein Trick, der in
+diesen Stellungen oft vorkommt. Hier funktioniert er sogar noch besser, denn
+Weiß kann gar nicht rochieren.} Nxe4 $1 10. Bxe4 Bxc3+ 11. bxc3 Qxc3+ 12. Kf1
+f5 {Schwarz wird die Figur zurückgewinnen. Er hat den sichereren König und
+wird einen Bauern mehr haben.} 13. Rc1 ({Oder} 13. Ne2 Qf6 14. Bc2 f4 15. h4
+Rf8 16. hxg5 hxg5 17. Qe1 Nd7 18. Bh2 Ne5 {mit gutem Spiel für die Figur})
+13... Qf6 14. h4 {Das Schach auf h5 macht hier nichts aus.} (14. Qh5+ Kd8 {
+läßt den schwarzen König auf ein bequemes Feld} 15. h4 g4 16. Bd3 f4 17.
+Bxf4 Qxf4 {Schwarz hat einen großen Vorteil}) 14... g4 15. Ne2 ({Nach} 15. Bd3
+f4 16. Ne2 fxg3 17. Nxg3 Rf8 18. Rc2 Nd7 {gibt Schwarz den Bauern einfach
+zurück, um seine Entwicklung zu vervollständigen. Eine bekannte Partie von
+Fischer ging weiter mit} 19. Qxg4 Ne5 20. Qe4 Bd7 21. Kg1 O-O-O {mit großem
+Vorteil für Schwarz}) 15... fxe4 16. Kg1 Bf5 17. Nc3 Nd7 18. Qe2 O-O 19. Nxe4
+Qd4 20. Nd2 Rae8 21. Nf1 {Hier sollte Schwarz} e6 {spielen} *
+

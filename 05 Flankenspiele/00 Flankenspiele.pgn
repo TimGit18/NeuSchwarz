@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schwarz"]
+[Black "Flankenspiele"]
+[Result "*"]
+[ECO "A26"]
+[Annotator "Richard Palliser"]
+[PlyCount "16"]
+[SourceVersionDate "2021.08.13"]
+
+{[%evp 0,16,16,-12,-10,-24,47,3,25,19,22,-16,-20,-29,-19,-12,-5,-1,-4] Wenn Weiß nicht mit dem Damen-oder Königsbauern eröffnet, dann entstehen die sogenannten Flankenspiele.} 1. c4 {Das ist die Englische Eröffnung, die ebenfalls einen sehr guten Ruf hat.} ({Die Sokolsky-Eröffnung lautet} 1. b4 e5 2. Bb2 Bxb4 3. Bxe5 Nf6 {Schwarz hat zwar einen Mittelbauern gegen einen Flügelbauern getauscht, aber er hat Entwicklungsvorsprung und wird schnell rochieren.}) ({Der Nimzowitsch-Larsen-Angriff} 1. b3 {beginnt mit den Zügen} e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 {Schwarz wird kurz rochieren und das Spiel im Zentrum suchen.} 5. Na3) ({The Dunst kann oft in andere Eröffnungen übergehen.} 1. Nc3 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 d5) ({Die Bird-Eröffnung wird mit dem Indo-Bird gekontert.} 1. f4 Nf6 2. Nf3 g6) ({Der Königsindischer Angriff (KIA) versucht den königsindischen Aufbau mit Weiß nachzuahmen.} 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. e4 c5) ({Der Grob-Baseman-Angriff ist nicht empfehlenswert, da er den Königsflügel schwächt.} 1. g4 d5 2. Bg2 e5 3. c4 c6 4. cxd5 cxd5 5. Qb3 Ne7 {Weiß hat einen gewissen Druck gegen den Bauern d5, aber die schwarze Stellung ist sehr fest.}) 1... Nf6 2. Nc3 g6 3. g3 ({Das Königsindische System der Englischen Eröffnung ist gekennzeichnet durch} 3. Nf3 Bg7 4. e3 O-O 5. Be2 d6 6. d4) 3... Bg7 4. Bg2 d6 5. e4 {Das ist das Botvinnik-System. Weiß vergrößert seinen Einfluss im Zentrum, insbesondere auf das Feld d5, und kämpft um Raumvorteil. Seine nächsten Schritte werden sein Sg1-e2, 0-0, d2-d3 und wohl Lc1-e3. Danach folgt d3-d4 oder f2-f4. Dieser Aufbau ist positionell wohlfundiert und kann sicher nicht direkt widerlegt werden.} ({Die eigentliche Englische Partie startet mit} 5. Nf3 O-O 6. O-O e5 7. d3 h6 8. Rb1 a5 {Schwarz versucht das Spiel von Weiß am Damenflügel einzudämmen.}) 5... O-O 6. Nge2 e5 7. d3 Nc6 8. O-O Be6 {Das ist der Grundaufbau des Botvinnik-Systems.} *
+

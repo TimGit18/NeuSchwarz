@@ -1,0 +1,80 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Flankenspiele"]
+[Black "Sizilianisches Flügelgambit"]
+[Result "*"]
+[ECO "B20"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "34"]
+
+1. e4 c5 2. b4 {[%csl Yb4,Yd4][%cal Rb4c5,Gd2d4] Dies ist das Sizilianische
+Flügelgambit. Weiß möchte gerne das Zentrum mit seinem d-Bauern besetzen
+und dafür einen Bauern auf dem Flügel opfern.} cxb4 {Der Sizilianischen
+Verteidigung begegnet man oft mit Bauernopfern. In der Regel sollte man das
+Opfer annehmen, denn Weiß muss nachweisen, dass er Kompensation für das
+geopferte Material besitzt.} 3. a3 {Das ist die Grundidee hinter dem
+Flügelgambit und der häufgsten gespielte Zug: Für den Bauern gibt es offene
+Linien für Läufer und Turm sowie Zentrumskontrolle} ({(a) Die natürliche
+Antwort lautet} 3. d4 {Weiß besetzt sofort das Zentrum und kümmert sich erst
+einmal nicht um den Bauern auf b4. Der Nachteil dieses Zuges ist, dass der
+Bauer auf e4 nicht mit dem natürlichen Entwicklungszug Sb1-c3 verteidigt
+werden kann.} Nf6 $1 {Schwarz nutzt diesen Umstand sofort aus. Er entwickelt
+eine Figur und greift den Bauern e4 an.} 4. Bd3 {Weiß verteidigt den Bauern
+mit dem Läufer. Aber der weiße Aufbau ist schon eingeschränkt.} Nc6 {
+[%csl Yd4,Ye4][%cal Rf6e4,Rc6d4] Schwarz entwickelt eine weitere Figur und
+greift den Bauern d4 an.} 5. Ne2 {Weiß hat bereits Mühe, eine sinnvolle
+Aufstellung für seine Figuren zu finden.} (5. e5 Nd5 6. Be4 e6 7. Nf3 d6 8.
+O-O Be7 9. a3 dxe5 10. dxe5 O-O {mit klarem Vorteil für Schwarz.}) (5. Nf3 d5
+6. e5 Ne4 7. O-O Bg4 8. Bb2 e6 9. Qe2 Ng5 10. Nbd2 Be7 {mit klarem Vorteil
+für Schwarz.}) 5... d6 {Es ist Zeit, sich um die Kontrolle des Zentrums zu
+kümmern. Schwarz kontrolliert e5 und verhindert den Vormarsch des
+Königsbauern.} 6. O-O g6 $1 {Der Läufer soll nach g7 gebracht werden. Die
+solide Formation des Fianchettos wird den Königsflügel gegen mögliche
+Angriffe polstern.} 7. Nd2 Bg7 8. f4 O-O 9. Kh1 Bg4 {mit guter Entwicklung
+für Schwarz} 10. Bb2 Nd7 11. Nf3 Nc5 12. Rb1 Nxd3 13. Qxd3 d5 {Weiß hat
+nicht nur einen Bauern weniger, sondern hat auch noch sein Zentrum überdehnt.
+Er ist bereits in Schwierigkeiten.}) ({(b) Eine Art Läuferfianchetto bildet} 
+3. Bb2 Nf6 {Wie in der Natürlichen Antwort, scheint dieser Zug genauer als
+der sofortige Gegenschlag mit d7-d5.} 4. e5 ({Nach} 4. Bc4 {sollte Schwarz
+nicht zögern zu Komplikationen zu greifen} Nxe4 5. Bxf7+ Kxf7 6. Qh5+ Kg8 7.
+Qd5+ e6 8. Qxe4 Nc6 9. Nf3 d5 10. Qe2 Be7 {, wonach Schwarz schon viel besser
+steht.}) 4... Nd5 5. Nf3 ({Die Bewertung ändert sich nicht nach} 5. Bc4 Nb6 6.
+Bb3 Nc6 7. a3 ({Nicht viel besser ist} 7. d4 d5 8. exd6 Qxd6 9. Qf3 Be6 10. Ne2
+Bd5 11. Bxd5 Qxd5 12. Qxd5 Nxd5 13. O-O Na5 14. Nd2 Rc8) 7... e6 8. axb4 Bxb4
+9. Na3 O-O 10. Nf3 d5 11. exd6 Bxd6) 5... Nc6 6. a3 e6 7. axb4 Bxb4 8. c3 Be7
+9. c4 Ndb4 $1 {Das sieht am stärksten aus.} 10. Nc3 O-O 11. Nb5 a6 12. Be2 Rb8
+13. Nd6 f6 {Die schwarze Stellung bleibt solide. Solange er aufmerksam bleibt
+hat er gute Chancen, den Mehrbauern zu verwerten.}) 3... d5 $1 {Das ist die
+effektive Antwort auf den weißen Plan. Und das ist schon lange bekannt. Das
+weiße Zentrum wird sofort unterminiert.} 4. exd5 {Weiß reagiert sofort,
+indem er das eigene Zentrum aufgibt.} Qxd5 {Die schwarze Dame nimmt eine
+dominante Stellung im Zentrum ein. Der Vorteil des Bauern b4 besteht darin,
+dass der natürliche Angriffszug Sb1-c3 jetzt nicht möglich ist.} 5. Nf3 {
+Weiß entwickelt zunächst seinen Königsflügel. Er beeilt sich nicht damit,
+den Bauern auf b4 zurückzugewinnen, sondern setzt seine Entwicklung mit
+Zentrumskontrolle fort.} ({Die billige Falle} 5. axb4 $4 Qe5+ {mit Turmgewinn
+ist zu beachten.}) 5... e5 {Das ist die ehrgeizigste Fortsetzung. Schwarz
+beansprucht seinerseits einen Teil des Zentrums und öffnet Linien für seine
+Figuren.} 6. axb4 {Indem Weiß dazu gebracht wird, selber auf b4 zu schlagen,
+fördert er indirekt die schwarze Entwicklung} ({Der Zug} 6. c4 {erfordert
+sehr genaues Spiel von Schwarz.} Qe6 {Dies ist das beste Feld für die Dame.}
+7. d4 {Das ist die kritische Fortsetzung, um so viele Linien wie möglich
+öffnen.} exd4+ 8. Be2 d3 $1 {Dieser Zug ist jetzt wichtig, um die Harmonie
+der weißen Figuren zu stören bevor er rochieren kann.} 9. Qxd3 Nf6 10. O-O
+Nc6 11. Re1 Be7 12. axb4 Bxb4 13. Bd2 O-O {Weiß kann hier wohl noch keine
+Kompensation für den Bauern nachweisen.}) 6... Bxb4 7. c3 (7. Ba3 Bxa3 8. Nxa3
+Nc6 {gibt Weiß nicht viel.}) 7... Bd6 $5 8. Na3 Nc6 9. Bc4 ({(a) Weiß
+braucht sicher etwas Schärferes als} 9. Nb5 Bb8 10. Ra4 Nge7 11. Bc4 Qe4+ 12.
+Kf1 Qg6 13. d4 O-O 14. d5 Rd8) ({(b) Nach} 9. Nc4 Bc7 10. Ne3 Qd8 11. Bc4 e4
+12. Ng1 Ne5 13. Ba3 Nxc4 14. Nxc4 Nf6 {kämpft Weiß um Kompensation.}) 9...
+Qe4+ 10. Be2 ({Auch möglich ist} 10. Kf1 Bg4 {Dies ist ungetestet.} 11. Ng5
+Qf4 {Das ist vielleicht am genauesten.} 12. d4 Qxg5 $1 13. Bxg5 Bxd1 14. Nb5
+Bb8 15. Rxd1 a6) 10... Nge7 {Schwarz hat sich gut entwickelt und besitzt einen
+guten Stand im Zentrum} 11. Nc4 ({Nach} 11. Nb5 Bb8 12. d4 exd4 13. Nbxd4 Nxd4
+14. cxd4 O-O 15. O-O Qd5 16. Re1 Bd6 17. Rb1 Bd7 18. Bd3 Bc6 19. Be4 Qh5 {
+hat Schwarz einfach einen Bauern mehr ohne weiße Kompensation.}) 11... Bc7 12.
+Ba3 O-O 13. O-O Be6 14. Ng5 Qg6 15. Nxe6 Qxe6 16. Qb3 Rab8 17. Rfb1 Rfd8 {
+Weiß hat etwas Kompensation mit Ausgleichschancen.} *
+

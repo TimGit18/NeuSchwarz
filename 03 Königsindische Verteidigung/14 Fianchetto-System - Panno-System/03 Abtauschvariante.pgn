@@ -1,0 +1,84 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Abtauschvariante"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "42"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitestetn und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben} 8. h3
+{[%csl Yg4,Yh3][%cal Rh3g4] Dieser Zug stellt die Hauptvariante dar. Der
+Vorstoß ist typisch für die weiße Strategie in dem Fianchetto-System, denn
+er verhindert sowohl die mögliche Fesselung Lc8-g4 und auch die Belästigung
+eines Läufers Lc1-e3 durch den Springerzug Sf6-g4} Rb8 {Die Hauptfortsetzung
+ist dieser konsitente Zug. Es gibt keinen Grund für Schwarz diesen Zug nicht
+zu spielen} 9. e4 {Dieser Zug stellt die prinzipielle Fortsetzung dar. Weiß
+hofft darauf, den Schwarzen im Zentrum überrennen zu können} b5 {Schwarz
+setzt seinen Plan fort und hat keine Angst davor, dass Weiß seine Bauern
+vorstößt. Nun kann Weiß entweder solide fortsetzen oder es wagen,
+Komplikationen einzugehen} 10. cxb5 {Das ist die Abtauschvariante: solide,
+aber nicht besonders gefährlich} axb5 11. Re1 {Das ist gewöhnliche Wahl von
+Weiß und auch von Avrukh empfohlen. Statt dessen gibt es auch andere
+Fortsetzungen} ({(a)} 11. a3 b4 12. axb4 Nxb4 {sieht sehr bequem aus für
+Schwarz}) ({(b)} 11. Qc2 b4 12. Ne2 Na5 {ist auch sehr gut für Schwarz}) ({(c)
+} 11. d5 b4 12. Ne2 Na5 13. Nfd4 ({Nach} 13. Qc2 Bd7 14. Ned4 Qc8 15. Kh2 c5
+16. dxc6 Nxc6 17. Be3 Nxd4 18. Nxd4 Qxc2 19. Nxc2 Rfc8 {hat Schwarz die
+Initiative}) 13... c5 {Dieser Vorstoß ist in Verbindung mit dem nächsten Zug
+ein übliches Thema im schwarzen Aufbau} 14. dxc6 e5 15. Nb3 Nxc6 {ist bequem
+für Schwarz, zum Beispiel} 16. Bg5 h6 17. Be3 Bb7 18. Qd2 Na5 19. Nxa5 Qxa5
+20. f3 d5 21. Bxh6 (21. exd5 Nxd5 22. Bxh6 Bxh6 23. Qxh6 Qb6+ {mit der Idee
+Se3 gibt Schwarz eine riesige Initiative}) 21... dxe4 22. Bxg7 Qb6+ 23. Kh2 e3
+24. Qe1 Kxg7 {mit gewaltigem Vorteil für Schwarz}) ({(d)} 11. Be3 b4 12. Nd5 (
+12. Ne2 Na5 13. Nd2 Nd7 14. Rc1 c5 15. b3 Ba6 {mit einer schönen Stellung
+für Schwarz} 16. Nf3 cxd4 17. Nfxd4 Nc5) 12... Nxe4 {Es sieht so aus als
+wäre Schwarz in eine Falle gelaufen, aber dies ist nicht der Fall} 13. Qc2 {
+[%csl Yc6,Ye4][%cal Rc2e4,Rc2c6]} e6 14. Qxc6 {Sonst geht auch Lb7} Bb7 15.
+Qxc7 Bxd5 16. Rfc1 Qxc7 17. Rxc7 f5 {mit gutem Spiel für Schwarz}) ({(e)
+Etwas ungenau ist} 11. e5 dxe5 12. dxe5 Nd7 13. e6 fxe6 14. Qe2 b4 15. Ne4 (15.
+Nb5 Rxf3 16. Bxf3 Nce5 17. a4 Nxf3+ 18. Qxf3 Bb7 19. Qe2 Ne5 20. f4 Qd3) 15...
+Nde5 16. Nxe5 Nxe5 17. Rd1 Ba6 18. Qc2 b3 19. Qxb3 Rxb3 20. Rxd8 Nf3+ 21. Bxf3
+Rbxf3 22. Rxf8+ Rxf8 {mit remislichen Endspiel}) 11... e6 $1 {Dies ist ein
+typischer, flexibler Zug im Panno-System} 12. Qc2 {Andere Züge haben es nicht
+geschafft, den Schwarzen in Verlegenheit zu bringen} ({(a)} 12. Be3 b4 13. Na4
+{Die kritische Fortsetzung lautet} Nxe4 14. Qc2 Bb7 15. Qxe4 Nxd4 16. Qxb7 Rxb7
+17. Nxd4 c5 {Schwarz steht bereits besser} 18. Nxe6 fxe6 19. Bxb7 Qd7 {[%csl
+Ya4,Yb7][%cal Gd7b7,Gd7a4] Schwarz greift zwei weiße Leichtfiguren an}) ({(b)
+} 12. e5 dxe5 13. Nxe5 Nxd4 14. Be3 c5 15. Bxd4 cxd4 16. Nc6 Qb6 17. Ne2 Rb7
+18. Qxd4 Nd5 19. Qxb6 Rxb6 {mit Ausgleich}) ({(c)} 12. d5 b4 13. dxc6 bxc3 14.
+bxc3 e5 {und die schwarze Bauernstruktur gibt ihm bessere Chancen} 15. Qa4 ({
+Nach} 15. c4 Rb6 16. c5 Rxc6 17. cxd6 cxd6 18. Bg5 Ba6 {steht Schwarz auch gut}
+) 15... Rb6 16. Be3 Ra6 17. Qb4 Rxc6 18. Nd2 Be6 19. c4 Ra6 20. c5 Qa8) 12...
+b4 13. Ne2 Bb7 14. Nf4 {Weiß hat mehr Raum, aber Schwarz hat eine gute
+Entwicklung und dynamisches Potential. Schwarz hat verschiedene Optionen, aber
+der beste Kurs ist es, die Spannung aufrecht zu erhalten} Na5 15. Bd2 ({
+Stattdessen führt} 15. e5 dxe5 16. dxe5 Nd7 17. Nd3 {zu} c5 18. Bg5 ({Oder} 
+18. Nxc5 Qc7 19. Be3 Nxe5) 18... Qb6 19. b3 Rfc8 {und guter Stellung für
+Schwarz}) 15... c5 {Schwarz kann diesen Zug spielen, weil er genügend Druck
+gegen den weißen e-Bauern hat} 16. dxc5 dxc5 17. Rad1 ({Nach} 17. Qxc5 $2 Nxe4
+18. Qxb4 Nxd2 19. Qxd2 Bxf3 20. Qxd8 Rfxd8 21. Bxf3 Rxb2 {gewinnt Schwarz den
+Bauern zurück und hat eine starke Initiative}) 17... Qb6 18. Ne5 Rfd8 19. Nfd3
+{Das ist am besten} ({Nach} 19. Be3 {ergreift Schwarz die Initiative mit} Rxd1
+20. Qxd1 Qc7 21. Ned3 Nxe4) 19... Rbc8 20. Qa4 Bc6 21. Nxc6 Nxc6 {Schwarz hat
+aktive Figuren und kontrolliert das Feld d4 gegen das weiße Läuiferpaar} *
+

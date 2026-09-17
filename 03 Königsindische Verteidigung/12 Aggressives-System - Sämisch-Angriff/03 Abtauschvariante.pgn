@@ -1,0 +1,89 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-Angriff"]
+[Black "Abtauschvariante"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "42"]
+[EventDate "2011.10.25"]
+[SourceDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. h4 {Das ist der
+aggressivste Zug, obwohl Weiß in bestimmten Varianten auch positionell
+spielen kann. Die grundlegende Idee dieses Zuges ist offensichtlich. Weiß
+beabsichtigt, den schwarzen König anzugreifen. Das Spiel ähnelt sehr der
+Sizilianischen Drachenverteidigung. Gewöhnlich antwortet Schwarz mit h7-h5
+wie in der Soltis-Variante} h5 {Schwarz blockiert mechanisch den Vorstoß des
+h-Bauern} 10. O-O-O {Das ist die Hauptvariante im Sämisch-Angriff. Das Spiel
+wird sehr kompliziert, aber Schwarz kann eigene Komplikationen verursachen} b5
+{Schwarz beginnt sein eigenes Gegenspiel. Weiß muss nun entscheiden, wie er
+fortsetzen will. Die Abtauschvariante beginnt mit dem Zug} 11. Nd5 {Der
+schwarze Verteidiger auf f6 wird entfernt. Allerdings kostet es Zeit und
+Schwarz kann ein Gegenspiel initiieren} bxc4 {[%csl Yb2,Yb4][%cal Rb8b2,Gc6b4]
+Schwarz öffnet sofort die b-Linie, um hier ein Gegenspiel zu beginnen. Er
+möchte natürlich ausnutzen, dass ein weißer Verteidiger sich von dem
+eigenen König entfernt hat} 12. Nxf6+ {Konsequenterweise tauscht Weiß hier
+auch eine Verteidigungsfigur von Schwarz ab. Seine Angriffslinie bildet die
+g-Linie und die hat der schwarze Springer auf f6 bislang kontrolliert} Bxf6 13.
+g4 {[%csl Yg4,Yh5][%cal Rg4h5] Weiß möchte die g-Linie gegen den schwarzen
+König öffnen und ist dazu bereit einenb Bauern zu opfern} Nb4 {[%csl Ya2,Yd3]
+[%cal Rb4a2,Rb4d3] Ein thematischer Zug. Der Springer zielt nach d3 und a2.
+Außerdem kann der c-Bauer jetzt nach vorn marschieren.} 14. Nc3 {[%csl Ya2,
+Yc4,Yd3][%cal Gc3a2,Rf1d3,Rd3c4] Weiß verteidigt den Bauern auf a2 und
+überdeckt das Feld d3 jetzt mit seinem Königsläufer. Außerdem ist jetzt
+der schwarze Mehrbauer auf c4 angegriffen} c5 {[%csl Ya2,Yc3,Yc5,Yd4][%cal
+Rb4a2,Rc5d4,Rf6c3] Schwarz setzt sofort das weiße Zentrum unter weiteren
+Druck. Er würde gerne den Verteidiger auf c3 beseitigen und attackiert daher
+d4. Wenn Weiß dem Druck nachgibt, kann der Läufer auf c3 schlagen und die
+weiße Königsstellung zerstören} 15. Bxc4 {Der Zug wird gespielt, denn er
+beseitigt den ärgerlichen Bauern auf c4 und zentralisiert eine Leichtfigur
+mit Entwicklungstempo} ({(a)} 15. dxc5 {ist schlecht wegen} Bxc3 16. bxc3 Qa5
+17. cxb4 Qa3+ 18. Kb1 Rxb4+ 19. Ka1 c3 20. Qc1 Rb2 21. Bc4 Be6 22. Rd5 Bxd5 23.
+Bxd5 Rfb8 {mit gewinnbringendem Angriff}) ({(b)} 15. a3 Nc6 16. dxc5 Na5 17.
+Qc2 hxg4 {mit guten Aussichten für Schwarz}) ({(c)} 15. gxh5 Qa5 16. Bxc4 cxd4
+17. Bxd4 Bxd4 18. Qxd4 Qxh5 {Weiß hat etwas Initiative}) 15... cxd4 {Schwarz
+muss konsistent spielen. Er darf keine Zeit verlieren, da er sonst auf dem
+Königsflügel untergeht. Der Zug klärt etwas die Zentrumsspannung und
+zentralisiert ungewollt die weißen Figuren, aber er öffnet auch eine weitere
+Linie gegen den weißen König} 16. Bxd4 Qc7 {[%csl Ya2,Yb2,Yc2,Yc3,Yc4][%cal
+Rc7c4,Rb8b2] Die schwarze Dame besetzt eine weitere offene Linie gegen den
+weißen König mit Tempo} 17. Bb3 {[%csl Ya2,Yc2][%cal Gb3a2,Gb3c2] Das ist
+der sicherste Rückzug. Der Läufer soll eventuell die c-Linie plombieren und
+deckt weiterhin zusätzlich den Bauern auf a2} Bxd4 18. Qxd4 {Der Abtausch im
+Zentrum sieht auf den ersten Blick nicht besonders logisch aus, denn die
+weiße Dame ist hier sehr gut postiert. Andererseits ist der gefährliche
+weiße Damenläufer abgetauscht und Schwarz will weiteres Material reduzieren}
+Be6 {Schwarz möchte gerne seine letzte Leichtfigur entwickeln und zum Tausch
+anbieten. Wenn Weiß nimmt, dann droht aufgrund der Fesselung in der c-Linie
+immer Sb4xa2+} 19. gxh5 {Wenn Weiß noch etwas im trüben fischen will, dann
+muss er jetzt diesen Zug spielen. Schwarz darf natürlich auf keinen Fall
+zurückschlagen, weil Weiß dann sofort gewinnt} ({Die Alternative lautet} 19.
+Bxe6 fxe6 {mit der Drohung Sxa2} 20. Kb1 Nc6 21. Qc4 Qb6 22. Qxe6+ Kg7 23. Rh2
+Nd4 24. Qd5 Nxf3 25. Rg2 Nxh4 26. Rc2 Rf2 27. Qg5 Rxc2 28. Qxe7+ {mit
+Dauerschach}) 19... Bxb3 {Das ist die richtige Reaktion. Schwarz ignoriert die
+weiße Drohung und entfernt einen wichtigen Verteidiger des weißen Königs}
+20. axb3 Qa5 {[%csl Ya1,Yh5][%cal Yb5h5,Ra5h5,Ra5a1] Das ist ein sehr
+thematischer Zug. Schwarz stellt einzügig eine Doppeldrohung auf. Die Dame
+kann auf h5 zurücknehmen und droht gleichzeitig entscheiden Da5-a1+ mit Gewinn
+} 21. Kb1 {Weiß deckt die schwarze Hauptdrohung und bringt seinen König in
+Sicherheit. Aber er muss seine Hoffnung auf einen eigenen Angriff begraben}
+Qxh5 {Schwarz steht bestimmt nicht schlechter} *
+

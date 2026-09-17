@@ -1,0 +1,25 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Adams-Angriff"]
+[Black "Klassische Variante"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "36"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 {Das ist ein sehr
+giftiger Zug, der neuerdings von vielen Elitespielern gespielt wird. Die Idee
+ist es, g2-g4 zu spielen und schnell einen Angriff auf dem Königsflügel zu
+starten} e5 {Dieser Zug stellt die aggressivste und kompromissloseste Antwort
+dar. Schwarz erhält die Chance auf Gegenspiel.} {Die Klassische Fortsetzung
+ist} 7. Nf3 Qc7 8. Bg5 Nbd7 9. Bd3 ({Eine andere Variante ist} 9. a4 h6 10. Be3
+Nc5 11. Nd2 ({Nach} 11. Nd5 {ergreift Schwarz die Initiative mit} Nxd5 12. exd5
+Be7 13. a5 O-O 14. Nd2 Bf5 15. Be2 Bh7 16. O-O f5 17. Nc4 f4 18. Bxc5 Qxc5 19.
+Nb6 Rad8) 11... Be6 12. Qf3 Qc6 13. a5 Rd8 14. Be2 Be7 15. O-O O-O 16. Rfd1 d5
+17. exd5 Nxd5 18. Nxd5 Bxd5 19. Qf5 Ne6 20. Bf3 Bg5 {Dies führt zu einer
+unklaren Stellung}) 9... Be7 10. O-O h6 11. Bd2 O-O 12. Qe2 Nc5 13. Bc4 b5 14.
+Nd5 Qd7 15. Nxf6+ Bxf6 16. Bd5 Bb7 17. Bxb7 Qxb7 18. Rfe1 a5 {mit gleicher
+Stellung} *
+

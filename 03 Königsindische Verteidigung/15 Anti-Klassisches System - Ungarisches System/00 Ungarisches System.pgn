@@ -1,0 +1,56 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsindische Verteidigung"]
+[Black "Ungarisches System"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "David Vigorito"]
+[PlyCount "18"]
+[EventDate "2011.06.04"]
+[SourceDate "2011.06.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 {Dieser flexible Zug wurde von
+den ungarischen Großmeistern Szabo und Forintos entwickelt.  Das System ist
+etwas ärgerlich, denn es kann auch in das Sämisch-System transponieren, was
+nicht in unser Repertoire passt.} O-O 6. Ng3 ({Nach} 6. f3 Nc6 {sind wir im
+Sämisch-System angelangt}) 6... e5 {Schwarz entscheidet sich für eine
+klassische Vorgehensweise.} 7. d5 {Diese Stellung erinnert an das
+Petrosian-System, allerdings steht hier der weiße Springer auf g3. Auf den
+ersten Blick sieht dieses Feld etwas albern aus, denn der weiße Springer wird
+ja von dem Bauern g6 eingeschränkt. Andererseits erfüllt er dort auch einen
+Zweck. Er will h4-h5 spielen und den thematischen Vorstoß f7-f5 erschweren.
+Schwarz muss immer aufpassen, dass ein Figurenopfer Le2xh5 möglich ist,
+insbesondere dann, wenn bereits Lc1-g5 gespielt wurde, was den schwarzen
+Königsspringer fesselt. Das sollte aber nicht von der schwarzen Rochade
+abhalten.} a5 {Schwarz setzt das Spiel in einer Standardweise (aus dem
+Petrosian-System) fort. Er schränkt den weißen Damenflügel ein und sichert
+das Feld c5 für seinen Springer. Schwarz hat hier auch schon andere Züge
+ausprobiert, aber dieser Zug bleibt der prinzipielle Ansatz.} 8. Be2 ({Das
+direkte} 8. h4 {ist ebenso spielbar, aber in der Regel wird das Spiel in die
+Hauptvariante transponieren} Na6 9. h5 c6 10. Bg5 {Wenn Weiß nun kreativ wird,
+dann kann folgen} Nc5 11. h6 Bh8 12. Qf3 Bg4 13. Qxg4 Nxg4 14. Bxd8 Rfxd8 {und
+mit dem Läuferpaar seht Schwarz ganz orderntlich}) 8... Na6 9. h4 {Der
+Vormarsch des h-Bauern gibt der Stellung einen eigenen Charakter. Die Stellung
+ist strategisch sehr komplex. Sie erinnert an Stellungen aus dem Petrosian-
+und dem Makoganov-System, aber hier steht der Bauer schon zwei Felder vorn.
+Weiß erhält durchaus Angriffschancen, aber in der Regel sollte der Vormarsch
+eher den schwarzen Königsflügelangriff behindern. Schwarz hat Gegenchancen,
+denn der Vormarsch des h-Bauern hinterläßt Lücken in der weißen Stellung
+und er wird selber zum Angriffsziel. Da nun Weiß sich für einen Angriff auf
+dem Königsflügel entschieden hat, muss Schwarz Chancen auf der anderen
+Brettseite suchen. Weiß hat andere logische Züge, aber sie sind weniger
+gefährlich.} ({(a)} 9. Be3 Nc5 10. Rb1 Bd7 11. b3 h5 $1 12. Bg5 Qe8 13. h4 Nh7
+14. Be3 Qe7 {mit der Idee Lg7-f6} 15. Nf1 f5 16. exf5 Bxf5 17. Rc1 Bf6 {und
+Schwarz hat schon die Initiative ergriffen}) ({(b)} 9. Bg5 {ist eine typische
+Provokation.} h6 10. Be3 h5 11. Bg5 Qe8 12. Qd2 Nh7 13. Bh6 {Schwarz hat
+nichts dagegen, die Läufer zu tauschen} h4 14. Bxg7 Kxg7 15. Nf1 Nc5 {und
+Schwarz hat keine Probleme mehr}) ({(c)} 9. O-O {ist nicht so gefährlich nach}
+Nc5 10. Be3 h5 11. Bg5 Qd7 12. Qd2 Nh7 13. Bh6 h4 14. Bxg7 Kxg7 15. Nh1 Qe7 {
+mit einer ähnlichen und angenehmen Stellung für Schwarz}) {Schwarz hat jetzt
+eine Wahl. Er kann Gegenspiel auf dem Damenflügel suchen oder versuchen, den
+h-Bauern zu stoppen.} 9... c6 (9... h5 {ist auch spielbar, solange Schwarz
+nach Lc1-g5 die Fesselung sofort mit Dd8-e8 abschütteln kann und danch mit
+Sf6-h7 und f7-f5 fortsetzt}) *
+

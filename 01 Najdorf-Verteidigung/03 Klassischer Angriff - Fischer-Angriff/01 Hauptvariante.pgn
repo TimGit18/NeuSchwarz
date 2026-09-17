@@ -1,0 +1,76 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fischer-Angriff"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B86"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "48"]
+[SourceDate "2015.02.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 {Der
+Rückzug des Läufers nach b3 ist die Wahl von Bobby Fischer seit 1959. Er
+verhindert insbesondere den Befreiungszug d6-d5 und das viel versprechende
+Scheinopfer Sf6xe4. Gleichzeitig bereitet er den Vormarsch des Bauern f2-f4
+vor. Dass er nicht sofort auf den Königsflügel rochiert, bedeutet, dass es
+noch die Möglichkeit der langen Rochade auf den Damenflügel gibt.} Nbd7 {
+Diese Fortsetzung ist nicht die Hauptfortsetzung, aber sie ist weniger riskant
+als b7-b5. Der Springer soll nach c5 gebracht werden, von wo aus er nicht nur
+den Bauern e4 und den Läufer auf b3 attackiert, sondern auch noch den Bauern
+auf e6 verteidigt} 8. Bg5 {Das ist die prinzipielle und gefährlichste
+Fortsetzung für Schwarz. In vielen Varianten entstehen Positionen, die der
+Modernen Hauptfortsetzung mit 6.Lc1-g5 ähneln. Die Gefahr, die von dieser
+Variante ausgeht, besteht darin, dass Weiß seine Figuren sehr aggressiv und
+flexibel entwickelt, was gefährlich ist. Außerdem schützt der fesselnde
+Läuferzug auch noch den Bauern auf e4, der immer unter Angrifff kommen kann} (
+{Gemächlicher ist} 8. Qe2 Nc5 9. Bg5 Be7 10. f4 h6 11. Bxf6 Bxf6 12. O-O-O Qc7
+13. f5 O-O {Weiß hat den starken dunkelfarbigen Läufer aufgegeben und die
+schwarzen Felder geschwächt. Dagegen hat Schwarz seine Figuren aggressiv
+entwickelt und er wird bald mit b5-b4 nach vorne marschieren und einen Vorteil
+erlangen}) 8... Nc5 {[%csl Yb3,Ye6][%cal Gc5b3,Gc5e6] Schwarz entwickelt den
+Springer auf das logische Feld und festigt seine Stellung. Der Springer greift
+den Läufer auf b3 an und verteidigt gleichzeitig den Bauern auf e6} 9. f4 {
+Das ist die aggressivste Fortsetzung, die die prinzipielle Fortsetzung
+darstellt. Andere Züge sind langsamer und treffen nicht den Geist dieser
+Stellung} ({Der Zug} 9. Qe2 {transponiert nach} Be7 10. f4 h6 11. Bxf6 Bxf6 12.
+O-O-O Qc7 {in die obige Variante}) 9... Be7 {Schwarz muss seine Entwicklung
+vervollständigen und den König in Sicherheit bringen} 10. Qf3 {Weiß bringt
+die Dame auf ein aggressives Feld auf dem Königsflügel und behält sich noch
+die Seite der Rochade vor} Qc7 {Schwarz entwickelt seine Dame auf das ideale
+Feld auf der halboffenen c-Linie} 11. O-O {Weiß hat hier die Wahl, auf welche
+Seite er hier rochieren kann. Wenn er kurz rochiert, dann vermeidet er zwar
+den Gegenangriff auf dem Damenflügel, aber er verliert auch die Möglichkeit,
+selber auf dem Königsflügel anzugreifen} O-O {In dieser Stellung hat Weiß
+die Wahl, entweder die letzte Figur zu entwickeln oder einen Angriff auf dem
+Königsflügel einzuleiten. Vermutlich ist es besser, den Angriff zu starten}
+12. f5 {Weiß startet unverzüglich den Angriff, da er keine Zeit hat, um
+seine Türme zu entwickeln. Schwarz ist zwar in der Entwicklung zurück, aber
+seine Stellung ist sehr fest} ({(a) Nach} 12. Rae1 Nxb3 13. Nxb3 b5 14. e5 Bb7
+15. Qg3 dxe5 16. fxe5 Nh5 17. Qh4 Bxg5 18. Qxg5 g6 19. a3 a5 20. Nxb5 Qb6+ 21.
+N3d4 Ba6 {sollte Schwarz gewinnen, da er eine Figur mehr hat}) ({(b) Besser ist
+} 12. Rad1 h6 13. Bh4 b5 14. e5 Bb7 15. Qe2 dxe5 16. fxe5 Nfe4 17. Nxe4 Bxe4
+18. Bxe7 Qxe7 19. Rf4 Bg6 {Schwarz steht etwas besser, denn Weiß hat keinen
+Angriff, wohingegen Schwarz bald auf dem Damenflügel Druck ausüben wird})
+12... b5 {[%csl Yb7,Ye4][%cal Gc8b7,Gb7e4,Gc5e4,Gf6e4] Es ist ganz wichtig
+für Schwarz, Gegenspiel zu entwickeln. Der Damenläufer soll nach b7, um
+Druck auf den zentralen Bauern e4 zu entwickeln (das zentrale Motiv in dieser
+Stellung)} 13. fxe6 fxe6 14. Nf5 {Das ist ein sehr attraktiver Zug, aber er
+ist nicht besonders effektiv. Allerdings gibt es kaum bessere Züge} (14. Qh3
+Nxb3 15. axb3 Bd7 {Ein starker Zug, der den Bauern auf e6 verteidigt. Denn
+würde Weiß auf e6 nehmen, dann könnte Schwarz mit der Dame auf c8 den
+Springer gewinnen} 16. Kh1 Qc5 17. Be3 Qc8) 14... Bd8 {Schwarz rettet das
+Läuferpaar und bereitet eine Umgruppierung seiner Figuren vor} 15. Nd5 {Das
+ist das typische Sizialianische Opfer} exd5 16. Bxd5+ {Weiß hat eine Figur
+geopfert, aber er wird etwas Kompensation erhalten} Ne6 {Ein starker Zug, der
+den gegnerischen Läufer angreift} 17. Bxf6 {Natürlichg muss Weiß ersteinmal
+auf f6 nehmen} (17. Bxa8 Nxg5 {ist ein Desaster für Weiß}) 17... Rxf6 18. e5
+{Weiß will die Stellung verkomplizieren. Er öffnet die Diagonale für die
+Dame, damit der Läufer auf a8 gedeckt bleibt} Qa7+ {Das ist ein ganz
+wichtiges Zwischenschach für Schwarz. Würde er direkt auf e5 nehmen, dann
+könnte Weiß seinen Läufer auf e6 tauschen und mit der Dame auf a8
+eindringen.} 19. Kh1 dxe5 20. Bxa8 g6 {Schwarz gewinnt etwas Material zurück}
+21. Be4 gxf5 22. Bxf5 Qe7 23. Rae1 Bb7 24. Qd3 Nf8 {Das ist eine unklare
+Stellung. Weiß hat einen Turm und einen Bauern für die beiden Figuren.} *
+

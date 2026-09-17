@@ -1,0 +1,55 @@
+[Event "Experts on the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rossolimo-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Tiger Hillarp Persson"]
+[PlyCount "40"]
+[SourceVersionDate "2018.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ {Dieser Zug vermeidet die scharfen Komplikationen
+des Najdorf- oder Drachen-Systems. Er kann sehr gut in einen positionellen
+Vorteil für Weiß münden, wenn Schwarz passiv und ängstlich spielt.
+Andererseits sind die Ausgleichsmöglichkeiten für Schwarz hier auch sehr
+viel besser.} Nd7 $1 {Das ist die schärfste Erwiderung auf das
+Rossolimo-System. Schwarz vermeidet die remisliche Variante Lc8-d7, die im
+weißen Sinne ist, da beide weißfeldrigen Läufer verschwinden.} 4. d4 {
+Dies ist die Hauptfortsetzung. Weiß will sofort seine Dame in das Spiel
+bringen, die auf d4 nicht leicht angegriffen werden kann.} cxd4 5. Qxd4 {
+Es ist natürlich für Weiß auch möglich, den Bauern d4 mit dem Springer zu
+nehmen. Generell ist die Kombination von Sf3xd4 und Lf1-b5 in der
+Sizilianischen Verteidigung aber keine besonders gute Idee.} a6 6. Bxd7+ Bxd7
+7. O-O {Diser Zug stellt die normale Fortsetzung dar und ist am
+gebräuchlichsten.} Rc8 $1 {Das ist ein ausgezeichneter Abwartezug. Er erlaubt
+es Weiß, einen Springer auf c3 zu platzieren.} 8. Nc3 {Auf diesen Zug hat
+Schwarz nur gewartet.} e5 $1 9. Qd3 h6 $1 {Würde Schwarz den Springer nach f6
+entwickeln, dann könnte Weiß ihn mit dem Läufer fesseln} ({Nach} 9... Nf6 $6
+10. Bg5 $1 Be6 11. Rfd1 h6 12. Bxf6 Qxf6 13. Nd5 Qd8 14. Rac1 {steht Weiß
+klar besser}) 10. Be3 {Weiß hat eine Anzahl von Alternativen, aber keine ist
+überzeugend.} ({(a) Der Zug} 10. Nd2 {[%csl Yc4,Rd5,Ye3][%cal Ge3d5,Gd2c4,
+Gc4e3] , der auch von Hammer angewandt wurde, hat die Idee, den Springer via
+c4 oder f1 nach e3 und dann nach d5 zu bringen. Aber dies ist sehr langsam und
+ein nicht allzu beängstigendes Szenario.} Qc7 {stoppt den Springerzug nach c4.
+} 11. Rd1 Nf6 12. Nf1 Be7 13. Ne3 Be6 {Schwarz kann es zwar nicht verhindern,
+dass ein weißer Springer nach d5 gelangt, aber das entstehende Endspiel ist
+nahezu gleich}) ({(b)} 10. Rd1 Nf6 11. Nh4 {[%csl Ye3,Yf5][%cal Gh4f5,Gf5e3]
+In diesem Abspiel will der Springer via des Feldes f5 nach e3. Von dort aus
+will er den Bauern d6 belästigen.} Be7 12. Nf5 Bxf5 13. exf5 O-O {Schwarz
+steht gut}) ({(c)} 10. a4 Nf6 11. b3 {Dies ist der einzige Weg, von den
+vorhergehenden Ideen abzuweichen.} Qc7 12. Bb2 Be7 13. Rac1 ({Oder} 13. Rfd1
+O-O 14. Rd2 Be6 15. Re1 Rfd8 16. Nd1 Nh5 17. g3 Nf6 18. Ne3 b5 {und Schwarz
+steht besser}) 13... O-O 14. Nd2 Be6 15. Nd5 Bxd5 16. exd5 Nd7) 10... Nf6 11.
+a4 Be7 12. a5 Be6 13. Rfd1 O-O {Die Stellung ist ähnlich zu einigen
+Najdorf-Stellungen, abgesehen davon, dass Weiß seinen weißfeldrigen Läufer
+für den Springer abgetauscht hat. Normalerweise deckt Weiß den c-Bauern und
+geht mit dem Springer auf das Zentrumsfeld d5. Hier geht das aber nicht. Denn
+dann würde Schwarz auf d5 mit dem Läufer schlagen und mit dem e-Bauern
+vorgehen.} 14. Nd2 {Das ist vielleicht die beste Option für Weiß} ({Nicht so
+gut für Weiß ist} 14. Nh4 Rc6 15. Nf5 Bxf5 16. exf5 Qc8 17. h3 Rd8 18. Bb6
+Rd7 {Schwarz ist nun dazu bereit, die Bauern rollen zu lassen.}) 14... d5 15.
+Bb6 Qd7 16. exd5 Nxd5 17. Nxd5 Qxd5 18. Qxd5 Bxd5 19. c3 Bd8 20. Nf1 Be6 {
+Schwarz steht etwas besser.} *
+

@@ -1,0 +1,55 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsindische Verteidigung"]
+[Black "Abtauschsystem"]
+[Result "*"]
+[ECO "E94"]
+[Annotator "David Vigorito"]
+[PlyCount "23"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. dxe5 ({Die
+verzögerte Abtauschvariante täuscht zunächst die Hauptvariante an} 7. O-O
+Nc6 8. dxe5 dxe5 9. Bg5 Qxd1 10. Rfxd1 Bg4) 7... dxe5 8. Qxd8 Rxd8 {Das ist
+die grausame Abtauschvariante. Sie hat einen sehr remislichen Ruf und
+entmutigte Spieler davon, e7-e5 zu spielen.} 9. Bg5 {[%csl Yc7,Yd5,Ye5][%cal
+Rc3d5,Rd5c7,Rf3e5] Mit diesem Zug stellt Weiß eine Doppeldrohung auf: er
+möchte mit Sc3-d5 die Qualität auf c7 gewinnen und den Springer auf f6
+bedrohen. Außerdem möchte auch noch weiterhin den Bauern auf e5 bedrohen,
+der zuvor ja wegen des Gegenschlags auf e4 nicht genommen werden konnte} ({
+(a) Bekannterweise erbringt} 9. Nxe5 {nicht viel wegen der Antwort} Nxe4) ({
+(b) Weiß kann die Abwicklung aber auch beschleunigen mit} 9. Nd5 Nxd5 10. cxd5
+c6 11. Bc4 cxd5 12. Bxd5 Nd7 13. Bg5 Re8 {und wir haben in die Simplikfikation
+transponiert}) 9... Re8 {Dieser solide Zug ist ein Ausgleichszug und wurde
+schon von dem jungen Bobby Fischer bevorzugt. Er wird auch von Gallagher
+empfohlen. Weiß hat große Schwierigkeiten etwas gegen diesen Zug zu
+unternehmen oder zu gewinnen, aber die Remisbreite ist sehr hoch} 10. Nd5 {
+Dieser forcierte Zug ist die Hauptfortsetzung und führt zu Simplifikation und
+einer symmetrischen Bauernstruktur} ({(a) Die Entwicklungsvariante beginnt mit
+dem Zug} 10. O-O-O Na6 {Schwarz setzt seine Entwicklung fort. Der Springer
+deckt c7 und kann nach c5 gebracht werden} 11. Ne1 c6 12. Nc2 Nc5 13. f3 {
+[%cal Gc5e6,Gf6d7,Gg7f8,Gb7b6,Ga7a5,Gf8c5] Das ist eine typische Stellung.
+Weiß kann die Türme auf der d-Linie verdoppeln und wird versuchen, auf dem
+Damenflügel vorzugehen. Schwarz wird versuchen, seine Leichtfiguren
+umzugruppieren und den weißen Vormarsch auf dem Damenflügel mit b6 und a5
+aufhalten} Ne6 14. Be3 Nf4) ({(b) Die Idee des Turmzugs wird deutlich nach} 10.
+Bxf6 Bxf6 11. Nd5 Bd8 {Jetzt ist alles gedeckt und Schwarz hat erreicht, was
+er wollte}) 10... Nxd5 11. cxd5 c6 {Falls Schwarz diesen Zug nicht spielt,
+dann wird sein c-Bauern rückständig} 12. Bc4 {Weiß möchte den relativ
+passiven Läufer von dem Feld e2 auf das schöne Feld d5 führen} *
+

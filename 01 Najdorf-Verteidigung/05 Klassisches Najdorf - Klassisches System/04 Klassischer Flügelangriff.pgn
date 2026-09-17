@@ -1,0 +1,88 @@
+[Event "Mastering the Najdorf"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches System"]
+[Black "Klassischer Flügelangriff"]
+[Result "*"]
+[ECO "B92"]
+[Annotator "Julen Arizmendi/Javier Moreno"]
+[PlyCount "34"]
+[EventDate "2011.05.22"]
+[SourceDate "2011.05.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 {Im Gegensatz zu
+den aggressiven Varianten, in denen Weiß seine Läufer offensiv aufstellt,
+soll hiermit die kurze Rochade vorbereitet werden und die Entwicklung
+fortgesetzt werden.} e5 {Dieser Zug setzt das Konzept von Najdorf in Reinform
+um. Schwarz geht aggressiv im Zentrum vor und vertreibt den weißen Springer
+aus seiner dominanten Position. Der Springer kann ja jetzt nicht nach b5,
+sondern muss sich zurückziehen. Anschließend werden die Figuren schnell
+entwickelt und der Einfluss auf das Zentrum verstärkt. Der Nachteil des Zuges
+ist allerdings das schwache Feld d5. Schwarz möchte eine weiße Figur auf
+diesem Feld so schlagen, dass Weiß mit dem e-Bauern zurückschlagen muss.
+Dann kann er nämlich den f-Bauern mobilisieren und der eigene Damenbauer
+stellt keine Schwäche mehr dar} 7. Nb3 {Der bei weitem beliebteste Rückzug,
+obwohl der Springer etwas Zeit braucht, um wieder in das Spiel zu kommen.
+Andererseits unterstützt er auf b3 einen eventuellen Vormarsch der a- und
+c-Bauern und verhindert vorerst den aktiven Entwicklungszug Sd7-c5.} Be7 {
+Schwarz macht erst einmal in Symmetrie zu Weiß einen ruhigen Entwicklungszug.
+Der Zug ermöglicht die sofortige kurze Rochade.} 8. O-O {Weiß bringt den
+König in Sicherheit und würde gerne den f-Bauern mobilisieren, um die Linie
+für den Turm zu öffnen. Die Alternative besteht darin, den Damenläufer nach
+e3 oder g5 zu entwickeln.} O-O {Auch Schwarz sollte erst einmal seinen König
+in Sicherheit bringen. Vorher sollte er nicht an die Öffnung des Zentrums
+denken. Der Klassische Flügelangriff - also ohne Einschaltung des
+Entwicklungszuges Lc1-e3 - beginnt direkt mit} 9. f4 {Dieser Vorstoß ist aber
+etwas voreilig. Schwarz sollte befriedigendes Spiel erlangen} b5 $1 {[%csl Yb4,
+Yb5,Yb7,Yc3,Ye4][%cal Gc8b7,Gb7e4,Gb5b4] In dieser Situation die richtige
+Antwort: Der weiße Bauer auf e4 ist ein Ziel. Also soll der schwarze
+Damenläufer so schnell wie möglich nach b7} 10. a3 {Weiß verhindert
+mechanisch den Vormarsch des Bauern b5. Andere Fortsetzungen sind auch nicht
+besser} ({(a) Der Abtausch des f-Bauern gegen den Zentralbauern führt zu
+einer Abwertung der weißen Bauernstruktur} 10. fxe5 dxe5 11. Bg5 ({Der
+sofortige Abtausch bringt auch nichts.} 11. Qxd8 Rxd8 12. Bg5 Nbd7 {mit
+leichtem Vorteil für Schwarz}) 11... Nbd7 12. Bd3 (12. a3 {wird am besten mit}
+Bb7 {beantwortet}) 12... b4 13. Ne2 a5 14. Ng3 a4 15. Nd2 Nc5 {wie in einer
+Partie von Petrosian mit Schwarz gegen Milner-Barry}) ({(b) Eine thematische
+Fortsetzung gegen den Vorstoß b7-b5 lautet} 10. a4 {Allerdings ist der
+schwarze Druck gegen e4 so stark, dass Schwarz genügend Spiel hat} Bb7 11. Bf3
+{Damit versucht Weiß einen Vorteil zu erzielen. Allerdings ist der Zug auch
+riskant, denn die entstehende Bauernstruktur ist gut für Schwarz} (11. Qd3 {
+stellt Schwarz nicht vor allzu große Probleme} b4 12. Nd5 Nbd7 13. a5 Nxd5 14.
+exd5 Qc7 15. Bd2 (15. Ra4 Nc5 16. Nxc5 dxc5 17. c4 Bd6) 15... Rac8 16. Rfc1 (
+16. c4 bxc3 17. bxc3 exf4) 16... Nf6 17. Bf3 e4 18. Bxe4 Nxe4 19. Qxe4 Bf6 {
+mit besserem Endspiel für Schwarz dank des Läuferpaares}) (11. fxe5 {ist
+eine remisliche Fortsetzung} Qb6+ 12. Kh1 dxe5 13. Bg5 Nbd7 14. axb5 axb5 15.
+Rxa8 Rxa8 16. Bxb5 Nxe4 17. Bxe7 Nxc3 18. Qxd7 Qxb5 19. Qxb5 Nxb5 20. Rd1 Be4 {
+mit Ausgleich}) (11. axb5 {ist eine weitere Vereinfachung} Qb6+ 12. Kh1 axb5
+13. Rxa8 Bxa8 14. fxe5 {Das ist die sicherste Fortsetzung} (14. Qd3 b4 15. Nd5
+Bxd5 16. exd5 Nbd7 17. Be3 Qc7 18. g3 Nb6 19. Bf3 Nc4 20. Bc1 Nd7 21. Nd2 Ncb6
+22. c4 bxc3 {mit guten Chancen für Schwarz}) 14... dxe5 15. Bg5 Rd8 {Schwarz
+versucht die Stellung zu verkomplizieren} 16. Bd3 (16. Qe1 b4) 16... Nbd7 17.
+Nxb5 Bxe4 18. Bxe4 Nc5 19. Qe2 Ncxe4 {mit dynamischen Gleichgewicht}) 11...
+Nbd7 12. Nd5 Nxd5 13. exd5 Qb6+ 14. Kh1 Bf6 {und Schwarz steht zumindest gleich
+}) 10... Bb7 {Weiß kann nun den Bauern auf zwei Arten verteidigen, aber in
+beiden Fällen ist das schwarze Spiel sehr ähnlich} 11. Bf3 {Der Läufer
+steht auf dieser Diagonalen gut. Er verteidigt den Bauern e4 und verhindert
+den Zug d6-d5} ({Der Läufer kann den Bauern auch anders verteidigen} 11. Bd3
+Nbd7 12. Qe2 {Wenn Schwarz jetzt einen Turm auf e8 platziert, dann fühlt sich
+die weiße Dame nicht mehr sicher} (12. Be3 Rc8 13. f5 {Dieser Vorstoß löst
+die Zentrumsspannung zu früh auf} Nb6 14. Na5 Ba8 15. Kh1 d5) (12. Kh1 Rc8 13.
+fxe5 Nxe5 14. Bf4 Nc4 {mit gutem Gegenspiel}) 12... Rc8 13. Kh1 Re8 14. Be3 d5
+{Das ist die Traumstellung für Schwarz in der Najdorf-Verteidigung} 15. exd5
+Rxc3 16. bxc3 e4 17. Bxb5 axb5 18. Qxb5 Bxd5) 11... Nbd7 12. Kh1 ({Vielleicht
+sollte Weiß die Dame auf den Königsflügel bringen} 12. Qe1 Rc8 13. Qg3 a5
+14. fxe5 Nxe5 15. Nxb5 (15. Nd4 Nxf3+ 16. gxf3 b4 {ist besser, obwohl noch
+immer befriedigend für Schwarz}) 15... Nxe4 {mit leichtem Vorteil für Schwarz
+}) 12... Rc8 {Schwarz hat einen strukturellen Vorteil in einer solchen Art von
+Stellung} 13. Qe2 ({(a) Auch die folgende Variante ist besser für Schwarz} 13.
+Be3 {Auch die folgende Variante ist besser für Schwarz} Qc7 14. Qe1 Nb6 {
+Das ist die Alternative zum Vorstoß d6-d5} 15. Bxb6 Qxb6) ({(b)} 13. Qe1 Re8
+14. f5 Bf8 15. Bg5 Qc7 16. Rd1 d5 {mit thematischer Bedrohung der weißen Dame
+durch den Turm auf e8}) 13... Qc7 14. Be3 Rfe8 15. Qf2 Bf8 {Das schwarze Spiel
+ist sehr offensichtlich. Der Läuferrückzug erhöht den Druck auf e4 und
+bereitet d5 vor. Weiß kann nicht gut auf e5 schlagen, denn es würde seine
+Bauernstruktur schwächen} 16. f5 ({Nach} 16. Rae1 {folgt} d5) 16... d5 17.
+exd5 e4 {Schwarz steht bereits besser und hat die Initiative} *
+

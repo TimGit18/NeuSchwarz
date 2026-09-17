@@ -1,0 +1,65 @@
+[Event "Theorie der Schacheröffnungen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Flankenspiele"]
+[Black "Bird-Eröffnung"]
+[Result "*"]
+[ECO "A02"]
+[Annotator "Dr. Max Euwe"]
+[PlyCount "15"]
+[EventDate "2015.??.??"]
+
+1. f4 Nf6 2. Nf3 g6 {Das ist der sogenannte Indo-Bird. Schwarz behält sich
+die Wahl zwischen einem Aufbau mit d7-d5 oder d7-d6 vor. Der Aufbau mit d7-d5
+führt allerdings meistens in die Bahnen des Holländisch im Anzuge.} 3. b3 {
+Diese logische Fortsetzung ist allerdings etwas altmodisch.} ({Das
+Larsen-System beginnt mit} 3. b4 Bg7 4. Bb2 O-O 5. e3 d6 6. Na3 {Die Idee des
+Zugs ist es, den Springer auf c4 zu etablieren, um die Kontrolle über e5 zu
+erlangen.} e5 7. fxe5 Ng4 8. Nc4 {aus der Partie Larsen,B-Toran Albero,R
+Beverwijk 1960. Schwarz hätte nun spielen sollen} Nxe5 9. Ncxe5 dxe5 10. Bxe5
+Bxe5 11. Nxe5 Qh4+ 12. g3 Qxb4 {mit vermutlich gleichen Chancen.}) ({Das
+Leningrader System} 3. g3 {wurde ebenfalls oft von Larsen gespielt.} Bg7 4. Bg2
+O-O 5. d3 d5 {Die übliche Erwiderung, die den Vorstoß e2-e4 erschwert.} 6. c3
+b6 7. O-O Bb7 8. a4 c5 9. Na3 Nc6 10. Bd2 {Schwarz steht völlig befriedigend
+in} a6 {Larsen,B-Portisch,L ½-½ Beverwijk 1964}) ({Aus der Holländischen
+Verteidigung bekannt ist die Idee von Krause} 3. d3 d5 {Gespielt, um e2-e4 zu
+verhindern.} 4. Nbd2 Nc6 $1 {Das ist eine schlaue Idee von Aronin. Er
+verhindert indirekt den Vorstoß e2-e4.} 5. c3 ({Denn falls jetzt} 5. e4 {
+, so folgt} e5 6. fxe5 Ng4) 5... Qd6 6. g3 e5 7. fxe5 Nxe5 8. Nxe5 Qxe5 9. Nf3
+Qe7 10. Bg2 Bg7 11. O-O O-O 12. Bf4 Re8 {mit besserem Spiel für Schwarz trotz
+eines Sieges für Weiß in Larsen,B-Aronin,L Moscow 1962.}) {Das Klassische
+System beginnt nun mit} 3... Bg7 4. Bb2 O-O 5. e3 d6 {Dieser gute Zug ist das
+Merkmal dieser Variante. Schwarz strebt möglicherweise e7-e5 an, was Weiß
+nicht gut verhindern kann} ({Nach} 5... d5 6. Be2 c5 7. O-O Nc6 8. Ne5 {
+kann Weiß sein gewohntes Spiel mit d2-d3 und Sb1-d2-f3 durchführen}) 6. Be2 {
+Das ist ein logischer Entwicklungszug.} ({Ein anderer Zug ist} 6. g3 {Dieser
+Zug passt eigentlich nicht besonders gut in das weiße Konzept. Er schwächt
+die weißen Felder auf dem Königsflügel. Außerdem hat der Läufer auf g2
+keine richtige Angriffsperspektive. Er sollte eher nach e2 entwickelt werden}
+c5 {Dieser Zug soll eine noch größere Kontrolle über die schwarzen Felder
+des Zentrums gewährleisten. Außerdem wird für die schwarze Dame die
+Diagonale zum Damenflügel geöffnet} 7. Bg2 Nc6 8. O-O Qc7 {Die
+offensichtlichen Entwicklungszüge beider Seiten sind abgeschlossen. Es muss
+noch geklärt werden, wohin die verbliebenen Leichtfiguren hin entwickelt
+werden sollen. Bereits jetzt sollte man sich auch Gedanken über konkrete
+Mittelspielpläne machen. Die offensichtlichen Bauernhebel im Zentrum sind
+d2-d4 oder d2-d3 und e3-e4 für Weiß und e7-e5 für Schwarz} 9. d3 {Weiß
+verzichtet auf den Hebel d2-d4 und will stattdessen aktiv im Zentrum und am
+Königsflügel vorgehen. Das offensichtliche Ziel ist die Öffnung der f-Linie}
+e5 $5 {Dieser Zug konzessiert zwar die Öffnung der f-Linie an Weiß, aber er
+meldet auch eigene Ansprüche im Zentrum an. Schwarz stand bereits zuvor
+passabel und kann so seine Stellung einfach befreien aus der Partie Morio,E 
+(1728)-Schmitz,T (1853) ½-½ DSAM Aalen C-Turnier 2015}) 6... c5 {Eine
+logische Antwort, der die Kontrolle über die weißen Felder im Zentrum
+streitig macht.} ({Euwe betrachtet nur} 6... e5 $5 7. fxe5 Ng4 8. O-O Nc6 {
+, was tatsächlich recht gut für Schwarz punktet.}) 7. O-O ({Ein
+Entwicklungszug ist} 7. Na3 {Dieser Zug ist in dem Klassischen System des
+Indo-Bird eher ungebräuchlich. Weiß möchte den Springer entwickeln, ohne
+dem Läufer auf b2 die Sicht zu verstellen.} Nc6 8. O-O a6 {Schwarz steht
+etwas besser. Noch sind keine Figuren abgetauscht. Daher geht es darum, die
+Beweglichkeit der gegnerischen Figuren einzuschränken. 0-1 Kollmann,R (1948)
+-Schmitz,T (1801) RLSW 2023/2024}) 7... Nc6 8. c4 {Wahrscheinlich ist dies der
+beste Zug für Weiß. Er kontrolliert das Feld d5 und sorgt für gute
+Stützpunkte im Zentrum.} *
+

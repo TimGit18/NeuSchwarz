@@ -1,0 +1,66 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ungarisches System"]
+[Black "Opfervariante"]
+[Result "*"]
+[ECO "B53"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "40"]
+[EventDate "2013.11.14"]
+[SourceDate "2013.11.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 {Neulingen wird beigebracht, dass die
+Dame nicht zu schnell in das Spiel gebracht werden sollte. Aber erfahrene
+Spieler, die eine Partie gewinnen wollen, werden genau dieses tun. Das
+Moskauer System ist eine Ausnahme von der Regel. Die weiße Dame erscheint
+bereits sehr früh im Zentrum. Obwohl die Bauernstruktur denjenigen der
+Offenen Sizilianischen Verteidigung entspricht, gibt die unübliche Stellung
+der schwarzen Dame der Variante einen eigentümlichen Charakter, so dass die
+Variante sehr sorgfältig studiert werden muss.} Nc6 {Dieser Zug, der sofort
+die exponierte weiße Dame angreift, bildet die Hauptfortsetzung} ({Manchmal
+verhindert Schwarz die Fesselung mit} 4... a6 {oder auch dem Läuferzug auf d7,
+aber der Textzug bildet die Hauptvariante und daher die Hauptfortsetzung}) 5.
+Bb5 {Weiß ist dazu bereit, seinen Läufer früh zu tauschen, da dieser Tausch
+die Entwicklung seiner Leichtfiguren fördert und die starke Stellung der Dame
+sichert} Bd7 {Schwarz muss sich weiterentwickeln und die Bedrohung der Dame
+aufrechterhalten} 6. Bxc6 {Als Kompensation für das Läuferpaar erhält Weiß
+etwas Entwicklungsvorsprung und eine starke Stellung im Zentrum. Die schwarzen
+Chancen liegen dann eher im Endspiel} Bxc6 {An dieser Stelle hat Weiß zwei
+Hauptzüge: er kann einen Maroczy-Aufbau mit c4 versuchen oder seine
+Entwicklung mit Sb1-c3 weitertreiben} 7. Nc3 {Dieser Zug bildet die
+Hauptfortsetzung. Tatsächlich erscheint der Plan einer schnelllen Entwicklung
+der weißen Figuren eine konsequentere Fortsetzung als der Maroczy-Aufbau.} Nf6
+{Schwarz entwickelt seinen Königsflügel und greift den Bauern e4 an.} 8. Bg5
+{Weiß entwickelt sich logisch weiter. Der Zug entwickelt nicht nur den
+weißen Damenläufer, sondern bereitet auch die lange Rochade vor.} e6 {[%csl
+Yd5] Schwarz deckt ein weiteres Mal den Springer, obwohl das hier nicht
+notwendig wäre. Aber er bildet auch ein Entwicklungsfeld für den schwarzen
+Königsläufer. Hier ist das Königsläuferfianchetto nicht so gut. Schwarz
+muss außerdem auf das Zentrum, insbesondere auf das Feld d5, aufpassen.} 9.
+O-O-O {Weiß bringt seinen König in Sicherheit und drückt auf den
+rückständigen Bauern d6} ({Schwarz hat überhaupt keinen Grund, die
+Dopppelbauern zu fürchten, die nach} 9. Bxf6 Qxf6 10. Qxf6 gxf6 11. O-O-O Rg8
+{entstehen. Andererseits hat Schwarz jetzt das Läuferpaar, was einen enormen
+Wert in dem Endspiel darstellen kann}) 9... Be7 {An dieser Stelle hat Weiß
+wieder mehrere Optionen zur Verfügung. Er kann seinen Königsturm in die
+Mitte bringen (die absolute Hauptvariante), er kann deine Dame zurückziehen
+oder den König auf die Seite schieben.} 10. Kb1 {Mit diesem Zug bringt Weiß
+manchmal die Zugreihenfolge durcheinander} O-O {Einige Spieler
+experimentierten hier mit der Variante} 11. Qd3 {Weiß versuch eine
+verbessserte Version des Königsflügelsvormarschs zu erhalten. Allerdings hat
+diese Zugreihenfolge auch ihre Nachteile.} ({Der Regelzug lautet hier} 11. Rhe1
+{, was in die Hauptvariante transponiert}) 11... h6 $1 {Das ist ein sehr
+genauer Zug.} 12. h4 $5 ({(a) Das Problem für Weiß ist, dass} 12. Bh4 {von}
+Nxe4 {gefolgt wird. Wenn Weiß jetzt den Läufer auf e7 schlägt, dann folgt
+ein Schach auf c3. Also muss Weiß spielen} 13. Nxe4 Bxh4 14. Nxd6 Bxf2 {
+Schwarz kann jetzt seinen materiellen Vorteil verwerten}) ({(b) In einer
+anderen Partie folgte} 12. Bc1 {und nach} d5 13. e5 Ne4 {hat Schwarz eine gute
+Wahl}) ({(c) Letztlich ist von} 12. Bxf6 {nichts zu befürchten} Bxf6 13. Nd4
+Qb6 14. f4 Rfd8 15. Rhf1 Rac8) 12... Qa5 13. Nd4 (13. Bxf6 Bxf6 14. Nd4 d5)
+13... hxg5 14. hxg5 Qxg5 15. Qh3 Qh6 16. Qg3 Qg6 17. Qh4 $2 ({Notwendig ist
+hier} 17. Qh3 $1 Nh7 18. f4 f5 19. Nxe6 Qxe6 20. Qxh7+ Kf7 21. exf5 Qf6 22.
+Qh5+ Kg8 23. Rde1 Qxf5 24. Rxe7 Qxh5 25. Rxh5 Rxf4 26. b3 Raf8) 17... Qh7 18.
+Qg3 Nxe4 19. Nxe4 Qxe4 20. Qh3 f5 *
+

@@ -1,0 +1,38 @@
+﻿[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "London-System"]
+[Black "Yevseev-Variante"]
+[Result "*"]
+[ECO "E90"]
+[Annotator "Victor Bologan"]
+[PlyCount "21"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bf4 {[%csl Ye5][%cal Rf4e5,Rd4e5]
+Weiß spielt ein London-System mit einem Bauern auf c4 und kontrolliert
+zuverlässig das Feld e5. In der Regel wird er die Bauern auf e3, d4 und c4
+stellen. Die Springer bleiben auf f3 und c3 und die Läufer auf f4 und e2. Die
+Türme gegen nach d1 und c1. Schwarz wird Probleme haben, seine Bauern nach c5
+oder e5 zu stellen.} d6 {Schwarz vermeidet mit diesem Zug, in die
+Stellungsmuster der Grünfeld-Verteidigung nach d7-d5 einzulenken. Er möchte
+zunächst eine Art Königsindische Verteidigung spielen.} {Eine gängige Idee
+ist} 6. h3 {Weiß möchte seinen schwarzfeldrigen Läufer vor einem Abtausch
+sichern und sichert das Feld h2 für einen Rückzug. Wie auch immer ist der
+Zug zu langsam} c5 {Schwarz muss diesen Zug im allgemeinen spielen, wenn er
+Ausgleich erreichen will} 7. e3 {Von Yevseev stammt der Zug} Qa5 8. Qd2 {
+Das ist der logische Hauptzug in der Stellung} ({Auch nach} 8. Bd3 {spielt
+Schwarz in derselben Weise} cxd4 9. exd4 e5 {Dieser Zug ist möglich aufgrund
+der Stellung der schwarzen Dame und der Position des weißen Königs im Zentrum
+} 10. Bd2 ({Nach} 10. dxe5 dxe5 11. Nxe5 Re8 {verliert Weiß}) 10... exd4 11.
+Nxd4 Re8+ 12. Nce2 Qb6 13. O-O {Weiß hat seine Entwicklung vervollständigt,
+aber seine Figuren stehen etwas unkoordiniert im Zentrum} Nc6 14. Be3 {Weiß
+möchte weder auf c6 nehmen und damit die Schwäche auf d6 beseitigen, noch
+den Springer zurücknehmen, da dann Sc6-e5 mit Tempo kommt. Also droht er mit
+Abzug. Aber Schwarz hat eine taktische Lösung dagegen} Ng4 15. hxg4 Nxd4) 8...
+cxd4 9. exd4 e5 $1 {Dieser Zug ist möglich aufgrund der Stellung der
+schwarzen Dame und der Position des weißen Königs im Zentrum} 10. Be3 Nc6 11.
+Be2 *
+

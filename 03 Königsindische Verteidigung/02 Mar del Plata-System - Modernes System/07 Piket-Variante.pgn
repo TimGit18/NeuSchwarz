@@ -1,0 +1,99 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Modernes Mar del Plata"]
+[Black "Piket-Variante"]
+[Result "*"]
+[ECO "E99"]
+[Annotator "David Vigorito"]
+[PlyCount "48"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. Ne1 {Weiß verhindert mit
+diesem Rückzug den gegnerischen Springerzug Sf6-h5. Außerdem bereitet er die
+Stützung des eigenen Zentrums mit f2-f3 vor und will den zurückgezogenen
+Springer auf d3 platzieren, von wo aus er das Schlüsselfeld c5 angreift.} Nd7
+{Schwarz will den f-Bauern in Gang setzen. Da sein Königsspringer nicht nach
+h5 kann, muss er ihn nach d7 zurückziehen. Außerdem überdeckt der Rückzug
+ein weiteres Mal das Schlüsselfeld c5} 10. Be3 {Der aggressive Läuferzug ist
+der Hauptzug in dem Komplex mit dem Springerrückzug. Der Läufer unterstützt
+nicht nur den Vorstoß c4-c5, sondern nimmt auch noch den Bauern a7 in das
+Visier. Der Nachteil dieses Zuges ist, dass der schwarze Bauernsturm ein
+einfaches Tempo gewinnt. Nach f5-f4 kann mit g4-g3 ein Bauer geopfert werden.
+In dieser Variante ist der weiße Damenflügelangriff sehr zielgerichtet, aber
+die Verteidigung seines Königs kann kompliziert werden. Manche Spieler
+betrachten diese Variante als Selbstmord für Weiß, beide Spieler müssen ein
+genaues Gefühl für Angriff und Verteidigung finden.} f5 {Schwarz fängt den
+typischen Angriff an. Er droht sofort mit dem Vormarsch f5-f4, wonach sich der
+Läufer auf ein schlechtes Feld zurückziehen muss} 11. f3 {Weiß verteidigt
+seinen Bauern und schafft ein Rückzugsfeld für den Läufer, der damit auf
+der langen Diagonale bleiben kann} f4 {Der zuvor erwähnte Tempogewinn treibt
+den Läufer zurück} 12. Bf2 {Von hier aus unterstützt der Läufer weiterhin
+den Damenflügelvormarsch und verteidigt seinen König} g5 {Die konsequente
+Fortsetzung des schwarzen Angriffs zielt gegen den weißen König.} {(a) Eine
+Alternative, die zur offensichtlichen Vorbereitung von c4-c5 dient, ist} 13. b4
+{Seit der berühmten Partie Piket-Kasparov ist dieser Zug nicht mehr beliebt.
+Der Zug bereitet c4-c5 vor. Allerdings ist er nicht ganz harmlos und Schwarz
+solllte ihn nicht auf die leichte Schulter nehmen} Nf6 14. c5 Ng6 15. cxd6 ({
+(a) Nach} 15. Rc1 Rf7 16. a4 {hat Schwarz die Möglichkeit mit dem Läufer auf
+d6 zurückzunehmen.} (16. cxd6 cxd6 {transponiert in die Hauptvariante.}) 16...
+Bf8 17. cxd6 Bxd6) ({(b) Stattdessen ist} 15. a4 {sehr wichtig. Schwarz sollte
+spielen} h5 16. c6 (16. a5 g4 17. cxd6 cxd6 18. Nb5 g3 19. hxg3 fxg3 20. Bxg3
+a6 21. Na3 h4 22. Bf2 Nh5 23. f4 Nhxf4 24. Nc4 Qg5 {mit einem schwarzen
+Angriff.}) (16. h3 Rf7 17. a5 Bf8 18. c6 Rh7 $1 {Schwarz hat nun genügend
+Support für den Durchbruch auf g4, so dass der Turm besser auf die sich zu
+öffnende h-Linie gehört.} 19. cxb7 (19. b5 b6 20. axb6 cxb6 21. Ra3 Qc7 22.
+Nd3 g4 23. fxg4 hxg4 24. hxg4 Qg7 25. Bxb6 Qh6 {mit starkem Angriff von
+Dolmatov.}) 19... Bxb7 20. b5 ({Oder} 20. a6 Bc8 21. Nb5 g4) 20... Bc8 {
+mit Gegenspiel.}) 16... Bh6 17. b5 b6 18. a5 g4 19. axb6 cxb6 20. fxg4 hxg4 21.
+g3 Rf7 {Diese Stellung aus einer Partie von Kortchnoi gegen Xie ist
+einigermaßen unklar.}) 15... cxd6 16. Rc1 Rf7 17. a4 Bf8 $1 {Das ist die
+schlaue Idee von Kasparov. Für den Augenblick bleibt das Feld h5 für den
+Springer frei} 18. a5 Bd7 19. Nb5 {Dieser Zug erlaubt es Schwarz, seine
+Hauptidee auszuführen} ({(a)} 19. Bb5 Bc8 20. Be2 {führt zu Zugwiederholung.}
+) ({(b)} 19. Kh1 {wurde auch schon von Weiß gespielt.} Rg7 20. Nb5 (20. Bb5 g4
+21. Bxd7 Qxd7 22. fxg4 Nxg4 23. Nf3 Be7 24. Bg1 Nh4 {mit guter Stellung für
+Schwarz.}) 20... g4 21. Nxa7 g3 22. Bb6 Qe8 23. Rc7 gxh2 24. Rxb7 Nh5 {mit
+Angriffschancen für Schwarz.}) 19... g4 20. Nc7 $6 {Das scheint etwas zu
+gierig. Anscheinend spielen die Gegner von Kasparov anders gegen ihn als sonst.
+} ({(a) Von Kasparov stammt der Vorschlag} 20. fxg4 Nxe4 21. Nc7 Ba4 22. Qxa4
+Rxc7 {und das scheint zumindest Ausgleich für Schwarz sicherzustellen.}) ({
+(b) Stattdessen geht auch} 20. Nxa7 g3 21. Bb6 Qe7 22. Nb5 Nh5 23. Kh1 Qh4 24.
+Bg1 Rf6 25. Nc7 Ne7 26. Nxa8 gxh2 27. Bf2 Qxf2 {mit Matt nach} 28. Rxf2 Ng3+
+29. Kxh2 Rh6+ 30. Kg1 Rh1#) 20... g3 $1 21. Nxa8 $2 {Das treibt die Sache
+zuweit.} ({Besser ist laut Kasparov} 21. hxg3 fxg3 22. Bxg3 Bh6 23. Nxa8 Nh5
+24. Bf2 Ngf4 25. Nd3 Rg7 26. Nxf4 Bxf4 27. g4 Bxc1 28. Qxc1 Nf4 29. Qe3 h5 {
+mit schwarzem Angriff.}) 21... Nh5 22. Kh1 (22. Bxa7 Qh4 23. h3 Bxh3 24. gxh3
+Qxh3 25. Rf2 gxf2+ 26. Kxf2 Nh4 27. Bf1 (27. Nd3 Qg3+ 28. Kf1 Ng2 $1) 27...
+Qh2+ 28. Ng2 Rg7 {sieht für Schwarz sehr stark aus.}) 22... gxf2 23. Rxf2 Ng3+
+24. Kg1 Qxa8 {Schwarz steht nun viel besser} *
+

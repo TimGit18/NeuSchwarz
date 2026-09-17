@@ -1,0 +1,71 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beliavsky-System"]
+[Black "Seltsame Variante"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "David Vigorito"]
+[PlyCount "46"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. Nd2 {Änlich wie in den
+Varianten mit Sf3-e1 soll auch dieser Springerrückzug den schwarzen
+Springerzug Sf6-h5 verhindern und das eigene Zentrum mit f2-f3 stützen. Statt
+den Bauerndurchbruch c4-c5 mit dem Springer auf d3 vorzubereiten, soll der
+Vorstoß ohne diesen durchgeführt werden. Der Springer kann dann auf c4
+platziert, von wo aus er Druck auf b6 und d6 ausübt. Schwarz muss Weiß daran
+hindern} a5 {Das ist die Hauptvariante. Schwarz verhindert b2-b4 und gewinnt
+ein Tempo. Weiß muss a2-a3 und Ta1-b1 spielen, um den Vorstoß durchzusetzen.
+Das ist in der Variante mit dem Springer auf e1 nicht nötig, denn dort kann
+Weiß einfach seinen Läufer nach d2 entwickeln und ganz einfach b2-b4
+durchsetzen} 10. a3 {Weiß führt seinen Plan konsistent aus. Schwarz sollte
+ein Bauernwettrennen vermeiden, denn der weiße Bauernsturm kann mit dem
+Springer auf c4 schnell zu einer tödlichen Stellung werden} Bd7 {Dieser Zug
+entwickelt nicht nur eine Figur, sondern gewinnt auch ein Tempo, denn Schwarz
+droht damit, den Damenflügel mit a5-a4 abzuschließen} 11. b3 {Das ist der
+populärste Zug, der Schwarz daran hindert, den Damenflügel mit a5-a4
+abzuschließen. Es ist aber gleichermaßen möglich, die schwarze Idee zu
+ignorieren} c6 {Dieser Zug war früher ungewöhnlich, aber er hat sich
+neuerdings als Hauptvariante herauskristallisiert. Schwarz erzeugt noch mehr
+Spannung im Zentrum und behält sich Optionen auf beiden Seiten des Bretts
+offen} 12. Ra2 {Dieser Zug sieht immer seltsam aus, aber erlaubt es den
+Vorstoß nach b4, ohne schwarzes Gegenspiel zuzulassen} Qb8 13. Rc2 Rc8 14.
+Ndb1 ({Schwarz erhält gutes Gegenspiel nach} 14. Bd3 cxd5 15. cxd5 b5 16. b4
+axb4 17. axb4 Nh5 18. Re1 Bh6 19. Ndb1 Bxc1 20. Qxc1 Rc7) 14... cxd5 15. cxd5
+b5 {Schwarz hat eine Figurenstellung, die für Spanisch oder Alt-Indisch
+typisch ist. Daher kann er auf dem Damenflügel aktiv werden} 16. b4 Ne8 {
+Das ist ein sehr flexibler Zug, um nicht die Festlegung der Bauernstruktur auf
+dem Damenflügel zu übereilen} 17. Be3 f5 18. f3 Nf6 19. Qd2 a4 {Schwarz
+schließt den Damenflügel ab, um auf dem Königsflügel weiterzumachen} 20.
+Rfc1 Rc7 21. Qd3 Rb7 22. Nd1 f4 23. Bf2 g5 {Schwarz hat ein gutes Gegenspiel} *
+

@@ -1,0 +1,32 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Italienisches System"]
+[Black "Fianchetto"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "38"]
+[SourceDate "2014.08.11"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 {Dieser Ansatz ist mehr im Sinne von Capablanca und
+Rubinstein und bevorzugt einen langsamen strategischen Kampf anstatt eines
+kurzfristigen Geschosses. Im Prinzip ist die Eröffnung positionell und solide,
+aber auch etwas zahm und nicht sehr gefährlich bei guter Vorbereitung.} Nf6 4.
+d3 Nc6 5. c3 g6 (5... e6 {ist auch möglich, aber das
+Königsflügel-Fianchetto bringt bessere Resultate}) 6. Bb3 {Weiß kann etwas
+an der Zugreihenfolge variieren, zum Beispiel zunächst kurz rochieren, aber
+im Prinzip wird immer dieselbe Stellung erreicht.} Bg7 7. O-O O-O 8. h3 {
+Weiß verhindert die Fesselung entlang der Diagonalen d1-h5, aber das sollte
+Schwarz nicht stören, denn der Läufer wird auf die Diagonale nach b7 oder a6
+entwickelt werden} b6 9. Re1 ({Der direkte Vormarsch bringt nicht viel für
+Weiß} 9. d4 Ba6 10. Re1 e6 11. Nbd2 cxd4 12. cxd4 Nb4 13. Bc4 Nxe4 {und
+Schwarz gewinnt einen Bauern} 14. Bxa6 Nxd2) 9... Ne5 10. d4 {Der Abtausch auf
+e5 würde Weiß nur einen rückständigen d-Bauern bescheren} Nxf3+ 11. Qxf3
+Bb7 12. Bg5 (12. Bf4 b5 13. Nd2 Nd7 14. dxc5 Nxc5 15. Bd5 Qc7 16. Rac1 e5 17.
+Bxb7 Qxb7 18. Bg5 f5 {Weiß muss schon ziemlich kämpfen}) 12... h6 13. Bh4 b5
+14. Nd2 cxd4 15. cxd4 Qb6 16. Qe3 g5 $1 {Schwarz ergreift die Initiative, um
+einen vorteilhaften Abtausch der Leichtfiguren durchzuführen} 17. Bg3 Nh5 18.
+Nf3 Nxg3 19. fxg3 Rac8 *
+

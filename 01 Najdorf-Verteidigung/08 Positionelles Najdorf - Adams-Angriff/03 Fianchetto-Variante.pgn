@@ -1,0 +1,28 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Adams-Angriff"]
+[Black "Fianchetto-Variante"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 {Das ist ein sehr
+giftiger Zug, der neuerdings von vielen Elitespielern gespielt wird. Die Idee
+ist es, g2-g4 zu spielen und schnell einen Angriff auf dem Königsflügel zu
+starten} e5 {Dieser Zug stellt die aggressivste und kompromissloseste Antwort
+dar. Schwarz erhält die Chance auf Gegenspiel} 7. Nde2 {[%csl Yf5][%cal Re2g3,
+Rg3f5] Der Springer steht auf e2 besser als auf f3, denn so nimmt er am Kampf
+um das Feld d5 teil. Außerdem kann er über g3 nach f5 gebracht werden,
+wogegen er auf f3 keine Zukunft hat} h5 {Dieser Zug hindert Weiß daran,
+selber g2-g4 zu spielen und den Springer auf g3 hinterher zu schieben.
+Zugegebenermaßen besitzt der Zug auch Nachteile. Das Feld g5 wird Weiß
+überlassen, auf dem ein Läufer ideal steht. Schwarz sollte daher nicht so
+schnell kurz rochieren, denn er könnte unter einem Angriff mit g2-g4 kommen.}
+{Die Fianchetto-Variante beginnt mit} 8. g3 Be7 9. Bg2 b5 10. Nd5 {Alles
+thematische Züge} Nbd7 11. Nec3 Bb7 12. Nxe7 Qxe7 13. Bg5 {Leko als Weißer
+spielt gegen das Feld d5} Qe6 14. O-O Rc8 {Mamedyarov vermeidet die kurze
+Rochade solange es geht und strebt nach aktivem Gegenspiel} 15. Re1 *
+

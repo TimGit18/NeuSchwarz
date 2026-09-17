@@ -1,0 +1,42 @@
+[Event "Repertoire against the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-Gambit"]
+[Black "Isländisches Gambit"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Daniel King"]
+[PlyCount "36"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 {Das ist das vielversprechende
+Anti-Alapin-Gambit. Es wurde von Sveshnikov und Emms untersucht, jedoch nicht
+ausführlich behandelt. Allerdings raten sie davon ab, den Bauern behalten zu
+wollen.} {Eine Art Isländisches Gambit stellt die folgende Fortsetzung dar} 4.
+c4 e6 5. dxe6 ({Wenn Weiß das Gambit nicht annimmt, dann erhält Schwarz
+einfach bei guter Stellung seinen Bauern zurück.} 5. d4 $6 exd5 $15) 5... Bxe6
+6. Nf3 Nc6 7. Be2 Bd6 {Schwarz hat gute Kompensation für den Bauern.} ({
+Möglich ist auch die Lange Rochade nach} 7... Qc7 $5 8. Nc3 O-O-O 9. O-O a6
+10. b3 (10. d3 {funktioniert nicht wegen} Bxc4) 10... Bd6 {mit Kompensation
+für den Bauern.}) 8. Nc3 (8. O-O Qc7 9. Nc3 a6 10. a3 O-O-O 11. Na2 (11. d3
+Ng4 12. h3 h5 $5) 11... Nd4 12. Nxd4 Bxh2+ 13. Kh1 Rxd4 14. f4 Bxf4 15. d3 Bxc1
+16. Rxc1 Rh4+ 17. Kg1 Qh2+ 18. Kf2 Re8 19. Qa4 Bd7 20. Qa5 Bc6 21. Ke1 Qxg2 22.
+Nc3 Rh2 23. Rc2 Nd7 24. b4 Bf3 25. Rxf3 Rh1+ 26. Kd2 Qg5+ 27. Re3 Qxe3# {
+0-1 (27) Bibik,J (2270)-Martynov,P (2455) Lahti 1999}) 8... O-O (8... Qe7 9.
+O-O Ng4 (9... O-O-O 10. d3 Bb8 $5) 10. h3 (10. Nd5) 10... h5 11. Ne4 O-O-O 12.
+Nxd6+ Qxd6 13. g3 Nge5 14. Nxe5 Nxe5 15. h4 Bxc4 16. b3 Bxe2 17. Qxe2 Rde8 18.
+Ba3 Qxd2 19. Qxd2 Nf3+ 20. Kg2 Nxd2 21. Rfc1 b6 22. b4 c4 23. Rc2 Ne4 24. Rxc4+
+Kb7 25. Rd1 Nf6 26. Bb2 Ng4 27. Rd7+ Ka6 28. a4 Re2 29. b5+ {1-0 (29) Burg,
+D-Garrison,R Lansing 1990}) 9. O-O Re8 10. Re1 Qd7 11. d3 h6 {Standard moves
+from both sides have led to this plausible position. From the following
+variations it is clear that Black has decent compensation for the pawn.} 12.
+Bf1 (12. Nb5 Bf8 13. Bf4 Bf5 14. Nc7 Nh5 15. Nd5 Nxf4 16. Nxf4 Rad8 $44) (12.
+h3 $2 Bxh3 13. gxh3 Qxh3 $19 14. Bf1 Rxe1 15. Qxe1 Qxf3) (12. Be3 $6 Ng4 13.
+Qd2 Nxe3 14. fxe3 Rad8 15. d4 (15. Rad1 Bb8 16. d4 cxd4 17. exd4 Bg4 18. d5 (
+18. Nd5) 18... Qc7 19. g3 Bxf3 20. Bxf3 Rxe1+ 21. Qxe1 Ne5 22. Be2 Nxc4 23.
+Bxc4 Qxc4 $15) 15... cxd4 16. exd4 Bg4 17. d5 (17. Kh1 Qf5) 17... Bxf3 18. Bxf3
+Ne5 $44) 12... Bf5 13. Rxe8+ Rxe8 14. h3 (14. a3 Ne5 15. Nxe5 Bxe5 16. h3 Bb8
+17. b4 Qd6 18. g3 Qd7 19. Bb2 Bxh3 20. bxc5 Bxf1 21. Qxf1 Be5 22. Re1 Bd4 23.
+Rxe8+ Qxe8 24. Nd1 Bxb2 25. Nxb2 Qe5 26. Na4 Ng4 $44) 14... Nb4 15. Be3 Nxd3
+16. Qd2 Ne5 17. Nxe5 Bxe5 18. Qxd7 Nxd7 {mit gleichen Aussichten.} *
+

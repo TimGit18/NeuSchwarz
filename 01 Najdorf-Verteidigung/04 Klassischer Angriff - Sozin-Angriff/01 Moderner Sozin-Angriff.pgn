@@ -1,0 +1,70 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sozin-Angriff"]
+[Black "Moderner Sozin-Angriff"]
+[Result "*"]
+[ECO "B87"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "59"]
+[SourceDate "2015.02.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O {Das ist
+der gefährlichste Plan für Weiß, der Sozin-Angriff. Streng genommen ist der
+Sozin-Angriff ein System, dass nach Sb8-c6 entsteht. Aber dieser Zug passt
+nicht in das Najdorf-System} b5 {In diesem Fall ist der Bauernzug nach b5
+vorzuziehen, denn Weiß hat schon beträchtlichen Entwicklungsvorsprung} ({Der
+Zug} 7... Nbd7 {ist hier nicht so gut, denn nun wird e6 schwach} 8. Re1 Qc7 9.
+Bxe6 $1 fxe6 10. Nxe6 {Weiß erhält zwar "nur" zwei Bauern für die Figur,
+aber einen gefährlichen Angriff, dank des unrochierten Königs in der Mitte}
+Qc6 11. Nd5) 8. Bb3 {Diese Stellung ähnelt wieder mehr dem normalen
+Fischer-Angriff nur mit schneller kurzer Rochade. Schwarz kann hier auch auf
+Bauerngewinn spielen, aber dann erhält Weiß exzellente Kompensation und
+einen gefährlichen Angriff} Be7 {Das ist die sicherste Fortsetzung, mit der
+die kurze Rochade von Schwarz eingeleitet wird} 9. Qf3 {Das ist der Moderne
+Sozin-Angriff, der seit den 1990er Jahren die Klassische Fortsetzung abgelöst
+hat. Weiß bringt die Dame auf den Königsflügel und droht gleichzeitig mit
+der Fortsetzung e4-e5} Qc7 {Schwarz rochiert nicht sofort, sondern entwickelt
+zunächst die Dame auf ein gutes Feld. Jetzt hat er immer noch die Option, den
+Läufer c8 nach b7 zu ziehen, wenn Weiß aggressiv e4-e5 spielt.} ({Eine
+beliebte Variante ist} 9... Qb6 {, um auch den Springer anzugreifen}) 10. Qg3
+$1 {[%csl Yg7][%cal Rg3g7] Das ist der beste Zug von Weiß. Er greift direkt
+den Bauern g7 an} O-O {Ein kühler Zug, der den Bauern g7 verteidigt und zu
+einem Angriff einlädt} 11. Bh6 Ne8 12. Rad1 Bd7 {Schwarz entwickelt einfach
+seine Figuren weiter} 13. f4 {Das ist der aggressivste und gefährlichste Zug}
+({Die positionelle Alternative lautet} 13. Nf3 {[%csl Yd6][%cal Rh6f4,Rg3d6,
+Rd1d6] Weiß will Druck auf den Bauern d6 aufbauen und eventuell mit e4-e5
+durchbrechen} b4 {Der normale Zug, nachdem Schwarz alles gedeckt hat} 14. Ne2
+a5 15. Nf4 Kh8 16. Bg5 Nc6 {Nun hat Weiß die Wahl} 17. Rfe1 $1 (17. Nd5 exd5
+18. exd5 Bxg5 19. dxc6 Bxc6 20. Nxg5 h6 21. Nf3 Rc8 22. Qf4) (17. Bxe7 Nxe7 18.
+Qh4 Nf6 19. Rfe1 a4 20. Bc4 e5 21. Nd5 Nexd5 22. Bxd5 Ra5 23. Ng5 Kg8 24. Rd2
+h6) 17... a4 18. Bc4 Bxg5 19. Nxg5 Ra5 {mit Chancen für beide Seiten}) 13...
+Nc6 {Das ist eine der Tabiya-Stellungen im Sozin-Angriff. Weiß hat hier
+mehrere interessante Möglichkeiten und Schwarz muss sehr genau spielen, um
+auszugleichen} 14. Nxc6 {Dazu gibt es Alternativen} ({(a)} 14. f5 Nxd4 15. Rxd4
+Bf6 16. Rd3 Be5 17. Qf2 $5 {Das ist eine neue Idee} (17. Qg4 $6 b4 18. f6 ({
+Falls} 18. Ne2 exf5 19. exf5 Bb5 20. f6 Bxf6 21. Rxf6 Bxd3 22. cxd3 Kh8 23. g3
+Qe7 24. Rf2 gxh6 {Schwarz steht leicht besser, aber sein König ist
+geschwächt. Er hat eine Qualität mehr}) 18... g6 $1 {Schwarz hat Vorteil. Er
+hat einen starken Läufer und wird einen Bauern für die Qualität erhalten,
+wohingegen allle schwarzen Felder von Weiß schwach sind. Der Läufer auf b3
+wird unter Angriff des Bauern a6-a5 kommen, zum Beispiel} 19. Ne2 a5 20. Bxf8
+Kxf8 21. Qh4 a4 22. Qxh7 Qa7+ 23. Kh1 Nxf6 24. Qh6+ Ke7 25. Bc4 Qc5 26. b3 {
+mit schwarzem Vorteil in einer Partie von Kasparov}) 17... b4 18. fxe6 bxc3 19.
+exd7 Nf6 20. Bg5 cxb2 21. Bxf6 Bxf6 22. c3 Qxd7 23. Qxb2 {mit Gleichstand}) ({
+(b) Der Zug} 14. Bg5 {ist interessant, aber erreicht keinen Vorteil, falls
+Schwarz richtig reagiert, wie Gelfand bewies} Bxg5 15. fxg5 Nxd4 16. Rxd4 Qc5
+17. Qe3 b4 18. Nd1 Bb5 19. Re1 a5 20. c3 Nc7 21. h4 (21. e5 dxe5 22. Qxe5 Na6)
+21... Rfb8 22. Qf2 Be8 23. Ne3 bxc3 24. Rc4 Qa7 25. bxc3 a4 26. Bc2 e5) 14...
+Bxc6 {Der Läufer nimmt auf c6} 15. f5 Kh8 16. f6 (16. Be3 b4 17. Na4 Nf6 $1
+18. fxe6 Nxe4 19. Qh3 fxe6 20. Nb6 Rae8 {Schwarz hat einen kleinen Vorteil})
+16... gxh6 17. fxe7 Qxe7 18. Qf2 Ng7 19. Qd4 (19. Qb6 Rfc8 20. a3 (20. Qd4 {
+transponiert in die Hauptvariante}) 20... a5 21. Kh1 h5 22. Rd3 Qa7) 19... Rac8
+20. a3 ({Stärker ist vielleicht} 20. Rd3 $6 h5 21. a3 Rcd8 22. Rf6 e5 23. Qf2
+Ne6 {mit unklarer Stellung}) 20... Qg5 $1 21. Rf2 ({Nach} 21. Qxd6 $2 {folgt}
+Nf5 $1 22. Qe5+ f6 23. Qxe6 Ne3 24. Qh3 f5 25. Be6 Rce8 {mit schwarzen Vorteil}
+) 21... a5 22. Rd3 Rcd8 23. Qb6 Qc5 24. Qxc5 ({Nach} 24. Qxa5 {folgt} f5 {mit
+Gegenspiel}) 24... dxc5 25. Rxf7 a4 26. Ba2 b4 27. Rd6 bxc3 28. Rxf8+ Rxf8 29.
+Rxc6 cxb2 30. Rb6 *
+

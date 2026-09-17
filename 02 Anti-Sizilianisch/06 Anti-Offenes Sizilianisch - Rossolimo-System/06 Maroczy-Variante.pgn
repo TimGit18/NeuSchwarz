@@ -1,0 +1,47 @@
+[Event "Experts on the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rossolimo-System"]
+[Black "Maroczy-Variante"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Tiger Hillarp Persson"]
+[PlyCount "34"]
+[SourceVersionDate "2018.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ {Dieser Zug vermeidet die scharfen Komplikationen
+des Najdorf- oder Drachen-Systems. Er kann sehr gut in einen positionellen
+Vorteil für Weiß münden, wenn Schwarz passiv und ängstlich spielt.
+Andererseits sind die Ausgelichsmöglichkeiten für Schwarz hier auch sehr
+viel besser.} Nd7 $1 {Das ist die schärfste Erwiderung auf das
+Rossolimo-System. Schwarz vermeidet die remisliche Variante Lc8-d7, die im
+weißen Sinne ist, da beide weißfeldrigen Läufer verschwinden.} {Der
+Maroczy-Aufbau mit} 4. c4 {ist möglicherweise die remislichste Variante im
+gesamten System. Schwarz hat zumindest keine Probleme eine angenehme Stellung
+mit vielen Figuren auf dem Brett zu erzielen.} Ngf6 5. Nc3 g6 {Diese Zugfolge
+führt zwar zu einer Stellung, die Weiß anstrebt, aber sie ist völlig in
+Ordnung für Schwarz.} 6. d4 cxd4 7. Nxd4 Bg7 8. O-O O-O 9. Bxd7 {Sonst spielt
+Schwarz den Springer nach b6 und läßt a7-a6 folgen} Bxd7 10. b3 {[%csl Ya6,
+Yb5][%cal Ga7a6,Gb7b5] Wenn man sich diese Stellung anschaut und mit dem
+"normalen" Maroczy-Aufbau vergleicht, dann sollten beide Seiten sehr zufrieden
+sein. Weiß hat es geschafft, den unvorteilhaften Läufer abzutauschen, und
+Schwarz kann ein Gegenspiel mit a7-a6 und b7-b5 starten. Die Stellung ist
+insgesamt sehr ausgeglichen.} a6 11. a4 {Nach jedem anderen Zug läßt Schwarz
+b7-b5 folgen.} ({Nach} 11. Qd3 b5 12. cxb5 axb5 13. Ndxb5 Nxe4 {steht Schwarz
+schon besser.}) 11... Qa5 12. Bb2 Rfe8 {Das ist ein typischer Zug in einer
+solchen Stellung. Er verteidigt gegen verschiedene Tricks mit Sc3-d5. Damit
+verhindert er auch den Abtausch weiterer Figuren.} 13. Qd2 ({Mit} 13. Re1 {
+[%csl Yd5][%cal Gc3d5] bereitet Weiß die Besetzung des Feldes d5 vor. Aber
+das sichert ihm keinen Vorteil.} Rac8 14. Nd5 Nxd5 15. exd5 e5 $1 16. dxe6 Bxe6
+17. Qc1 Bd7 18. Ne2 Bxb2 19. Qxb2 Bc6 {[%csl Yg2,Yg5][%cal Ga5g5,Gc6g2] mit
+Gegenspiel gegen den weißen König.}) 13... Qb4 14. Nb1 $6 {Weiß möchte die
+Stellung vereinfachen und abtauschen.} ({(a)} 14. Ba3 $2 Nxe4 $1 15. Nxe4 Qxd2
+16. Nxd2 Bxd4 17. Rad1 {gewinnt für Schwarz einen guten Mehrbauern mitsamt
+Läuferpaar.}) ({(b)} 14. Qc2 e6 15. Nde2 Rad8 {stellt den Ausgleich wieder
+her.}) 14... Qxd2 15. Nxd2 Bh6 16. N4f3 Nh5 17. g3 Ng7 {[%csl Yb3,Yc5,Ye4,Ye6]
+[%cal Gg7e6,Ge6c5,Rc5e4,Rc5b3] So könnte Schwarz die Initiative ergreifen. Er
+steht nämlich besser, da der Springer nach c5 kommt. Hiernach hat Weiß
+Schwierigkeiten sowohl den e-Bauern als auch den b-Bauern zu decken. Schwarz
+kann außerdem die Stellung mit Bauerndurchbrüchen öffnen.} *
+

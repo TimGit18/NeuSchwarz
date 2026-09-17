@@ -1,0 +1,61 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jugoslawisches System"]
+[Black "Taktik-Variante"]
+[Result "*"]
+[ECO "E60"]
+[Annotator "David Vigorito"]
+[PlyCount "46"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der weiße
+König steht unglaublich sicher und es ist für Schwarz nicht so einfach,
+Gegenspiel zu initiieren} Nc6 {Hiermit beginnt die Panno-Variante, die man
+bereits von dem Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er
+möchte sein Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt
+etwas Logik, denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt
+nicht mehr von dem Läufer auf f1 gedeckt werden kann} 7. Nc3 {Dieser
+natürliche Entwicklungszug ist am flexibelsten} a6 {Hiermit wird die
+Panno-Variante eingeleitet. Schwarz ist bereit, Gegenspiel am Damenflügel zu
+beginnen} 8. d5 {Mit diesem forcierten Zug beginnt die Jugoslawische Variante
+im Fianchetto-System. Weiß vertreibt den schwarzen Damenspringer sofort auf
+ein schlechtes Feld} Na5 {Der Springer steht zwar auf dem Rand schlecht,
+greift aber den Bauern c4 an} 9. Nd2 {Der Rückzug des Springers, der
+gleichzeitig den Bauern c4 deckt, bildet die Hauptvariante. Es gibt eine Reihe
+von Alternativen} c5 {Diese Stellung bildet den Ausgangspunkt für die
+Jugoslawische Variante. Das Spiel dreht sich um den Springer auf a5. Wenn er
+zu dem schwarzen Gegenspiel beitragen kann, dann sollte Schwarz gute Chancen
+bekommen. Falls er aber zu passiv verbleibt, dann bekommt Weiß seine
+Gelegenheiten im Zentrum und auf dem Königsflügel. Die Theorie gibt Schwarz
+gute Möglichkeiten, taktisch zu punkten. Die weißen Varianten sind so
+entworfen, dass der schwarze Damenflügel unter Kontrolle gehalten wird} 10. Qc2
+{Dieser Zug bildet die Hauptvariante. Weiß beschützt seinen Springer auf c3,
+ohne seinen Turm zu verpflichten} Rb8 {Schwarz plant weiterhin den Durchbruch
+auf b5} 11. b3 {Unverändert gespielt} b5 {An dieser Stelle muss Weiß eine
+weitere Entscheidung treffen. Er kann entweder Spiel auf dem Damenflügel
+initiieren oder sich einfach entwickeln} 12. Bb2 {Das ist die Hauptvariante}
+bxc4 {Schwarz möchte gerne das Druckspiel gegen den weißen Bauern c4
+organisieren. Aber er muss die genaue Zugreihenfolge kennenm, denn sonst kann
+Weiß effizient auf b5 schlagen} 13. bxc4 Bh6 {Nun droht Schwarz einfach damit,
+den Springer auf d2 zu nehmen, wonach der Bauer auf c4 einfach fällt} 14. f4 {
+Das ist die Hauptvariante. Weiß schließt den schwarzfeldrigen Läufer aus} e5 {
+Natürlich will Schwarz die Stellung öffnen. Weiß kann auf diesen Zug mit
+mehreren Antworten reagieren} 15. dxe6 {Das ist sicher der beste Versuch für
+Weiß} Bxe6 16. Nd5 Rxb2 $1 {Das Qualitätsopfer sieht aus wie der beste Zug} 17.
+Qxb2 Bg7 {Nun droht Schwarz einfach mit Sxd5, so dass Weiß seine Dame bewegen
+muss. Im allgemeinen muss Schwarz mit dem Rückgewinn der Qualität aufpassen,
+denn wenn er den Springer a5 nicht in das Spiel bringen kann, dann kann Weiß
+praktisch mit einer Mehrfigur auf dem Königsflügel spielen. Schwarz muss sich
+auf Taktiken wie das Spiel auf den schwarzen Feldern und Angriffen gegen c4
+verlassen} 18. Qa3 {Weiß will den schwarzen Springer weiter belästigen. Aber
+Schwarz hat eine taktische Lösung} Nxc4 $1 {Andere Züge sind klar schlechter}
+19. Nxc4 Nxd5 20. Rac1 {Die aktiven schwarzen Figuren und das Bauernzentrum
+geben ihm gute Kompensation für die Qualität} Nb4 21. Rfd1 {Weiß hat nicht so
+viel Erfolg mit anderen Alternativen} ({(a)} 21. Kh1 d5) 21... d5 22. Kh1 Qe7
+23. Nb6 Rb8 {Schwarz hat sehr schöne Kompensation und Weiß sollte versuchen,
+das Gleichgewicht zu halten} *
+

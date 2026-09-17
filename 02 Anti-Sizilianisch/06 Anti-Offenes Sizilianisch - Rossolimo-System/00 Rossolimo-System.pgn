@@ -1,0 +1,70 @@
+[Event "Experts on the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Sizilianisch"]
+[Black "Rossolimo-System"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Tiger Hillarp Persson"]
+[PlyCount "18"]
+[SourceVersionDate "2018.11.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ {Dieser Zug vermeidet die scharfen Komplikationen
+des Najdorf- oder Drachen-Systems. Er kann sehr gut in einen positionellen
+Vorteil für Weiß münden, wenn Schwarz passiv und ängstlich spielt.
+Andererseits sind die Ausgelichsmöglichkeiten für Schwarz hier auch sehr
+viel besser.} Nd7 $1 {Das ist die schärfste Erwiderung auf das
+Rossolimo-System. Schwarz vermeidet die remisliche Variante Lc8-d7, die im
+weißen Sinne ist, da beide weißfeldrigen Läufer verschwinden.} 4. d4 {
+Dies ist die Hauptfortsetzung. Weiß will sofort seine Dame in das Spiel
+bringen, die auf d4 nicht leicht angegriffen werden kann.} ({(a) Der
+Alapin-Aufbau beginnt mit} 4. c3 {[%csl Ya4,Yc2][%cal Gb5a4,Ga4c2] Er ist
+gefährlicher als er ausschaut, denn er gibt Weiß die zusätzliche
+Möglichkeit, den Läufer nach c2 zurückzuziehen.} Ngf6 $1 {Das ist der
+genaueste Zug. Schwarz befragt sofort den Bauern e4.} 5. Qe2 {Das ist die
+einzige ernsthafte Fortsetzung.} a6 6. Ba4 {Schwarz hat nun die Möglichkeit,
+auf dem Damenflügel zu expandieren} b5 7. Bc2 Bb7 {Das ist die flexibelste
+Fortsetzung}) ({(b) Der Maroczy-Aufbau mit} 4. c4 {ist möglicherweise die
+remislichste Variante im gesamten System. Schwarz hat zumindest keine Probleme
+eine angenehme Stellung mit vielen Figuren auf dem Brett zu erzielen.} Ngf6 5.
+Nc3 g6 {Diese Zugfolge führt zwar zu einer Stellung, die Weiß anstrebt, aber
+sie ist völlig in Ordnung für Schwarz.} 6. d4 cxd4 7. Nxd4 Bg7 8. O-O O-O 9.
+Bxd7 {Sonst spielt Schwarz den Springer nach b6 und läßt a7-a6 folgen} Bxd7
+10. b3 {[%csl Ya6,Yb5][%cal Ga7a6,Gb7b5] Wenn man sich diese Stellung anschaut,
+dann sollten beide Seiten sehr zufrieden sein. Weiß hat es geschafft, den
+unvorteilhaften Läufer abzutauschen, und Schwarz kann ein Gegenspiel mit
+a7-a6 und b7-b5 starten.}) ({(c) Der Zug} 4. O-O {führt oft zu Zugumstellung,
+kann aber auch zu eigenständigen Strukturen führen, wenn Weiß den Läufer
+nicht tauscht. In einer Partie von Vidit kam} a6 5. Bd3 Ngf6 6. Re1 e6 7. c3 b5
+8. Bc2 c4 {Das ist hier am prinzipiellsten} 9. a4 {[%csl Yb5,Yb7][%cal Ga4b5,
+Gc8b7,Gb7a8] Weiß nimmt den Bauern b5 auf das Korn.}) 4... cxd4 5. Qxd4 {
+Es ist natürlich für Weiß auch möglich, den Bauern d4 mit dem Springer zu
+nehmen. Generell ist die Kombination von Sf3xd4 und Lf1-b5 in der
+Sizilianischen Verteidigung aber keine besonders gute Idee.} a6 6. Bxd7+ Bxd7
+7. O-O {Diser Zug stellt die normale Fortsetzung dar und ist am
+gebräuchlichsten.} ({(a) Von Hammer stammt die Fortsetzung} 7. Nc3 {in einer
+Partie gegen Svidler.} e5 8. Qd3 Rc8 {mit ähnlichen Motiven wie in der
+Hauptvariante.} 9. Nd2 {Der Springer soll nach e3 überführt werden.}) ({
+(b) Die Gefährliche Variante beginnt mit} 7. Bg5 {Er verhindert den
+Bauernvorstoß e7-e5 und er macht die Springerentwicklung nach f6 sehr
+unattraktiv} Rc8 $5 {Die Idee dieses Zugs ist es, die eigene Entwicklung am
+Königsflügel zu verzögern und zunächst einmal den weißen Aufbau
+abzuwarten.} 8. Nc3 h6 9. Bh4 e5 $1 {Jetzt kann Weiß die schwarze Dame nicht
+nehmen, denn er verlöre eine Figur nachdem Schlagen auf d4.} 10. Qd3 $1 {
+Dies ist bei weitem der gebräuchlichste Zug in dieser Stellung.} g5 $1 {
+Das ist der erste Schritt, um das Seil zu zuziehen. Schwarz muss jetzt einige
+sehr starke Züge machen, um nicht zu verlieren. Aber es gibt auch eine gute
+Nachricht, denn die Stellung ist sehr komplex und gute Vorbereitung zahlt sich
+hier aus.} 11. Bg3 Nf6 {In dieser Stellung hat Schwarz die folgenden Trümpfe
+in der Hand: erstens hat er das Läuferpaar, zweitens sind die weißen Figuren
+auf f3 und g3 sehr passiv platziert, drittens braucht Weiß Zeit, um seine
+Figuren umzugruppieren.}) 7... Rc8 $1 {Das ist ein ausgezeichneter Abwartezug.
+Er erlaubt es Weiß, einen Springer auf c3 zu platzieren.} 8. Nc3 {Auf diesen
+Zug hat Schwarz nur gewartet.} ({Weiß kann auch den Anti-Maroczy-Aufbau mit} 
+8. c4 {wählen} Qc7 9. b3 e5 10. Qd3 b5 {Nun muss Weiß den Springer auf ein
+anderes Feld als c3 entwickeln. Diese Konzession von Weiß reicht aus, um die
+gute Stellung von Schwarz zu versichern.}) 8... e5 $1 9. Qd3 h6 $1 {Würde
+Schwarz den Springer nach f6 entwickeln, dann könnte Weiß ihn mit dem
+Läufer fesseln} *
+

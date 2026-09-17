@@ -1,0 +1,35 @@
+﻿[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Orthodoxe Variante"]
+[Result "*"]
+[ECO "B95"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "32"]
+[EventDate "2012.04.21"]
+[SourceDate "2012.04.21"]
+
+{[%csl Ge5]} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Der
+Versuch der direkten Widerlegung von Najdorf: Weiß möchte lang rochieren, im
+Zentrum oder auf dem Königsflügel durchbrechen - je nachdem, ob Schwarz kurz
+rochiert oder in der Mitte bleibt} e6 {Das ist die übliche Antwort von
+Schwarz. Er kontrolliert das Schlüsselfeld d5. Das Bauernpaar e6 und d6 soll
+Weiß auf Abstand halten, den Entwicklungsrückstand aufholen und Gegenspiel
+am Damenflügel beginnen} 7. Qf3 {Ein alter Zug mit der Idee sofort zu
+rochieren} h6 {Wieder ist der Browne-Zug eine spielbare Option von vielen} 8.
+Be3 ({(a) Short spielte gegen Kasparov} 8. Bxf6 Qxf6 9. Qxf6 gxf6 {aber obwohl
+die Bauern entwertet aussehen, kann sich der schwarze König gut in der Mitte
+halten. Das schwarze Läuferpaar kann später gut zur Geltung bringen} 10. f4
+h5 11. f5 Nc6 12. Rd1 Bd7 {und Schwarz steht gut}) ({(b) Die einzige andere
+vernünftige Möglichkeit lautet} 8. Bh4 {wonach Schwarz eine schöne Stellung
+erhält mit den Zügen} Bd7 9. O-O-O Nc6 10. Nxc6 Bxc6 11. Bd3 Be7) 8... Bd7 {
+Das ist eine effektive Art, den Springer nach c6 zu bringen} 9. O-O-O Nc6 10.
+Qg3 ({Der Abtausch} 10. Nxc6 Bxc6 11. Bd3 b5 {führt zu einer unklaren Stellung
+}) 10... Nxd4 11. Rxd4 ({Wenn Weiß anders nimmt, so folgt} 11. Bxd4 e5 12. Be3
+Rc8 13. f3 b5 14. a3 Be6 {und Schwarz steht gut}) 11... Rc8 {Schwarz hat gute
+Chancen auf Gegenspiel wie in folgender Variante zu sehen ist} 12. Kb1 Rxc3 13.
+bxc3 e5 14. Rb4 a5 15. Rxb7 Nxe4 16. Qf3 d5 {In der entstandenen Stellung ist
+jeder Najdorf-Spieler glücklich} *
+

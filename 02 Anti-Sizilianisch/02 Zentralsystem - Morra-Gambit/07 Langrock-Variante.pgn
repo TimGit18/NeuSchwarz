@@ -1,0 +1,49 @@
+[Event "Fighting the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Morra-Gambit"]
+[Black "Langrock-Variante"]
+[Result "*"]
+[ECO "B21"]
+[Annotator "Richard Palliser"]
+[PlyCount "38"]
+[EventDate "2013.09.15"]
+
+1. e4 c5 2. d4 cxd4 3. c3 {Dieser Zug charakterisiert das Morra-Gambit. Weiß
+erhält freies Spiel und eine gute Entwicklung, verliert aber seine
+Zentrumsbauern} dxc3 {Die einzige Möglichkeit, das zweifelhafte Gambit zu
+widerlegen ist die Annahme. Das führt zu offenen und zweischneidigen
+Stellungen} 4. Nxc3 Nc6 {Dieser Zug leitet den besten Aufbau für Schwarz
+gegen das Gambit ein} 5. Nf3 d6 {Die Idee von diesem Zug ist die Entwicklung
+des Damenläufers nach g4, um den Springer auf g3 abzutauschen. Dies reduziert
+nicht nur das weiße Angriffspotential, sondern nimmt auch den Vorstoß e4-e5
+aus der Stellung} 6. Bc4 {Das ist das weiße Standardschema in der Stellung.}
+a6 $1 {Das ist die Grundstellung im Angenommenen Morra-Gambit. Die
+Zugreihenfolge ist hier sehr wichtig} 7. Bg5 {Dies seltsame Zug stammt von
+Langrock und kann wie folgt weitergehen} Nf6 8. Bxf6 gxf6 {Damit entsteht eine
+Rauser-Struktur mit einem schwarzen Mehrbauern} 9. O-O (9. Nh4 e6 10. Qh5 {
+ist ein sogar viel aktiverer Versuch von Weiß, aber nach} Qa5 11. Nf5 Ne5 12.
+Bb3 exf5 13. O-O {ist die weiße Kompesation für die Figur ziemlich spekulativ
+} fxe4 14. Nxe4 (14. Bxf7+ Kd8 15. Nxe4 Be7 16. Rfd1 Bg4) 14... Be7 15. Qh6 Qd8
+16. Qg7 Rf8 17. Rad1 Be6 {Weiß hat weniger Material}) 9... e6 (9... Bg7 10.
+Nd4 {This is a normal Sicilian position, but without a White pawn on c2!} e6 {
+Black covers the crucial d5 and f5 squares, blocks out White's bishop and
+prepares to unleash the bishop with ...f5.} 11. Nxc6 bxc6 12. Qg4 O-O 13. Rad1
+d5 14. Bd3 f5 {This is practical chess - Black seeks clarification, returning
+the pawn but bringing the queen over to protect the kingside.} (14... Rb8 15.
+Rd2 Qd6 16. Re1 Rb4 {is perhaps even stronger.}) 15. exf5 Qf6 16. fxe6 fxe6 17.
+Qh5 Qh6 18. Qe2 (18. Qxh6 Bxh6 {should be played, but obviously Black has the
+better chances.}) 18... e5 19. f3 Rb8 20. Na4 Rb4 21. b3 Rh4 22. g3 Rh5 23. Rc1
+e4 24. fxe4 Bd4+ 25. Kh1 Bf2 26. Rxf2 Qxc1+ 27. Rf1 Rxf1+ 28. Qxf1 Qxf1+ 29.
+Bxf1 dxe4 $19 {0-1 (41) Eames,R (2275)-Edouard,R (2636) Hastings 2010}) 10. Nd4
+{Das ist die eigentliche Idee von Langrock: der f-Bauer solll in Marsch
+gesetzt werden} ({(a) Die eine Alternative lautet} 10. Qd2 Bd7 11. Qf4 Ne5 12.
+Be2 h5 $1 {und Schwarz hat schon seine Trümpfe ausgespielt}) ({(b)} 10. Nh4 {
+kann leicht entgegnet werden} Bd7 11. Qh5 Qa5) 10... Be7 {Die Idee von diesem
+Zug ist die kurze Rochade und danach den König in der Ecke verstecken, sowie
+Tg8 zu spielen. Langrock hat noch einen Verbesserungsvorschlag} 11. Nxc6 bxc6
+12. Qg4 {Aber nach Silman's} Qa5 13. Qg7 Rf8 14. Qxh7 Qg5 15. Rac1 Rg8 16. g3
+Rg6 17. h4 Rh6 18. Qxf7+ Kxf7 19. hxg5 fxg5 {sind die schwarzen Läufer und
+die zentrale Kontrolle vorteilhaft für Schwarz} *
+

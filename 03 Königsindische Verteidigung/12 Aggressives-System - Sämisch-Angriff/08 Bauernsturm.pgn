@@ -1,0 +1,71 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-Angriff"]
+[Black "Bauernsturm"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "50"]
+[EventDate "2011.10.25"]
+[SourceDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. g4 {[%csl Gf3] Dieser Zug
+ist sehr scharf, aber auch verpflichtend. Weiß verhindert h7-h5 und Se2-g3
+blockiert jetzt auch nicht mehr den g-Bauern} b5 10. h4 {Andere Züge sind
+wahrscheinlich nicht so gut. Die Theorie sieser Variante basiert
+hauptsächlich auf einer Partie zwischen Chris Ward und Joe Gallagher} ({
+(a) Durch Zugumstellung kann oft} 10. O-O-O {geschehen} bxc4 11. h4 {Das ist
+der beste Zug} ({(a1)} 11. Ng3 {scheitert wiederum an} e5) ({(a2)} 11. g5 {
+Hiernach kann Weiß nicht einmal den schwarzfeldrigen Läufer tauschen} Nd7 12.
+h4 Nb4 13. Ng3 c5 {ist gut für Schwarz} 14. dxc5 {verliert für Weiß wegen}
+Bxc3 15. bxc3 Nd3+ 16. Bxd3 Qa5 {mit entscheidendem Angriff}) ({(c)} 11. Bh6 {
+wird getauscht} Bxh6 12. Qxh6 e5 13. d5 Na5 14. Ng3 Qe7 15. h4 Nd7 16. h5 Nc5 {
+mit der Absicht Lc8-d7 und Tb8-b4 nebst Gegenspiel}) 11... h5 12. Ng3 ({
+Möglicherweise ist} 12. Bh6 {besser mit der Idee in die Lange
+Rochade-Variante zu transponieren}) 12... e5 {Es ist jetzt am besten im
+Zentrum zurückzuschlagen} 13. d5 (13. dxe5 Nxe5 14. gxh5 ({Nach} 14. Be2 hxg4
+15. f4 Nf3 {steht Schwarz schon besser}) 14... Nxf3 15. Qg2 Ne5 16. hxg6 fxg6
+17. h5 Nfg4 {Schwarz hat die Kontrolle über das Brett}) 13... Nd4 {Das ist
+ein ausgezeichnetes Feld für den Springer und bedroht die Schwäche auf f3}
+14. gxh5 Nxf3 15. Qg2 Nd4 16. h6 ({Die Fesselung} 16. Bg5 {ist nicht besonders
+gefährlich} Bg4 17. h6 Bh8 18. Be2 Rxb2 19. Kxb2 Qb8+ 20. Kc1 Qb4 {mit
+starkem Angriff für Schwarz}) 16... Bh8 17. Bxc4 Ng4 {mit unklarere Stellung})
+({(b) Ein bekannter Fehler ist} 10. Ng3 $2 e5 11. d5 ({Noch hässlicher ist} 
+11. Nce2 exd4 12. Nxd4 Nxd4 13. Bxd4 c5 14. Be3 bxc4 15. Bxc4 Nxg4 16. fxg4
+Rxb2 {und die weiße Stellung fällt auseinander}) 11... Nd4 12. Bxd4 ({
+Die Versuche den Bauern auf e3 zu verteidigen scheitern alle} 12. Bg2 bxc4) (
+12. Be2 bxc4) (12. Kf2 bxc4 13. Bxc4 Bxg4 14. fxg4 Nxg4+ 15. Kg2 Rxb2) 12...
+exd4 13. Nce2 d3 14. Qxd3 bxc4 15. Qxc4 Rxb2 {Schwarz steht schon viel besser})
+({(c)} 10. cxb5 {ist auch nicht viel besser} axb5 11. Ng3 (11. h4 h5) (11. Bh6
+Bxh6 12. Qxh6 b4 13. Nd5 e5) 11... e5 12. d5 Nd4 13. Bxd4 exd4 14. Nxb5 Nxd5
+15. exd5 Qe8+ 16. Kf2 Rxb5 17. Bxb5 Qxb5 {mit ausgezeichneter Kompensation
+für die Qualität}) 10... h5 {Sonst erhält Weiß die Initiative} 11. Ng3 ({
+(a)} 11. O-O-O {transponiert in die oben beschriebene Variante (a)}) ({(b)} 11.
+g5 Nd7 {Hiernach ist es schwieriger für Weiß, den schwarzen König
+anzugreifen}) ({(c)} 11. gxh5 Nxh5 {Es ist schwierig für Weiß, den Springer
+auf h5 zu eliminieren}) 11... e5 12. dxe5 (12. d5 Nd4) 12... Nxe5 {[%csl Yc4,
+Yf3][%cal Ge5c4,Ge5f3]} 13. Be2 hxg4 14. f4 Nf3+ 15. Bxf3 gxf3 16. h5 Ng4 17.
+O-O-O b4 {Das ist die Empfehlung von Ward und Gallagher} 18. Nd5 c6 19. h6 Nxh6
+20. f5 {Das ist die Idee von Ward} ({Gallagher bevorzugt} 20. Nxb4 Qa5 21. Nxc6
+Qxa2 22. Ne7+ Kh7 23. Rxh6+ Bxh6 24. Bd4 {, aber die Hauptvariante sieht
+überzeugender aus}) 20... Ng4 21. f6 Bxf6 22. Nxf6+ Qxf6 (22... Nxf6 $4 23.
+Qh2 {verliert}) 23. Bd4 Ne5 24. c5 Rb5 25. cxd6 Rd8 {Schwarz möchte in dieser
+scharfen Stellung Lc8-g4 spielen} *
+

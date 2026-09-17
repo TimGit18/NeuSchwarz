@@ -1,0 +1,43 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Bauernsturm"]
+[Result "*"]
+[ECO "B95"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "34"]
+[EventDate "2012.04.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Der Versuch der
+direkten Widerlegung von Najdorf: Weiß möchte lang rochieren, im Zentrum
+oder auf dem Königsflügel durchbrechen - je nachdem, ob Schwarz kurz
+rochiert oder in der Mitte bleibt} e6 {Das ist die übliche Antwort von
+Schwarz. Er kontrolliert das Schlüsselfeld d5. Das Bauernpaar e6 und d6 soll
+Weiß auf Abstand halten, den Entwicklungsrückstand aufholen und Gegenspiel
+am Damenflügel beginnen} 7. f4 {Dieser aggressive Bauernvorstoß ist die
+weiße Standardmethode. Er möchte Schwarz mit einem schnellen Vorstoß e4-e5
+vom Brett fegen.} h6 {Dieser Zug ist vielleicht unterbewertet. Er passt gut in
+das Konzept mit g7-g5 und einem späteren Sd7-e5} 8. Bh4 {Weiß erreicht
+nichts mit dem Schlagen des Springers} Be7 {Schwarz verhindert mechanisch den
+Vorstoß e4-e5} 9. Qf3 {Weiß überdeckt e4, bringt die Dame auf den
+Königsflügel und bereitet die lange Rochade vor} Qc7 {Ein wichtiger Zug, der
+e5 überdeckt und den Königsläufer von Weiß nicht nach c4 läßt} 10. O-O-O
+{Weiß hat seine Figuren sehr aggressiv aufgestellt, wohingegen Schwarz mehr
+auf die Koordination seiner Figuren geachtet hat} Nbd7 {In dieser Stellung hat
+Weiß mehrere Optionen} 11. g4 $5 {Ein ehrgeiziger und guter Zug} g5 $5 {
+ist vermutlich kein Fehler wegen} (11... b5 $1 {Das ist die stärkste Antwort}
+12. Bxf6 {Nichts anderes macht Sinn} Nxf6 ({Man sollte} 12... Bxf6 {vermeiden
+wegen des thematischen Opfers} 13. Bxb5 axb5 14. Ndxb5 {und der Bauer d6
+fällt mit Schach und es folgt e4-e5}) 13. g5 {Weiß sollte seinen Angriff
+nicht verzögern} hxg5 14. fxg5 Nd7 {[%csl Ye5][%cal Rd7e5]} 15. g6 Bg5+ 16.
+Kb1 Ne5 {Die schwarzen Figuren platzieren sich auf guten Feldern} 17. gxf7+ ({
+Schlechter ist wohl} 17. Qg2 f6 18. Bxb5+ axb5 19. Ndxb5 Qc5 20. Nxd6+ Ke7 21.
+h4 Bh6 22. Nf5+ exf5 23. Nd5+ Kf8 {In dieser wilden Stellung hat Schwarz
+einfach zwei Läufer mehr}) 17... Qxf7 18. Qg2 Bf6 {Das ist der genaueste Zug.
+Schwarz hat eine solide Stellung und muss sein Läuferpaar zur Geltung bringen}
+) 12. e5 dxe5 13. fxg5 (13. fxe5 $2 Nxe5 14. Bg3 Nxf3 15. Bxc7 Nxd4 16. Rxd4 h5
+) 13... hxg5 14. Bg3 (14. Bxg5 $2 exd4) 14... Bb4 15. Ne4 Nxe4 16. Qxe4 Nf6 17.
+Qe2 (17. Qxe5 Qxe5 18. Bxe5 Rh6) 17... Bd6 *
+

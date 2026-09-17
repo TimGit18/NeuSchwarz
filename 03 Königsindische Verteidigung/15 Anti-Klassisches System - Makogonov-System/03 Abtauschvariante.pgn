@@ -1,0 +1,44 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Makogonov-System"]
+[Black "Abtauschvariante"]
+[Result "*"]
+[ECO "E71"]
+[Annotator "David Vigorito"]
+[PlyCount "48"]
+[EventDate "2011.06.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 {[%csl Ye3,Yg4,Yg5][%cal Rg2g4,
+Rc1e3,Re3g5] Das Makogonov-System mit dem Zug h2-h3 hat zwei Hauptideen. Die
+erste Idee ist die Unterstützung des Vorstoßes g2-g4. Zum einen gewinnt
+dieser Vorstoß etwas Raum auf dem Königsflügel, zum anderen soll Schwarz
+von dem traditionellen Gegenstoß f7-f5 abgehalten werden. Die zweite Idee
+liegt darin, dass nun der Entwicklungszug des Damenläufers Lc1-e3 gespielt
+werden kann, ohne auf das störende Sf6-g4 Rücksicht zu nehmen. Oft geht der
+Damenäufer allerdings auch auf das Feld g5 (um den Vorstoße e7-e5 zu
+verhindern) und zieht sich nach der Befragung h7-h6 auf das Feld e3 zurück.
+Die weißen Ideen hinter dem Makogonov-Zug h2-h3 sind also ähnlich wie im
+Sämisch-System oder im Petrosian-System und transponieren oft ineinander.} O-O
+{Schwarz sollte mit dem traditionellen Gegenstoß e7-e5 antworten. In der
+Regel versucht hier Weiß zunächst einen traditionellen Entwicklungszug,
+bevor er seine Läuferentwicklung vorantreibt.} 6. Nf3 {Diese Stellung kann
+auch aus einer Zugumstellung hervorgehen, nämlich wenn Weiß zunächst im
+füngten Zug den Springer nach f3 entwickelt und dann den Bauernzug h2-h3
+vornimmt. Für Schwarz bedeutet dies in der Regel keinen Unterschied} e5 {
+Das ist die prinzipielle Antwort von Schwarz in der Königsindischen
+Verteidigung, mit der ein Anspruch auf das Zentrum abgeleitet wird.} {Die
+Abtauschvariante} 7. dxe5 {gilt als nicht besonders gefährlich, wurde aber
+bereits von Grivas empfohlen} dxe5 8. Qxd8 {Das wird fast immer gespielt} ({
+Neuerdings sah man auch} 8. Be3 {, aber nach} c6 9. Qc2 Qe7 10. Be2 Na6 11. O-O
+Nh5 {stand Schwarz recht bequem}) 8... Rxd8 9. Bg5 {Der einzige Unterschied
+zum Abtauschsystem besteht darin, dass Weiß statt des Zuges Lf1-e2 den
+Bauernzug h2-h3 eingeschaltet hat} Re8 {Das ist die solideste Fortsetzung} 10.
+Nd5 Nxd5 11. cxd5 c6 12. Bc4 cxd5 13. Bxd5 Nd7 14. Nd2 Nc5 {Von Grivas stammt
+die Empfehlung} 15. Nc4 (15. O-O-O {führt eher zu normalen Varianten, in
+denen der Zug h2-h3 keine besondere Rolle mehr spielt}) 15... Bf8 16. Rd1 Be6
+17. f3 Rac8 18. b3 {Wie in der Klassischen Abtauschvariante schon empfohlen
+ist hier die einfachste Lösung} Bxd5 19. Rxd5 b5 20. Nd6 Bxd6 21. Rxd6 Ne6 22.
+Be3 Rc2 23. Rd2 {Schwarz kann bereits zum Remis abwickeln} Rc1+ 24. Rd1 Rc2 *
+

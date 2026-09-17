@@ -1,0 +1,14 @@
+﻿[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Klassisches System"]
+[Black "Sokolov-System"]
+[Result "*"]
+[ECO "E70"]
+[Annotator "David Vigorito"]
+[PlyCount "30"]
+[SourceVersionDate "2021.08.04"]
+
+{[%evp 0,12,16,28,28,-20,51,39,25,35,35,19,29,19,16]} 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 {Sokolov-System} 5. Bg5 O-O 6. Qd2 c5 7. d5 e6 8. f3 exd5 9. cxd5 a6 10. a4 Re8 11. Nge2 Nbd7 12. Ng3 Qa5 13. Be2 h5 14. O-O Nh7 15. Bh6 Bd4+ *
+

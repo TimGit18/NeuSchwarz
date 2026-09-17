@@ -1,0 +1,56 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "51"]
+[EventDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. Nc1 {Hiermit entscheidet
+sich Weiß für den positionellen Weg anstatt mit h2-h4 nach vorne zu stürmen.
+Es gibt einige Ähnlichkeiten zum Sämisch-Angriff} e5 {[%csl Yd4][%cal Re5d4,
+Rc6d4,Rg7e5] Natürlich schlägt Schwarz gegen das geschwächte weiße Feld d4}
+10. d5 {Das ist die logische Fortsetzung} Nd4 {Dieser Zug verliert keinen
+Bauern, denn nach zweimaligem Schlagen verliert Weiß den Bauern auf e4.} 11.
+Nb3 {Das ist die herausfordernste Fortsetzung} c5 {Ein beinahe vertrautes
+Bauernopfer. Es erinnert an die Hauptvariante gegen das Sämisch-System, in
+dem Schwarz mit einem Bauernopfer in eine Benoni-Struktur geht.} 12. dxc6 bxc6
+13. Nxd4 exd4 14. Bxd4 Re8 {Mit anderen Zügen hat Schwarz keinen Erfolg gehabt
+} 15. Be2 d5 16. cxd5 {Weiß sollte die c-Bauern sofort tauschen.} ({Denn nach
+} 16. e5 Nd7 17. f4 Bh6 18. Qe3 {folgt} c5 $1 {nach einer Idee von Golubev.})
+16... cxd5 ({Der Zug} 16... Rb4 {ist vielleicht zu ehrgeizig. Der weiße
+Königsflügel ist ja noch nicht durch den Zug h2-h4 geschwächt.}) 17. e5 ({
+Nach} 17. exd5 Rb4 18. O-O ({Weiß sollte} 18. Bc5 {vermeiden, denn nach} Rxb2
+19. Qxb2 Nxd5 20. Rc1 ({Oder} 20. O-O-O Bxc3 21. Qxc3 Nxc3 22. Rxd8 Rxd8 23.
+Bc4 Bf5 {mit schwarzer Initiative}) 20... Nf4 {steht Schwarz besser.}) 18...
+Ne4 19. fxe4 Bxd4+ 20. Kh1 Be5 {hat Schwarz nach Golubev genügend
+Kompensation für die Bauern.}) 17... Nd7 18. f4 ({Weiß kann auch kurz
+rochieren} 18. O-O Nxe5 19. Rad1 {, aber Schwarz hat durchaus Gegenspiel nach}
+Be6 20. Kh1 ({Oder} 20. Bxa6 Qa5 21. Be2 Rb4) 20... Rb4 {in Vdovichenko,V 
+(2198)-Kruglyakov,P (2336) Lvov 2007. Nach} 21. Nxd5 (21. Bc5 Rb8 22. Bd4 {
+führt zu Zugwiederholung.}) 21... Qxd5 22. Qxb4 Nc6 23. Bxg7 Nxb4 24. Rxd5
+Bxd5 25. Bc3 Rxe2 26. Bxb4 Rxb2 {entstünde ein ausgeglichenes Endspiel.})
+18... Bh6 19. Qe3 Rxb2 20. Rd1 ({Nach} 20. Nxd5 Rxe2+ 21. Qxe2 Bb7 {hat
+Schwarz Gegenspiel.}) 20... Nf8 21. Bf3 Ne6 22. Nxd5 Nxd4 23. Qxd4 Qa5+ 24. Kf1
+Qb5+ 25. Kg1 Bf8 26. Rc1 {Mit aktivem und präzisem Spiel hat es Schwarz
+geschafft, vernünftige Kompensation für den Bauern zu erhalten.} *
+

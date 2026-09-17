@@ -1,0 +1,67 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alternatives Mar del Plata"]
+[Black "Seltene Variante"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "David Vigorito"]
+[PlyCount "46"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. a4 {Dieser Zug ist selten,
+aber wohl kaum schlecht} ({Es gibt gewisse Ähnlichkeiten und auch eine
+mögliche Transposition nach} 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. a4
+) 9... a5 {Das ist eine solide Antwort. Schwarz kann auch den Springer an den
+Rand ziehen im Stile des Bajonett-Angriffs, aber dann kann Weiß auf dem
+Damenflügel vormarschieren.} 10. Ne1 (10. b3 {sieht zwar etwas langsam aus,
+aber Weiß kann diesen Weg immer noch gut wählen} Nd7 11. Ba3 Bh6 12. b4 axb4
+13. Bxb4 f5 {und Schwarz ist im Vergleich zum Bajonett-Angriff ein Tempo
+voraus.}) 10... Nd7 11. Nd3 ({Das ist wahrscheinlich gefährlicher als die
+Alternative} 11. Be3 {, wonach Schwarz die Spannung halten kann mit} f5 12. f3
+Nc5 13. Nd3 b6 14. Ra3 Kh8 15. Qd2 f4 16. Bf2 h5 17. Nb5 g5 18. b4 axb4 19.
+Qxb4 g4 20. Rfa1 Ng6 21. Qe1 {Nach dem letzten, unüblichen Zug kann Schwarz
+versuchen, den weißen Angriff auf dem Damenflügel aufzuhalten bis er auf dem
+Königsflügel ein eigenes Spiel entwickeln kann} Nb7 $5) 11... f5 12. f3 ({
+Nach} 12. exf5 Nxf5 13. Ne4 Nf6 {steht Schwarz sehr schön da}) 12... f4 {
+Dieser Zug ist ziemlich verpflichtend, aber er ist thematisch und logisch} 13.
+b3 {Das ist der Sinn des weißen Spiels. Er wird und will den Damenflügel
+öffnen. Das mag sehr langsam aussehen, aber es ist der richtige Plan. Weiß
+will seinen Läufer über a3 und b2-b3 nach b4 bringen} g5 14. Ba3 b6 15. b4
+axb4 16. Bxb4 Nc5 17. a5 {Das ist die kritische Stellung. Schwarz steht zu
+tief hinten drin, um einfach auf Matt zu spielen. Am besten sieht aus} c6 18.
+axb6 ({Statt dessen ist} 18. Na4 Nxd3 19. Qxd3 bxa5 20. Bc3 cxd5 21. cxd5 Ba6
+22. Qd2 Bxe2 23. Qxe2 Qc7 24. Rfb1 Rfb8 {sehr schön für Schwarz}) 18... Nxd3
+$1 ({Aber bitte nicht} 18... Rxa1 19. Qxa1 Nxd3 20. Ba5 $1) 19. Rxa8 (19. Bxd3
+$2 {verliert wegen} Rxa1 20. Qxa1 Qxb6+) 19... Qxb6+ 20. c5 Nxc5 21. Ba5 Qb7
+22. Rxc8 Rxc8 23. dxc6 Nxc6 {sieht gut für Schwarz aus} *
+

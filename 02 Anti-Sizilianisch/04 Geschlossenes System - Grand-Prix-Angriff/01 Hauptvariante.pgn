@@ -1,0 +1,42 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grand-Prix-Angriff"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B23"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "34"]
+[SourceDate "2014.05.22"]
+
+1. e4 c5 2. Nc3 d6 3. f4 {Manche Spieler sind eher dazu abgeneigt, hier d7-d6
+zu spielen. Denn es gibt Situationen, in denen Schwarz lieber direkt d7-d5
+spielt und daher statt d7-d6 gleich den Springerzug Sb8-c6 bevorzugt.
+Anscheinend ist aber der Damenbauerzug d7-d6 auch nicht so schlimm.} g6 4. Nf3
+Bg7 {Schwarz vermeidet alle Springerzuüge mit Sb8-c6 und wartet ab, wohin
+Weiß seine Figuren entwickelt. In der Regel hat Weiß drei Optionen, nämlich
+d2-d4, Lf1-c4 oder Lf1-b5} 5. Bc4 {Das ist die aggressivste Variante für
+Weiß. Anstatt seinen Läufer abzutauschen, hofft er ihn zu Angriffszwecken zu
+benutzen.} Nc6 6. O-O Nf6 {Viele Spieler bevorzugen e7-e6, um den Springer
+nach e7 zu entwickeln, aber der Textzug scheint stärker.} 7. d3 {Das ist der
+Standard-Entwicklungszug} O-O 8. Qe1 {Das ganze weiße System geht auf einen
+Königsangriff und dieser Zug spielt eine Schlüsselrolle. Der weiße Plan
+lautet De1-h4, f4-f5, Lc1-h6, Sf3-g5 und Matt auf h7. Der Plan ist zwar sehr
+plump, aber er kann sehr gefährlich sein, falls Schwarz nicht weiß, wie man
+ihm entgegnet} Nd4 9. Nxd4 {Der direkte Abtausch im Zentrum ist wohl die beste
+Option für Weiß, obwohl es nicht sehr viel Vorteil verspricht.} cxd4 10. Nd5
+({(a) Weiß sollte vermeiden} 10. Ne2 $6 d5 11. exd5 Nxd5 {, denn die
+entstandene Bauernstruktur begünstigt Schwarz} 12. Qf2 Ne3 13. Bxe3 dxe3 14.
+Qxe3 Bxb2 15. Rab1 Bg7 16. Qf3 Rb8 17. Ng3 e6 18. Kh1 b6 {Schwarz hat das
+Läuferpaar und die bessere Bauernstruktur.}) ({(b)} 10. Nd1 {ist gar nicht so
+schlecht, obwohl Schwarz ein bequemes Spiel erreicht.} d5 11. Bb3 dxe4 12. dxe4
+Nd7 {Schwarz möchte dem Vorstoß e4-e5 zuvorkommen} 13. Nf2 Qc7 14. Nd3 a5 15.
+a4 Nc5 16. Nxc5 Qxc5 {Hiernach hat Schwarz gute Chancen auf dem Damenflügel})
+10... Nxd5 11. Bxd5 ({Weiß kann auch} 11. exd5 {betrachten. Er will auf der
+e-Linie angreifen, aber der Läufer hat einen eingeschränkten Blick auf das
+Brett.} Bd7 12. a4 a5 13. Bd2 Re8 {Schwarz kann vorsichtig spielen, er muss
+nichts überreißen und hat beinahe gleiche Chancen}) 11... e6 12. Bb3 a5 13.
+a4 Kh8 {Das ist eine Vorsichtsmaßnahme für Schwarz} 14. Bd2 Bd7 15. Qg3 Qc7
+16. Qh4 f5 17. Rfe1 Rae8 {Die schwarze Verteidigung steht fest.} *
+

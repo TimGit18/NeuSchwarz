@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grob-Basman-Angriff"]
+[Black "Königsfianchetto"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "10"]
+[EventDate "2009.??.??"]
+
+{[%evp 0,10,27,-79,-48,-102,-92,-114,-87,-123,-61,-62,-39]} 1. g4 {Der Grob-Angriff sieht zwar zweifelhaft aus, aber er führt zu obskuren Stelungen. Schwarz sollte sich sehr schnell entwickeln und den Aufzug des h-Bauern vermeiden} d5 2. Bg2 {Im Gegensatz zum Basman-System opfert Weiß hier den g-Bauern und will Schwarz zu einem unvorsichtigen Aufbau verleiten} Nc6 {Wie im Basman-System stellt dies eine seltene, aber effektive Zugfolge dar.} ({Weiß hofft auf} 2... Bxg4 3. c4 c6 4. Qb3 {mit Druck auf dem Damenflügel und einer Falle} Qc7 5. cxd5 cxd5 6. Nc3 e6 $4 7. Qa4+ {mit Läufergewinn}) 3. c4 {Das ist der offensichtliche Versuch von Weiß.} ({Die Alternative ist} 3. e3 e5 4. d3 Be6 {und Schwarz erhält eine ordentliche Entwicklung.}) 3... dxc4 {Analog zum Basman-System wird hier bereitwillig ein Triple-Bauer in Kauf genommen.} 4. Qa4 {Das ist die Hauptvariante, aber nicht erzwungen.} ({(a) Der offensichtliche Deckungszug lautet} 4. h3 Be6 5. Na3 Qd7) ({(b) Die Vertrippelung entsteht nach} 4. Bxc6+ bxc6 5. Qa4 Qd5 6. Nf3 Qb5 $1) 4... Qd7 5. h3 Ne5 $5 *
+

@@ -1,0 +1,14 @@
+[Event "CBM220"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rapport-Jobava-Angriff"]
+[Black "Giri-Variante"]
+[Result "*"]
+[ECO "A45"]
+[Annotator "Kristian Szabo"]
+[PlyCount "36"]
+[EventDate "2011.08.08"]
+
+1. d4 Nf6 {Der Rapport-Jobava-Angriff ist ein relativ neues System aus den 2010er Jahren und insbesondere auf Vereinsspieler-Niveau sehr beliebt. Früher hat man die Varianten mit h2-h4 als New Barry-Angriff beziechnet, aber es ist schon gerechtfertigt, dies als eigenes System anzusehen.} 2. Bf4 g6 3. Nc3 d5 4. e3 Bg7 5. h4 {Weiß entwickelt sofort den Damenläufer und setzt seinen h-Bauern in Bewegung. Er versucht Ideen aus dem 150er-Attack und dem Hebden-Angriff miteinander zu kombinieren.} h5 {Das ist die Antwort von Carlsen in einer Partie gegen Naiditsch und die am häufigsten gespielte Replik.} 6. Nf3 {Das ist die Hauptvariante. Weiß entwickelt sich normal weiter.} O-O 7. Ne5 {ist die bislang häufigst verprobte Idee, deren Grundmotiv aus dem Alten Barry-Angriff stammt. Hier kann der Bauer auf h4 eine bessere Rolle als im Klassischen Barry-Angriff spielen.} c5 8. Qd2 Nc6 9. f3 cxd4 10. exd4 Bf5 11. Bb5 Nxe5 12. dxe5 Nd7 13. O-O-O Nxe5 ({Verlieren würde} 13... Qb6 $2 {wegen} 14. Bxd7 Bxd7 15. Nxd5 Qe6 16. Nxe7+ ({Aber nicht} 16. Nc7 $2 Qxa2 17. Qxd7 Rad8 $19 {und plötzlich gewinnt Schwarz.}) 16... Qxe7 17. Qxd7 $18 {und Weiß hat zwei gesunde Mehrbauern.}) 14. Rhe1 d4 {Das ist die Giri-Variante. Eine aktive Fortsetzung von Anish Giri, mit der Schwarz die Stellung so weit wie möglich verkompliziert.} 15. Bxe5 ({Ein Fehler wäre} 15. Qe2 $2 {wegen} Nd7 $17) 15... Bxe5 ({Eine interessante Alternative ist} 15... dxc3 $5 {von Grischuk mit repektablem Erfolg nach} 16. Qxc3 Bh6+ 17. Kb1 Qb6 $13 {und unklarer Stellung.}) 16. Rxe5 dxc3 17. Qxc3 Qb6 18. Qd4 ({Verfrüht ist} 18. g4 $2 {wegen} Rac8 {und plötzlich gibt es Probleme auf c2.} 19. Bc4 hxg4 20. f4 Rxc4 $1 21. Qxc4 Rc8 $19 {aus der Partie Clarke-Hebden, Peterborough 2024.}) 18... Rac8 {Schwarz bringt eine Figur auf die halboffene Linie und hat ausgeglichen in der Partie: Erigaisi-Giri, Meltwater Tour Final 2022.} ({Eine respektable Alternative wäre noch} 18... Qc7 $5) *
+

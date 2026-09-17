@@ -1,0 +1,59 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grand-Prix-Angriff"]
+[Black "Rückzugsvariante"]
+[Result "*"]
+[ECO "B23"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "38"]
+[SourceDate "2014.05.22"]
+
+1. e4 c5 2. Nc3 d6 3. f4 {Manche Spieler sind eher dazu abgeneigt, hier d7-d6
+zu spielen. Denn es gibt Situationen, in denen Schwarz lieber direkt d7-d5
+spielt und daher statt d7-d6 gleich den Springerzug Sb8-c6 bevorzugt.
+Anscheinend ist aber der Damenbauerzug d7-d6 auch nicht so schlimm.} g6 4. Nf3
+Bg7 {Schwarz vermeidet alle Springerzuüge mit Sb8-c6 und wartet ab, wohin
+Weiß seine Figuren entwickelt. In der Regel hat Weiß drei Optionen, nämlich
+d2-d4, Lf1-c4 oder Lf1-b5} 5. Bc4 {Das ist die aggressivste Variante für
+Weiß. Anstatt seinen Läufer abzutauschen, hofft er ihn zu Angriffszwecken zu
+benutzen.} Nc6 6. O-O Nf6 {Viele Spieler bevorzugen e7-e6, um den Springer
+nach e7 zu entwickeln, aber der Textzug scheint stärker.} 7. d3 {Das ist der
+Standard-Entwicklungszug} O-O 8. Qe1 {Das ganze weiße System geht auf einen
+Königsangriff und dieser Zug spielt eine Schlüsselrolle. Der weiße Plan
+lautet De1-h4, f4-f5, Lc1-h6, Sf3-g5 und Matt auf h7. Der Plan ist zwar sehr
+plump, aber er kann sehr gefährlich sein, falls Schwarz nicht weiß, wie man
+ihm entgegnet} Nd4 9. Bb3 {Der natürliche Rückzug ist die beliebteste
+Fortsetzung, aber Weiß gerät in einen gefährlichen Gegenangriff.} a5 $1 {
+Plötzlich wird der Läufer auf b3 zu einem ernsten Angriffsziel} 10. Ba4 {
+Weiß muss schon nach der besten Lösung suchen, um Schwierigkeiten zu
+vermeiden.} ({(a)} 10. Be3 {ist sicherlich keine Antwort angesichts von} Ng4) (
+{(b)} 10. Bd2 Bd7 11. a4 Nxb3 12. cxb3 Be6 13. Ra3 Qb6 14. Nb5 Ne8 15. f5 Bd7 {
+Das schwarze Läuferpaar und die bessere Bauernstruktur geben Schwarz die
+besseren Chancen}) ({(c)} 10. Nxd4 cxd4 {ist nur eine schlechte Version der
+Abtauschvariante} 11. Ne2 a4 12. Bc4 d5 13. exd5 Nxd5 14. a3 Rb8 15. Ng3 {mit
+offensichtlichem Vorteil für Schwarz dank seiner überlegenen Struktur}) ({(d)
+} 10. Qh4 Bd7 {Der Textzug ist eine Empfehlung von Anand und sollte den
+Vorteil risikolos festhalten} 11. e5 {Weiß sollte schon versuchen, dem Gegner
+Probleme zu bereiten} a4 12. Bc4 {Das Schlagen auf f6 löst die weißen
+Probleme nicht.} b5 {Schwarz setzt den Angriff auf den gefährlichen
+weißfeldrigen Läufer fort.} 13. Nxd4 cxd4 14. Nxb5 d5 15. exf6 Bxf6 16. Qf2
+dxc4 17. Nxd4 cxd3 18. cxd3 Bg4 19. Be3 Qd5 {Schwarz ist aus den
+Komplikationen mit einem guten Vorteil gekommen}) 10... Bd7 (10... Bg4 {ist
+keine so schlechte Alternative, aber der Textzug ist bevorzugt}) 11. Bxd7 Nxd7
+12. Qf2 a4 13. Nxd4 cxd4 14. Ne2 Qb6 (14... e5 {ist eine brauchbare
+Alternative, schließt aber den schwarzen Läufer ein.}) 15. f5 d5 $5 {Das ist
+eine interessante und kreative Idee. Schwarz will dem Manöver Sf4-d5 den
+Stachel ziehen.} 16. Bg5 {Offensichtlich muss man als Schwarzer den Köder
+akzeptieren} (16. exd5 e6 {Dies kann zu interessanten Komplikationen führen}
+17. c4 dxc3 18. Qxb6 Nxb6 19. f6 cxb2 20. Bxb2 Bh6 21. dxe6 Be3+ 22. Kh1 fxe6 {
+In dem entstandenen Endspiel sollte Schwarz zumindest nicht schlechter stehen})
+16... dxe4 17. Bxe7 {Schwarz kann zwar hier auf d3 weiternehmen, aber es ist
+nicht notwendig, die Spannung so früh aufzulösen, sondern er kann die
+Oberhand behalten} (17. dxe4 Rac8 18. Rac1 Nc5 {ist offensichtlich besser für
+Schwarz}) 17... Rfe8 18. Ba3 ({Nach} 18. f6 {wird die Antwort} exd3 {sehr
+stark, denn nach} 19. cxd3 {folgt} Nxf6 {und am Ende hängt der Springer auf e2
+}) 18... Ne5 {mit schwarzer Initiative, denn} 19. dxe4 {wird durch} Ng4 {
+widerlegt} *
+

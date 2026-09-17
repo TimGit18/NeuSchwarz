@@ -1,0 +1,35 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Italienisches System"]
+[Black "Zentralvorstoß"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "42"]
+[SourceDate "2014.08.11"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 {Dieser Ansatz ist mehr im Sinne von Capablanca und
+Rubinstein und bevorzugt einen langsamen strategischen Kampf anstatt eines
+kurzfristigen Geschosses. Im Prinzip ist die Eröffnung positionell und solide,
+aber auch etwas zahm und nicht sehr gefährlich bei guter Vorbereitung.} Nf6 4.
+d3 Nc6 5. c3 g6 (5... e6 {ist auch möglich, aber das
+Königsflügel-Fianchetto bringt bessere Resultate}) 6. Bb3 {Weiß kann etwas
+an der Zugreihenfolge variieren, zum Beispiel zunächst kurz rochieren, aber
+im Prinzip wird immer dieselbe Stellung erreicht.} Bg7 7. O-O O-O 8. Re1 b6 9.
+d4 {Dieser Zug sollte ebenfalls betrachtet werden, denn er zwingt Schwarz zu
+einer wichtigen Entscheidung} cxd4 10. cxd4 Bg4 {Dieser Zug mag inkosistent
+sein nach b7-b6, aber es ist noch der beste Weg, um Druck gegen das weiße
+Zentrum auszuüben.} 11. Be3 Na5 12. Bc2 Nc4 13. Bc1 ({Nach} 13. Bb3 Nxe3 14.
+Rxe3 b5 {steht Schwarz zumindest gleich}) 13... Rc8 14. h3 ({(a)} 14. b3 Na5
+15. Bd3 Nc6 $15) ({(b)} 14. Nc3 Nh5 15. Bb3 Bxf3 16. gxf3 e6 {Schwarz hat
+versprechendes Spiel auf den schwarzen Feldern}) 14... Bxf3 15. Qxf3 Nh5 16.
+Qd1 (16. Qd3 e5 17. d5 Nf4 18. Qf1 b5 {mit schönem Gegenspiel für Schwarz})
+16... e5 17. d5 {Schwarz ist sehr gut in der Entwicklung, obwohl er darauf
+achten muss, energisch zu spielen, um es zu vermeiden, auf den weißen Feldern
+Nachteil zu erleiden. Hier ist eine beispielhafte Fortsetzung} Nf4 18. b3 Na5
+19. Na3 Nb7 20. Nb5 a6 21. Na7 Rc3 {Dies führt zu phantastischen
+Komplikationen mit einem Schlüsselmotiv, nämlich das mögliche Opfer auf h3}
+*
+

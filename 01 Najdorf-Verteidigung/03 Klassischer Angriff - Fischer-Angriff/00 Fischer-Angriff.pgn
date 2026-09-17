@@ -1,0 +1,40 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf-Verteidigung"]
+[Black "Fischer-Angriff"]
+[Result "*"]
+[ECO "B86"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "21"]
+[SourceDate "2015.02.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 {Der
+Rückzug des Läufers nach b3 ist die Wahl von Bobby Fischer seit 1959. Er
+verhindert insbesondere den Befreiungszug d6-d5 und das viel versprechende
+Scheinopfer Sf6xe4. Gleichzeitig bereitet er den Vormarsch des Bauern f2-f4
+vor. Dass er nicht sofort auf den Königsflügel rochiert, bedeutet, dass es
+noch die Möglichkeit der langen Rochade auf den Damenflügel gibt.} Nbd7 {
+Diese Fortsetzung ist nicht die Hauptfortsetzung, aber sie ist weniger riskant
+als b7-b5. Der Springer soll nach c5 gebracht werden, von wo aus er nicht nur
+den Bauern e4 und den Läufer auf b3 attackiert, sondern auch noch den Bauern
+auf e6 verteidigt} 8. Bg5 {Das ist die prinzipielle und gefährlichste
+Fortsetzung für Schwarz. In vielen Varianten entstehen Positionen, die der
+Modernen Hauptfortsetzung mit 6.Lc1-g5 ähneln. Die Gefahr, die von dieser
+Variante ausgeht, besteht darin, dass Weiß seine Figuren sehr aggressiv und
+flexibel entwickelt, was gefährlich ist} ({(a) Die sofortige Rochade-Variante
+wird mit} 8. O-O {eingeleitet} Nc5) ({(b) Die Fortsetzung} 8. Be3 {ist eine
+Art Pseudo-Englischer Angriff}) ({(c) Früher wurde gerne die Klassische
+Fortsetzung} 8. Qf3 {gespielt}) ({(d) Im Stile des Sozin-Angriffs ist der Zug} 
+8. f4) ({(f)} 8. Qe2 $6 Nc5 9. Bg5 Be7 10. f4 h6 11. Bxf6 (11. Bh4 Nfxe4) 11...
+Bxf6 12. O-O-O Qc7 13. f5 O-O {Weiß hat den starken Läufer aufgegeben und
+seine dunklen Felder geschwächt, wohingegen Schwarz zur selben Zeit seine
+Figuren entwickelt hat und bald mit b5-b4 nach vorne marschieren will}) 8...
+Nc5 {Schwarz entwickelt den Springer auf das logische Feld und festigt seine
+Stellung} 9. f4 {Das ist die aggressivste Fortsetzung, die wie oben skizziert
+die prinzipielle Fortsetzung darstellt.} ({Das langsame Spiel nach} 9. O-O {
+kann nicht vorteilhaft für Weiß sein, denn seine vorhergehenden Züge waren
+ambitioniert und aggressiv}) 9... Be7 {Schwarz muss seine Entwicklung
+vervollständigen und den König in Sicherheit bringen} 10. Qf3 Qc7 11. O-O *
+

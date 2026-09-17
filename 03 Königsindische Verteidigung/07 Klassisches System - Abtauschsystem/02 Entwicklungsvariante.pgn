@@ -1,0 +1,56 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Abtauschsystem"]
+[Black "Entwicklungsvariante"]
+[Result "*"]
+[ECO "E94"]
+[Annotator "David Vigorito"]
+[PlyCount "38"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. dxe5 ({Die
+verzögerte Abtauschvariante täuscht zunächst die Hauptvariante an} 7. O-O
+Nc6 8. dxe5 dxe5 9. Bg5 Qxd1 10. Rfxd1 Bg4) 7... dxe5 8. Qxd8 Rxd8 {Das ist
+die grausame Abtauschvariante. Sie hat einen sehr remislichen Ruf und
+entmutigte Spieler davon, e7-e5 zu spielen.} 9. Bg5 ({(a) Bekannterweise
+erbringt} 9. Nxe5 {nicht viel wegen der Antwort} Nxe4) ({(b) Weiß kann die
+Abwicklung aber auch beschleunigen mit} 9. Nd5 Nxd5 10. cxd5 c6 11. Bc4 cxd5
+12. Bxd5 Nd7 13. Bg5 Re8 {und wir haben in die Simplikfikation transponiert})
+9... Re8 {Dieser solide Zug ist ein Ausgleichszug und wurde schon von dem
+jungen Bobby Fischer bevorzugt. Er wird auch von Gallagher empfohlen. Weiß
+hat große Schwierigkeiten etwas gegen diesen Zug zu unternehmen oder zu
+gewinnen, aber die Remisbreite ist sehr hoch.} {Die Entwicklungsvariante
+beginnt mit dem Zug} 10. O-O-O {Weiß hofft, dass der Raumvorteil mehr
+Bedeutung hat als die langfristige Kontrolle von Schwarz über das Feld d4. Im
+allgemeinen bleiben mehr Figuren auf dem Brett und es ist Gelegenheit für
+etwas mehr Spiel.} Na6 {Schwarz setzt seine Entwicklung fort. Der Springer
+deckt c7 und kann nach c5 gebracht werden. Von c5 aus kann er nach e6 gebracht
+mit einem Auge auf d4.} 11. Ne1 ({(a) Der listige Zug} 11. Nxe5 {sollte mit}
+Nc5 {beantwortet werden, denn wenn Schwarz das Figurenopfer annimmt, dann kann
+Weiß gutes Gegenspiel mit dem Turmschach auf d8 erlangen} 12. Bxf6 Bxf6 13. f4
+c6 {Schwarz wird den Bauern zurückgewinnen}) ({(b)} 11. Nd2 c6 12. Nb3 (12. f3
+Nc5 13. Be3 Ne6 {ist auch gut für Schwarz}) 12... Nc7 13. f3 Ne6 14. Be3 Bf8
+15. a3 b6 16. Rd2 Ba6 17. Kb1 {mit ausgeglichener Stellung}) 11... c6 12. Nc2 (
+{Zur selben Stellung führt} 12. f3 Nc5 13. Nc2) 12... Nc5 13. f3 {[%cal Gc5e6,
+Gf6d7,Gg7f8,Gb7b6,Ga7a5,Gf8c5] Das ist eine typische Stellung. Weiß kann die
+Türme auf der d-Linie verdoppeln und wird versuchen, auf dem Damenflügel
+vorzugehen. Schwarz wird versuchen, seine Leichtfiguren umzugruppieren und den
+weißen Vormarsch auf dem Damenflügel mit b6 und a5 aufhalten} Ne6 14. Be3 Nf4
+{Schwarz richtet seine Aufmerksamkeit auf den Königsflügel} 15. Bf1 h5 16. h4
+Bf8 17. b4 Ne6 18. a3 b6 19. Kb2 Bb7 {Die Stellung ist ausgeglichen} *
+

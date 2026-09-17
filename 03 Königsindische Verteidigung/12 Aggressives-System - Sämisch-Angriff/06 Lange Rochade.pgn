@@ -1,0 +1,39 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-Angriff"]
+[Black "Lange Rochade"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "44"]
+[EventDate "2011.10.25"]
+[SourceDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} {(a) Der Zug} 9. O-O-O {
+transponiert oft in andere Varianten} b5 10. h4 e5 ({Die wichtige Alternative} 
+10... h5 {würde wieder in die Hauptvariante münden}) 11. d5 ({Nach} 11. h5 {
+spielt Schwarz} Nxh5 12. g4 exd4) 11... Na5 12. Ng3 b4 {Schwarz hat schon
+Initiative} ({Auch möglich ist} 12... Bd7 13. h5 {läuft nun in den
+berühmten Trick} b4 14. Nb1 Ba4 15. Re1 Bb3) 13. Nb1 Bd7 {Dieser Zug sieht
+jetzt am besten aus} 14. Bh6 $2 {Dieser Zug ist wohl falsch} ({Am besten ist} 
+14. b3) 14... Ba4 $1 15. Bxg7 Kxg7 16. Re1 ({Noch schlechter ist} 16. b3 Bxb3)
+16... Bb3 17. h5 Bxa2 18. Qg5 Nb3+ 19. Kc2 Nd4+ 20. Kc1 h6 21. Qe3 Rh8 22. Nd2
+c5 {Schwarz hat einen starken Angriff} *
+

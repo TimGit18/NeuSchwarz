@@ -1,0 +1,87 @@
+﻿[Event "Starting Out: The English"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Botvinnik-System"]
+[Black "Standard-Aufbau"]
+[Result "*"]
+[ECO "A16"]
+[Annotator "Neil McDonald"]
+[PlyCount "36"]
+[EventDate "2016.11.09"]
+[SourceDate "2016.11.09"]
+
+1. c4 {In der Englischen Eröffnung flankiert Weiß das Zentrum ohne sich auf
+die zentralen Bauernzüge e2-e4 oder d2-d4 schon festlegen zu müssen. Diese
+Eröffnung gilt als sehr solide und ausgesprochen flexibel. Schwarz darf seine
+Stellung nicht überschätzen und muss im Zentrum gegenhalten.} Nf6 {Dies ist
+die flexibelste Antwort. Schwarz lädt Weiß ein in eine Indische Verteidigung
+zu gehen, aber dieser kann weiter flexibel spielen} 2. Nc3 {Dies ist wieder
+der flexibelste Zug für Weiß. Er legt seine Bauernstruktur noch nicht fest,
+sondern er entwickelt eine Figur und kontrolliert das Zentrum} g6 {Schwarz
+entscheidet sich für einen Königsindischen Aufbau. Er läßt Weiß immer
+noch die Option offen, in die Königsindische Verteidigung zu gehen} 3. g3 {
+Auch Weiß entscheidet sich für einen Königsindischen Aufbau. Dieser passt
+hier besser zu der gewählten Bauernstruktur, denn Weiß kann einen
+unangenehmen Druck auf das schwarze Zentrum und die weißen Felder auf dem
+Damenflügel aufbauen} Bg7 4. Bg2 O-O {Schwarz spielt einfach die üblichen
+königsindischen Züge ohne sich um die weiße Reaktion zu kümmern. Weiß
+muss jetzt langsam seine Pläne offenlegen} 5. d3 {Mit diesem Zug legt sich
+Weiß fest. Er vermeidet die Königsindische Verteidigung und legt sich noch
+nicht fest, ob er auf dem Damenflügel oder im Zentrum angreifen will} d6 {
+Wiederum ist dies der flexibelste Zug von Schwarz. Er wartet nun ab, ob Weiß
+in den Standard-Aufbau oder in das Botvinnik-System übergehen will} {Der
+sogenannte Standard-Aufbau wird eingeleitet durch die Züge} 6. Nf3 Nc6 7. O-O
+e5 8. Rb1 {[%csl Yb4,Yb5,Yd2,Yd7,Ye6][%cal Rb2b4,Rb4b5,Rc8e6,Rd8d7,Rf3d2]
+Diese Stellung ist mehr oder weniger die Ausgangstellung des Standard-Aufbaus
+in der Englischen Eröffnung. Weiß möchte mit dem b-Bauern einen Sturm auf
+dem Damenflügel eröffnen und Linien gegen die Bauern b7 und c7 öffnen. Der
+Plan ist sehr logisch, da er von dem Läufer auf g2 unterstützt wird. Der
+weiße Königsspringer wird über d2 in das Spiel gebracht.  In dieser
+Situation bevorzugt Schwarz das Spiel im Zentrum mit Lc8-e6, vielleicht c7-c6
+und später einmal d6-d5. Auf jeden Fall ist das Spiel sehr viel zentraler} a5
+{Das ist ein logischer Zug. Zunächst wird die Ausbreitung auf dem
+Damenflügel mechanisch verhindert. Außerdem wird die potentielle Schwäche
+auf a7 beseitigt} 9. a3 {Weiß bereitet seinen Plan weiter vor} h6 {Dieser Zug
+sieht zunächst einmal etwas unbedeutend aus. Aber Schwarz möchte Lc8-e6
+spielen und nicht von Sf3-g5 belästigt werden. Außerdem verhindert der Zug
+in manchen Varianten die (nach Sc3-d5) unangenehme Fesselung durch den weißen
+Läufer auf g5} 10. b4 axb4 11. axb4 {Die letzten Züge waren mehr oder
+weniger forciert. Weiß hat mehr Raum auf dem Damenflügel, den er auch nutzen
+wird. Momentan hat Schwarz die a-Linie, aber er kann sie nicht nutzen} Be6 {
+Schwarz entwickelt sich logisch weiter und zentralisiert seine Figuren} 12. b5
+Ne7 {An dieser Stelle muss Schwarz anfangen aktiver zu spielen. Ansonsten kann
+Weiß den schwarzen Damenflügel einschnüren und ohne Risiko auf Sieg spielen}
+13. Bb2 {Weiß entwickelt seinen Läufer auf die lange Diagonale, da er auf
+dem Königsflügel ohnehin keine Perspektive hat. Außerdem neutralisiert er
+den schwarzen Königsläufer und kontrolliert indirekt die Zentrumsfelder d4
+und e5} ({Eine plausible Alternative ist} 13. Qb3 {, wonach ähnliche
+Stellungsbilder wie in der Hauptvariante entstehen können} Qd7 14. Rd1 Bh3 15.
+Bh1 Ng4) 13... Qd7 {Ein aktiver zentralisierender Zug. Schwarz verbindet die
+beiden Türme und droht mit dem Abtausch der weißfeldrigen Läufer, wonach
+dem weißen Angriff auf dem Damenflügel eine wichtige Angriffsfigur und dem
+weißen König eine wichtige Verteidigungsfigur genommen würde} 14. Re1 {
+Damit rettet Weiß seinen Königsläufer vor dem Abtausch, aber der Turm steht
+auf e1 nicht besonders effektiv} Bh3 {Trotzdem strebt Schwarz den Abtausch an.
+Er muss seine gedrängte Stellung etwas entlasten und Raum für seine Figuren
+auf dem Königsflügel suchen} 15. Bh1 {Natürlich bewahrt sich Weiß den
+Königsläufer} Ng4 {[%csl Yf2][%cal Rg4f2] Jetzt sieht man die Idee der
+vorhergehenden schwarzen Züge. Der Springer steht auf einem aktiven Feld, von
+wo aus er nicht leicht vertrieben werden kann und räumt die f-Linie für den
+thematischen Vorstoß f7-f5. Durch den Wegzug des Turms ist auch der Bauer f2
+etwas weich geworden und ein mögliches Angriffsziel. Wenn Weiß einmal f2-f3 
+(etwa nach Sf3-d2) ziehen sollte, nistet sich der schwarze Springer ewig auf
+e3 ein} 16. Qb3 {Ein logischer und prophylaktischer Zug. Weiß verhindert
+f7-f5 indirekt, da hiernach das ärgerliche Abzugsschach c4-c5 folgt} ({
+Eine andere Idee besteht in der Öffnung des Zentrums mit} 16. d4 Qe6 {Schwarz
+will seinen Vorposten auf e5 unbedingt halten} 17. dxe5 dxe5 18. Nd5 Rfd8 19.
+Qb3 {Schwarz kann jetzt wegen der Springerabzüge von f3 keinen Bauern gewinnen
+}) 16... Kh7 {Der König entfernt sich aus der gefährlichen Diagonalen a2-g8
+und ermöglicht den Bauernverostoß f7-f5} 17. Ra1 {Das ist noch ein
+strategisches Motiv von Weiß, um die Kontrolle über die a-Linie zu erhalten}
+Rab8 {Schwarz vermeidet Figurentausch, aber er ermöglicht das Eindringen des
+weißen Turms auf der siebten Reihe} 18. Ra7 {Der Turm sieht erst einmal aktiv
+aus, aber er kann immer mit Se7-c8 vertrieben werden} f5 {Schwarz hat sein
+Ziel erreicht und Gegenspiel auf dem Könígsflügel und im Zentrum organisiert
+} *
+

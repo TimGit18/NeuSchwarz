@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Flankenspiele"]
+[Black "Grob-Basman-Angriff"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "18"]
+[EventDate "2009.??.??"]
+
+{[%evp 0,18,28,-63,-63,-69,-68,-77,-88,-96,-98,-84,-83,-153,-142,-140,-153,-156,-134,-222,-177]} 1. g4 {Dieser Aufzug ist der Grob-Angriff. Der Zug sieht zwar zweifelhaft aus, aber er führt zu obskuren Stelungen. Schwarz sollte sich sehr schnell entwickeln und den Aufzug des h-Bauern vermeiden.} d5 2. h3 {Dieser Zug charakterisiert das Basman-System. Michael Basman deckte damit den angegriffenen g-Bauern. Aber er gibt damit auch Schwarz Zeit, seine Entwicklung und die Besetzung des Zentrums zu vervollständigen.} ({Das Königsfianchetto beginnt mit} 2. Bg2 e5 3. c4 dxc4) 2... e5 {Folgerichtig besetzt Schwarz mit dem zweiten Bauern das klassische Zentrum.} 3. Bg2 {Weiß entwickelt den Läufer auf die lange Diagonale. Vermutlich ist dies der einzige Vorteil, den der Grob-Angriff bietet.} Nc6 {Schwarz entwickelt sich schleunig und provoziert Weiß mitunter zu einem zweifelhaften Aufzug seines c-Bauern. Die Verteidigung mit dem Bauernzug c7-c6 ist zwar vernünftig, aber dies könnte den Weißen eher liegen.} 4. c4 {Dies ist der Hauptzug in der Stellung und auch plausibel, da Schwarz auf d5 eine Angriffsmarke bietet.} ({(a) Der Damenspringer-Zug} 4. Nc3 {wird mit} Be6 {beantwortet.}) ({(b) Die Vorbereitung} 4. c3 {bereitet d4 vor, aber} Bc5 {verhindert dieses Ziel, und Schwarz beendet eilig die Königsflügel-Entwicklung verhindert dieses Ziel, und Schwarz beendet eilig die Königsflügel-Entwicklung} 5. Nf3 e4 6. Nd4 Qf6 {und Weiß hat den Kampf um d4 verloren}) ({(c) Die Hauptalternative lautet} 4. d3 Be6 5. Nd2 Bc5) 4... dxc4 $1 {Schwarz öffnet bereitwillig die lange Diagonale. Dieser Zug beinhaltet ein Bauernopfer, aber Schwarz erhält relativ schnell Entwicklungsvorsprung.} (4... Nge7 {ist ein Zug von Miles. Nach} 5. Qa4 dxc4 {kann der weiße Spieler zwar den Bauern zurückerobern, aber die schwarze Entwicklung ist frei und leicht}) 5. Bxc6+ {Weiß vertrippelt den schwarzen c-Bauern, um später die Bauern einzusammeln.} ({Die eigentliche Empfehlung von Basman lautet} 5. Qa4 $5 Bd7 6. Qxc4 Nd4) 5... bxc6 6. Nf3 {Das ist die alte Hauptvariante im Grob-Basman-Angriff,} ({Offensichtlicher ist} 6. Qa4 {Nach} Bd6 $5 7. Qxc6+ Bd7 8. Qxc4 Ne7 {hat Schwarz für gesunden Entwicklungsvorsprung einen Bauern geopfert}) 6... h5 $1 {Erst jetzt, wenn der weißfeldrige Läufer abgetauscht ist, eröffnet Schwarz eine Angriffsfront auf dem Königsflügel.} ({Der unterminierende Vorstoß ist noch besser als das sofortige Beispiel} 6... e4 7. Ne5 Qd5 8. Qa4) 7. gxh5 e4 8. Ne5 Qg5 9. Qa4 Ne7 {ist vielleicht sogar noch besser} *
+

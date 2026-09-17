@@ -1,0 +1,58 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsindische Verteidigung"]
+[Black "Smyslov-System"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "David Vigorito"]
+[PlyCount "13"]
+[EventDate "2011.06.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 {[%csl Yd5][%cal Rg5f6,Rc4d5,
+Rc3d5] Das Smyslov-System ist ein ruhiges System, aber es enthält etwas Gift.
+Falls Schwarz diese Variante nicht ernst nimmt, so kann er leicht in einer
+Stellung ohne Gegenspiel landen. Tatsächlich sind die weißen Züge eine
+Demonstration gegen das Feld d5, das nun vollkommen von Weiß beherrscht wird.
+Schwarz kann es Weiß nicht erlauben, dass er so das Zentrum dominiert und
+muss einen Gegenschlag durchführen} c5 {[%csl Yb2,Yb6,Yd4][%cal Rg7d4,Rc5d4,
+Rd8b6,Rb6c5,Rb6b2] Das ist der richtige Zug. Schwarz drückt energisch gegen
+das Feld d4. Außerdem vergrößert er den Druck auf der Diagonalen h8 bis a1,
+die durch die zu frühe Entwicklung des Läufers geschwächt wurde. Außerdem
+wird die Diagonale d8 bis a5 für die Dame mit Drohungen gegen d4 und b2
+geöffnet. In dieser Stellung hat Weiß die Wahl zwischen zwei verschiedenen
+Stellungstypen. In beiden Fällen wird Schwarz mit h7-h6, g6-g5 und Sf6-h5
+reagieren. Schwarz wird im allgemeinen das Läuferpaar behalten, aber er muss
+sorgfältig handeln, um nicht auf den weißen Feldern angreifbar zu sein.} ({
+Hier muss man schon auf die genaue Zugfolge achten. Nach dem verhaltenen} 5...
+d6 6. Qd2 c5 7. d5 {kann Schwarz nicht mehr den thematischen Befragungszug
+h7-h6 spielen. Daher ist das sofortige c7-c5 genauer, mit dem Druck auf die
+weiße Stellung ausgeübt wird.}) 6. d5 {[%csl Yb2,Yd4,Yg7][%cal Rg7c3] Der
+Vorstoß in eine Benoni-Struktur ist sicherlich die kritische Fortsetzung.
+Weiß erobert Raum und schränkt die schwarze Beweglichkeit ein. Aber er
+erlaubt auch die Dominanz des schwarzfeldrigen Läufers auf der langen
+Diagonalen. Schwarz kann jetzt sogar mit dem Gedanken spielen, eine Art
+Wolga-Benkö-Gambit zu spielen} ({Die andere Fortsetzung ist} 6. e3 {Weiß
+bevorzugt es, die Benoni-Struktur zu vermeiden und spielt eine Klassische
+Variante} d6 {Weiß kann jetzt nach jedem Damenzug auf den Damenflügel alle
+Drohungen mit Dd1-d2 abwehren, wonach die schwarze Dame einfach schlecht steht.
+In dieser Stellung sollte auch Schwarz klassisch weiterspielen, allerdings
+auch den lästigen Läufer auf g5 direkt befragen.} 7. Be2 h6 8. Bh4 g5 {
+Schwarz spielt die direkteste Art, um den weißen Läufer zu jagen.} 9. Bg3 Nh5
+$1 {Dieser Zug ist folgerichtig. Schwarz tauscht den schwarzfeldrigen Läufer
+von Weiß und beginnt ein Gegenspiel auf den schwarzen Feldern im weißen
+Lager, die jetzt geschwächt sind}) 6... h6 $1 {Wiederum wird dieser Zug
+ausgeführt, erst nachdem die Situation im Zentrum geklärt ist. Nach Wegzug
+des Läufers wird er gejagt und abgetauscht} ({Wiederum sollte man} 6... d6 {
+vermeiden wegen} 7. Qd2 {Jetzt kann Schwarz nicht mehr h7-h6 spielen, da der
+Bauer einfach nicht mehr gedeckt ist. Der Läufer wäre dann ewig auf g5
+platziert}) 7. Bh4 {Mit diesem Zug entscheidet sich Weiß für den möglichen
+Abtausch des Läufers und provoziert das Vorrücken der schwarzen Bauern.} ({
+Die altenative Fortsetzung} 7. Bf4 d6 8. e4 e6 9. dxe6 Bxe6 10. Bxd6 Re8 11.
+Be2 {führt zu einer bekannten Stellung des Averbakh-Systems. Schwarz hat
+einen Bauern geopfert, aber auch seine Stellung befreit. Weiß kann den
+zweiten Bauern nicht gut nehmen, da dann die schwarze Dame mit Tempogewinn
+über a5 nach a3 kommt. Die schwarzen Läufer sind gut postiert und haben gute
+Angriffsziele}) *
+

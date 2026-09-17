@@ -1,0 +1,63 @@
+﻿[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsindische Verteidigung"]
+[Black "London-System"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "Victor Bologan"]
+[PlyCount "18"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bf4 {[%csl Ye5][%cal Rf4e5,Rd4e5]
+Weiß spielt ein London-System mit einem Bauern auf c4 und kontrolliert
+zuverlässig das Feld e5. In der Regel wird er die Bauern auf e3, d4 und c4
+stellen. Die Springer bleiben auf f3 und c3 und die Läufer auf f4 und e2. Die
+Türme gegen nach d1 und c1. Schwarz wird Probleme haben, seine Bauern nach c5
+oder e5 zu stellen.} d6 {Schwarz vermeidet mit diesem Zug, in die
+Stellungsmuster der Grünfeld-Verteidigung nach d7-d5 einzulenken. Er möchte
+zunächst eine Art Königsindische Verteidigung spielen} 6. e3 {Dieser Zug
+stellt die Hauptvariante dar. Aber Weiß hat auch noch andere Züge zur
+Verfügung} ({(a) Der Bauernzug} 6. e4 {scheint nicht mit dem weißen Aufbau
+des Läufers auf f4 zusammen zu passen} Bg4 {Schwarz unterminiert die
+Kontrolle von e5} 7. Be2 Nfd7 {Schwarz gewinnt langsam, aber sicher die
+Kontrolle über das Feld e5 zurück} 8. O-O Bxf3 9. Bxf3 e5 {Schwarz kann sich
+mit diesem Zug befreien, obwohl Weiß das Läuferpaar besitzt} 10. Be3 Nc6 {
+Mit diesem Zug hat Schwarz Ausgleich erreicht}) ({(b) Eine gängige Idee ist} 
+6. h3 {Weiß möchte seinen schwarzfeldrigen Läufer vor einem Abtausch
+sichern und sichert das Feld h2 für einen Rückzug. Wie auch immer ist der
+Zug zu langsam} c5 {Schwarz muss diesen Zug im allgemeinen spielen, wenn er
+Ausgleich erreichen will} 7. e3 ({Die Abtauschvariante} 7. dxc5 dxc5 8. Qxd8
+Rxd8 9. Nb5 {ist nicht so gefährlich für Schwarz}) ({Nach dem Vorstoß} 7. d5
+{kann Schwarz eine Art Volga-Gambit spielen} b5 8. cxb5 a6 9. bxa6 {[%csl Ya5,
+Ya6,Yb8,Yd7][%cal Gd8a5,Gb8d7,Gc8a6,Gf8b8] Nach diesem klaren Zug ist das
+schwarze Spiel einfach und verständlich. Die Dame geht nach a5, der
+Damenläufer nach a6, der Damenspringer nach d7 und die Türme gehen auf die
+a- und die b-Linie}) {Von Yevseev stammt der Zug} 7... Qa5 8. Qd2 cxd4 9. exd4
+e5 $1 {Dieser Zug ist möglich aufgrund der Stellung der schwarzen Dame und
+der Position des weißen Königs im Zentrum} 10. Be3 Nc6 11. Be2) ({(c) Mit
+dem Zug} 6. Qd2 {bereitet Weiß den Läufertausch vor} c5 7. Bh6 Bxh6 8. Qxh6
+cxd4 9. Nxd4 Nc6 {Die Stellung ist halb-offen. Schwarz ist etwas in der
+Entwicklung voraus, denn Weiß hat zuviel Zeit verloren durch den Abtausch der
+schwarzfeldrigen Läufer. Es gibt keine richtigen Angriffschancen gegen den
+schwarzen König}) 6... c5 {Dieser Zug ist die prinzipielle Antwort von
+Schwarz. Er öffnet für die Dame die Diagonale nach b6 oder a5 und kombiniert
+zusammen mit dem Läufer auf g7 ein Druckspiel gegen den Bauern d4 oder sogar
+gegen b2} ({Man muss sich klar machen, dass die Läuferjagd an dieser Stelle
+nicht funktioniert} 6... Nh5 7. Bg5 h6 8. Bh4 g5 9. Nd2 $1 {[%csl Yd1,Yh5]
+[%cal Rd1h5] Weiß nutzt die ungesicherte Stellung des Springers auf h5 aus
+und nutzt die Schwächung des schwarzen Königsflügels aus} Nf6 10. Bg3 {
+Schwarz hat keine Kompensation für den geschwächten Königsflügel}) 7. Be2 {
+Das ist die Hauptfortsetzung. Weiß setzt die Entwicklung fort und bereitet
+die kurze Rochade vor} ({Mit der Vorstoßvariante} 7. d5 {reduziert Weiß
+verfrüht die Spannung im Zentrum und Schwarz erhält ausgezeichnetes
+Gegenspiel auf den Flügeln} Qb6 8. Rb1 e5 {Das ist ein spektakulärer Zug,
+der mit einem möglichen Bauernopfer verknüpft ist} 9. Bg5 Bf5) 7... Nh5 {
+Interessanterweise funktioniert jetzt das Konzept der Läuferjagd im Gegensatz
+zu einem Zug vorher} 8. Bg5 h6 9. Bh4 g5 {[%csl Yd4,Yf4][%cal Rc5d4,Rh5f4]
+Wenn Weiß jetzt den Springer zurückzieht, um seinerseits den Springer auf h5
+anzugreifen, dann schlägt Schwarz auf d4 und wenn Weiß zurückschlägt, dann
+hat der Springer ein schönes Feld auf f4} *
+

@@ -1,0 +1,78 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-System"]
+[Black "Manövervariante"]
+[Result "*"]
+[ECO "E84"]
+[Annotator "David Vigorito"]
+[PlyCount "58"]
+[EventDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren} 9. Nc1 {Hiermit entscheidet
+sich Weiß für den positionellen Weg anstatt mit h2-h4 nach vorne zu stürmen.
+Es gibt einige Ähnlichkeiten zum Sämisch-Angriff} e5 {[%csl Yd4][%cal Re5d4,
+Rc6d4,Rg7e5] Natürlich schlägt Schwarz gegen das geschwächte weiße Feld d4}
+{Aber er kann auch versuchen zu manövrieren} 10. Nb3 {Der Zug ist aber
+überhaupt nicht populär} exd4 11. Nxd4 {[%csl Yb3,Yb5,Yc1,Yc5,Yc6,Yd4,Ye2,
+Yg1][%cal Gg1e2,Ge2c1,Gc1b3,Gb3d4,Rc7c6,Rb7b5,Rc6c5] Verglichen mit der
+Glek-Variante hat Schwarz sogar einige Tempi gewonnen aufgrund des
+gekünstelten Manövers Sg1-e2-c1-b3xd4 nämlich die Züge a7-a6 und Ta8-b8,
+die er für Gegenspiel auf dem Damenflügel nutzen kann. Schwarz hat sich den
+Turmzug nach e8 gespart. Die Mehrzüge kann er für b7-b5 oder c7-c6-c5 nutzen}
+Ne5 {Schwarz entschließt sich, die Springer auf dem Feld zu behalten} 12. Rd1
+{Dies soll Schwarz vor dem Zug c7-c5 abschrecken, weil sonst der Bauer auf d6
+zu schwach wird} ({(a)} 12. O-O-O {ist ungewöhnlich, aber interessant. Dann
+kann man wie folgt spielen} c6 13. h3 (13. Nb3 Be6) 13... Qc7 14. Nb3 Be6 15.
+Qxd6 Qxd6 16. Rxd6 Nh5 17. Nd2 Ng3 18. Rg1 Nxf1 19. Rxf1 Rfd8 $1 {mit guter
+Kompensation für den Bauern.}) ({(b)} 12. Be2 c5 13. Nc2 Be6 14. Na3 (14. b3 {
+punktet schrecklich für Weiß nach} Qa5 {, zum Beispiel} 15. O-O b5 16. cxb5
+axb5 17. Rfd1 (17. Nxb5 Rxb5 18. Bxb5 Qxb5 19. Qxd6 Nfd7 {ist auch gut für
+Schwarz.}) 17... Rfe8 18. Bf2 Ned7 {mit einer sehr bequemen Stellung für
+Schwarz in Beliavsky,A (2595)-Gufeld,E (2530) Moscow 1979}) 14... Nc6 15. O-O
+Nd4 $1 16. Rfd1 ({Auch} 16. Rac1 Nd7 17. b3 Qa5 18. Nab1 b5 {bereitete Schwarz
+auch keine Probleme in Gerasimov,Y (2242)-Yevseev,D (2550) St Petersburg 2005})
+16... Nd7 17. Nc2 Nxe2+ 18. Qxe2 Qe7 19. Nd5 Bxd5 20. Rxd5 Nb6 21. Rd2 Bxb2 22.
+Rb1 Na4 {ist auch gut für Schwarz in Magomedov,M (2255)-Maslak,K (2531) Sochi
+2005}) 12... c6 13. Be2 b5 14. cxb5 ({(a) Stattdessen führt der Vorstoß} 14.
+f4 $2 {nach} b4 $1 {zu schwarzem Vorteil, wie von Kasparov nachgewiesen wurde.}
+15. fxe5 bxc3 16. Qc2 ({Oder} 16. Qxc3 Nxe4 17. Qc2 Qh4+) 16... Ng4 17. Bxg4
+Bxg4) ({(b) Nach} 14. O-O c5 15. Nb3 {sollte Schwarz auf c4 schlagen} Nxc4 $1
+16. Bxc4 bxc4 17. Nxc5 Qa5 {mit einer unklaren Stellung.}) 14... axb5 {Schwarz
+plant b5-b4 und d6-d5.} 15. b4 c5 {Schwarz verschärft das Tempo} 16. Nc2 ({
+(a) Den Bauern auf b5 zu nehmen scheint zu riskant für Weiß wegen} 16. Ndxb5
+cxb4 17. Nb1 Qa5 18. Nxd6 Rd8) ({(b) Weiß kann auch den Bauern auf c5 nehmen} 
+16. bxc5 b4 17. Na4 (17. Nb1 $1 {sieht kritischer aus, denn nach} dxc5 18. Nb3
+Qxd2+ 19. N1xd2 Rd8 20. Bxc5 Be6 21. O-O {muss Schwarz beweisen, dass er genug
+Spiel für den Bauern hat.}) 17... Qa5 18. Nb6 dxc5 19. Nxc8 cxd4 20. Ne7+ Kh8
+21. Bxd4 Rfd8 {, wonach allerdings Schwarz ein gutes Spiel hat.} 22. O-O (22.
+Qb2 Rxd4 23. Qxd4 b3+ 24. Qd2 Qa7 25. axb3 Qxe7 {und die aktiven schwarzen
+Figuren erlauben ihm leicht bessere Chancen.}) 22... Nxe4 23. fxe4 Rxd4 24.
+Qxd4 Nf3+ 25. Rxf3 Bxd4+ 26. Rxd4 Qc5 {mit klarem Vorteil für Schwarz laut
+Kasparov.}) 16... cxb4 17. Nxb4 Be6 $1 18. O-O ({(a) Nach} 18. Nxb5 Qa5 $1 {
+ist die schwarze Stellung vorzuziehen.}) ({(b) Dahin gibt} 18. Qxd6 Qxd6 19.
+Rxd6 Rfc8 {Schwarz Initiative für den Bauern.}) 18... Qa5 19. Qxd6 Nc4 $1 {
+Dieser Zug leitet eine forcierte Sequenz ein, die zu einem ausgeglichenen
+Endspiel führt.} 20. Bxc4 bxc4 21. Nc6 Qxc3 22. Bd4 Nxe4 23. Bxc3 Nxd6 24.
+Bxg7 Kxg7 25. Nxb8 Nf5 {Schwarz hat eine Qualität weniger, aber der weiße
+Springer muss noch flüchten. Darüber hinaus ist der Bauer auf a2 schwach und
+der Bauer auf c4 stark genug, um ein Gegenspiel in der Balance zu halten.O} 26.
+Nd7 Rc8 27. Nb6 Rc6 28. Rb1 c3 29. Rb4 Bxa2 {Schwarz hatte keine Probleme, das
+Remis zu halten in Beliavsky,A (2640)-Kasparov,G (2800) Linares 1990.} *
+

@@ -1,0 +1,72 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Königsindisch"]
+[Black "Königsflügel-Fianchetto"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Yelena Dembo"]
+[PlyCount "22"]
+[EventDate "2011.08.10"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 {Weiß vermeidet die
+Aufstellung mit c4 und d4 zum Königsinder. Statt dessen wirll er eine
+Pirc-Aufstellung wählen, in der der Läufer auf g2 nicht optimal steht. Der
+schwarze Plan sieht e7-e5 vor, wonach er sich mit c7-c6 und Dd8-c7
+konsolidiert. Wenn Weiß aber auf e5 abtauscht, dann erhöht Schwarz den Druck
+auf e4 mit b6 und Lb7. Sollte Weiß die Spannung im Zentrum zurückhalten, so
+wird Schwarz gewöhnlich mit der Entwicklung auf dem Damenflügel fortfahren:
+b7-b5 oder b6, Lb7 und Tad8, gefolgt won exd4 und c7-c5 mit starkem Druck
+gegen e4 oder weitere Ausdehnung auf dem Damenflügel. Dieser Plan ähnelt
+Varianten aus der Philidor-Verteidigung, in denen Weiß a2-a4 spielt, um b5 zu
+verhindern. Jedoch kann Schwarz trotzdem b5 nach Vorbereitung durch Tb8
+spielen.} 6. Nc3 {Weiß optiert für eine Pirc-artige Aufstellung, aber der
+Springer steht hier deplatziert, falls es zu einem Abtausch auf e5 kommt.} ({
+(a) Die Springer-Variante beginnt mit} 6. Nbd2 {[%csl Yc4][%cal Gd2c4] und
+erscheint logischer als nach c3, da der Springer auch noch nach c4 gehen kann.
+Dort kann er Druck auf den Bauern e5 ausüben und Ideen entwickeln, um das
+Feld d6 zu besetzen, wenn dieses durch den Bauernzug nach c6 geschwächt ist.
+Andererseits behindert der Springer auf d2 nachhaltig die Koordination der
+weißen Figuren.} Nbd7 7. e4 e5 8. dxe5 dxe5 {Es ist eine vollkommen
+symmetrische Stellung entstanden. Schwarz hat einen leichten praktischen
+Vorteil, denn er kann wählen, wie er auf die weißen Pläne reagieren soll.}
+9. b3 {[%csl Yb2,Yc4][%cal Gc1b2,Gb2e5,Gd2c4,Gc4e5] Weiß beabsichtigt den
+Druck auf e5 mit Lb2 und Sc4 zu erhöhen, und dies ist der ehrgeizigste
+Versuch.} Re8) ({(b) Die Flexible Variante startet mit} 6. Re1 {Weiß
+beanschtigt e2-e4 ohne den Damenspringer zu verpflichten. Er wartet auf den
+schwarzen Aufbau bis er sich entscheidet.} Nbd7 7. e4 e5 8. a4 {Dieser
+raumgewinnende Zug passt mehr in das Konzept als in den Alternativen.} Re8 {
+Jetzt gehen Weiß die nützlichen Züge aus.} 9. dxe5 dxe5 10. Na3 b6 $1 {
+Es entwickeln sich ähnliche Stellungsbilder wie in den anderen Varianten.}) ({
+(c) Ein Damenflügel-Angriff wird eingeleitet mit} 6. a4 {Dieses System ist
+ein Markenzeichen des legendären Oleg Romanishin, neuerdings popularisiert
+von Efstratios Grivas. Weiß möchte einen flexiblen Aufbau wählen und je
+nachdem mit e4 oder c4 fortsetzen. Weiß gewinnt etwas Raum auf dem
+Damenflügel, was später nützlich sein kann. Nachteil dabei ist, dass
+Schwarz nicht a5 antworten muss, stattdessen entwickelt er sich mit Sbd7 und
+e5 normal weiter.} Nbd7 7. a5 {Das mag der beste Zug sein, zumindest
+konsequent. Weiß verhindert e5 wegen dxe5 und a5-a6. Also muss Schwarz ein
+Tempo spendieren für den Zug c6, der normalerweise nicht notwendig ist.} c6 8.
+Nc3 {Weiß optiert wieder für einen Pirc-artigen Aufbau.} Qc7 {Dieser Zug
+bereitet e7-e5 vor. Das Feld d8 wird für den Turm freigemacht und der Bauer
+c6 beschützt im Falle von a5-a6.}) ({(d) Die Larsen-Variante operiert auch
+auf dem Damenflügel mit} 6. b3 {, hat aber sonst mit den anderen Varianten
+nichts zu tun. Weiß will sich schnell fianchettieren, um den
+Standard-Vortstoß e7-e5 zu verhindern. Er kann mit c4 oder e4 fortsetzen, und
+er kann mit auch um das Feld d5 kämpfen. Das System ist heimtükisch und
+gefährlich, falls man nicht vorbereitet ist.} e5 $1 {Trotzdem kann Schwarz
+den Zug spielen.} 7. dxe5 {Das ist der einzig konsistente Zug.} dxe5 $1 {
+Es muss sofort wiedergenommen werden.} 8. Bb2 {Das ist der logischste Zug, der
+den Bauern e5 angreift. Der Springer kann aufgrund der Fesselung auf der
+Diagonalen schlecht nehmen.} e4 {Schwarz sollte sich auf keinen Fall passiv
+verhalten, sonden den Bauern nach vorne stoßen.} 9. Qxd8 {Nur mit dem
+Damentausch kann Weiß hoffen, etwas Druck auszuüben.} Rxd8) 6... Nbd7 7. e4 (
+{Weiß kann e5 mit} 7. d5 {ausschalten, allerdings nicht für immer verhindern.
+Tatsächlich kann Schwarz nach} Nc5 8. Nd4 a5 9. a4 Bd7 {das weiße Zentrum
+mit c6 herausfordern.}) 7... e5 {Das ist die Pirc-Variante im
+Königsflügel-Fianchetto.} 8. h3 {Ein nützlicher Wartezug, der Lc1-e3
+vorbereitet.} c6 9. a4 Qc7 10. Re1 Re8 11. a5 {Das ist eine Standard-Idee von
+Weiß.} Rb8 $1 {Dies ist ein wichtiger und typischer Zug gegen den Vormarsch
+des weißen a-Bauern.} *
+

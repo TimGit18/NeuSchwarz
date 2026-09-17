@@ -1,0 +1,147 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Englischer Angriff"]
+[Black "Damenseitschritt-Variante"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "52"]
+[EventDate "2012.03.31"]
+[SourceDate "2012.03.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 {Der Englische
+Angriff stammt aus den 1980er Jahren und ist ein aggressives System, das auf
+den Zügen Lc1-e3, f2-f3 und g2-g4 nebst Dd1-d2 basiert. Er strebt die lange
+Rochade an und will seine g- und h-Bauern gegen den gegnerischen König
+marschieren lassen. Weiß kombiniert diese Angrffspläne häufig mit
+Operationen im Zentrum und auf dem Damenflügel. Schwarz muss zwei Strategien
+dagegenhalten. Erstens muss er im Zentrum aufpassen und rechtzeitig den
+Durchbruch d6-d5 forcieren, falls Weiß dieses Feld nicht mehr überwacht.
+Zweitens muss er aufpassen, nicht zu früh zu rochieren und Gegenaktionen auf
+dem Damenflügel vorzubereiten, damit Weiß auf dieser Seite des Brettes unter
+Druck gerät. Der Englische Angriff stammt aus den 1980er Jahren und ist ein
+aggressives System, das auf den Zügen Le3, f3 und g4 basiert. Er strebt die
+lange Rochade an und will seine g- und h-Bauern gegen den gegnerischen König
+marschieren lassen. Weiß kombiniert diese Angrffspläne häufig mit
+Operationen im Zentrum und auf dem Damenflügel} e5 {Der schwarze Aufbau mit
+d6 und e5 ist der thematische im Najdorf-System. Er ist weiniger flexibel als
+der Scheveninger Aufbau, gewinnt jedoch mehr Raum und vertreibt den weißen
+Springer von seinem schönen Feld d4} 7. Nb3 {Das ist der ambitionierteste und
+theoretisch wichtigste Zug für Weiß. Der weiße Springer behindert hier
+nicht die anderen Figuren und stellt eine wichtige Verteidigungsfigur für den
+Damenflügel dar.} Be7 {Wie in dem Klassischen System hält Schwarz die
+Symmetrie zunächst am besten aufrecht. Vielleicht transponiert ja Weiß auch
+mit Lf1-e2 in die Klassische Variante. In diesem Fall kann sich Schwarz wie
+immer mit Lc8-e6 weiterentwickeln.} 8. f3 {Hiermit leitet Weiß das System des
+Englischen Angriffs ein. Es soll mit g2-g4, h2-h4, h4-h5 nebst langer Rochade
+und Sturm auf dem schwarzen König fortgesetzt werden. Ein weiterer Vorteil
+des Zuges ist, dass der Bauer auf e4, der in vielen Varianten zu einem Problem
+für Weiß werden kann, jetzt zuverlässig gedeckt ist. Der Nachteil dieses
+Zuges ist, dass er nichts für die Entwicklung leistet und auf den ersten
+Blick etwas langsam wirkt. Zudem nimmt er auch noch f3 für die eigenen
+Figuren in Beschlag.} Be6 {Schwarz entwickelt eine Figur und überdeckt das
+schwache Feld d5. Außerdem verhindert der Zug die Entwicklung des weißen
+Läufers nach c4. Der Läufer kann auf e6 auch nicht so einfach angegriffen
+werden.} 9. Qd2 {Weiß bereitet die lange Rochade vor und bringt seine Dame
+ähnlich wie im Jugoslawischen Angriff auf eine gute Diagonale. Anderseits
+soll mit diesem Zug nach der langen Rochade auch der Druck auf der d-Linie
+verstärkt werden, so dass der Durchbruch d6-d5 für längere Zeit verhindert
+wird} O-O {Schwarz bringt den König in Sicherheit und einen Turm zum Zentrum.
+Er weiß, dass Weiß früher oder später g2-g4 spielen wird, glaubt aber,
+dass seine gute Entwicklung und sein sicheres Zentrum ihm genug Gegenspiel
+sichern werden.} 10. O-O-O {Weiß rochiert lang und bringt seinerseits den
+König in Sicherheit. Außerdem verstärkt er den Druck auf der d-Linie} a5 {
+Dieser überraschende Zug schwächt zwar die schwarze Bauernstruktur,
+verspricht aber gute Angriffschancen. Der Bauer droht in zwei, drei Zügen an
+den weißen König heranzukommen und dort großen Schaden anzurichten. Weiß
+hat hier eine Vielzahl von Möglichkeiten versucht, aber Schwarz kann immer
+mit einigem Gegenspiel rechnen.} {(a) Eine wichtige Alternative zu dem
+Läuferzug nach b5 ist der Damenseitschritt} 11. Qf2 {[%csl Yb7,Rc5,Yd1,Yd8,
+Ye6][%cal Gb3c5,Rc5b7,Rc5e6] Die Idee dieses Zuges ist es, die Fesselung auf
+der d-Linie auszunutzen und mit Sb3-c5 den Stolz der schwarzen Stellung zu
+attackieren, nämlich den Läufer auf e6} Qc8 {Mit dieser ruhigen Fortsetzung
+unterbindet Schwarz die weiße Idee. Die schwarze Dame geht der weißen
+Fesselung aus dem Wege und besetzt gleichzeitig die halboffene c-Linie.} 12.
+Bb5 {Weiß spielt jetzt trotzdem seine Hauptidee aus, denn offensichtlich gibt
+es keine bessere Fortsetzung.} Na6 {Auch in dieser Variante soll der Springer
+wieder nach c7 gebracht werden und den schwarzen Angriff auf dem Damenflügel
+unterstützen.} 13. Na4 {Das ist ein sehr listiger Zug von Weiß. Er blockiert
+zunächst einmal schlicht den Vormarsch des a-Bauern. Danach möchte Weiß
+aber einfach die Qualität auf dem schwachen Feld b6 gewinnen.} Nc7 $1 {
+Schwarz ignoriert die weiße Bedrohung. Er merkt, dass er genügend
+Kompensation für die Qualität erhält. Weiß muss seinerseits aufpassen,
+dass er nicht das Läuferpaar einbüßt.} 14. Nb6 {Weiß nimmt die Einladung
+an und gewinnt die Qualität.} Qb8 {Weiß kann die Qualität gewinnen. Die
+Dame musste natürlich ziehen, da sie angegriffen war. Natürlich bleibt sie
+auf dem Damenflügel, wo sie eine maximale Wirkung erzielt.} 15. Be2 {Bevor
+sich Weiß die Qualität einverleibt, sichert er zunächst das Läuferpaar.} ({
+(a) Der Zug} 15. Bd3 {transponiert in die Textvariante}) ({(b) Der Rückzug} 
+15. Ba4 {führt zu} Ra6 {, und Schwarz kann die Qualität halten, denn Weiß
+kontrolliert nicht mehr das Feld a6. Außerdem greift der Turm auf a6 den
+lästigen Springer auf b6 an.} 16. g4 {Also führt Weiß seinen Angriff fort}
+Na8 {Schwarz unterminiert mit diesem Zug den lästigen Springer auf b6. Er
+will endlich seinen b-Bauern mobilisieren} 17. g5 {Da der Springer auf b6
+jetzt noch ausreichend gedeckt ist, bleibt Weiß noch der Angriff auf dem
+Königsflügel} ({Oder Weiß spielt weiter auf Qualitätsgewinn und droht mit} 
+17. Bb5 {Aber dann hat Schwarz eine gute Antwort mit} a4) 17... Nh5 {und
+Schwarz hat Initiative, auch wenn seine Springer noch deplatziert sind}) 15...
+a4 {Schwarz kann die Qualität nicht gut retten, da der Turm keine Felder hat.
+Der Vormarsch des a-Bauern passt aber in das Konzept und gibt Schwarz Raum auf
+dem Damenflügel} 16. Nd2 {Auf den ersten Blick scheint Weiß Vorteil zu
+besitzen. Die Figuren sind im Zentrum massiert und Weiß wird wohl die
+Qualität gewinnen. Aber als Ausgleich kann Schwarz ein gutes Gegenspiel gegen
+den weißen König organisieren, da dieser etwas von seinen eigenen Figuren
+verlassen steht.} Bxa2 {Das ist ein starker Einschlag. Weiß verliert einen
+Teil der Deckung des eigenen Königs und Schwarz erhält einen wichtigen
+Bauern als Ausgleich für die Qualität. Außerdem kann der Läufer auf a2
+nicht gut angegriffen werden und bleibt ein steter Unruhehert für Weiß} 17.
+Ndc4 {Das ist die weiße Idee. Der zweite Springer deckt den ersten und
+schneidet dem schwarzen Damenläufer den Rückzug ab.} ({Nach dem
+optimistischen Vorstoß} 17. g4 {folgt einfach} Be6 {und der Läufer ist
+gerettet}) 17... Bxc4 {Bevor der schwarze Damenläufer auf a2 verkümmert,
+tauscht Schwarz ihn lieber für den aktivierten Springer ab.} 18. Bxc4 {Weiß
+nimmt mit dem Läufer zurück, um die Stellung dieser Figur zu verbessern.
+Außerdem möchte er die Drohung aufrechterhalten, auf a8 die Mehrqualität zu
+gewinnen.} a3 {Das ist die logische Fortführung des schwarzen Angriffs. Wie
+so oft wird der a-Bauer als Rammbock benutzt, um den Bauernschild vor dem
+weißen König zu beschützen und seinen Schutz zu schwächen.} 19. Kb1 {Weiß
+verzichtet auf den Bauern und versucht sich hinter diesem zu verstecken. Wenn
+Schwarz jetzt auf b2 schlägt, dann läßt Weiß ihn einfach auf b2 stehen.
+Erst wenn die Gefahr auf der a-Linie real wird, würde er mit dem König auf
+b2 nehmen und seine Türme auf den Damenflügel bringen.} d5 $1 {Ein guter
+Zeitpunkt, um die Stellung zu öffnen. Weiß kann nicht gut auf a8 nehmen, da
+die schwarze Dame dann entscheidend in das Spiel eingreifen würde. Aber der
+eigentliche Zweck dieses Zuges ist die Öffnung der Läuferdiagonale für den
+Läufer auf e7.} 20. exd5 {Der schwarze d-Bauer war zu dominant im Zentrum und
+musste einfach entfernt werden. Aber jetzt kann Schwarz auf b2 schlagen} axb2 {
+Der ohnehin schon schwache Schutz des weißen Königs wird hierdurch noch
+weiter reduziert.} 21. Kxb2 {Weiß muss jetzt schon, obwohl ungewollt, den
+Bauern schlagen, denn sonst folgt die Überführung der schwarzen Dame auf die
+a-Linie} Ba3+ {Endlich erfüllt sich der Zweck des Bauernopfers auf d5. Der
+schwarze Läufer ist befreit und belästigt den weißen König.} 22. Kb3 {Der
+weiße König sucht sein Heil in der Flucht nach vorne. Wenn er zurückginge,
+würde er immer noch in einem Mattnetz gefangen sein.} ({Nach} 22. Kb1 {folgt}
+Ra5 {mit unklarer Stellung. Schwarz hat die Qualität gerettet und die weiße
+Königsstellung sieht sehr bedenklich aus.}) 22... Bd6 {Der schwarze Läufer
+zieht sich zurück, um die Kontrolle über die schwarzen Felder in der Nähe
+des weißen Königs aufrechtzuerhalten. Schließlich droht jetzt entscheidend
+der Turm mit einem unangenehmen Schach auf a3} 23. Ra1 {Das ist eine gewisse
+Konzession an die schwarze Angriffsformation. Würde Weiß die Qualität
+einstecken, dann könnte Schwarz mit dem Springer zurückschlagen und mit dem
+b-Bauern vorpreschen} Rxa1 {Schwarz tauscht die Türme ab, und versucht sein
+Spiel auf dem Damenflügel zu reorganisieren.} 24. Rxa1 {Weiß bringt eine
+weitere Figur in die Nähe seines Königs und hofft darauf, dass die Präsenz
+dieses Materials seine schlechte Königsstellung kompensiert.} Na6 {Schwarz
+versucht sein Figurenspiel am Damenflügel zu reorganisieren. Dazu wird
+zunächst einmal der schlecht postierte Springer auf c7 rejustiert.} 25. Bxa6 {
+Weiß tauscht eine weitere Angriffsfigur ab, aber er öffnet damit
+gleichzeitig auch eine weitere Angriffslinie gegen seinen König} bxa6 {Der
+Bauer auf a6 steht zwar en prise, aber Weiß kann diesen nicht gut nehmen.
+Denn dann würde Schwarz den Bauern auf d5 nehmen, der nicht gedeckt ist, da
+der Springer auf b6 gefesselt ist.} 26. c4 {Weiß deckt den wichtigen Bauern
+auf d5, aber sein König steht nach wie vor sehr unsicher.} Nd7 {Dieser Zug
+greift zunächst den Springer auf b6 an mit unklarer Stellung. Vermutlich ist
+es sehr riskant auf a6 mit dem Turm zu nehmen.} *
+

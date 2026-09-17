@@ -1,0 +1,64 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Rückzugvariante"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "44"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitestetn und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben. Der
+Zug} 8. e4 {scheint zunächst naiv zu sein, sollte aber nicht zu sehr auf die
+leichte Schulter genommen zu werden. Falls Weiß zu lässig spielt, kann
+Schwarz mit einfachen Mitteln eine gute Stellung erreichen. Aber falls Weiß
+mit den Einzelheiten der Stellung besser vertraut ist, dann Schwarz abdriften}
+Bg4 {Diese Fesselung übt starken Druck auf das Feld d4 aus. Das schwarze
+Spiel ist thematisch und gut.} 9. Be3 {Dieser Zug ist sehr beliebt. Schwarz
+wird oft dazu gezwungen, den Läufer auf f3 abzutauschen. Also spart Weiß
+auch ein Tempo, dass er sonst für h2-h3 aufbringen müsste.} Nd7 10. Ne2 {
+Das ist ein völlig anderer Ansatz. Weiß möchte das Feld d4 sichern, aber
+der Zug ist nicht besonders gut, und Schwarz kann Gegenspiel initiieren} Na5 $1
+11. Rc1 {Das wird fast ausschließlich gespielt} ({Weiß kann auch einen
+zweiten Rückzug spielen} 11. Nd2 c5 12. f3 cxd4 13. Nxd4 e5 14. Nc2 Be6 15. b3
+Nc6 {mit einer unklaren Stellung}) 11... c5 12. b3 ({Nach} 12. h3 Bxf3 13. Bxf3
+Nc6 14. d5 Nce5 15. Bg2 b5 16. b3 {hat Schwarz keine Probleme, denn} (16. cxb5
+axb5 17. b3 c4 {gibt Schwarz auch gutes Spiel}) 16... bxc4 17. bxc4 Nb6 {
+verliert einen Bauern für Weiß}) 12... Nc6 13. d5 Nb4 $1 {Dieser seltsam
+aussehende Zug ist nicht nur taktisch gerechtfertigt, sondern sogar notwendig}
+({Schlecht ist} 13... Nce5 {wegen} 14. Ne1 {und die schwarzen Leichtfiguren
+haben keine Rückzugsfelder}) 14. a3 {Weiß befragt sofort den schwarzen
+Springer} ({Stattdessen kann Weiß auch spielen} 14. Qd2 {, wonach dasselbe
+taktische Motiv erfolgt} Nd3 15. Rcd1 ({Nach} 15. Rc2 b5 {hat Schwarz
+Gegenspiel}) (15. Qxd3 Bxf3 16. Bxf3 Ne5 {entspricht der Hauptvariante}) 15...
+b5 16. cxb5 Bxf3 17. Bxf3 N3e5 18. Bg2 axb5 19. h3 Nb6 20. f4 Ned7 {Das ist
+die sicherste Option für Schwarz}) 14... Bxf3 15. Bxf3 Nd3 {Das ist die
+Pointe des schwarzen Spiels. Der Springer wird nicht gefangen} 16. Qxd3 {
+Weiß willigt in den Abtausch ein} ({Mit} 16. Rc2 {will Weiß den
+Wanderspringer beunruhigen} b5 17. Nc3 (17. Bg2 bxc4 18. bxc4 Nb2 19. Qd2 Ne5
+20. Rfc1 Rb8 21. f4 Ng4 {mit Gegenspiel nach Bologan}) 17... bxc4 18. bxc4 Nb2
+19. Rxb2 Bxc3 20. Rb7 Rb8 21. Qb3 (21. Ra7 Ra8) 21... Qa5 22. Bh6 Bg7 23. Bg5
+Rfe8 24. Kg2 h6 25. Be3 Nb6 26. Rxb8 Rxb8 27. Rb1 Nd7 28. Qd3 Rxb1 29. Qxb1
+Qxa3 30. Qb7 Ne5 31. Qxe7 Bf8 {Schwarz steht gut nach Gallagher}) 16... Ne5 17.
+Qc2 Nxf3+ 18. Kg2 Ne5 19. Nc3 {Bologan empfiehlt hier} Nd7 20. f4 b5 {Das ist
+eine riskante 'Fortsetzung} 21. cxb5 Bxc3 22. Qxc3 axb5 *
+

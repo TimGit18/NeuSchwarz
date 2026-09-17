@@ -1,0 +1,28 @@
+[Event "Theorie der Schacheröffnungen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bird-Eröffnung"]
+[Black "Leningrader System"]
+[Result "*"]
+[ECO "A02"]
+[Annotator "Dr. Max Euwe"]
+[PlyCount "28"]
+[EventDate "2015.??.??"]
+
+1. f4 Nf6 2. Nf3 g6 {Das ist der sogenannte Indo-Bird. Schwarz behält sich
+die Wahl zwischen einem Aufbau mit d7-d5 oder d7-d6 vor. Der Aufbau mit d7-d5
+führt allerdings meistens in die Bahnen des Holländisch im Anzuge.} {Das
+Leningrader System} 3. g3 {wurde ebenfalls oft von Larsen gespielt.} Bg7 4. Bg2
+O-O 5. d3 d5 {Die übliche Erwiderung, die den Vorstoß e2-e4 erschwert.} 6. c3
+{Das ist die von Larsen bevorzugte Folge, wobei die Rochade des Weißen
+einstweilen hinausgezögert wird.} ({Bei einer direkten Rochade ergreift
+Schwarz die Initiative im Zentrum.} 6. O-O c5 7. Nc3 d4 8. Ne4 Nxe4 9. dxe4 Nc6
+10. e3 Qb6 $15) 6... b6 7. O-O Bb7 8. a4 c5 9. Na3 Nc6 10. Bd2 {Schwarz steht
+völlig befriedigend in} (10. Rb1 Rc8 11. b4 cxb4 12. cxb4 d4 13. Bd2 Nd5 {
+mit gutem Spiel für Schwarz in Ghitescu,T-Pachman,L Tel Aviv 1964}) 10... a6 {
+Larsen,B-Portisch,L ½-½ Beverwijk 1964} 11. b4 {ergibt nichts wegen} ({
+In der Partie geschah} 11. Qc2 Rc8 12. e4 Nb4 $1 {mit Vorteil für Schwarz.})
+11... cxb4 12. cxb4 b5 $1 13. axb5 axb5 14. Nxb5 $4 {verliert eine Figur.} Qb6+
+$1 *
+

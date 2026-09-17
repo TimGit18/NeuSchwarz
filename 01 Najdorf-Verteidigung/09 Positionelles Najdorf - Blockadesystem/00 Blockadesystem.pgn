@@ -1,0 +1,38 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf-Verteidigung"]
+[Black "Blockadesystem"]
+[Result "*"]
+[ECO "B93"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "22"]
+[EventDate "2011.06.29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 {Dieser Zug ist
+nicht der prinzipiellste, aber er verhindert b7-b5 und droht mit der
+Einschnürung des Damenflügels} e5 {Schwarz reagiert im Najdorf-Stil} 7. Nf3 {
+Das ist die Hauptvariante. Immer dann, wenn Weiß noch nicht Lf1-e2 gezogen hat,
+will er über Sf3-g5 den Punkt f7 bedrohen. Hier ist aber dieser Angriff nicht
+so gefährlich wie in dem Nunn-System, weil Weiß die f-Linie nicht öffnen kann}
+({Die Rückzugsvariante ist charakterisiert durch den Zug} 7. Nde2 {Das sieht
+nicht sehr attraktiv aus, da es den Läufer auf f1 blockiert und Schwarz hat
+folgendes aggressives Bauernopfer, um die Initiative zu ergreifen} d5 $1 {
+Vielleicht kann Weiß einen kleinen Eröffnungsvorteil erhalten, wenn er den
+Bauern zurückgibt und sehr genau spielt} 8. Nxd5 Nxe4 9. Be3 Nc6 10. f3) 7...
+Be7 {Das ist der konsistente Folgezug. Schwarz entwickelt sich und bereitet
+die kurze Rochade vor} 8. Bg5 {Weiß hätte auch den anderen Läufer entwickeln
+können, aber mit diesem Zug signalisiert er seine Bereitschaft, um das Feld d5
+zu kämpfen} ({Die Läufervariante beginnt mit dem Zug} 8. Bc4 Be6 {Hier hat
+Weiß zwei Hauptfortsetzungen} 9. Qe2 {Das ist die Hauptfortsetzung an dieser
+Stelle} Qc7 {Der Damenzug ist an dieser Stelle das stärkste, denn er zwingt
+Weiß dazu das Problem mit dem weißen Läufer zu lösen. Das Schlagen auf e6
+macht eigentlich keinen Sinn, so dass der Läufer nach b3 zurückgeht. Aber in
+dieser Variante steht Schwarz hervorragend, wie man später sehen wird} 10. Bb3)
+8... Be6 9. Bxf6 {Dies ist die Hauptvariante von Weiß. Indem er den Springer
+auf f6 abtauscht, wird der weiße Damenspringer auf c3 beweglich und kann nach
+d5 gehen.} Bxf6 10. Nd5 Nd7 {Schwarz ist nicht bereit, den Kampf um das Feld
+d5 einfach aufzugeben} 11. Bc4 {Das weiße Spiel dreht sich um den Punkt d5.}
+Rc8 *
+

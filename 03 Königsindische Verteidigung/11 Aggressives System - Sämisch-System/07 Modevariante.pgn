@@ -1,0 +1,71 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sämisch-System"]
+[Black "Modevariante"]
+[Result "*"]
+[ECO "E66"]
+[Annotator "David Vigorito"]
+[PlyCount "38"]
+[EventDate "2011.10.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 {Das Sämisch-System ist das
+zweite große System mit e2-e4. Weiß errichtet ein großes und flexibles
+Zentrum. Der Königsspringer wird nach e2 entwickelt und ein
+Königsflügelangriff vorbereitet} O-O 6. Be3 Nc6 {Die Panno-Variante ist
+flexibel und ehrgeizig. Schwarz greift das weiße Zentrum mit Figuren an und
+wird auf dem Damenflügel mit Tb8, a6 und b5 vorgehen. Dieser Plan trägt der
+Tatsache Rechnung, dass Weiß lang rochieren will und nutzt die relative
+Schwäche des weißen c-Bauern aus} 7. Nge2 a6 8. Qd2 Rb8 {Schwarz ist bereit
+b5 zu spielen und wartet auf den Plan von Weiß. In dieser Stellung hat Weiß
+drei verschiedene Pläne: 1. Er kann direkt mit h2-h4 und/oder g2-g4 auf dem
+Königsflügel vorgehen. Der eigene König wird entweder lang rochiert oder
+bleibt in der Mitte. Schwarz muss im Zentrum Gegenspiel suchen, sonst wird er
+überrannt 2. Er kann den Springer nach c1 zurückziehen und dann auf b3
+platzieren, um das schwache Feld d4 zu überdecken. 3. Er kann versuchen, den
+Turm nach c1 zu spielen und die c-Linie zu öffnen. Dann rochiert er kurz und
+versucht im Zentrum seine Figuren zu massieren.} {Die Modevariante lautet} 9.
+Rc1 {und wurde von Lars Schandorff empfohlen.} Bd7 {Hier ist dieser Zug
+wirklich sehr flexibel. Schwarz beschützt außerdem den Springer auf c6 und
+bereitet b7-b5 vor} (9... b5 $2 10. cxb5 axb5 11. Nxb5 Rxb5 12. Rxc6 {verliert
+einfach einen Bauern.}) 10. Nd1 {Dies ist ein anderer wichtiger Teil des
+weißen Plans. Nun kann b7-b5 mit c4-c5 gekontert werden, Der weiße Springer
+soll über f2 wieder in das Spiel gebracht werden} ({(a)} 10. d5 Ne5 {mit der
+Idee c7-c5 sieht gut für Schwarz aus.}) ({(b)} 10. b3 b5 11. cxb5 axb5 12. d5
+Ne5 13. Nd4 Qe8 14. Be2 (14. a3 b4 {sieht für Schwarz gut aus.}) 14... b4 $5 {
+ist sehr aktiv für Schwarz.}) 10... b5 {Das ist konsistent, obwohl Weiß den
+b-Bauern vorbeiziehen lassen kann.} ({Espen Lund und Andreas Skytte Hagen
+empfehlen} 10... e6 11. Nf2 Re8 12. g3 b5 13. c5 dxc5 14. Rxc5 Bf8) 11. c5 ({
+Auch möglich ist die Fortsetzung} 11. cxb5 axb5 {, aber dies sieht seltsam
+aus und sollte Schwarz keine Probleme bereiten.}) 11... e6 {Schwarz muss auf
+die zentralen Felder aufpassen.} ({(a)} 11... d5 $2 12. e5 {führte für mich
+bei der 23.OIBM in ein eröffnungstheoretisches Desaster.} Ne8 13. Nf2 {
+und wird von Vigorito als schlecht beurteilt.}) ({(b) Auch nicht gut ist} 11...
+e5 $2 {wegen} 12. d5 Ne7 13. c6 Bc8 {und Schwarz steht schon mit dem Rücken
+zur Wand.}) 12. Nf2 b4 $1 {Obwohl dieser Zug jetzt kein Tempo gewinnt, erhält
+er Raum auf dem Damenflügel.} ({(a) Nach} 12... Qe7 $6 {ist} 13. g3 {eine
+gute Antwort.}) ({(b)} 12... Ne7 $6 13. Nd3 {macht es Schwarz schwer sich zu
+bewegen.}) 13. g3 {Weiß hat hier noch andere Züge, die man hier betrachten
+kann:} ({(a)} 13. Nd3 a5 14. g3 Ne7 15. Bg2 Bb5 16. O-O Nd7 17. Rfd1 Ra8 18.
+Qc2 Qc8 19. a4 Ba6 20. b3 Rd8 21. f4 d5 {mit festem Griff im Zentrum in
+Khairullin,I (2617)-Gorovykh,E (2430) St Petersburg 2010.}) ({(b)} 13. Ng3 a5
+14. Bd3 Ne7 15. O-O Bb5 16. Ne2 Nd7 17. cxd6 cxd6 18. b3 Bxd3 19. Nxd3 d5 20.
+e5 Qb6 {war auch solide für Schwarz in Nikolov,M (2550)-Berbatov,K (2481)
+Blagoevgrad 2010}) 13... Ne7 14. Bg2 Bb5 {Schwarz hat zwar weniger Raum, aber
+seine Stellung ist flexibel und besitzt dynamisches Potential.} 15. O-O Nd7 (
+15... Nc6 {ist auch möglich.}) 16. cxd6 {Weiß muss sich mit dem Abtausch
+allerdings nicht beeilen, aber es ist noch nicht klar, was er sonst tun soll.
+In der Praxis hat Schwarz gutes Gegenspiel.} ({(a)} 16. f4 dxc5 17. dxc5 Ne5 $1
+18. fxe5 Qxd2 19. Bxd2 Bxe2 20. Rfe1 Bb5 21. Ng4 Nc6 22. Nf6+ Kh8 23. Bf4 g5
+24. Bxg5 Nxe5 {mit gutem Spiel für Schwarz in Gromova,I (2232)-Akatova,E 
+(2320) Cheliabinsk 2008.}) ({(b)} 16. Rfd1 a5 17. Qc2 Qc8 18. f4 Qa6 19. Rd2 e5
+(19... d5 20. e5 Nf5 {ist vielleicht sogar besser.}) 20. fxe5 dxc5 21. dxc5
+Nxe5 {wieder mit gutem schwarzen Spiel in Stanoev,A (2202)-Berbatov,K (2455)
+Plovdiv 2010.}) 16... cxd6 {Diese Stellung wurde von Sale und Fedorov
+diskutiert. Schwarz hat eine interessante Igel-Stellung.} 17. Rc2 (17. Rfd1 a5
+18. Bf1 Rc8 19. Nd3 Rxc1 20. Rxc1 Qa8 21. b3 Rc8 22. Nb2 Qa6 23. Nf4 Bxf1 24.
+Rxf1 d5 {mit gutem Spiel für Schwarz in Sale,S (2437)-Fedorov,A (2611) Abu
+Dhabi 2005.}) 17... Qa5 {ist eine Empfehlung von Khalifman.} 18. b3 Rfc8 19.
+Rfc1 Qd8 {mit gleicher Stellung.} *
+

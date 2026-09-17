@@ -1,0 +1,57 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sozin-Angriff"]
+[Black "Langsame Variante"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "34"]
+[SourceDate "2015.02.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O {Das ist
+der gefährlichste Plan für Weiß, der Sozin-Angriff. Streng genommen ist der
+Sozin-Angriff ein System, dass nach Sb8-c6 entsteht. Aber dieser Zug passt
+nicht in das Najdorf-System} b5 {In diesem Fall ist der Bauernzug nach b5
+vorzuziehen, denn Weiß hat schon beträchtlichen Entwicklungsvorsprung} ({Der
+Zug} 7... Nbd7 {ist hier nicht so gut, denn nun wird e6 schwach} 8. Re1 Qc7 9.
+Bxe6 $1 fxe6 10. Nxe6 {Weiß erhält zwar "nur" zwei Bauern für die Figur,
+aber einen gefährlichen Angriff, dank des unrochierten Königs in der Mitte}
+Qc6 11. Nd5) 8. Bb3 {Diese Stellung ähnelt wieder mehr dem normalen
+Fischer-Angriff nur mit schneller kurzer Rochade. Schwarz kann hier auch auf
+Bauerngewinn spielen, aber dann erhält Weiß exzellente Kompensation und
+einen gefährlichen Angriff} Be7 {Das ist die sicherste Fortsetzung, mit der
+die kurze Rochade von Schwarz eingeleitet wird} 9. Qf3 {Das ist der Moderne
+Sozin-Angriff, der seit den 1990er Jahren die Klassische Fortsetzung abgelöst
+hat. Weiß bringt die Dame auf den Königsflügel und droht gleichzeitig mit
+der Fortsetzung e4-e5} Qc7 {Schwarz rochiert nicht sofort, sondern entwickelt
+zunächst die Dame auf ein gutes Feld. Jetzt hat er immernoch die Option, den
+Läufer c8 nach b7 zu ziehen, wenn Weiß aggressiv e4-e5 spielt. Im Gegensatz
+zur Hauptvariante ist} 10. Re1 {sehr langsam und nicht besonders gefährlich
+für Schwarz} O-O 11. Qg3 {Das ist der Hauptzug in dieser Stellung. Schwarz
+hat in dieser Stellung zwei Möglichkeiten. Er kann den Damenläufer
+entwickeln, aber dann kann Weiß seine Ungenauigkeit des Turmzugs korrigieren.
+Hingegen ist der Königszug in die Ecke genauer, den er unterstreicht die
+negativen Auswirkungen des Turmzugs.} ({(a) Der Zug} 11. a3 $6 {ist langsam
+und nicht besonders stark. Schwarz erhält Zeit, seine Figuren zu entwickeln,
+nachdem er gut steht} Nc6 12. Nxc6 Qxc6 13. Qg3 Nh5 14. Qh3 Nf6 15. Bg5 h6 $1)
+({(b)} 11. a4 b4 {Nach diesem starken Zug hat Schwarz gar keine Probleme mehr,
+denn er wird seinen b-Bauern gegen den weißen e-Bauern eintauschen, nachdem
+er sicher nicht schlechter steht} 12. Na2 Bb7 13. Nxb4 Nbd7 14. c3 Ne5 15. Qh3
+Bxe4 16. a5 $1 {Das fixiert den Bauern a6}) 11... Kh8 12. Bg5 b4 {Weiß hat
+verschiedene Möglichkeiten} ({Möglich ist auch die direkte Befragung des
+Läufers mit} 12... h6 13. Bd2 Bd7 {mit der Idee, den starken Springer auf c6
+abzutauschen}) 13. Na4 $1 {Das gilt als der beste Zug für Weiß} ({Der
+Rückzug} 13. Nb1 {sieht nicht so gut aus} Bb7 14. Nd2 Nc6 15. Nxc6 Bxc6 16. a3
+a5 17. axb4 axb4 18. Rad1 Nh5 19. Qh4 Bxg5 20. Qxg5 Nf6 21. Qh4 {Im Prinzip
+ist eine solche Stellung als gleich einzuschätzen. Aber die schwarze Stellung
+ist vorzuziehen, denn er hat schon zwei Leichtfiguren abgetauscht und leicht
+ausgeglichen. Seine Bauernstruktur ist auch besser}) 13... Bd7 {[%csl Ya4,Yb5,
+Yc6,Yd7,Ye6][%cal Gd7a4,Gd7e6,Gb8c6] Dies ist ein multi-funktionaler Zug. Er
+erfüllt mehrere Zwecke. Der Läufer steht exzellent auf d7. Er greift den
+Springer auf a4 an, verteidigt den Bauern auf e6 und bereitet die
+Springerentwicklung nach c6 vor} 14. c3 h6 15. Bd2 Qb7 $1 {[%csl Ye4][%cal
+Gb7e4,Gf6e4]} 16. e5 dxe5 17. Qxe5 Nc6 {mit einer ausgezeichneten Stellung
+für Schwarz} *
+

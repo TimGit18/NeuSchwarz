@@ -1,0 +1,52 @@
+[Event "Experts on the Anti-Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pseudo-Alapin-System"]
+[Black "Frühe Rochade"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Christian Bauer"]
+[PlyCount "30"]
+[SourceVersionDate "2019.04.24"]
+
+1. e4 c5 2. Nf3 d6 3. c3 {Die Idee des Pseudo-Alapin-Aufbaus besteht im Aufbau
+eines starken Zentrums mit e4 und d4, gegen das Schwarz nicht mehr gut mit d5
+gegenschlagen kann, denn er hat bereits seinen d-Bauern auf d6 platziert.} Nf6
+{Das ist die logische Antwort. Schwarz setzt das weiße Zentrum unter Druck.
+Alle anderen Züge sind schlechter.} 4. h3 {Hiermit verhindert Weiß die
+Aktion Lc8-g4. Denn sonst käme der schwarze Damenläufer nach g4, würde den
+weißen Springer fesseln und das Bauernzentrum auf d4 unterminieren. Daher
+kann der vierte weiße Zug als Teil seiner Zentralstrategie angesehen werden.}
+g6 {Das ist die große strategische Fortsetzung von Schwarz mit Spiel auf den
+schwarzen Feldern im Zentrum.} 5. Bd3 {Weiß hat hier auch mit anderen
+Läuferzügen experimentiert - allerdings ohne großen Erfolg.} Bg7 {Die
+Frühe Rochade beginnt mit dem Zug} 6. O-O O-O {Die Inklusion der Rochaden
+sollte nicht viel an dem Aufbau ändern im Vergleich zum Rückzug des Läufers
+nach c2. Eine andere Option ist der Turmzug nach e1 und der Rückzug des
+Läufers nach f1. Dies sieht aus wie eine Alt-Indische Verteidigung mit
+vertauschten Farben.} 7. Bc2 ({Die andere wichtige Option lautet} 7. Re1 Nc6 8.
+Bf1 {In dieser Stellung hat Schwarz auch schon andere Züge probiert, aber die
+weißen Chancen sind danach größer.} e5 9. d3 (9. d4 $6 {ist an dieser
+Stelle übereilt wegen} cxd4 10. cxd4 exd4 11. Nxd4 Nxd4 12. Qxd4 Re8 13. Qd3
+d5 14. Nc3 Bf5 {mit besserer Stellung für Schwarz.}) 9... d5 10. exd5 (10.
+Nbd2 $6 {hält die Spannung, ist aber nicht besser.}) 10... Nxd5 11. Nbd2 Re8
+12. a4 b6 13. Nc4 h6 14. Qb3 Rb8 {Die Stellung ist im Grunde Königsindisch
+mit vertauschten Farben. Der schwarze Königsläufer ist etwas besser als sein
+Gegenüber.}) 7... e5 8. d4 exd4 9. cxd4 Nc6 {Weiß hat hier die Wahl zwischen
+den Abtausch auf c5 und dem raumgreifenden d4-d5. Der letztere Zug ist
+vielversprechender für Weiß, obwohl Schwarz eine schöne Benoni-Stellung
+erhält.} 10. d5 (10. dxc5 dxc5 11. Nc3 Be6 12. Be3 {Der Textzug ist der
+natürlichste Zug.} (12. Bg5 {versucht h7-h6 zu provozieren, um den schwachen
+h-Bauern dann mit Dd1-c1 anzugreifen.}) (12. Qxd8 Raxd8 13. Bg5 h6 14. Be3 Nd4
+{führt zu einem ausgeglichen Endspiel.}) 12... b6 13. Qc1 Nb4 14. Bb1 {
+mit ausgeglichenen Chancen.}) 10... Nb4 11. Nc3 Nxc2 12. Qxc2 a6 (12... Re8 $5
+{ist ebenfalls plausibel, da in solchen Varianten jeder logische Zug möglich
+ist.}) 13. a4 {Dieser Zug verhindert den thematischen Vorstoß b7-b5.} Rb8 14.
+a5 ({Nach} 14. Bg5 {sieht das aktive} b5 {sehr gut aus wie in der folgenden
+Variante} 15. axb5 axb5 16. e5 dxe5 17. Nxe5 Bf5 18. Qd1 Qd6 19. Nc6 b4 20. Qf3
+bxc3 21. Bf4 Qxf4 22. Qxf4 cxb2 23. Rad1 Rb7 {mit besserem Spiel für Schwarz.}
+) 14... b5 15. axb6 Qxb6 {In einer typischen Benoni-Stellung wird Schwarz
+seine schwache Bauernstruktur mit aktivem Spiel entlang der b- und e-Linie
+kompensieren.} *
+

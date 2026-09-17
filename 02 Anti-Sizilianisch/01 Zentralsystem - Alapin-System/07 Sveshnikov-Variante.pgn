@@ -1,0 +1,37 @@
+[Event "Repertoire against the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-Gambit"]
+[Black "Sveshnikov-Variante"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Daniel King"]
+[PlyCount "53"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 {Das ist das vielversprechende
+Anti-Alapin-Gambit. Es wurde von Sveshnikov und Emms untersucht, jedoch nicht
+ausführlich behandelt. Allerdings raten sie davon ab, den Bauern behalten zu
+wollen. Von Evgeny Sveshnikov stammt die Fortsetzung} 4. Bb5+ {, nach der
+allerdings Schwarz recht einfaches Spiel erhält.} Nbd7 {ist eine Empfehlung
+von Daniel King.} (4... Bd7 {ähnelt dem Grand-Prix-Angriff, wonach Schwarz
+gute Kompensation erhält.} 5. Bxd7+ Qxd7 6. c4 e6 {etc.}) 5. c4 a6 6. Bxd7+ {
+Der Läufer musste entfernt werden, weil er die schwarze Entwicklung stört.} (
+{Nach} 6. Ba4 {folgt} b5 $1 7. cxb5 Nxd5 {mit Entwicklungsvorsprung und
+schwarzer Dominanz im Zentrum.}) 6... Qxd7 {Diese Fortsetzung ist eine
+Spezialität von Henrik Teske und stellt in Verbindung mit dem Hebel e7-e6
+eine vielversprechende Fortsetzung dar.} (6... Bxd7 {stammt von Sveshnikov
+höchstselbst.} 7. Nf3 e6 8. Qe2 Be7 9. dxe6 Bxe6 {aber er verlor später
+gegen Smagin.}) 7. Nc3 {Das sieht am besten aus.} ({(a) Besner spielte gegen
+Teske} 7. Qe2 b5 8. d3 e6 9. Nf3 Be7 10. dxe6 Qxe6 11. Nc3 O-O 12. Qxe6 Bxe6
+13. cxb5 axb5 14. Nxb5 {Weiß hat zwei Bauern mehr, aber eine furchtbare
+Stellung. 0-1 (36) Besner, B (2114)-Teske,H (2486) Austria 2006}) ({(b) Nicht
+viel besser verlief Delemarre gegen Teske mit} 7. Nf3 e6 8. Qe2 Be7 9. dxe6
+Qxe6 10. d4 b5 11. Nbd2 O-O 12. Qxe6 Bxe6 13. d5 Bf5 {0-1 (28) Delemarre,I 
+(2215)-Teske,H (2500) Regensburg 1997}) 7... b5 8. d3 e6 9. Qe2 Be7 10. dxe6
+Qxe6 11. Qxe6 Bxe6 12. cxb5 (12. b3 Bf5 $44) 12... axb5 13. Nxb5 O-O 14. Nc3 (
+14. Nc7 $2 Rxa2) 14... Nd5 15. Nge2 Nb4 16. O-O Rfb8 17. Bf4 Rd8 18. Be3 Nxd3
+19. Nf4 Nxf4 20. Bxf4 Rd4 21. Be5 Rd2 22. Rfe1 Rxb2 23. Nd5 Rb7 24. Nxe7+ Rxe7
+25. Bd6 Rea7 26. Bxc5 Rxa2 27. Rxa2 {1/2-1/2 (27) Fiebig,T (2416) -Teske,H 
+(2545) Germany 2010 1 e4 c5 2 c3 II} *
+

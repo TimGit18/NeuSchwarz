@@ -1,0 +1,64 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Provokation"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "43"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitestetn und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben} 8. h3
+{[%csl Yg4,Yh3][%cal Rh3g4] Dieser Zug stellt die Hauptvariante dar. Der
+Vorstoß ist typisch für die weiße Strategie in dem Fianchetto-System, denn
+er verhindert sowohl die mögliche Fesselung Lc8-g4 und auch die Belästigung
+eines Läufers Lc1-e3 durch den Springerzug Sf6-g4} Rb8 {Die Hauptfortsetzung
+ist dieser konsitente Zug. Es gibt keinen Grund für Schwarz diesen Zug nicht
+zu spielen.} {Mit dem Zug} 9. Bg5 {provoziert Weiß den Zug h7-h6, bevor er
+e2-e3 spielt. Der Zug stammt aus der berühmten Partie Lautier-Shirov, Manila
+Interzonenturnier 1990. Es stellt sich heraus, dass der Zug h7-h6 Schwarz
+nicht schadet, denn normalerweise bringt Weiß seinen Königsspringer nach d2
+und nicht die Dame dorthin} h6 {Schwarz spielt normalerweise diesen Zug} 10.
+Be3 Bd7 {Das ist die Hauptvariante der aktuellen Fortsetzung} 11. Nd5 {Dieser
+unüblich aussehende Zug taucht ziemlich oft in dem Panno-System auf. Weiß
+will nicht auf den Bauernvorstoß b7-b5-b4 warten, sondern bietet die Springer
+zum Tausch an. Das macht insofern Sinn, denn Weiß kann die schlechte Stellung
+des schwarzen h-Bauern nicht gut ausnutzen} ({Weiß kann den Bauern auch
+direkt attackieren} 11. Qd2 {, aber die Dame steht hier nicht ideal} Kh7 12.
+Rac1 b5 13. cxb5 (13. Nd5 Ne4 14. Qd3 f5 15. cxb5 Rxb5 {mit schwarzem
+Gegenspiel} 16. Nxc7 Qxc7 17. d5 Nc5 18. Bxc5 dxc5 19. dxc6 Bxc6 {und Schwarz
+steht schon besser}) 13... axb5 14. d5 Na5 15. b3 b4 16. Na4 Bxa4 17. bxa4 Ne4
+18. Qc2 Nc3 19. Nd4 Qd7 20. a3 Bxd4 21. Bxd4 Nb3 22. Bxc3 (22. Qxb3 Nxe2+ 23.
+Kh2 Nxd4 24. Qb2 Nf5 25. axb4 Qxa4) 22... bxc3 23. Rfe1) 11... b5 {Schwarz
+ignoriert die Drohung, dass er einen Doppelbauern erhält und beginnt sein
+eigenes Spiel} 12. Nxf6+ exf6 13. cxb5 Rxb5 {Der Turm ist hier ziemlich aktiv}
+14. Qd2 g5 {Schwarz ist bereit, seine Königbauern als Phalanx zu benutzen} 15.
+d5 ({(a)} 15. Rfc1 {ist etwas unklar nach} Ne7 16. Ne1 Nf5) ({(b)} 15. Ne1 {
+stammt aus dem Finnischen Schach} Ne7 16. f3 f5 17. Bf2 f4 18. gxf4 gxf4 19.
+Qxf4 Rxb2 {mit guter Stellung für Schwarz}) 15... Ne7 16. Nd4 {Es sieht so
+aus als müsste sich Schwarz zurückziehen und als könnte Weiß die offene
+c-Linie nutzen, aber er hat einen guten Konter} Rxd5 17. Bxd5 Nxd5 18. Nf5 ({
+(a)} 18. Kh2 Qc8 {zwingt Weiß zur Verteidigung}) ({(b)} 18. g4 Re8 19. Nf5 Qa8
+20. Rfd1 Re5 21. Nxg7 Kxg7 22. Rac1 h5 {mit Initiative}) 18... Bxf5 19. Qxd5
+Bxh3 20. Rfd1 Re8 21. Rac1 f5 22. Rd2 {Schwarz hat gute Kompensation für die
+Qualität} *
+

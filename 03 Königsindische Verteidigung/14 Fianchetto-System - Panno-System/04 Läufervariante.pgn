@@ -1,0 +1,88 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Läufervariante"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "32"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitesten und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben} 8. h3
+{[%csl Yg4,Yh3][%cal Rh3g4] Dieser Zug stellt die Hauptvariante dar. Der
+Vorstoß ist typisch für die weiße Strategie in dem Fianchetto-System, denn
+er verhindert sowohl die mögliche Fesselung Lc8-g4 und auch die Belästigung
+eines Läufers Lc1-e3 durch den Springerzug Sf6-g4} Rb8 {Die Hauptfortsetzung
+ist dieser konsistente Zug. Es gibt keinen Grund für Schwarz diesen Zug nicht
+zu spielen. Der Zug} 9. Be3 {ist die Hauptalternative zum Zug e2-e4} b5 10. Nd2
+{Das wird fast ausschließlich gespielt, aber es ist auch anderes möglich} (
+10. cxb5 axb5 11. d5 (11. Nd2 Bd7 12. Rc1 b4 13. Ncb1 (13. Na4 Na5 14. b3 Qc8
+15. Kh2 Rb5 {Schwarz hat die Initiative}) 13... Na5 14. b3 c6 {ist angenehm
+für Schwarz}) (11. Rc1 Bd7 12. d5 Na5 13. b3 b4 14. Nb1 Qc8 15. Kh2 Qb7 16.
+Ng5 Rfc8 {Schwarz hat die harmonischere Stellung, Weiß hat schon Probleme mit
+dem Bauern d5}) 11... Na5 12. Nd4 ({Nach} 12. b4 Nc4 13. Ba7 Rb7 14. Bd4 e5 {
+hat Schwarz gutes Gegenspiel} 15. dxe6 fxe6 16. Qb3 e5 17. Be3 Kh8) 12... b4
+13. Ncb5 ({Oder} 13. Na4 e5 14. Nc6 Nxc6 15. dxc6 Be6 {mit guter Stellung für
+Schwarz}) 13... Nxd5 {ist vielversprechend} 14. Bxd5 c5 15. Bg2 Bd7 16. Qd3 Qb6
+{und Schwarz gewinnt die Figur zurück bei anhaltender Initiative}) 10... Bd7 {
+Dieser Zug ist der Hauptzug und konsistent mit den anderen Varianten dieses
+Systems} 11. Rc1 ({(a) Der Abtausch} 11. cxb5 {würde bloß in die obige
+Variante transponieren} axb5 12. Rc1) ({(b) Weiß kann auch wie folgt spielen} 
+11. d5 Na5 12. cxb5 axb5 13. b4 Nc4 14. Nxc4 bxc4 15. b5 ({Nach} 15. a3 Qc8 16.
+Kh2 c6 {hat Schwarz gutes Gegenspiel}) 15... Qc8 16. Qa4 ({Nach} 16. Kh2 Bxb5
+17. Nxb5 Rxb5 {ist der Damenzug nach c8 auch sehr nützlich}) 16... Bxh3 17.
+Qxc4 Bxg2 18. Kxg2 Ng4 {mit schwarzem Gegenspiel}) 11... e6 {Mit diesem Zug
+bleibt die schwarze Stellung sehr flexibel} 12. b3 {Weiß entscheidet sich
+dafür, die Spannung aufrecht zu erhalten, hat aber auch Alternativen} ({(a)} 
+12. cxb5 axb5 13. Nde4 Nxe4 14. Nxe4 Ne7 {[%csl Yf5][%cal Ge7f5] mit gutem
+Spiel für Schwarz, wenn der Springer nach f5 kommt}) ({(b)} 12. d5 Ne7 13. b3
+{gibt Schwarz noch mehr Optionen} (13. dxe6 fxe6 14. b3 Nf5 15. Bg5 h6 16. Bxf6
+Qxf6 17. Nce4 Qd8 18. c5 d5 19. Nc3 b4 20. Na4 Bb5) 13... b4 $5 {mit
+vielversprechender Stellung} 14. Nce4 Nxe4 15. Nxe4 (15. Bxe4 exd5 16. cxd5
+Bxh3 {und Schwarz hat den h-Bauern gewonnen}) 15... exd5 16. cxd5 Rb5 {mit
+gutem Gegenspiel}) 12... Ne7 {[%csl Yf5][%cal Ge7f5] Schwarz besitzt eine
+kompakte, flexible Stellung. Weiß muss sich um den Se7-f5 Sorgen machen} 13.
+Bg5 {Weiß willigt in den Abtausch von Läufer gegen Springer ein, um eine
+Schwächung seiner Bauernstruktur zu vermeiden. Das bringt zwar nicht
+besonders viel, aber die Alternativen sehen nicht besser aus} ({(a)} 13. cxb5
+axb5 14. Nf3 b4 15. Nb1 Nfd5 16. Bg5 {mit Ausgleich, aber spielbarer Stellung})
+({(b)} 13. g4 {verhindert Sf5, aber Schwarz kann trotzdem Gegenspiel kreiieren}
+b4 14. Ncb1 h5 15. g5 Nh7 16. Nf3 Nf5 17. Qd3 e5 18. dxe5 Nxe3 19. Qxe3 Re8 20.
+h4 Bxe5 21. Nxe5 Rxe5 22. Qd3 Qe7 {mit bequemen Spiel für Schwarz. Die weiße
+Stellung auf dem Königsflügel sieht etwas überdehnt aus}) ({(c)} 13. Nf3 {
+schafft ein Rückzugsfeld für den Läufer auf e3, aber der Springer steht
+eigentlich auf d2 besser. Nach} Bc6 14. Bg5 b4 15. Nb1 Ne4 16. Bxe7 Qxe7 17.
+Qd3 f5 18. Nfd2 Nxd2 19. Nxd2 Bd7 20. e3 e5 {hat Schwarz bereits die Initiative
+}) ({(d)} 13. f4 $6 {sieht interessant aus, läuft aber in taktische Probleme}
+Nf5 14. Bf2 Nh5 15. Nde4 {wurde einige Male gespielt, aber Schwarz kann
+schnell Vorteil erlangen mit} (15. Kh2 {verliert einen Bauern für Nichts} b4
+16. Nce4 Bxd4 17. Bxd4 Nxd4 18. g4 Ng7 19. e3 Nc6 20. g5 Ne8 21. Qe1 f5 22.
+gxf6 Nxf6 23. Ng5 Qe7 {mit wenig Kompensation für Weiß}) 15... b4 16. e3 (16.
+g4 Nxf4 17. gxf5 exf5) (16. Nb1 d5 17. cxd5 exd5 18. Nc5 Nhxg3) 16... bxc3 17.
+g4 Nxd4 18. gxh5 Nf5 19. Nxc3 e5) 13... b4 14. Na4 ({(a) Nach} 14. Nce4 $2 Nxe4
+15. Nxe4 f5 $1 16. Nd2 Bxd4 {verliert Weiß einen gesunden Bauern}) ({(b)} 14.
+Ncb1 h6 15. Bxf6 Bxf6 16. e3 Bg7 {ähnelt der Hauptvariante außer dass der
+Springer auf b1 passiv steht}) 14... h6 15. Bxf6 Bxf6 16. e3 Bg7 {Die Stellung
+ist einigermaßen ausgeglichen. Schwarz hat das Läuferpaar, aber Weiß steht
+ganz solide. Schwarz könnte auch auf a4 nehmen, aber dann kommt der andere
+Springer gut nach b3} *
+

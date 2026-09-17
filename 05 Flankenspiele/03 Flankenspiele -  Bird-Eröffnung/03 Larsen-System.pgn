@@ -1,0 +1,26 @@
+[Event "Theorie der Schacheröffnungen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bird-Eröffnung"]
+[Black "Larsen-System"]
+[Result "*"]
+[ECO "A02"]
+[Annotator "Dr. Max Euwe"]
+[PlyCount "24"]
+[EventDate "2015.??.??"]
+
+1. f4 Nf6 2. Nf3 g6 {Das ist der sogenannte Indo-Bird. Schwarz behält sich
+die Wahl zwischen einem Aufbau mit d7-d5 oder d7-d6 vor. Der Aufbau mit d7-d5
+führt allerdings meistens in die Bahnen des Holländisch im Anzuge.} {Das
+Larsen-System beginnt mit} 3. b4 Bg7 4. Bb2 O-O 5. e3 (5. g3 {ist eine
+Alternative, zum Beispiel} d6 6. Qc1 a5 7. b5 Bd7 8. a4 c6 9. Na3 Qc8 10. Bg2
+Bh3 11. O-O Bxg2 12. Kxg2 Nbd7 13. c4 {aus der Partie Larsen,B-Barendregt,J
+Beverwijk 1961. Am besten folgt jetzt} e5 14. fxe5 Nxe5 15. Nxe5 dxe5 16. Bxe5
+Qe6 $1 17. d4 Ng4 $1 {Schwarz hat sehr gutes Gegenspiel für den Bauern.}) 5...
+d6 6. Na3 {Die Idee des Zugs ist es, den Springer auf c4 zu etablieren, um die
+Kontrolle über e5 zu erlangen.} e5 $1 {Wieder folgt das übliche Motiv im
+Indo-Bird.} 7. fxe5 Ng4 8. Nc4 {aus der Partie Larsen,B-Toran Albero,R
+Beverwijk 1960. Schwarz hätte nun spielen sollen} Nxe5 9. Ncxe5 dxe5 10. Bxe5
+Bxe5 11. Nxe5 Qh4+ 12. g3 Qxb4 {mit vermutlich gleichen Chancen.} *
+

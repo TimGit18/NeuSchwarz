@@ -1,0 +1,63 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Avrukh-Variante"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "42"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitestetn und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben. Der
+Zug} 8. Qd3 {sieht unüblich aus, aber er wurde von Boris Avrukh empfohlen und
+ist seitdem ziemlich beliebt. Nun ist der Bauer auf c4 einfach geschützt und
+Weiß droht mit dem einfachen d4-d5 den Springer zu fangen, falls dieser nach
+a5 geht} Bd7 {Das ist ein guter kämpferischer Zug. Schwarz hat keine Angst
+vor dem Bauernvorstoß von Weiß und entwickelt einfach eine Figur} 9. d5 {
+Das ist die Hauptidee von Weiß} (9. Rd1 {wird mit} b5 {beantwortet. Es sieht
+aus als sei der Zug nicht möglich, aber die Taktik arbeitet für Schwarz} 10.
+cxb5 axb5 11. Nxb5 Nb4 12. Qc4 Nxa2 {Das ist die Pointe. Der Springer sieht
+gefährdet aus, aber er kann nicht gefangen werden} 13. Bd2 Qb8 14. Nxc7 (14.
+Na3 Be6 15. Qb5 Bb3 16. Rdb1 Qxb5 17. Nxb5 c6 18. Nc3 Rfb8 {mit schwarzer
+Initiative}) 14... Ra4 15. b4 Rc8 16. Ng5 {behält die Kontrolle über das
+Feld e6} (16. Rxa2 Rxc7 17. Qb3 Rca7 {Es sieht so aus als seien alle weißen
+Figuren auf den weißen Feldern anfällig}) 16... e6 17. Rxa2 Rxc7 18. Qb3 Qa7
+19. b5 (19. Rda1 Qxd4 20. Rxa4 Bxa4 21. Rxa4 Qxd2) 19... Rxa2 20. b6 Qb8 21.
+Qxa2 Qxb6 22. e3) 9... Nb4 10. Qd1 {Die weiße Dame kehrt nach Hause zurück.
+Andere Züge sehen irgendwie nicht besser aus} ({(a)} 10. Qb1 a5 11. e4 c6 12.
+Be3 cxd5 13. cxd5 Rc8 14. Rc1 Ng4 15. Bd2 Qb6 16. Be1 f5 {und Schwarz hat die
+Initiative ergriffen}) ({(b)} 10. Qd2 a5 11. Nd4 Ng4 12. Rb1 c5 13. dxc6 Nxc6
+14. Nxc6 bxc6 15. b3 Bf5 16. e4 Be6 17. Bb2 Rb8 18. Ne2 Bxb2 19. Rxb2 Qb6 {
+mit Gegenspiel für Schwarz}) 10... a5 {Schwarz muss ein Fluchtfeld für
+seinen Springer schaffen} 11. e4 ({(a) Stattdessen ist} 11. Be3 e5 12. dxe6
+Bxe6 13. a3 Nc6 {schön für Schwarz. Nach} 14. c5 d5 15. Nd4 Nxd4 16. Bxd4 c6
+{ist die Stellung ausgeglichen}) ({(b) Avrukh selbst empfiehlt} 11. a3 {
+, um die Rückkehr des Springers nach c6 zu verhindern} Na6 12. Be3 Nc5 $5 {
+Das ist ein aktiver Zug für Schwarz} 13. Bxc5 dxc5 14. e4 Ng4 15. Qe2 Ne5 16.
+Nd2 c6 17. h3 cxd5 18. cxd5 Qb6 {mit komplexem Spiel}) 11... e5 12. Ne1 {
+Das ist die universelle Waffe von Weiß} ({Er kann auch versuchen, den Bauern
+zu tauschen} 12. dxe6 Bxe6 {, aber nun kann der schwarze Springer zurück nach
+c6} 13. Qe2 Nc6) 12... b6 {Das ist am solidesten} 13. Rb1 Na6 14. a3 Nc5 15. b4
+axb4 16. axb4 Na4 17. Nxa4 (17. Nb5 {verliert stattdessen wegen} Bxb5 18. cxb5
+Nc3) 17... Rxa4 18. Nd3 Qa8 19. f3 c6 20. dxc6 Qxc6 21. Be3 Ra3 {Schwarz hat
+gutes Gegenspiel} *
+

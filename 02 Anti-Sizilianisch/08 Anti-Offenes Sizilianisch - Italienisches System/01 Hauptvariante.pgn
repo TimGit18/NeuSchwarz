@@ -1,0 +1,28 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Italienisches System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "40"]
+[SourceDate "2014.08.11"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 {Dieser Ansatz ist mehr im Sinne von Capablanca und
+Rubinstein und bevorzugt einen langsamen strategischen Kampf anstatt eines
+kurzfristigen Geschosses. Im Prinzip ist die Eröffnung positionell und solide,
+aber auch etwas zahm und nicht sehr gefährlich bei guter Vorbereitung.} Nf6 4.
+d3 Nc6 5. c3 g6 (5... e6 {ist auch möglich, aber das
+Königsflügel-Fianchetto bringt bessere Resultate}) 6. Bb3 {Weiß kann etwas
+an der Zugreihenfolge variieren, zum Beispiel zunächst kurz rochieren, aber
+im Prinzip wird immer dieselbe Stellung erreicht.} Bg7 7. O-O O-O 8. Re1 ({
+Die Alternative} 8. Nbd2 b6 9. Re1 {führt bloß zu Zugumstellung}) 8... b6 9.
+Nbd2 Ba6 10. Nf1 Ne5 $1 {Wieder einmal sehen wir den thematischen Zug. Er ist
+viel effektiver in Verbindung mit dem Läufer auf a6.} 11. Bc2 {Weiß ist
+praktisch zu diesem defensiven Zug gezwungen aufgrund der Schwäche von d3} Qc7
+12. h3 e6 13. N3h2 Nc6 14. f4 e5 15. Ng4 Nxg4 16. Qxg4 c4 {Das sieht sehr
+vielversprechend aus} 17. dxc4 exf4 18. Bxf4 Ne5 19. Qe2 Bxc4 20. Qf2 Be6 {
+Schwarz hat eine typische Sizilianisch-Stellung ohne viel Stress erreicht.} *
+

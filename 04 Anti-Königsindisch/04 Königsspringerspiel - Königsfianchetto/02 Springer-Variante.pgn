@@ -1,0 +1,55 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsflügel-Fianchetto"]
+[Black "Springer-Variante"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Yelena Dembo"]
+[PlyCount "18"]
+[EventDate "2011.08.10"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 {Weiß vermeidet die
+Aufstellung mit c4 und d4 zum Königsinder. Statt dessen wirll er eine
+Pirc-Aufstellung wählen, in der der Läufer auf g2 nicht optimal steht. Der
+schwarze Plan sieht e7-e5 vor, wonach er sich mit c7-c6 und Dd8-c7
+konsolidiert. Wenn Weiß aber auf e5 abtauscht, dann erhöht Schwarz den Druck
+auf e4 mit b6 und Lb7. Sollte Weiß die Spannung im Zentrum zurückhalten, so
+wird Schwarz gewöhnlich mit der Entwicklung auf dem Damenflügel fortfahren:
+b7-b5 oder b6, Lb7 und Tad8, gefolgt won exd4 und c7-c5 mit starkem Druck
+gegen e4 oder weitere Ausdehnung auf dem Damenflügel. Dieser Plan ähnelt
+Varianten aus der Philidor-Verteidigung, in denen Weiß a2-a4 spielt, um b5 zu
+verhindern. Jedoch kann Schwarz trotzdem b5 nach Vorbereitung durch Tb8
+spielen. Die Springer-Variante beginnt mit} 6. Nbd2 {[%csl Yc4][%cal Gd2c4]
+und erscheint logischer als nach c3, da der Springer auch noch nach c4 gehen
+kann. Dort kann er Druck auf den Bauern e5 ausüben und Ideen entwickeln, um
+das Feld d6 zu besetzen, wenn dieses durch den Bauernzug nach c6 geschwächt
+ist. Andererseits behindert der Springer auf d2 nachhaltig die Koordination
+der weißen Figuren.} Nbd7 7. e4 e5 8. dxe5 {Das ist die offensichtliche Wahl.}
+({(a) Weiß kann aber auch Gebrauch einer anderen Option machen, indem er das
+Zentrum unterstützt.} 8. c3 {Schwarz soll daraufhin ein Druckspiel gegen e4
+organisieren, wobei er den weißen Springer an d2 bindet.} b6 9. Re1 Re8 10.
+Qc2 (10. d5 {löst das Problem des weißen Bauern auf e4, aber er verpflichtet
+Weiß zu einer Struktur, in der seine Figuren nicht gut genug platziert sind,
+um zu unterstützen. Tatsächlich ergreift Schwarz nach} a5 11. a4 Nc5 12. Qc2
+Ba6 13. c4 c6 $1 {die Initiative.}) 10... Bb7 11. dxe5 ({Stattdessen ist} 11.
+d5 {wiederum eine schlechte Idee} c6 12. dxc6 Bxc6 13. c4 {in Mateuta,
+G-Zetocha,C Sovata 1998. Nach} Qc7 14. b3 {bereitet} a5 {den Zug} 15. Z0 Nc5 {
+vor, der Weiß zu defensivem Spiel zwingt.}) 11... Nxe5 12. Nxe5 Rxe5 {Weiß
+gerät unter einigen Druck und es droht d6-d5.} 13. Nc4 $6 {Danach kann
+Schwarz ganz natürlich wie folgt fortsetzen} (13. b3 Qd7 14. Bb2 Rae8 15. c4
+R5e7 16. Rad1 Qc8 {mit Remis in Vadasz,L-Jansa,V Budapest 1976. Schwarz steht
+hier gut, da Weiß keinen produktiven Zug machen kann.} ({Das aggressive} 16...
+Qg4 {kam ebenfalls in Betracht.})) 13... Bxe4 14. Bxe4 Rxe4 15. Rxe4 Nxe4 16.
+Qxe4 d5 {und nach} 17. Qf3 ({Oder} 17. Qe2 dxc4 18. Qxc4 Qd1+ 19. Qf1 Qc2 {
+und Schwarz ist offensichtlich besser.}) 17... dxc4 18. Bg5 Qe8 19. Rd1 (19.
+Qb7 $5 Bf8 $1 20. Qxc7 Qb5 {ist ebenfalls sehr gut für Schwarz.}) 19... c6 {
+hat er einen Mehrbauern in Frendzas,P-Moutousis,K Peristeri 1994.}) ({(b)
+Ähnlich wie in der Pirc-Variante ist die Fortsetzung} 8. d5 Nc5 9. Re1 a5 {
+kaum für Weiß zu empfehlen.}) 8... dxe5 {Es ist eine vollkommen symmetrische
+Stellung entstanden. Schwarz hat einen leichten praktischen Vorteil, denn er
+kann wählen, wie er auf die weißen Pläne reagieren soll.} 9. b3 {[%csl Yb2,
+Yc4][%cal Gc1b2,Gb2e5,Gd2c4,Gc4e5] Weiß beabsichtigt den Druck auf e5 mit Lb2
+und Sc4 zu erhöhen, und dies ist der ehrgeizigste Versuch.} Re8 *
+

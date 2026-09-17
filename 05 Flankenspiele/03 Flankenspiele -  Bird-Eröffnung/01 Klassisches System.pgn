@@ -1,0 +1,35 @@
+[Event "Theorie der Schacheröffnungen"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bird-Eröffnung"]
+[Black "Klassisches System"]
+[Result "*"]
+[ECO "A02"]
+[Annotator "Dr. Max Euwe"]
+[PlyCount "24"]
+[EventDate "2015.??.??"]
+
+1. f4 Nf6 2. Nf3 g6 {Das ist der sogenannte Indo-Bird. Schwarz behält sich
+die Wahl zwischen einem Aufbau mit d7-d5 oder d7-d6 vor. Der Aufbau mit d7-d5
+führt allerdings meistens in die Bahnen des Holländisch im Anzuge.} 3. b3 {
+Diese logische Fortsetzung ist allerdings etwas altmodisch.} {Das Klassische
+System beginnt nun mit} Bg7 4. Bb2 O-O 5. e3 d6 {Dieser gute Zug ist das
+Merkmal dieser Variante. Schwarz strebt möglicherweise e7-e5 an, was Weiß
+nicht gut verhindern kann} 6. Be2 {Das ist ein logischer Entwicklungszug.} c5 {
+Eine logische Antwort, der die Kontrolle über die weißen Felder im Zentrum
+streitig macht.} ({Euwe betrachtet nur} 6... e5 $5 7. fxe5 Ng4 8. O-O Nc6 {
+, was tatsächlich recht gut für Schwarz punktet.}) 7. O-O ({Ein
+Entwicklungszug ist} 7. Na3 {Dieser Zug ist in dem Klassischen System des
+Indo-Bird eher ungebräuchlich. Weiß möchte den Springer entwickeln, ohne
+dem Läufer auf b2 die Sicht zu verstellen.} Nc6 8. O-O a6 {Schwarz steht
+etwas besser. Noch sind keine Figuren abgetauscht. Daher geht es darum, die
+Beweglichkeit der gegnerischen Figuren einzuschränken. 0-1 Kollmann,R (1948)
+-Schmitz,T (1801) RLSW 2023/2024}) 7... Nc6 8. c4 {Wahrscheinlich ist dies der
+beste Zug für Weiß. Er kontrolliert das Feld d5 und sorgt für gute
+Stützpunkte im Zentrum.} e5 {Mit diesem Zug meldet Schwarz seinen Anspruch
+auf das Zentrum an. Der Zug stellt aufgrund des folgenden Motivs keinen Bauern
+ein.} 9. fxe5 Ng4 {Das ist das typische Befreiungsmotiv im Indo-Bird.} 10. Nc3
+dxe5 11. h3 Nh6 12. e4 f5 {Die Stellung ist ausgeglichen. Weiß hat Vorteil
+auf den weißen Feldern im Zentrum, Schwarz auf den schwarzen.} *
+

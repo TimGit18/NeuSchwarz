@@ -1,0 +1,32 @@
+[Event "The English Opening"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vorstoßvariante"]
+[Black "Botvinnik-System"]
+[Result "*"]
+[ECO "A26"]
+[Annotator "Mihail Marin"]
+[PlyCount "26"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.08.08"]
+
+1. c4 Nf6 2. g3 g6 3. Nc3 Bg7 4. Bg2 O-O 5. e4 d6 6. Nge2 e5 7. d3 Nc6 8. O-O
+Be6 9. Nd5 Qd7 {Bis zu diesem Punkt war die Theorie wohlbekannt. Weiß
+verfügt über mehr Raum im Zentrum und über den unglaublich starken Springer
+auf d5.} 10. f4 $5 {Dieser Vorstoß sieht etwas verfrüht aus, punktet aber
+recht gut.} Bg4 $1 {Das ist die richtige Antwort. Schwarz nutzt die Fesselung
+auf e2 aus, die nicht gut aufgelöst werden kann.} 11. Ne3 {Weiß klärt die
+Situation im Zentrum auf, zieht aber den Springer von dem schönen Feld
+zurück. Dafür erobert der Zug das Läuferpaar, denn der Rückzug nach e6
+kostet wegen f4-f5 eine Figur!} {Die einzig richtige Fortsetzung lautet} Bxe2 (
+11... Bh3 $4 {Dieser Zug aus Kolb-Schmitz, Bodenmais 2022, ist ein riesiger
+positioneller Fehler. Zwar werden die weißfeldrigen Läufer getauscht, aber
+dies begünstigt nur Weiß. Zudem kommt der Vorstoß f4-f5 mit Tempo, wonach
+die Stellung auf dem Königsflügel strategisch gewonnen ist.} 12. f5 $1 {
+Dieser Zug zementiert den weißen Vorteil und unterbindet jegliches schwarzes
+Gegenspiel.}) 12. Qxe2 Nd4 13. Qf2 {Weiß hat jetzt auch schon Schwerfiguren
+auf der f-Linie postiert und wird f4-f5 spielen. Der schwarze Springer ist
+hier aber sehr stark und sichert das Gegenspiel mit} b5 {nebst Öffnung der
+b-Linie.} *
+

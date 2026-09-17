@@ -1,0 +1,81 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Seirawan-System"]
+[Black "Natürliche Fortsetzung"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "David Vigorito"]
+[PlyCount "38"]
+[EventDate "2014.01.18"]
+[SourceDate "2014.01.18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 {Das ist die Seirawan-Variante.
+Angeblich ist sie nicht so aggressiv wie andere Systeme gegen die
+Königsindische Verteidigung, aber sehr solide und kompakt. Das entscheidende
+Feld ist d4, weil es in dieser Variante geschwächt ist. Schwarz muss ein
+Druckspiel gegen dieses Feld organisieren} O-O {Schwarz muss oder will einen
+Standard-Aufbau wählen} 6. Nge2 {Der Sinn dieses Zuges ist es, d4 zu
+überdecken und den Bauern f2-f3-f4 nicht zu verstellen. Außerdem wird die
+kurze Rochade ermöglicht} Nc6 {Dieser Zug ist sehr natürlich und direkt.
+Schwarz hat hier auch schon andere Ideen ausprobiert, aber dieser Zug passt
+besser in das eigene Repertoire. Schwarz attackiert das Zentrum mit seinen
+leichten Figuren und wird schnell mit e7-e5 zurückschlagen} 7. O-O {Das wird
+ausschließlich gespielt. Schwarz hat jetzt drei Möglichkeiten. Er kann sofort
+e7-e5 spielen, um den Springer nach auf d4 zu verankern oder moderater den
+anderen Springer nach d7 zurückziehen. Letztendlich ist der moderne Ansatz mit
+Springer nach h5 der ehrgeizigste, aber auch strategisch riskanteste} ({(a)
+Stattdessen erlaubt} 7. d5 Ne5 {die Eroberung des Läuferpaars durch Schwarz}) (
+{(b)} 7. f3 {ist in Ordnung, aber Weiß braucht sich nicht so früh festzulegen.
+Nach} e5 8. d5 Nd4 9. Be3 {spielt Schwarz} Nh5 {, wonach man in die
+Hauptvarianten gelangt}) 7... Nh5 {[%csl Rd4][%cal Gg7d4,Gc6d4] Das ist die
+modischste Fortsetzung. Schwarz attackiert den Bauern d4 sofort und verankert
+den Springer auf den Königsflügel. Schwarz wird wieder e7-e5 folgen lassen,
+aber hier wird der Damenspringer nach e7 zurückgezogen, um den schwarzen
+Angriff auf dem Königsflügel zu unterstützen} 8. Be3 {Das ist ein sehr
+natürlicher Zug, aber wenn man davon ausgeht, dass Schwarz schnell f7-f5
+spielen wird, ist der Läufer ein mögliches Ziel (egal, ob er mit dem Springer
+oder mit dem Bauern auf f5 zurückschlägt)} e5 9. d5 Ne7 {Das ist sehr
+konsistent, aber auch Sc6-d4 ist möglich} 10. Qd2 {Das ist die natürliche
+Fortsetzung, aber Weiß hat auch schon andere Züge ausprobiert} ({(a)} 10. a4 {
+ist eine normale Idee, sie scheint aber kein Tempo wert zu sein} f5 11. exf5
+gxf5 12. f4 exf4 13. Nxf4 Nxf4 14. Bxf4 Ng6 15. Bd2 Qh4 16. Qe1 Qd4+ 17. Qe3
+Bd7 18. Qxd4 Bxd4+ 19. Kh1 Ne5 20. Be2 Ng4 {Schwarz hat bereits
+ausgezeichnetes Figurenspiel}) ({(b)} 10. c5 f5 11. f3 f4 12. Bf2 g5 {Das
+weiße Spiel wirkt sehr riskant, denn er wird kaum in der Lage sein, den
+Durchbruch auf g4 zu verhindern, hat aber genügend Gegenspiel auf dem
+Damenflügel} 13. Rc1 ({Weiß sollte} 13. h3 {betrachten, denn Schwarz muss den
+Springer schon ein zweites Mal bewegen, zum Beispiel} Nf6 14. Rc1 Ng6 15. cxd6
+cxd6 16. Nb5 Rf7 17. Nxa7 {und Weiß steht gut da} h5) 13... g4 14. cxd6 cxd6
+15. Kh1 ({Falls} 15. Nb5 gxf3 16. gxf3 Bh3) 15... Ng6 16. Nb5 g3 17. Bg1 Nh4 {
+und Schwarz hat ernsthafte Angriffschancen}) ({(c)} 10. Ng3 Nf4 {Dieser Zug
+sieht sehr verlockend aus, aber vielleicht ist der Springer auf diesem Feld
+nicht so effektiv platziert} 11. Bc2 f5 12. f3 Nxg2 {Es ist schwer, etwas
+anderes vorzuschlagen} 13. Kxg2 f4 14. Bd2 fxg3 15. hxg3 {Weiß steht doch sehr
+gut}) 10... f5 11. exf5 ({Weiß kann die Stellung auch öffnen mit} 11. f4 fxe4
+12. Bxe4 (12. Nxe4 Nf5) 12... Nf5 13. Bxf5 Bxf5 14. fxe5 Bxe5 15. Bd4 Qh4 16.
+Bxe5 dxe5 17. b3 Nf6 {ist solide, aber etwas schlicht für Schwarz}) 11... gxf5
+{Schwarz kann auch mit dem Springer zurückschlagen, aber das könnte die
+Entwicklung verlangsamen} 12. f4 {Das ist die weiße Hauptidee, aber andere 
+Züge wurden auch ausprobiert} ({(a)} 12. f3 Kh8 13. c5 f4 14. Bf2 Nf5 15. cxd6
+cxd6 16. Ne4 Rg8 {mit unklarem Spiel}) ({(b)} 12. Ng3 Nf6 13. f4 Ng4 14. fxe5
+Nxe3 15. Qxe3 Bxe5 {mit gutem Gegenspiel für Schwarz} 16. Qg5+ Kh8 17. Rf3 Bd7
+18. Raf1 Ng6 19. Qxd8 Raxd8 20. Nxf5 Bxc3 21. bxc3 Ne5 {mit Materialgewinn für
+Schwarz}) ({(c)} 12. Bg5 f4 {Schwarz gibt das Feld e4 auf, um etwas Platz für
+seine eigenen Figuren zu erhalten} 13. f3 Bf6 14. Bxf6 Nxf6) 12... Ng6 13. fxe5
+{Weiß forciert das Rennen.} ({Stattdessen führt} 13. g3 {zu unklarem Spiel nach
+} Bd7 14. Rae1 a6 15. b3 exf4 16. Nxf4 Ngxf4 17. gxf4 Qh4) 13... dxe5 {Diese
+Stellung ist sehr zweischneidig, aber es sieht so aus als hätte Weiß gute
+Chancen mit sehr genauem Spiel. Schwarz hat ein gutes Bauernduo, aber es ist
+schwierig, vorzumaschieren ohne Schwächen zu erzeugen. Schwarz will seine
+Entwicklung mit Dd8-d6 und Lc8-d7 vervollständigen, aber das ist nicht einfach
+zu erreichen} 14. Bg5 ({Weiß könnte auch einen prophylaktischen Zug wie} 14.
+Bc2 {zu spielen}) 14... Qd6 15. Nb5 $1 {Sofortiger Angriff auf die schwarze
+Dame} ({Stattdessen ist} 15. Kh1 {etwas zu langsam} e4 16. Bc2 Ne5 17. Nb5 ({
+Oder} 17. b3 Ng4 18. g3 Bd7) 17... Qc5) 15... Qd7 16. Ng3 $6 ({(a) Eine andere
+Idee ist} 16. Bc2 a6 17. Nbc3 Qd6 18. Na4) ({(b)} 16. d6 $5 cxd6 17. Bc2 e4 18.
+Nxd6 Bxb2 19. Rab1 Be5 {und Weiß hat gute Kompensation für den Bauern}) 16...
+Nxg3 17. hxg3 a6 18. Nc3 Qd6 19. Be2 Bd7 {Schwarz hat seinen ersehnten Aufbau
+endlich erreicht und gutes Gegenspiel} *
+

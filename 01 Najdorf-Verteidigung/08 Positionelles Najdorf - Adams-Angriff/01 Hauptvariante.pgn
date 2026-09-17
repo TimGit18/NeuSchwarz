@@ -1,0 +1,40 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Adams-Angriff"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "38"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 {Das ist ein sehr
+giftiger Zug, der neuerdings von vielen Elitespielern gespielt wird. Die Idee
+ist es, g2-g4 zu spielen und schnell einen Angriff auf dem Königsflügel zu
+starten} e5 {Dieser Zug stellt die aggressivste und kompromissloseste Antwort
+dar. Schwarz erhält die Chance auf Gegenspiel} 7. Nde2 {[%csl Yf5][%cal Re2g3,
+Rg3f5] Der Springer steht auf e2 besser als auf f3, denn so nimmt er am Kampf
+um das Feld d5 teil. Außerdem kann er über g3 nach f5 gebracht werden,
+wogegen er auf f3 keine Zukunft hat} h5 {Dieser Zug hindert Weiß daran,
+selber g2-g4 zu spielen und den Springer auf g3 hinterher zu schieben.
+Zugegebenermaßen besitzt der Zug auch Nachteile. Das Feld g5 wird Weiß
+überlassen, auf dem ein Läufer ideal steht. Schwarz sollte daher nicht so
+schnell kurz rochieren, denn er könnte unter einem Angriff mit g2-g4 kommen}
+8. Bg5 Be7 9. Ng3 $5 {[%csl Yf5][%cal Gg3f5] Der Springer kommt trotzdem nach
+g3 und will nach f5} g6 $1 {Dem Springer sollte es verwehrt werden nach f5 zu
+kommen. Daher bedient dieser Zug die Erfordernisse der Stellung} 10. Bc4 Be6
+11. Bb3 {Weiß kann auch auf e6 tauschen, die Stellung bleibt hiernach unklar}
+({Unklar scheint die Variante} 11. Bxe6 fxe6 12. Qd2 Nbd7 13. O-O (13. f4 {Oder
+} Qa5) 13... Qc7 {Schwarz hat es geschafft, den weißfeldrigen Läufer
+abzutauschen. Nun kontrolliert ein Bauer das Feld d5, die einzige Schwäche
+von Schwarz}) ({Daniel King erwähnt noch die Variante} 11. Bxf6 Bxf6 12. Nd5
+Bg5 13. c3 Nd7 14. Bb3 O-O 15. O-O Bh6 16. Re1 Nc5 17. Bc2 h4 18. Nf1 Bxd5 19.
+Qxd5 Qe7 20. Ne3 Bxe3 21. fxe3 (21. Rxe3 Ne6 22. Qd2 Nf4) 21... Rad8 22. Rf1
+Kg7 23. Rf2 Ne6 24. Bb3 Nc5 25. Bc2 Ne6 {1/2-1/2 (25) Naroditsky,D (2483)
+-Andriasian,Z (2605) Groningen 2012}) 11... Nc6 $1 {Das Feld c6 ist wohl das
+beste Feld in dieser Stellung} 12. Nge2 O-O 13. Qd3 ({Nach} 13. Bh6 Re8 14. O-O
+b5 15. Qd3 {hat Weiß einen kleinen Vorteil, da er mehr Raum hat}) 13... Nh7
+14. Bh6 Nb4 $1 {mit gutem Gegenspiel} 15. Qd1 Re8 16. a3 Nc6 17. Bxe6 fxe6 18.
+Qd3 Bg5 19. Bxg5 Qxg5 {Diese Stellung ist ausgeglichen} *
+

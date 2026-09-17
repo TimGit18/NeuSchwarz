@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Dunst"]
+[Black "Giddens-Weidenhagen-Gambit"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "22"]
+[EventDate "2010.07.13"]
+
+{[%evp 0,11,16,18,25,-24,-14,-32,-28,-22,-8,-8,1,-2]} 1. Nc3 {Diese Eröffnung hat eigenständigen Wert und gilt nicht als Werkzeug, um in andere Eröffnungen zu transponieren. Manche nennen sie auch die Van Geet-Eröffnung oder Der Linkspringer. Schwarz sollte sicher gut vorbereitet sein.} Nf6 {Das ist eine typische Antwort eines e5-Spielers. Jetzt führt e2-e4 zu einer Wiener Partie.} {Das Gibbens-Weidenhagen-Gambit} 2. g4 $6 {ist ein zweifelhaftes Gambit} Nxg4 3. e4 d6 4. Be2 (4. d4 e5 $1 {ist eine noch schlechtere Variante für Weiß}) 4... Nf6 5. d4 {Weiß hat etwas Kompensation für den Bauern, aber solange sich Schwarz vernünftig entwickelt reicht diese nicht aus. Eine mögliche Fortsetzung lautet} g6 6. Bg5 c6 $1 7. Qd2 b5 {Schon beginnt der Gegenangriff. Die Abwesenheit seines g-Bauern begünstigt den weißen Angriff nicht} 8. Bxf6 $6 exf6 9. O-O-O Bg7 10. d5 b4 11. Nb1 c5 $17 *
+

@@ -1,0 +1,70 @@
+﻿[Event "The English Opening"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Botvinnik-System"]
+[Black "Verzögerungsvariante"]
+[Result "*"]
+[ECO "A16"]
+[Annotator "Mihail Marin"]
+[PlyCount "32"]
+[EventDate "2016.11.09"]
+[SourceDate "2016.11.09"]
+
+1. c4 {In der Englischen Eröffnung flankiert Weiß das Zentrum ohne sich auf
+die zentralen Bauernzüge e2-e4 oder d2-d4 schon festlegen zu müssen. Diese
+Eröffnung gilt als sehr solide und ausgesprochen flexibel. Schwarz darf seine
+Stellung nicht überschätzen und muss im Zentrum gegenhalten.} Nf6 {Dies ist
+die flexibelste Antwort. Schwarz lädt Weiß ein in eine Indische Verteidigung
+zu gehen, aber dieser kann weiter flexibel spielen} 2. Nc3 {Dies ist wieder
+der flexibelste Zug für Weiß. Er legt seine Bauernstruktur noch nicht fest,
+sondern er entwickelt eine Figur und kontrolliert das Zentrum} g6 {Schwarz
+entscheidet sich für einen Königsindischen Aufbau. Er läßt Weiß immer
+noch die Option offen, in die Königsindische Verteidigung zu gehen} 3. g3 {
+Auch Weiß entscheidet sich für einen Königsindischen Aufbau. Dieser passt
+hier besser zu der gewählten Bauernstruktur, denn Weiß kann einen
+unangenehmen Druck auf das schwarze Zentrum und die weißen Felder auf dem
+Damenflügel aufbauen} Bg7 4. Bg2 O-O {Schwarz spielt einfach die üblichen
+königsindischen Züge ohne sich um die weiße Reaktion zu kümmern. Weiß
+muss jetzt langsam seine Pläne offenlegen} 5. d3 {Mit diesem Zug legt sich
+Weiß fest. Er vermeidet die Königsindische Verteidigung und legt sich noch
+nicht fest, ob er auf dem Damenflügel oder im Zentrum angreifen will} d6 {
+Wiederum ist dies der flexibelste Zug von Schwarz. Er wartet nun ab, ob Weiß
+in den Standard-Aufbau oder in das Botvinnik-System übergehen will} 6. e4 {
+[%csl Yc3,Yd5,Ye2][%cal Rc3d5,Rg1e2,Re2c3] Dieser Zug, der das
+Botvinnik-System einleitet, sieht auf den ersten Blick antipositionell aus.
+Weiß sperrt den eigenen Läufer auf g2 ein und hinterläßt ein schwarzes
+Loch auf d4. Aber der Zug hat einen tieferen Sinn. Weiß behindert den
+gefährlichen schwarzen Königsflügel-Angriff, der nach dem Standard-Aufbau
+viel gefährlicher werden könnte. Außerdem kontrolliert Weiß das Feld d5,
+auf dem ein weißer Springer platziert wird, der von dem anderen Springer
+Sg1-e2-c3 unterstützt werden kann} e5 {Schwarz möchte im Zentrum dagegen
+halten. Er könnte auch den Damenspringer entwickeln, doch er möchte auch das
+direkte f2-f4 verhindern, was jetzt viel zu riskant für Weiß wäre} 7. Nge2 {
+Dieses Feld ist für den Königsspringer viel besser geeignet als das Feld f3.
+Er unterstützt f2-f4 und kann bei Bedarf auch nach c3 gehen, um den Springer
+auf d5 zu unterstützen} Nc6 8. O-O {Damit ist die Ausgangsstellung des
+Botvinnik-Systems erreicht.} Be6 {Dieser Zug ist der logischste Zug. Schwarz
+möchte seine Entwicklung mit Dd8-d7 und Ta8-e8 vervollständigen} {Nach} 9. h3
+{verhindert Weiß zunächst einmal mechanisch den Abtausch seines
+Königsläufers und gewinnt gleichzeitig etwas Raum auf dem Königsflügel} Qd7
+{[%csl Yh3][%cal Re6h3] Der Zug ist sowieso gut. Schwarz verbindet die Türme
+und bedroht den Bauern auf h3, den Weiß mit dem König verteidigen muss} 10.
+Kh2 {Da Weiß seine Königsstellung etwas geschwächt hat, sollte Schwarz
+jetzt den f-Bauern in Marsch setzen} Nh5 {[%csl Yf4,Yf5,Yg3][%cal Rf7f5,Rf5f4,
+Rh5g3] Ein sehr provokativer Zug. Schwarz nimmt g3 in das Visier nach dem
+vorhersehbaren Vormarsch f7-f5-f4} 11. Nd5 ({Der Vorstoß} 11. g4 {ist
+wahrscheinlich verfrüht} Nf6 12. f4 exf4 13. Nxf4 (13. Bxf4 {erlaubt} h5 {
+mit Gegenspiel}) 13... Nd4 {Jetzt hat Weiß einige schwache schwarze Felder})
+11... Nd8 {[%csl Yc6][%cal Rc7c6] Das ist ein vertrauter Zug. Schwarz möchte
+den starken Springer auf d5 vertreiben. Er könnte auch nach e7 zurückziehen,
+aber dort verstellt er nur die eigene Figurenkoordination} 12. d4 {Das ist
+eine logische Antwort, denn nun hat der Springer das Feld c6 verlassen und die
+Kontrolle über d4 abgegeben} ({Hier ist auch} 12. g4 {stark} Nf6 13. f4 exf4
+14. Bxf4 {mit weißem Raumvorteil}) 12... c6 13. Ne3 {Jetzt droht Läuferfang
+mit d4-d5} f5 {Schwarz rettet den Läufer auf das Fluchtfeld f7 und hofft
+gleichzeitig auf Königsflügel-Initiative} 14. exf5 gxf5 15. d5 ({Averbakh
+spielte noch} 15. f4 exf4 16. gxf4 d5 17. cxd5 cxd5 {mit einer voll
+symmetrischen Stellung}) 15... Bf7 16. f4 Bg6 {Weiß hat Raumvorteil und übt
+Druck auf die schwarze Stellung aus} *
+

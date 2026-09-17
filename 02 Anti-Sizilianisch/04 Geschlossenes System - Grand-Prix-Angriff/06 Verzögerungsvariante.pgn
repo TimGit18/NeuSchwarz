@@ -1,0 +1,70 @@
+[Event "Sicilian Grand Prix Attack"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grand-Prix-Angriff"]
+[Black "Verzögerungsvariante"]
+[Result "*"]
+[ECO "B23"]
+[Annotator "Gawain Jones"]
+[PlyCount "24"]
+[SourceDate "2014.05.22"]
+
+1. e4 c5 2. Nc3 d6 {Manche Spieler sind eher dazu abgeneigt, hier d7-d6 zu
+spielen. Denn es gibt Situationen, in denen Schwarz lieber direkt d7-d5 spielt
+und daher statt d7-d6 gleich den Springerzug Sb8-c6 bevorzugt. Anscheinend ist
+aber der Damenbauerzug d7-d6 auch nicht so schlimm. Der Sinn dieser Variante
+ist es, dass ein Übergang in einen anderen Offenen Sizilianer vermieden wird.}
+3. f4 {Manche Spieler sind eher dazu abgeneigt, hier d7-d6 zu spielen. Denn es
+gibt Situationen, in denen Schwarz lieber direkt d7-d5 spielt und daher statt
+d7-d6 gleich den Springerzug Sb8-c6 bevorzugt. Anscheinend ist aber der
+Damenbauerzug d7-d6 auch nicht so schlimm. Dieser Zug kennzeichnet den
+Grand-Prix-Angriff. Weiß erobert schnell Raum und entwickelt seine Figuren
+unter Zeitgewinn.} g6 {Warum entwickelt Schwarz zunächst seinen Läufer auf
+die lange Diagonale und erst danach die Springer? Würde er zunächst den
+Damenspringer entwickeln, so könnte Weiß diesen plangemäß mit dem Läufer
+auf b5 abtauschen. Andererseits steht der Königsspringer auf f6 etwas
+unsicher und kann immer mit e4-e5 bedrängt werden - solange das Feld e5 nicht
+unter Kontrolle von Schwarz ist.} 4. Nf3 {Weiß entwickelt sich logisch weiter
+und kontrolliert jetzt auch die schwarzen Felder d4 und e5.} Bg7 {Schwarz
+vermeidet alle Springerzuüge mit Sb8-c6 und wartet ab, wohin Weiß seine
+Figuren entwickelt. In der Regel hat Weiß drei Optionen, nämlich d2-d4,
+Lf1-c4 oder Lf1-b5 Schwarz vermeidet noch alle Springerzüge und wartet noch
+ab, wohin Weiß seine Figuren entwickelt. In der Regel hat Weiß drei Optionen,
+nämlich d2-d4 oder die beiden Läuferzüge Lf1-c4 oder Lf1-b5 Das
+Zwischenschach} 5. Bb5+ {ist etwas trickreicher als es aussieht.} Bd7 {Schwarz
+will natürlich nicht den Springer in die Diagonale stellen, denn Weiß
+möchte ja den Läufer gegen den Springer tauschen. Somit bietet er den
+Läufer an.} 6. Bc4 $1 {Dieser Zug wurde von Gawain Jones empfohlen. Weiß
+erleidet nur scheinbar einen Tempoverlust. In Wirklichkeit steht der Läufer
+auf d7 nicht besonders gut. Dieser Rückzug ist sehr gefährlich und muss
+genau beantwortet werden.} Nc6 {Dieser Zug ist unstrittig der beste. Schwarz
+stellt jetzt endgültig die Kontrolle über die schwarzen Zentralfelder her.}
+7. O-O {Bevor Weiß irgendwelche Aktionen im Zentrum unternimmt, bringt er
+erst einmal den König in Sicherheit und einen Turm auf die potentiell zu
+öffnende f-Linie.} e6 {Dieser Zug bildet die Hauptfortsetzung. Schwarz
+blockiert den weißen Angriffsläufer bzw. dessen Blick nach f7. Im Grunde
+sieht das am besten aus und punktet auch gut. Allerdings wird der Bauer auf d6
+auch schwach.} ({Das Problem an} 7... Nf6 {ist der Vormarsch des e-Bauern} 8.
+e5 Ng4 9. Ng5 {und Weiß punktet hier sehr gut}) 8. d3 {Das ist der
+plangemäße Zug. Weiß öffnet die Diagonale für den anderen Läufer.
+Schwarz muss jetzt kühl weiterspielen.} ({Vielleicht ist} 8. f5 {verfrüht,
+aber die prinzipielle Idee} exf5 9. exf5 Bxf5 {Weiß hat einen Bauern geopfert,
+um den schwarzen König in der Mitte festzuhalten.} 10. g4 Bxg4 11. Bxf7+ Kd7 {
+Weiß hat sicher Kompensation für den Bauern, aber Schwarz sollte sich halten
+können.}) 8... Nge7 {Bei dieser Bauernkonstellation ist der Springerzug am
+besten. Der Vormarsch e4-e5 ist jetzt wirkungslos wegen des Konters d6-d5.
+Also muss Weiß den anderen Bauern nach vorne drücken.} 9. f5 {Das ist der
+prinzipielle Durchbruch} ({Mehr im traditionellen Sinn des Grand-Prix-Angriffs
+ist} 9. Qe1 {Hiernach kann Schwarz mit dem Klassischen Konter} Nd4 {antworten
+und den zweiten Springer nach c6 bringen} 10. Nxd4 cxd4 11. Ne2 d5 $1) 9...
+exf5 $1 {Schwarz muss so nehmen} ({Ein krasser Fehler von mir war zweimal} 9...
+Ne5 $2 10. Bg5 {und Schwarz ist schon in gewaltigen Schwierigkeiten}) 10. exf5
+{Wenn Weiß mit seinem Bauernopfer etwas erreichen will, dann muss er nehmen
+und die e-Linie öffnen} ({Nicht so zwingend ist} 10. Qe1 {, wonach} Ne5 {
+hier gut ist}) 10... Bxf5 {Eigentlich steht der Läufer hier ganz gut.
+Deswegen muss Weiß versuchen, ihn zu unterminieren.} 11. g4 {Weiß opfert
+einen zweiten Bauern, den er aber gleich wieder zurückgewinnt.} Bxg4 12. Bxf7+
+Kd7 ({Nicht gut ist hier} 12... Kxf7 {wegen der Replik} 13. Ng5+ {und Weiß
+kommt zu einem guten Angriff auf den weißen Feldern}) *
+

@@ -1,0 +1,39 @@
+﻿[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Moderne Variante"]
+[Result "*"]
+[ECO "B95"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "28"]
+[EventDate "2012.04.21"]
+[SourceDate "2012.04.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Der Versuch der
+direkten Widerlegung von Najdorf: Weiß möchte lang rochieren, im Zentrum
+oder auf dem Königsflügel durchbrechen - je nachdem, ob Schwarz kurz
+rochiert oder in der Mitte bleibt} e6 {Das ist die übliche Antwort von
+Schwarz. Er kontrolliert das Schlüsselfeld d5. Das Bauernpaar e6 und d6 soll
+Weiß auf Abstand halten, den Entwicklungsrückstand aufholen und Gegenspiel
+am Damenflügel beginnen} 7. Qd3 {Weiß beabsichtigt ohne Verzögerung zu
+rochieren und dann einen Angriff zu starten} b5 8. O-O-O {Alles andere ist
+keine Herausforderung für Schwarz} ({(a) Nach} 8. f4 b4 9. Nce2 Bb7 10. Ng3 h6
+11. Bxf6 Qxf6 {steht Schwarz bequem}) ({(b)} 8. Be2 Nbd7 9. f4 Nc5 {zeigt den
+Nachteil des siebten Zugs von Weiß. Die weiße Dame kostet Zeit} 10. Qe3 b4
+11. Bxf6 Qxf6 {und Schwarz steht hier schon zumindest gleich, zum Beispiel} 12.
+Bf3 bxc3 13. e5 cxb2 14. Rb1 dxe5 15. fxe5 Qd8 16. Bxa8 Bd7 17. Bf3 Na4) 8...
+b4 {Dieser energische Vorstoß ist nicht einfach für Weiß zu parieren} 9.
+Bxf6 {Dieser interessante Zug ist gegen den Transfer des Damenspringers von b8
+nach c5 gerichtet} ({(a) Nach} 9. Nb1 Nbd7 {hat Schwarz einfaches Spiel, denn
+Weiß wird dann sicher nicht den Läufer auf f6 tauschen wollen}) ({(b)} 9.
+Nce2 Nbd7 10. f4 Nc5 11. Qe3 Ncxe4 {gewinnt für Schwarz einen Bauern}) 9...
+Qxf6 10. Qc4 Qg5+ 11. f4 ({Nach} 11. Kb1 Qc5 {steht Schwarz sehr bequem}) 11...
+Qxf4+ 12. Kb1 Nd7 13. Qxb4 {Mit zwei Läufern und der besseren Bauernstruktur
+hat Schwarz die längerfristig besseren Aussichten} Qe5 {Die Dame würde
+ohnehin von der f-Linie verjagt werden und soll auf den Damenflügel gebracht
+werden} 14. Qa4 Qc5 {Dieser genaue Zug soll die ärgerliche Invasion der
+weißen Dame auf c6 verhindern. Schwarz sollte gute Chancen haben, wenn er
+seine Entwicklung beendet} *
+

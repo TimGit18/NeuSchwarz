@@ -1,0 +1,69 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bajonett-Angriff"]
+[Black "Direkte Variante"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "David Vigorito"]
+[PlyCount "58"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. b4 {Der Bajonettangriff war
+in den 1990er Jahren sehr gefürchtet. Er zwingt Schwarz geradezu dazu, sich
+in seine Verteidigung zu knien. Der weiße König steht ziemlich sicher und
+trotz der geschlossenen Stellung entwickelt sich schnell ein Spiel im Zentrum}
+Nh5 {Dieser Zug stellt die Hauptvariante dar und gilt als die größte
+Herausforderung von Weiß. Schwarz stellt seinen Springer auf ein aktiveres
+Feld als d7 oder e8, was deshalb geht, da Weiß das Feld h5 nicht kontrolliert.
+Der Springer beobachtet das Feld f4 und bereitet f7-f5 vor. Heute entgegnet
+man auf diesen Ausfall seitens Weiß nur noch mit Tf1-e1} {Der direkteste Zug
+ist} 10. c5 {Obwohl er nicht so schlecht ist, wird er heute nicht mehr sehr
+oft gespielt} Nf4 {Schwarz kann auch direkt f7-f5 spielen, aber der direkte
+Zug ist zu bevorzugen und als Hauptvariante anzusehen} 11. Bxf4 exf4 12. Rc1 {
+Der bei weitem häufigste Zug. Weiß unterbricht die Fesselung auf der langen
+Diagonale und deckt den Springer.} ({(a)} 12. Qd2 h6 {Dies bereitet den Schutz
+des Bauern f4 vor} 13. Rad1 g5 14. e5 g4 15. exd6 cxd6 16. Ne1 dxc5 17. d6 Ng6
+18. bxc5 ({Nicht} 18. d7 Bxd7 {, wonach der weiße Springer auf c3 verloren ist
+}) 18... Bd7 {mit unklarer Stellung}) ({(b)} 12. Qb3 Bg4 13. Rad1 Bxf3 14. Bxf3
+g5 15. Bh5 ({Oder} 15. Bg4 Ng6 16. Ne2 Ne5) 15... Ng6 16. Bxg6 hxg6 {mit
+gleicher Stellung}) 12... a5 {Dieser Zug punktet gut und wurde auch von
+Kasparov gespielt, was eine gute Bestätigung darstellt. Wieder wird der
+Läuferzug nach g4 mit dem Springerzug nach d4 gekontert} 13. cxd6 {Hier sind
+auch noch andere Züge möglich} ({(a)} 13. a3 {ist der offensichtliche Zug,
+aber die Öffnung der a-Linie sollte Schwarz in dieser Stellung zugute kommen.}
+) 13... cxd6 14. Nb5 Bg4 15. Rc7 axb4 16. Qd2 Bxf3 17. Bxf3 Be5 18. Rxb7 {
+Dieser Zug reicht zum Ausgleich} Qa5 19. Nd4 Qxa2 20. Qxa2 Rxa2 21. Rxb4 Rfa8
+22. Bg4 Bxd4 23. Rxd4 g5 24. h4 gxh4 25. Kh2 Ng6 26. Kh3 Rb2 27. Bf5 Ne5 28.
+Kxh4 h6 29. Bh3 Kg7 *
+

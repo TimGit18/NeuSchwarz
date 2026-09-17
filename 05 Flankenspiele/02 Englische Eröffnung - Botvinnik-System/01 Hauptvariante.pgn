@@ -1,0 +1,90 @@
+﻿[Event "The English Opening"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Botvinnik-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "A26"]
+[Annotator "Mihail Marin"]
+[PlyCount "37"]
+[EventDate "2016.11.09"]
+
+1. c4 {In der Englischen Eröffnung flankiert Weiß das Zentrum ohne sich auf
+die zentralen Bauernzüge e2-e4 oder d2-d4 schon festlegen zu müssen. Diese
+Eröffnung gilt als sehr solide und ausgesprochen flexibel. Schwarz darf seine
+Stellung nicht überschätzen und muss im Zentrum gegenhalten.} Nf6 {Dies ist
+die flexibelste Antwort. Schwarz lädt Weiß ein in eine Indische Verteidigung
+zu gehen, aber dieser kann weiter flexibel spielen} 2. Nc3 {Dies ist wieder
+der flexibelste Zug für Weiß. Er legt seine Bauernstruktur noch nicht fest,
+sondern er entwickelt eine Figur und kontrolliert das Zentrum} g6 {Schwarz
+entscheidet sich für einen Königsindischen Aufbau. Er läßt Weiß immer
+noch die Option offen, in die Königsindische Verteidigung zu gehen} 3. g3 {
+Auch Weiß entscheidet sich für einen Königsindischen Aufbau. Dieser passt
+hier besser zu der gewählten Bauernstruktur, denn Weiß kann einen
+unangenehmen Druck auf das schwarze Zentrum und die weißen Felder auf dem
+Damenflügel aufbauen} Bg7 4. Bg2 O-O {Schwarz spielt einfach die üblichen
+königsindischen Züge ohne sich um die weiße Reaktion zu kümmern. Weiß
+muss jetzt langsam seine Pläne offenlegen} 5. d3 {Mit diesem Zug legt sich
+Weiß fest. Er vermeidet die Königsindische Verteidigung und legt sich noch
+nicht fest, ob er auf dem Damenflügel oder im Zentrum angreifen will} d6 {
+Wiederum ist dies der flexibelste Zug von Schwarz. Er wartet nun ab, ob Weiß
+in den Standard-Aufbau oder in das Botvinnik-System übergehen will} 6. e4 {
+[%csl Yc3,Yd5,Ye2][%cal Rc3d5,Rg1e2,Re2c3] Dieser Zug, der das
+Botvinnik-System einleitet, sieht auf den ersten Blick antipositionell aus.
+Weiß sperrt den eigenen Läufer auf g2 ein und hinterläßt ein schwarzes
+Loch auf d4. Aber der Zug hat einen tieferen Sinn. Weiß behindert den
+gefährlichen schwarzen Königsflügel-Angriff, der nach dem Standard-Aufbau
+viel gefährlicher werden könnte. Außerdem kontrolliert Weiß das Feld d5,
+auf dem ein weißer Springer platziert wird, der von dem anderen Springer
+Sg1-e2-c3 unterstützt werden kann} e5 {Schwarz möchte im Zentrum dagegen
+halten. Er könnte auch den Damenspringer entwickeln, doch er möchte auch das
+direkte f2-f4 verhindern, was jetzt viel zu riskant für Weiß wäre} 7. Nge2 {
+Dieses Feld ist für den Königsspringer viel besser geeignet als das Feld f3.
+Er unterstützt f2-f4 und kann bei Bedarf auch nach c3 gehen, um den Springer
+auf d5 zu unterstützen} Nc6 8. O-O {Damit ist die Ausgangsstellung des
+Botvinnik-Systems erreicht.} Be6 {Dieser Zug ist der logischste Zug. Schwarz
+möchte seine Entwicklung mit Dd8-d7 und Ta8-e8 vervollständigen} 9. Nd5 $1 {
+Das ist der stärkste Zug von Weiß. Weiß verbessert seine Figurenstellung
+ohne Zeit zu verlieren} Qd7 {Dieser Zug provoziert den nächsten weißen Zug,
+aber die Drohung der Fesselung auf g5 war zu stark. Im Übrigen unterstützt
+die Dame auf d7 den möglichen Abtausch auf h3 und deckt den Bauern auf c7} 10.
+Bg5 {Weiß droht jetzt einfach mit Figurengewinn.Er hat jetzt alle seine
+Figuren in das Spiel gebracht. Schwarz muss reagieren und gleichzeitig eigene
+Pläne entwickeln} Nh5 {Dieser Zug ist riskanter, aber auch aktiver als der
+Springerrückzug nach e8. Schwarz droht jetzt mit dem Vormarsch f7-f5-f4, um
+die f-Linie zu öffnen} 11. Qd2 {[%csl Yb4][%cal Rb2b4] Ein starker und
+effektiver Zug, der sich quasi von selbst erklärt. Weiß verbindet die Türme
+und droht b2-b4. Auch hier ist der Vorstoß des Läufers nach h6 möglich dank
+der Kontrolle über die Diagonale c-h6} f5 {Das ist der thematische Zug in
+dieser Stellung. Schwarz muss ein Gegenspiel einleiten} 12. exf5 $1 {Das ist
+eine gute Antwort und die Empfehlung von Marin. Weiß setzt den Angriff
+unverzüglich fort.} ({Es gibt keinen Grund, das Schlagen hinauszuzögern, denn
+} 12. Rac1 {erlaubt es Schwarz, die Dinge zu verkomplizieren} Rae8 {Schwarz
+muss das Feld e7 unter Kontrolle nehmen, bevor er irgendwelche konkreten
+Aktionen im Zentrum unternimmt} 13. b4 fxe4 14. dxe4 Nd4 15. Nxd4 exd4 16. c5
+c6 17. Nf4 Nxf4 18. Bxf4 {Die Stellung ist interessant, aber Schwarz hat seine
+Kräfte mobilisiert und besitzt gleichwertiges Spiel}) 12... Bxf5 {Schwarz
+sollte mit dem Läufer schlagen} ({Das natürlich aussehende} 12... gxf5 {
+scheitert an dem starken weißen Gegenstoß} 13. f4 {, wonach das schwarze
+Spiel am Königsflügel beendet ist}) 13. b4 {Weiß setzt seinen Vorstoß auf
+dem Damenflügel fort} Rae8 {Wieder muss Schwarz das Feld e7 überdecken, denn
+sonst gewinnt Weiß nach Schach auf e7 und Abtausch des vertriebenen Springers
+auf d8 den Bauern b7. Schwarz könnte auch den König in die Ecke bringen,
+aber er will aktiv werden.} ({Nach} 13... a6 {ist folgende Zugfolge forciert}
+14. b5 axb5 15. cxb5 Nd8 16. Ne7+ Kh8 17. Nxf5 Qxf5 18. Bxd8 Raxd8 19. Bxb7 {
+und Weiß hat einfach einen Bauern gewonnen}) 14. b5 Nd8 {[%csl Yc6,Yh3][%cal
+Rc7c6,Rf5h3,Rd7f5] Schwarz hat nun seine Entwicklung abgeschlossen -und droht
+seinerseits mit c7-c6, um den starken weißen Springer zu vertreiben und Lf5-h3
+} 15. Bxd8 {Das ist ein guter weißer Zug. Er beseitigt den Hauptverteidiger
+des schwarzen Damenflügels und erhöht den Druck gegen b7} Rxd8 {Schwarz
+sollte auf jeden Fall die Drohung Lf5-h3 beibehalten. Ansonsten könnte Weiß
+den zweiten Springer über c3 in das Spiel bringen, und Schwarz kann den
+Springer auf d5 sehr schlecht mit c7-c6 vertreiben} 16. Nb4 {[%csl Yb7,Yd5,Yg2]
+[%cal Rg2b7] Der Druck auf der Diagonalen h1-a8 wird langsam unangenehm} Bh3 {
+Weiß muss sich hier entscheiden. Er kann ein interessantes Qualitätsopfer
+mit guter Kompensation anbieten} 17. Bxb7 $1 {Es ist wesentlich, diesen
+Läufer zu behalten und gleichzeitig den Druck auf den weißen Feldern
+aufrecht zu erhalten.} Bxf1 18. Rxf1 Nf6 19. Nc3 {Weiß hat einen
+strategischen Vorteil gegenüber einem kleinen Materialverlust.} *
+

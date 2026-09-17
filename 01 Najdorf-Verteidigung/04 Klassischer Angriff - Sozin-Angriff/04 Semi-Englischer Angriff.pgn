@@ -1,0 +1,13 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sozin-Angriff"]
+[Black "Semi-Englischer Angriff"]
+[Result "*"]
+[ECO "B87"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "40"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 {Dies ist kein besonders gefährlicher Zug für Schwarz und er hat viele Möglichkeiten, eine gute Stellung zu erreichen} b5 8. Bb3 Bb7 (8... Be7 9. Qe2 O-O 10. O-O-O b4 11. Na4 Qa5 12. Nf3 Nbd7 13. Nd2 Bb7 14. f3 Bc6 15. Nc4 Qc7 16. Nab6 Rab8 17. Nxd7) 9. f4 {Schwarz könnte jetzt zwar jetzt den weißen Bauern auf e4 auf zwei Arten gewinnen, aber die Stellung ist nur mit Computerhilfe zu halten und sehr gefährlich für Schwarz. Daher sollte er besser die Entwicklung vervollständigen} ({Nach einem Zug wie} 9. f3 {kann Schwarz keine ernsthaften Probleme besitzen, denn die weiße Hauptidee ist es, den Bauern nach f5 zu treiben und Druck auf e6 auszuüben} Nbd7) 9... Nbd7 10. O-O Rc8 11. Qe2 (11. f5 $6 e5 12. Nf3 ({Nach dem Vorstoß f4-f5 ist das Springeropfer auf e6 eigentlich die richtige Idee, obwohl es hier nicht funktioniert} 12. Ne6 $2 fxe6 13. fxe6 Nc5 14. Nd5 Bxd5 15. Bxd5 Be7 16. g4 O-O 17. g5 Nxd5 18. Qxd5 Qc7 19. Rf5 Qb7 20. Raf1 Rxf5 21. Rxf5 Qxd5 22. exd5 Rf8 23. Rxf8+ Kxf8 24. Bxc5 dxc5 25. h4 Ke8) 12... Be7 13. Nd2 O-O) 11... b4 12. Na4 Qa5 13. c3 (13. a3 bxa3 14. Rxa3 Qh5 15. Qxh5 Nxh5 16. f5 e5 17. Ne6 fxe6 18. fxe6 Ndf6 19. Nb6 Rc7 20. Nd5 Nxd5 21. exd5 Nf6 22. c4 Be7 23. Ba4+ Kf8 24. Rb3 Kg8 25. Ba7 {Weiß hat ausgezeichnete Kompensation für das geopferte Material}) 13... Bxe4 14. Rac1 bxc3 15. Nxc3 Bb7 16. Na4 Rxc1 17. Rxc1 d5 18. f5 e5 19. Ne6 Bd6 20. Nxg7+ Ke7 {Die schwarze Stellung wirkt harmonischer, wohingegen die weißen Figuren verstreut sind} *
+

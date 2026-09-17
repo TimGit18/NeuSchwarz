@@ -1,0 +1,42 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grand-Prix-Angriff"]
+[Black "Schneller Angriff"]
+[Result "*"]
+[ECO "B23"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "32"]
+[SourceDate "2014.05.22"]
+
+1. e4 c5 2. Nc3 d6 3. f4 {Manche Spieler sind eher dazu abgeneigt, hier d7-d6
+zu spielen. Denn es gibt Situationen, in denen Schwarz lieber direkt d7-d5
+spielt und daher statt d7-d6 gleich den Springerzug Sb8-c6 bevorzugt.
+Anscheinend ist aber der Damenbauerzug d7-d6 auch nicht so schlimm.} g6 4. Nf3
+Bg7 {Schwarz vermeidet alle Springerzuüge mit Sb8-c6 und wartet ab, wohin
+Weiß seine Figuren entwickelt. In der Regel hat Weiß drei Optionen, nämlich
+d2-d4, Lf1-c4 oder Lf1-b5} 5. Bc4 {Das ist die aggressivste Variante für
+Weiß. Anstatt seinen Läufer abzutauschen, hofft er ihn zu Angriffszwecken zu
+benutzen.} Nc6 6. O-O Nf6 {Viele Spieler bevorzugen e7-e6, um den Springer
+nach e7 zu entwickeln, aber der Textzug scheint stärker.} 7. Qe1 {Mit diesem
+Zug beabsichtigt Weiß ein schnelles f4-f5, um den Damenflügel erst etwas
+später zu entwickeln.} O-O (7... Nb4 8. Qd1 O-O 9. d3 d5 10. exd5 Nfxd5 {
+scheint eine ebenfalls gut spielbare Variante zu sein}) 8. f5 e6 $1 {Schwarz
+bereitet den Gegenschlag im Zentrum vor. Er kann zwar auch auf f5 nehmen, was
+sicherlich theoretisch in Ordnung ist, aber dann hat Weiß etwas Kompensation}
+9. fxg6 (9. fxe6 fxe6 {läuft auf dasselbe hinaus}) 9... fxg6 (9... hxg6 {ist
+viel zu gefährlich für Schwarz, denn er öffnet die h-Linie.}) 10. e5 $6 {
+Dieser verführerische Zug scheint ein Fehler zu sein. Weiß scheint das
+Zentrum des Gegners zu kompromittieren, aber er kann dessen Figuren nicht
+zähmen.} ({Besser scheint zu sein} 10. d3 Ng4 11. Bg5 Qb6 {mit gleichen
+Chancen}) 10... dxe5 11. d3 Nd4 12. Bb3 ({Nicht viel besser ist} 12. Nxd4 cxd4
+13. Ne4 Nxe4 14. Rxf8+ Qxf8 15. Qxe4 Qf5) 12... Nd5 {Die Doppelbauern spielen
+eine wertvolle Rolle bei der Unterstützung der mächtigen Springer} 13. Nxd4
+Rxf1+ 14. Qxf1 cxd4 {Schwarz sollte sich nicht so viele Sorgen um die
+Korrektur seiner Bauernstruktur machen. Tatsächlich scheint der Bauer e5 eine
+wichtige Rolle zu spielen, um die weiße Initiative zu zähmen.} 15. Ne4 Bd7
+16. Bg5 Qc7 {Schwarz hat einen Mehrbauern und eine gesunde Zentrumskontrolle.
+Zwar mag der zusätzliche e-Bauer Weiß nicht sonderlich zu schmerzen, aber er
+verbessert die schwarze Kontrolle über die zentralen Felder.} *
+

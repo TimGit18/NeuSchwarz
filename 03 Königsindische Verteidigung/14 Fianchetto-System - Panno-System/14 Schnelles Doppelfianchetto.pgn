@@ -1,0 +1,85 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Panno-System"]
+[Black "Schnelles Doppelfianchetto"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "David Vigorito"]
+[PlyCount "27"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der
+weiße König steht unglaublich sicher und es ist für Schwarz nicht so
+einfach, Gegenspiel zu initiieren} Nc6 {[%csl Ya6,Yb5,Yb8,Rc4,Yd4][%cal Gc6d4,
+Ga8b8,Ga7a6,Gb7b5] Hiermit beginnt die Panno-Variante, die man bereits von dem
+Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er möchte sein
+Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt etwas Logik,
+denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt nicht mehr von
+dem Läufer auf f1 gedeckt werden kann. Im Unterschied zum Jugoslawischen
+System wird der Bauer auf c4 nicht vom Springer auf a5 angegriffen} 7. Nc3 {
+[%csl Yb5,Yd5,Ye4][%cal Rc3e4,Rc3d5,Rc3b5] Dieser natürliche Entwicklungszug
+ist am verbreitestetn und am flexibelsten. Der Springer steht auf c3 aktiv und
+greift die Felder e4, d5 und b5 an} a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen. Jetzt
+hat Weiß folgende Möglichkeiten, falls er nicht wie in dem Jugoslawischen
+System nach vorn preschen will. Er kann mit h2-h3 abwarten und seine Stellung
+im Zentrum verbessern oder ein Fianchetto auf dem Damenflügel anstreben} 8. b3
+{will ein Doppelfianchetto auf dem Damenflügel einleiten. Dieser einfache Zug
+ist immer sehr beliebt. Weiß vermeidet damit die Komplikationen der
+Hauptvariante und bereitet die Entwicklung des Damenläufers vor} Rb8 {Nach
+diesem Zug hat Weiß die Wahl zwischen einer Stützung des Bauern d4 oder
+einer weiteren Entwicklung} 9. Bb2 {Dies ist der natürlichste Zug} b5 10. cxb5
+{Weiß tauscht normalerweise an dieser Stelle, um Probleme auf der b-Linie zu
+vermeiden} ({(a)} 10. Ne1 Bd7 11. cxb5 axb5 {transponiert}) ({(b)} 10. d5 Na5
+11. cxb5 {transponiert auch}) 10... axb5 11. Rc1 {Weiß besetzt sofort die
+frei gewordene c-Linie. Das ist sicher der logischste Zug, aber hier sind auch
+schon andere Züge versucht worden} ({(a)} 11. Ne1 {[%csl Yc6][%cal Rg2c6]
+Weiß gewinnt ein Tempo durch den Angriff auf den Springer c6} Bd7 12. Rc1 e6 {
+Das ist ein typischer, flexibler Zug im Panno-System} 13. e3 (13. Nxb5 {
+führt zu völligem Ausgleich nach} Rxb5 14. Bxc6 Bxc6 15. Rxc6 Qa8 16. Rxc7
+Qxa2) 13... b4 14. Nb1 Rb6 15. Nd3 Qb8 16. Rc2 Rc8 17. Qd2 Nd5 {mit einer
+unklaren Stellung}) ({(b)} 11. d5 Na5 12. Nd4 b4 13. Na4 (13. Nb1 {ist zu
+passiv} Bb7 14. e4 ({Nach} 14. Nc6 Bxc6 15. dxc6 d5 {ist der Bauer auf c6 sehr
+schwach}) 14... c5 15. dxc6 Nxc6 16. Nxc6 Bxc6 {und Schwarz ist besser
+entwickelt. Nun verliert} 17. e5 $2 Bxg2 18. exf6 Bxf6 {Material}) (13. Ncb5 {
+ist tricky, aber zu riskant für Weiß} Nxd5 14. Bxd5 Rxb5 15. Nxb5 Bxb2 16.
+Rb1 Bg7 {mit einem Bauern und ausgezeichnetem Spiel für die schwarze Qualität
+} 17. Nd4 c5 18. Nc2 Bh3 19. Bg2 Bxg2 20. Kxg2 Qa8+ 21. Kg1 Nc6 {Schwarz hat
+die Oberhand}) 13... e5 14. dxe6 ({Nach} 14. Nc6 Nxc6 15. dxc6 {hat die weiße
+Demonstration am Demnflügel Schwarz bisher nicht beeindruckt. Der Springer
+auf a4 ist aus dem Spiel genommen und der Bauer auf c6 ist eher eine Schwäche
+als eine Stärke}) (14. Nc2 Bd7 15. Qe1 ({Nach} 15. Ne3 Bh6 16. Bc1 Rb5 17. Qd3
+Qa8 {steht Schwarz laut Bologan einfach besser}) 15... Bxa4 16. bxa4 Nc4 17.
+Rb1 Nxb2 18. Rxb2 e4 19. Rxb4 Nxd5 20. Rxe4 Rb2 21. Rc4 ({Nach} 21. Qd2 Nc3 22.
+Rc4 Nxa2 23. Bc6 Qb8 {hat Schwarz genügend Gegenspiel}) 21... Nb6 22. Rc6 Nxa4
+23. Qa5 Nc5 24. Rc1 Qg5 {, was den Turm auf c1 bedroht, sieht stark aus} 25. e3
+Qf5 26. e4 Qg5 27. f4 Qh5 {und Weiß hat schon ernsthafte Probleme}) 14... fxe6
+) 11... b4 {Schwarz forciert die Auseinandersetzung} 12. Na4 {Die weißen
+Alternativen zu diesem Zug sind viel zu passiv} ({Die passive Alternative
+lautet} 12. Nb1 {und wurde oft gespielt, aber ohne viel Erfolg} Na7 13. Ne1 ({
+Oder} 13. Qc2 Nb5 14. Qc4 Nd7 15. Qxb4 Nxd4 16. Qd2 Nxf3+ 17. Bxf3 Bxb2 18.
+Qxb2 c5 19. Rfd1 Qa5 20. Qd2 Qxd2 21. Rxd2 Bb7 22. Bxb7 Rxb7 {mit schönem
+Spiel für Schwarz}) 13... Nd7 14. Nd3 Ba6 15. d5 ({(a)} 15. Qd2 Bxd3 16. Qxd3
+c5 17. Qd2 Nb5 18. dxc5 Bxb2 19. Qxb2 Nxc5 {mit Gegenspiel}) ({(b) Nach} 15.
+Bh3 e6 16. Rc2 {sieht das weiße Spiel etwas seltsam aus} c5 17. dxc5 Bxd3 18.
+Qxd3 Bxb2 19. Rxb2 Nxc5 {Schwarz hat eine ausgezeichnete Stellung}) 15... Bxb2
+{Das ist am einfachsten} 16. Nxb2 e6 17. dxe6 fxe6 18. Qd4 Nc8 {mit mehr oder
+weniger Ausgleich}) 12... Na7 {[%csl Ya6,Yb5,Yb7,Yc3,Yc6,Yc8,Yd5][%cal Ga7b5,
+Gc8a6,Gf6d5,Rd5c3,Rb5c3] Es ist oft eine schwierige Entscheidung im
+Panno-System, wohin man den Springer platziert. Von a7 kann der Springer über
+b5 nach c3 gebracht werden, eventuell unterstützt von einem Springer auf d5.
+Außerdem kann der weiße Damenläufer nach a6 entwickelt werden. Der Rückzug
+nach a7 ist nur schlecht, wenn Schwarz den Läufer nach d7 entwickelt} 13. Qc2
+{Weiß hat diverse Alternativen} ({(a)} 13. d5 e5 14. dxe6 fxe6 15. Qc2 Nb5 16.
+Qc4 c5) ({(b)} 13. Ne1 Bb7 14. Qc2 Bxg2 15. Nxg2 {sieht nicht so gefährlich
+aus. Nach} c6 16. e4 Qa5 17. Ne3 Rfc8 18. f4 d5 19. e5 Ne4 20. f5 e6 21. fxe6
+fxe6 22. Ng4 Rf8 {steht Schwarz schön}) ({(c) Es sieht logisch aus, den
+Springer nach c4 zu bringen} 13. Nd2 Bb7 14. e4 e6 {mit einer flexiblen
+Stellung für Schwarz}) 13... c6 {Schwarz muss den c-Bauern schützen} 14. e4 (
+{Nach} 14. Ne1 Ba6 15. Nd3 Qa5 16. Rfd1 Rfc8 {möchte Schwarz den Läufer nach
+b5 oder den Springer nach d7 stellen}) *
+

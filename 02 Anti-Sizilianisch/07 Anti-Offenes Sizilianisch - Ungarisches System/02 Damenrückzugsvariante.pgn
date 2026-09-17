@@ -1,0 +1,100 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.11"]
+[Round "?"]
+[White "Ungarisches System"]
+[Black "Damenrückzugvariante"]
+[Result "*"]
+[ECO "B53"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "46"]
+[EventDate "2013.11.14"]
+[SourceDate "2013.11.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 {Neulingen wird beigebracht, dass die
+Dame nicht zu schnell in das Spiel gebracht werden sollte. Aber erfahrene
+Spieler, die eine Partie gewinnen wollen, werden genau dieses tun. Das
+Moskauer System ist eine Ausnahme von der Regel. Die weiße Dame erscheint
+bereits sehr früh im Zentrum. Obwohl die Bauernstruktur denjenigen der
+Offenen Sizilianischen Verteidigung entspricht, gibt die unübliche Stellung
+der schwarzen Dame der Variante einen eigentümlichen Charakter, so dass die
+Variante sehr sorgfältig studiert werden muss.} Nc6 {Dieser Zug, der sofort
+die exponierte weiße Dame angreift, bildet die Hauptfortsetzung} ({Manchmal
+verhindert Schwarz die Fesselung mit} 4... a6 {oder auch dem Läuferzug auf d7,
+aber der Textzug bildet die Hauptvariante und daher die Hauptfortsetzung}) 5.
+Bb5 {Weiß ist dazu bereit, seinen Läufer früh zu tauschen, da dieser Tausch
+die Entwicklung seiner Leichtfiguren fördert und die starke Stellung der Dame
+sichert} Bd7 {Schwarz muss sich weiterentwickeln und die Bedrohung der Dame
+aufrechterhalten} 6. Bxc6 {Als Kompensation für das Läuferpaar erhält Weiß
+etwas Entwicklungsvorsprung und eine starke Stellung im Zentrum. Die schwarzen
+Chancen liegen dann eher im Endspiel} Bxc6 {An dieser Stelle hat Weiß zwei
+Hauptzüge: er kann einen Maroczy-Aufbau mit c4 versuchen oder seine
+Entwicklung mit Sb1-c3 weitertreiben} 7. Nc3 {Dieser Zug bildet die
+Hauptfortsetzung. Tatsächlich erscheint der Plan einer schnelllen Entwicklung
+der weißen Figuren eine konsequentere Fortsetzung als der Maroczy-Aufbau.} Nf6
+{Schwarz entwickelt seinen Königsflügel und greift den Bauern e4 an.} 8. Bg5
+{Weiß entwickelt sich logisch weiter. Der Zug entwickelt nicht nur den
+weißen Damenläufer, sondern bereitet auch die lange Rochade vor.} e6 {[%csl
+Yd5] Schwarz deckt ein weiteres Mal den Springer, obwohl das hier nicht
+notwendig wäre. Aber er bildet auch ein Entwicklungsfeld für den schwarzen
+Königsläufer. Hier ist das Königsläuferfianchetto nicht so gut. Schwarz
+muss außerdem auf das Zentrum, insbesondere auf das Feld d5, aufpassen.} 9.
+O-O-O {Weiß bringt seinen König in Sicherheit und drückt auf den
+rückständigen Bauern d6} ({Schwarz hat überhaupt keinen Grund, die
+Dopppelbauern zu fürchten, die nach} 9. Bxf6 Qxf6 10. Qxf6 gxf6 11. O-O-O Rg8
+{entstehen. Andererseits hat Schwarz jetzt das Läuferpaar, was einen enormen
+Wert in dem Endspiel darstellen kann}) 9... Be7 {An dieser Stelle hat Weiß
+wieder mehrere Optionen zur Verfügung. Er kann seinen Königsturm in die
+Mitte bringen (die absolute Hauptvariante), er kann deine Dame zurückziehen
+oder den König auf die Seite schieben.} 10. Rhe1 {Dieser Zug bildet die
+absolute Hauptvariante, mit der Weiß die letzte Figur entwickelt.} O-O {In
+dieser Stellung kann Weiß wählen zwischen direkter Aktion im Zentrum mit
+e4-e5, dem Damenrückzug Dd4-d2 oder dem prophylaktischem Königszug Kc1-b1}
+11. Qd2 {Dieser Zug wird gespielt mit der Absicht, das Feld d4 für den
+Springer zu räumen. Das ist eine absolute Standard-Idee in dieser Stellung,
+aber in der besonderen Situation hat Weiß bestimmte taktische Schwierigkeiten
+zu erwarten} h6 $1 {Dieser Zug erfolgt zum richtigen Zeitpunkt. Er erzeugt
+nachteilige Probleme für Weiß} 12. Bf4 ({(a)} 12. Bxh6 $2 {ist ein sehr
+mutiger Zug, aber nach} gxh6 13. Qxh6 Nh7 {sollte Schwarz den weißen Angriff
+zurückweisen}) ({(b) Offensichtlicher ist} 12. Bh4 {, aber nach} Nxe4 13. Nxe4
+(13. Rxe4 {rettet die Figur nicht, denn Schwarz kann auf f3 zwischentauschen}
+Bxh4 14. Rg4 h5 15. Rd4 Bxf3 16. gxf3 d5) 13... Bxh4 14. Qxd6 Qxd6 15. Rxd6 Be7
+16. Rdd1 Rfd8 {sollte das schwarze Läuferpaar sich dem Springerpaar als
+überlegen zeigen}) 12... e5 {Schwarz schließt in klassischer Manier das
+Zentrum und vermindert den Druck auf d6} 13. Bg3 {Der einzig richtige Rückzug,
+um den Bauern e4 zu sichern} ({Wieder einmal reicht} 13. Bxh6 {nicht aus, denn}
+gxh6 14. Qxh6 Nh7 {bietet Weiß nicht genügend Kompensation für die Figur})
+13... Rc8 {Dieser Zug ist viel genauer als b7-b5} 14. Qd3 {Weiß verteidigt
+den Bauern e4 und übt etwas stärkere Kontrolle über die weißen Felder aus.}
+({(a) Nach dem langsamen Zug} 14. Kb1 $2 {wird die Antwort} b5 {sehr mächtig}
+15. Qe2 b4 16. Nd5 Nxd5 17. exd5 Bd7 18. Nd2 Qc7 19. Rc1 Bf5 {[%csl Yc1,Yc2,
+Yc3,Yc4,Yc5,Yc6,Yc7,Yd3,Ye4,Yf5][%cal Gc7c2,Gf5c2] und Schwarz übt mächtigen
+Druck auf c2 aus}) ({(b)} 14. Bh4 {ist kein so schlechter Zug, aber Schwarz
+kann versuchen, den Gegner zu eliminieren} Nxe4 $1 15. Nxe4 Bxh4 16. Qxd6 Bxe4
+17. Rxe4 Qxd6 18. Rxd6 Bxf2 19. Rxe5 Rfd8 {Die Stellung ist absolut
+ausgeglichen, aber Schwarz hat die bessere Leichtfigur}) 14... Nd7 $1 {[%csl
+Rc5][%cal Gd7c5] Der Springer soll nach c5} 15. Kb1 ({Die folgende Partie ist
+sehr instruktiv} 15. Nd5 Bxd5 16. Qxd5 Rc6 17. Kb1 Qc7 18. c3 Rc8 {Schwarz hat
+einen theoretisch schlechten Läufer und Weiß kontrolliert das Feld d5. Man
+könnte daran denken, dass Weiß etwas besser stünde. In Wirklichkeit ist das
+Gegenteil der Fall. Das weiße Problem ist, dass die Leichtfiguren nicht
+sauber genug gegen die schwarzen Bauern arbeiten. Solange Weiß seine Figuren
+koordinieren muss, solange kann Schwarz seine Drohungen auf dem Damenflügel
+aufbauen.} 19. Bh4 Nb6 20. Qd3 g5 {Schwarz fährt damit fort, um die
+gegnerischen Figuren einzuschränken. Es wird jetzt langsam klar, welche Seite
+den wirklich schlechten Läufer hat.} 21. Bg3 Na4 22. Re2 b5 {Es ist schon
+schwierig eine befriedigende Verteidigung für Weiß zu finden und in der
+Partie bricht Schwarz schnell durch} 23. Rc2 b4 24. Qb5 Nxb2) 15... a6 {
+Schwarz bereitet b5 vor und nimmt Weiß einfach die meisten Felder weg.} 16.
+Qe2 {Weiß hat vielleicht keinen richtigen Plan. Schwarz wird nicht daran
+gehindert, seinen eigenen Plan auszuführen.} b5 {Der schwarze Damenflügel
+marschiert nach vorn} 17. Nd5 {Indem er diesen Zug zurückstellt, kann Weiß
+eine etwas bessere Version als in der vorhergehenden Variante erreichen.
+Trotzdem hat Schwarz überhaupt keine Probleme.} Bxd5 18. Rxd5 {An dieser
+Stelle schlägt Ftacnik eine Verbesserung für Schwarz vor.} Rc6 19. Bxe5 {Das
+sieht aus wie die kritische Fortsetzung. Nach ruhigeren Zügen kann Schwarz
+einfach Dd8-c7 und Tf8-c8 spielen} dxe5 {Die nächsten Züge sind forciert.}
+20. Red1 Rc7 21. Nxe5 Nxe5 22. Rxd8 Rxd8 23. Rxd8+ Bxd8 {Vielleicht bewertet
+die Engine die Stellung als ausgeglichen, aber es ist sicherlich nur Schwarz,
+der auf Gewinn spielen kann.} *
+

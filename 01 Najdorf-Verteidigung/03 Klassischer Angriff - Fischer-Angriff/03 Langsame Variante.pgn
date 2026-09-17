@@ -1,0 +1,63 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fischer-Angriff"]
+[Black "Langsame Variante"]
+[Result "*"]
+[ECO "B86"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "44"]
+[SourceDate "2015.02.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 {Der
+Rückzug des Läufers nach b3 ist die Wahl von Bobby Fischer seit 1959. Er
+verhindert insbesondere den Befreiungszug d6-d5 und das viel versprechende
+Scheinopfer Sf6xe4. Gleichzeitig bereitet er den Vormarsch des Bauern f2-f4
+vor. Dass er nicht sofort auf den Königsflügel rochiert, bedeutet, dass es
+noch die Möglichkeit der langen Rochade auf den Damenflügel gibt.} Nbd7 {
+Diese Fortsetzung ist nicht die Hauptfortsetzung, aber sie ist weniger riskant
+als b7-b5. Der Springer soll nach c5 gebracht werden, von wo aus er nicht nur
+den Bauern e4 und den Läufer auf b3 attackiert, sondern auch noch den Bauern
+auf e6 verteidigt} 8. Bg5 {Das ist die prinzipielle und gefährlichste
+Fortsetzung für Schwarz. In vielen Varianten entstehen Positionen, die der
+Modernen Hauptfortsetzung mit 6.Lc1-g5 ähneln. Die Gefahr, die von dieser
+Variante ausgeht, besteht darin, dass Weiß seine Figuren sehr aggressiv und
+flexibel entwickelt, was gefährlich ist. Außerdem schützt der fesselnde
+Läuferzug auch noch den Bauern auf e4, der immer unter Angrifff kommen kann} (
+{Gemächlicher ist} 8. Qe2 Nc5 9. Bg5 Be7 10. f4 h6 11. Bxf6 Bxf6 12. O-O-O Qc7
+13. f5 O-O {Weiß hat den starken dunkelfarbigen Läufer aufgegeben und die
+schwarzen Felder geschwächt. Dagegen hat Schwarz seine Figuren aggressiv
+entwickelt und er wird bald mit b5-b4 nach vorne marschieren und einen Vorteil
+erlangen}) 8... Nc5 {[%csl Yb3,Ye6][%cal Gc5b3,Gc5e6] Schwarz entwickelt den
+Springer auf das logische Feld und festigt seine Stellung. Der Springer greift
+den Läufer auf b3 an und verteidigt gleichzeitig den Bauern auf e6} 9. O-O {
+Das langsame Spiel, das entsteht, wenn Weiß kurz rochiert, kann für ihn
+nicht vorteilhaft sein, denn alle seine bisherigen Züge waren aggressiv und
+ehrgeizig. Es ist klar, warum die Rochade weniger beliebt ist als andere Züge}
+Be7 {Schwarz entwickelt seinen Königsläufer, verteidigt den Springer und
+bereitet die kurze Rochade vor} 10. Re1 {Weiß bringt seinen Königsturm in
+Stellung und schützt ein weiteres Mal seinen gefährdeten Bauern e4.} h6 {
+Schwarz befragt sofort den weißen Läufer und versucht seine Stellung zu
+verbessern} ({Das Scheinopfer} 10... Nfxe4 11. Bxe7 Nxc3 12. bxc3 Qxe7 {ist in
+diesem Fall ungünstig, denn jetzt kann Weiß die Initiative ergreifen} 13. Nf5
+$1) 11. Bh4 {Der Läufer tauscht sich nicht auf f6 ab, sondern will den Druck
+auf die schwarze Stellung aufrechterhalten.} O-O {Schwarz solllte zuerst den
+König in Sicherheit bringen, bevor er Operationen im Zentrum oder auf dem
+Damenflügel startet} 12. f4 {Das ist der thematische Zug in dieser Variante,
+um e4-e5 vorzubereiten} Qd7 {[%csl Yc6,Yd7] Dieser Zug ist ein richtiger
+Computerzug, aber nicht schlecht. Schwarz kontrolliert einige der weißen
+Felder im Zentrum. Normalerweise geht die Dame auf die Diagonale d8-a5, um
+dort auf den schwarzen Feldern zu wirken} ({Es ist außerdem möglich} 12...
+Re8 {zu spielen und eine neue Stellung zu erreichen, zum Beispiel} 13. f5 Nxb3
+14. axb3 Bd7 {mit gleichem Spiel}) 13. e5 {Weiß hat diesen Vorstoß
+vorbereitet} ({Nach dem anderen Vorstoß, der in dieser Variante auch
+thematisch ist, lautet} 13. f5 b5 14. fxe6 fxe6 15. Nf5 Nxb3 16. Nxe7+ Qxe7 17.
+axb3 Bb7 {steht das Spiel gleich}) 13... dxe5 14. fxe5 Nd5 15. Bxe7 Nxc3 16.
+bxc3 Qxe7 17. Re3 b5 18. Nc6 ({Im Fall von} 18. Rg3 Ne4 19. Rg4 Bb7 20. Qe1 Nc5
+21. Qg3 f5 22. exf6 Rxf6 23. h3 Qf7 {ist Schwarz zumindest nicht schlechter,
+denn er wird bald den Läufer auf b3 abrtauschen, der ja sonst viele der
+schwarzen Probleme verursachen könnte.}) 18... Qd7 19. Qd6 Nb7 20. Ne7+ Kh7
+21. Qb4 Re8 22. Nxc8 Raxc8 {Schwarz hat klaren Vorteil, denn er hat die
+bessere Bauernstruktur und die besser entwickelten Figuren} *
+

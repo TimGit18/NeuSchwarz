@@ -1,0 +1,125 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Englischer Angriff"]
+[Black "Damenrückzugvariante"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "62"]
+[EventDate "2012.03.31"]
+[SourceDate "2012.03.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 {Der Englische
+Angriff stammt aus den 1980er Jahren und ist ein aggressives System, das auf
+den Zügen Le3, f3 und g4 basiert. Er strebt die lange Rochade an und will
+seine g- und h-Bauern gegen den gegnerischen König marschieren lassen. Weiß
+kombiniert diese Angrffspläne häufig mit Operationen im Zentrum und auf dem
+Damenflügel} e5 {Der schwarze Aufbau mit d6 und e5 ist der thematische im
+Najdorf-System. Er ist weiniger flexibel als der Scheveninger Aufbau, gewinnt
+jedoch mehr Raum und vertreibt den weißen Springer von seinem schönen Feld d4
+} 7. Nb3 {Das ist der ambitionierteste und theoretisch wichtigste Zug für
+Weiß} Be7 {Wie in dem Klassischen System hält Schwarz die Symmetrie
+zunächst am besten aufrecht. Vielleicht transponiert ja Weiß auch mit Lf1-e2
+in die Klassische Variante} 8. f3 {Hiermit leitet Weiß das System des
+Englischen Angriffs ein. Es soll mit g2-g4, h2-h4, h4-h5 nebst langer Rochade
+und Sturm auf dem schwarzen König fortgesetzt werden} Be6 {Schwarz entwickelt
+eine Figur und überdeckt das schwache Feld d5. Außerdem verhindert der Zug
+die Entwicklung des weißen Läufers nach c4} 9. Qd2 {Weiß bereitet die lange
+Rochade vor} O-O {Schwarz bringt den König in Sicherheit und einen Turm zum
+Zentrum} 10. O-O-O {Weiß rochiert lang und bringt seinerseits den König in
+Sicherheit. Außerdem verstärkt er den Druck auf der d-Linie} a5 {Dieser
+überraschende Zug schwächt zwar die schwarze Bauernstruktur, verspricht aber
+gute Angriffschancen. Der Bauer soll nach vorne marschieren, dabei den
+schlecht postierten Springer auf b3 angreifen und ein Loch in die weiße
+Königsstellung reißen} 11. Qe1 {[%csl Yb7,Yd1,Ye6][%cal Rd1d6,Rb3c5,Rc5e6,
+Rc5b7] Dieser Rückzug verfolgt dieselben Ideen wie die
+Damenseitschritt-Variante. Weiß demaskiert den weißen Turm auf d1, wonach
+der Bauer auf d6 gefesselt ist. Der Springer droht damit von b3 nach c5 zu
+gehen und bedroht den Läufer auf e6 und den Bauern auf b7, was ziemlich
+unangenehm} Qc8 {[%csl Yc2,Yc3][%cal Gc8c3] Schwarz zieht seine Dame sofort
+aus der gefährlichen d-Linie und übt seinerseits Druck auf der c-Linie aus.
+Sie geht natürlich nicht nach c7, weil sie wieder von dem Springer auf c3 mit
+Sc3-d5 oder Sc3-b5 angegriffen werden könnte} 12. a4 {Weiß muss etwas gegen
+den Vormarsch des a-Bauern unternehmen und verhindert diesen - wie schon oft
+gesehen - mechanisch} ({(a) Der Zug} 12. a3 {ist interessant, da er den
+Vormarsch des a-Bauern nicht ganz behindert. Außerdem löst er den potentiell
+gefährdeten Bauern von dem Feld a2, das der schwarze Läufer beherrscht} a4 {
+Wenn es Weiß zulässt, dass der a-Bauer nach vorne marschieren kann, dann
+sollte Schwarz dieses auch ausnutzen} 13. Nd2 {Dies ist das einzige
+aktzeptable Feld für den Springer, aber er steht hier sicherlich nicht gut.}
+Nbd7 {Dieser Zug sieht sehr natürlich aus. Schwarz will einen Bauern auf b5
+opfern und sich nicht die c-Linie verstellen. Jedoch kann Weiß seine letzte
+Figur entwickeln.} 14. Bb5 {Der Läufer wird auf ein aggressives Feld gebracht
+und greift den Bauern auf a4 zum zweiten Mal an} ({1. Wenn Weiß eine passsive
+Fortsetzung wählt wie} 14. Kb1 {, dann kann der schwarze Angriff in das
+Rollen gebracht werden} b5 {Schwarz opfert einen Bauern zwecks Linienöffnung}
+15. Bxb5 {Weiß gewinnt diesen Bauern, aber er öffnet die b-Linie gegen
+seinen König} Rb8 {Schwarz besetzt sofort die offene Linie. Weiß kann jetzt
+nicht den Bauern auf a4 schlagen, denn dann könnte die schwarze Dame den
+Springer auf c3 schlagen und die Fesselung des Bauern b2 ausnutzten. Aber
+zurückziehen kann sich der Läufer daher auch nicht}) (14. f4 exf4 15. Bxf4
+Nh5 16. Be3 Bf6) 14... Qc7 15. g4 Rfc8 16. g5 Nh5) ({(b) Der Zug} 12. Bb5 {
+versucht eine Figurenblockade, wie so oft gesehen, auf dem Damenflügel
+aufzubauen.} Na6 $1 {Ein guter Zug, der auf das Feld b4 zielt} 13. Na4 {
+[%csl Rb6][%cal Ga4b6] Ein riskanter Zug, der die Qualität gewinnen will} Nb4
+{Weiß hat eine schwierige Wahl: es droht ein einzügiges Matt und der Bauer
+auf a2 kann nicht wirklich verteidigt werden} 14. Qf2 {Weiß deckt das Matt
+mechanisch mit der Dame auf f2} ({Die andere Deckung, die eigentlich ein
+Tempoverlust bedeutet, lautet} 14. Qd2 Nxa2+ 15. Kb1 Bxb3 16. cxb3 Nb4 17. Nb6
+Qe6 18. Bc4 d5 {und der schwarze Angriff kommt zuerst}) 14... Nxa2+ 15. Kb1 Nb4
+16. Nb6 Qc7 17. Nxa8 Rxa8 18. Bb6 Qc8 19. Bxa5 (19. Ba4 d5 20. Bc5 Bxc5 21.
+Nxc5 d4 22. Nxe6 Qxe6 23. Bb3 Qe7 24. Ba4 b5 25. Bxb5 Qe6 26. b3 a4 27. Bxa4
+Rxa4 28. bxa4 Qa2+ 29. Kc1 Nd7 {Es ist kaum zu glauben, aber Schwarz steht auf
+Gewinn} 30. Kd2 Nxc2 31. Qe2 d3 32. Qf2 f5 33. exf5 Nf6) 19... Bxb3 20. Bxb4
+Ba2+ 21. Kc1 Nxe4 22. fxe4 Bg5+ 23. Bd2 Bb3 24. Bxg5 Ra1+ 25. Kd2 Qxc2+ 26. Ke3
+Qc5+ 27. Kf3 Bxd1+ 28. Rxd1 Qxf2+ 29. Kxf2 Rxd1 {führt zu einem mehr oder
+weniger ausgeglichenem Endspiel}) 12... Nc6 {[%csl Yb4][%cal Gc6b4] Schwarz
+visiert das schwache Feld b4 an} 13. g4 (13. Kb1 {transponiert in die
+Textvariante} Nb4) 13... Nb4 {Es stellt sich in solchen Stellungen immer die
+Frage, ob Weiß mit g4-g5 fortsetzen soll oder nicht. Falls er es nicht tut,
+so kann Schwarz mit d6-d5 kontern mit einer starken Angriffsstellung. Wenn er
+es aber macht, dann gelangt der Springer via e8 nach c7, von wo aus er den
+schwarzen Angriff unterstützt} 14. Kb1 {und nun ist die Zeit für konkrete
+Handlungen gekommen. Schwarz kann es sich nicht länger erlauben abzuwarten,
+denn Weiß hat schon den König evakuiert und droht mit g4-g5, was das Feld d5
+erobert. Aber Schwarz hat hier auch ein ausgezeichnetes Bauernopfer, das seine
+Leichtfiguren aktiviert und Kompensation verspricht} (14. g5 Ne8 15. Kb1 ({Oder
+} 15. f4 f5 16. h4 fxe4 17. fxe5 dxe5 18. Kb1 b5 19. Bxb5 Nc7 {mit einem
+starken Angriff für Schwarz}) 15... b5 16. Bxb5 Nc7 17. Nc1 {Wenn man sich
+nach Steinitz verteidigt, dann ist das die richtige Methode} Nxb5 18. axb5 d5
+19. exd5 Bf5 20. Nd3 Nxd3 21. cxd3 Bb4) 14... d5 $1 {Das ist der lang
+erwartete Durchbruch, sogar auf Kosten eines Bauern. Der Läufer auf e7 wird
+befreit. Der Springer kommt von f6 auf das Blockadefeld d6. Der Läufer auf e6
+soll auf die Diagonale b1-h7 gestellt werden, von wo aus er den schwächsten
+Punkt im weißen Lager, den Bauern c2 beobachtet} 15. g5 Ne8 {Wie bereits
+erwäht beginnt Schwarz die Umgruppierung} 16. exd5 Bf5 {Eine unschöne
+Stellung für Weiß, in der der schwache Bauer c2 verteidigt werden muss} 17.
+Rd2 {Der Bauer d5 kann nicht nach d6 vorrücken, weil Schwarz ihn schlagen
+würde und die Figur später auf b3 zurückgewinnt} ({(a)} 17. Rc1 Nc7 18. Bd2
+({Nach} 18. Qd2 Rd8 19. Bc4 b5 {bricht Schwarz ausgerechnet auf dem Punkt
+durch, der am besten bewacht ist} 20. axb5 a4 21. Nc5 Ne6) 18... Re8 {Ein
+stiller Zug, der indirekt den Bauern e5 verteidigt und den Druck auf Weiß
+erhöht}) ({(b)} 17. Na1 Nd6 18. Bb6 ({Oder} 18. h4 {wonach Weiß scheinbar
+alles gedeckt hat, er aber in einen schlimmen Angriff gerät} b5 19. axb5 a4
+20. Bc1 a3 21. bxa3 Nc4 22. d6 Nxa3+ 23. Bxa3 Rxa3 24. dxe7 Rxa1+ 25. Kxa1
+Nxc2+ 26. Kb2 Nxe1 27. Bh3 Bxh3 28. exf8=Q+ Qxf8 29. Rhxe1 Qb4+ 30. Kc2 Bf5+
+31. Re4 f6) 18... Qd7 19. h4 Rfc8 20. Rh2 ({Nach} 20. Qxe5 {geschieht} Rxc3 21.
+bxc3 Nxc2 22. Nxc2 Qxa4 23. Rd2 Qb3+ 24. Kc1 Qxb6 25. Qe3 Qc7) 20... Nc4 21.
+Bg1 Rab8 {mit Kompensation für den Bauern}) 17... Nc7 {Um den Durchbruch
+b7-b5 vorzubereiten} 18. Qd1 Rd8 19. Na1 Qd7 20. Bc4 b5 {Wie üblich landet
+Schwarz den entscheidenden Schlag auf b5. Dies ist ein weiteres thematisches
+Bauernopfer in dieser Stellung} 21. axb5 ({(a)} 21. Nxb5 Nxb5 22. Bxb5 Qd6) ({
+(b)} 21. Bxb5 Nxb5 22. Nxb5 Nxd5 23. Rxd5 Qxd5 24. Qxd5 Rxd5 25. Nc7 Rad8 26.
+Nxd5 Rxd5) ({(c)} 21. Bb3 Bd6 22. Qe2 Rab8 23. Rhd1 Rdc8 24. Bf2 {Nach diesen
+schwer zu verdauenden Zügen stehen die Figuren so gut wie möglich und es ist
+eine Art Zugzwangstellung entstanden} Nba6) 21... Ne8 $1 {[%csl Yd6][%cal
+Ge8d6]} 22. Qe2 a4 23. d6 Nxd6 24. Bc5 Qc7 {Der Zug beinhaltet eine verborgene
+Idee eines Damenopfers, das Weiß nicht annehmen sollte, da er sonst
+mattgesetzt wird oder mehr Material verliert} 25. Qxe5 (25. Bxb4 Nxc4 26. Rxd8+
+Bxd8 27. Nd5 Qc8) 25... Nxc4 26. Rxd8+ (26. Qxc7 Nxd2+ 27. Kc1 Nb3+ 28. cxb3
+Bxg5+ 29. f4 Nd3+ 30. Kd2 Bxf4+) 26... Qxd8 27. Qxe7 Bxc2+ {Ein schönes Ende
+eines schönes Spiels: Schwarz gibt Dauerschach mit seinen Springern} 28. Nxc2
+Nd2+ 29. Kc1 Nb3+ 30. Kb1 Nd2+ 31. Kc1 Nb3+ *
+

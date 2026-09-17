@@ -1,0 +1,107 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsflügel-Fianchetto"]
+[Black "Pirc-Variante"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Yelena Dembo"]
+[PlyCount "46"]
+[EventDate "2011.08.10"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 {Weiß vermeidet die
+Aufstellung mit c4 und d4 zum Königsinder. Statt dessen wirll er eine
+Pirc-Aufstellung wählen, in der der Läufer auf g2 nicht optimal steht. Der
+schwarze Plan sieht e7-e5 vor, wonach er sich mit c7-c6 und Dd8-c7
+konsolidiert. Wenn Weiß aber auf e5 abtauscht, dann erhöht Schwarz den Druck
+auf e4 mit b6 und Lb7. Sollte Weiß die Spannung im Zentrum zurückhalten, so
+wird Schwarz gewöhnlich mit der Entwicklung auf dem Damenflügel fortfahren:
+b7-b5 oder b6, Lb7 und Tad8, gefolgt won exd4 und c7-c5 mit starkem Druck
+gegen e4 oder weitere Ausdehnung auf dem Damenflügel. Dieser Plan ähnelt
+Varianten aus der Philidor-Verteidigung, in denen Weiß a2-a4 spielt, um b5 zu
+verhindern. Jedoch kann Schwarz trotzdem b5 nach Vorbereitung durch Tb8
+spielen.} 6. Nc3 {Weiß optiert für eine Pirc-artige Aufstellung, aber der
+Springer steht hier deplatziert, falls es zu einem Abtausch auf e5 kommt.} Nbd7
+7. e4 ({Weiß kann e5 mit} 7. d5 {ausschalten, allerdings nicht für immer
+verhindern. Tatsächlich kann Schwarz nach} Nc5 8. Nd4 a5 9. a4 Bd7 {das
+weiße Zentrum mit c6 herausfordern.} 10. e4 (10. h3 Qc8 11. Kh2 {entstand in
+Brynell,S-Hillarp Persson,T Gothenburg 2005 und nun hätte Schwarz wie folgt
+fortsetzen können} c6 12. e4 e5 13. dxe6 fxe6 {[%csl Ye5][%cal Ge6e5] mit der
+Idee e6-e5.}) 10... Ra6 $5 {ist sehr originell. Schwarz entfernt den Turm von
+den potentiell gefährlichen Diagonalen und beabsichtigt c7-c6, gefolgt von
+e7-e5, falls Weiß nicht auf c6 tauscht.} 11. f3 $6 c6 12. dxc6 (12. Be3 Rb6
+13. b3 cxd5 14. exd5 Rb4 {zeigt die andere Idee des schwarzen Turm-Manövers.})
+12... bxc6 13. Be3 Qb8 14. b3 e5 15. Nde2 Ne6 16. Qd3 Bc8 17. Rad1 Rd8 18. Qd2
+d5 {mit klarem Vorteil für Schwarz nach seinem zweckorienterierten Spiel in
+Rottstaedt,W-McNab,C Hastings 1991}) 7... e5 {Das ist die Pirc-Variante im
+Königsflügel-Fianchetto.} 8. h3 {Ein nützlicher Wartezug, der Lc1-e3
+vorbereitet.} ({(a)} 8. Re1 c6 9. a4 Qc7 10. h3 {führt zurück in die
+Hauptvariante.}) ({(b)} 8. dxe5 dxe5 9. Qe2 (9. b3 b6 {ist der vernünftigste
+Plan jetzt, da sich die zentrale Situation geklärt hat. Nach} 10. a4 Bb7 11.
+Nd2 Re8 12. Ba3 Bf8 13. Bxf8 Nxf8 14. Nc4 Ba6 {steht Schwarz gut.}) 9... c6 10.
+Rd1 Qc7 11. b3 Re8 {[%csl Yc5,Ye6][%cal Gd7c5,Gc5e6] ist typischerweise in
+Ordnung für Schwarz, der Sc5-e6 beabsichtigt.} 12. Ba3 (12. Qc4 Nb6 13. Qd3
+Bg4 14. Ba3 Bf8 15. Bxf8 Kxf8 16. a4 a5 17. Qe3 Kg7 {war gleich und führte
+zum Remis in Vidmar,M-Milic,B Opatija 1953. Der Springer auf b6 ist etwas
+deplatziert, aber der auf c3 ebenso.}) 12... Qa5 13. Bb2 Nc5 14. Nd2 Ne6 15.
+Nc4 Qc7 {stammt aus der Partie Barcza,G-Sax,G Hungary 1983, in der Schwarz
+etwas besser koordiniert ist.}) ({(c)} 8. a4 c6 9. h3 {transponiert ebenfalls
+in die Hauptvariante.}) 8... c6 9. a4 (9. Re1 Qc7 10. Be3 (10. a4 {
+transponiert wieder in den Text.}) 10... b6 {offenbart eine andere Idee für
+Schwarz, indem d6-d5 mit Lb7 und Tad8 vorbereitet wird.} 11. Qd2 Bb7 12. Bh6
+Rfe8 13. Rad1 Rad8 14. Bxg7 Kxg7 15. Nh2 Nf8 {führt zu Ausgleich in
+Przepiorka,D-Selezniev,A Piestany 1922}) 9... Qc7 10. Re1 ({(a)} 10. a5 {
+kann wieder durch die folgende Standard-Methode neutralisiert werden:} Rb8 11.
+Be3 b5 12. axb6 axb6 {mit Ausgleich.}) ({(b) Ähnliches Spiel wie in der
+Hauptvariante führt zu} 10. Be3 b6 11. Qd2 Bb7 12. Bh6 Rfe8 13. Bxg7 Kxg7 14.
+dxe5 {Diese Idee von Weiß führt zu nicht viel} (14. Nh4 {mit der Drohung} Z0
+15. Qg5 {und} Z0 16. Nf5+ {, die aber durch h7-h6 abgewehrt werden kann.})
+14... dxe5 15. Rfd1 Rad8 16. Qe3 Nc5 $1 {Das ist eine typische Reaktion.} 17.
+a5 Ne6 18. Bf1 c5 $1 {mit Vorteil für Schwarz in Nogueiras Santiago,J-Shirov,
+A Moscow 1994}) 10... Re8 11. a5 {Das ist eine Standard-Idee von Weiß.} ({
+Eine andere Standard-Idee für Weiß ist} 11. Be3 b6 12. Qd2 {Hiermit versucht
+Weiß die schwarzfeldrigen Läufer abzutauschen, weniger wegen des Drucks auf
+d4 oder aus Angst vor dem Königsindischen Läufer, sondern weil der Läufer
+auf e3 einfach nur im Weg steht. Natürlich beschäftigt uns ein solches
+Manöver nicht besonders, und es kostet auch nur Zeit. Daher kann man einfach
+weiterspielen.} (12. d5 Bb7 13. Nd2 cxd5 14. exd5 a6 15. g4 Rac8 16. Nf1 {
+in Bernard,C-Stangl,M Bad Wildbad 1990 erlaubt} Nc5 {, was sehr sizilianisch
+und gut für Schwarz aussieht.}) 12... Bb7 13. Bh6 ({(a)} 13. d5 cxd5 14. exd5
+a6 {ist gut für Schwarz.}) ({(b) Viel verspricht auch nicht} 13. Rad1 Rad8 14.
+Bg5 a6 15. d5 cxd5 16. Nxd5 Bxd5 17. exd5 Rc8 18. c3 Qb7 {mit späterem Remis
+in Galkin,A-Novikov,S Krasnoyarsk 2007}) ({(c)} 13. a5 b5 14. a6 Bc8 15. Bh6 b4
+16. Nd1 Rb8 {ist auch gut für Schwarz in Vojtek,V-Klemanic,E Tatranske Zruby
+2006}) 13... a6 14. Rad1 Rad8 15. Bxg7 Kxg7 16. dxe5 dxe5 17. Qe3 b5 18. Nd2
+Nf8 19. Nb3 Ne6 {ergibt Vorteil für Schwarz wegen der Eroberung des Feldes d4.
+}) 11... Rb8 $1 {Dies ist ein wichtiger und typischer Zug gegen den Vormarsch
+des weißen a-Bauern.} 12. Be3 ({(a)} 12. Bg5 b5 13. axb6 axb6 14. Qd2 b5 15.
+dxe5 dxe5 16. Qe3 {aus der Partie Himanshu,S -Kamble,V Visakhapatnam 2006 gibt
+nach} Bb7 {wieder nichts besonderes für Weiß.}) ({(b)} 12. d5 cxd5 13. exd5
+a6 {gibt Schwarz eine versprechende Stellung nach} 14. Ra3 b5 15. b4 Bb7 16.
+Nh2 e4 17. Rb3 Rbc8 {in Malaniuk,V-Cherniaev,A Hastings 1995}) 12... b5 13.
+axb6 axb6 14. d5 {Jetzt ist der Augenblick für diesen Vorstoß günstiger, da
+Schwarz bereits b6 gespielt hat.} ({Stattdessen ist} 14. dxe5 dxe5 15. Nd2 {
+in Hausrath,D-Stellwagen,D Belgium 2004 wieder gleich nach} Nc5) 14... Bb7 {
+Diese Stellung kam schon mehrere Male in der Praxis vor und ist gut für
+Schwarz.} 15. dxc6 {Weiß entscheidet sich, um das Feld d5 zu kämpfen, aber
+die schwarzen Figuren sind gut platziert, um diesen Plan zu verhindern und
+Gegenspiel zu erzeugen.} ({Ein ähnliches Spiel resultiert aus} 15. Nd2 Ra8 16.
+Rxa8 Rxa8 17. dxc6 Qxc6 {mit ausgeglichener Stellung in Garza Marco,S-Moreno
+Ruiz,J Ayamonte 2002}) 15... Bxc6 16. Nd2 b5 {Die schwarze Stellung sieht
+langsam dynamisch aus. Tatsächlich sind hier Ähnlichkeiten zum
+Najdorf-Sizilianer oder zum Zaitsev-Spanier - obwohl hier die weißen Figuren
+eher passiv stehen. Wie kann das Spiel von dieser Stellung aus weitergehen?}
+17. b4 ({(a)} 17. Ra7 Rb7 18. Rxb7 Qxb7 19. Nb3 {reduziert ebenalls nicht die
+schwarze Initiative.}) ({(b) Statt dessen verlangsamt} 17. Nb3 Nb6 18. Na5 Bd7
+19. Qd2 Rec8 {etwas die schwarze Initiative in Romanishin,O-Thiede,L Bled 2000.
+}) 17... Nb6 {Der Springer droht damit, nach c4 zu gehen. Schwarz bereitet d5
+vor und steht bereits besser. Weiß möchte die schwarzen Ideen verhindern.}
+18. Bxb6 Rxb6 19. Nb3 Bd7 $1 {Wechselt auf ein sogar besseres Feld nach e6.}
+20. Re3 Rc8 21. Ra5 Be6 $1 {Der Bauer auf b5 ist weniger bedeutend als die
+Öffnung der schwazren Linien.} 22. Bf1 (22. Rxb5 {beantwortet} Rxb5 23. Nxb5
+Qxc2 24. Qxc2 Rxc2 25. Nxd6 Bf8 26. Nb7 Bxb4 {und die verstreuten Springer und
+die mächtigen Läufer garantieren die schwarze Überlegenheit.}) 22... Bh6 23.
+Rf3 Qe7 {Weiß wurde in die Defensive gezwungen. Diese Varianten sind ein
+gutes Beispiel für das schwarze Spiel.} *
+

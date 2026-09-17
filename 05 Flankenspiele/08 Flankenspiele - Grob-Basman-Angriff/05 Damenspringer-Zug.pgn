@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grob-Basman-Angriff"]
+[Black "Damenspringer-Zug"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "20"]
+[EventDate "2009.??.??"]
+
+{[%evp 0,18,28,-63,-63,-69,-68,-77,-88,-96,-98,-84,-83,-153,-142,-140,-153,-156,-134,-222,-177]} 1. g4 {Dieser Aufzug ist der Grob-Angriff. Der Zug sieht zwar zweifelhaft aus, aber er führt zu obskuren Stelungen. Schwarz sollte sich sehr schnell entwickeln und den Aufzug des h-Bauern vermeiden.} d5 2. h3 {Dieser Zug charakterisiert das Basman-System. Michael Basman deckte damit den angegriffenen g-Bauern. Aber er gibt damit auch Schwarz Zeit, seine Entwicklung und die Besetzung des Zentrums zu vervollständigen.} e5 {Folgerichtig besetzt Schwarz mit dem zweiten Bauern das klassische Zentrum.} 3. Bg2 {Weiß entwickelt den Läufer auf die lange Diagonale. Vermutlich ist dies der einzige Vorteil, den der Grob-Angriff bietet.} Nc6 {Schwarz entwickelt sich schleunig und provoziert Weiß mitunter zu einem zweifelhaften Aufzug seines c-Bauern. Die Verteidigung mit dem Bauernzug c7-c6 ist zwar vernünftig, aber dies könnte den Weißen eher liegen.} {Der Damenspringer-Zug} 4. Nc3 {wird mit} d4 $5 {beantwortet. Nach} ({Oder} 4... Be6) 5. Bxc6+ bxc6 6. Ne4 Nf6 7. Nxf6+ Qxf6 8. d3 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 c5 $1 {kämpft Weiß mit der Schwäche der weißen Felder und einem unsicheren König.} *
+

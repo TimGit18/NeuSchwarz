@@ -1,0 +1,200 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Englischer Angriff"]
+[Black "Königszugvariante"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "37"]
+[EventDate "2012.03.31"]
+[SourceDate "2012.03.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 {Der Englische
+Angriff stammt aus den 1980er Jahren und ist ein aggressives System, das auf
+den Zügen Le3, f3 und g4 basiert. Er strebt die lange Rochade an und will
+seine g- und h-Bauern gegen den gegnerischen König marschieren lassen. Weiß
+kombiniert diese Angrffspläne häufig mit Operationen im Zentrum und auf dem
+Damenflügel} e5 {Der schwarze Aufbau mit d6 und e5 ist der thematische im
+Najdorf-System. Er ist weiniger flexibel als der Scheveninger Aufbau, gewinnt
+jedoch mehr Raum und vertreibt den weißen Springer von seinem schönen Feld d4
+} 7. Nb3 {Das ist der ambitionierteste und theoretisch wichtigste Zug für
+Weiß} Be7 {Wie in dem Klassischen System hält Schwarz die Symmetrie
+zunächst am besten aufrecht. Vielleicht transponiert ja Weiß auch mit Lf1-e2
+in die Klassische Variante} 8. f3 {Hiermit leitet Weiß das System des
+Englischen Angriffs ein. Es soll mit g2-g4, h2-h4, h4-h5 nebst langer Rochade
+und Sturm auf dem schwarzen König fortgesetzt werden} Be6 {Schwarz entwickelt
+eine Figur und überdeckt das schwache Feld d5. Außerdem verhindert der Zug
+die Entwicklung des weißen Läufers nach c4} 9. Qd2 {Weiß bereitet die lange
+Rochade vor} O-O {Schwarz bringt den König in Sicherheit und einen Turm zum
+Zentrum} 10. O-O-O {Weiß rochiert lang und bringt seinerseits den König in
+Sicherheit. Außerdem verstärkt er den Druck auf der d-Linie} a5 {Dieser
+überraschende Zug schwächt zwar die schwarze Bauernstruktur, verspricht aber
+gute Angriffschancen} 11. Kb1 {Der König macht Platz für den Springer und
+entfernt sich aus der gefährlichen c-Linie. Außerdem macht der Zug auch ein
+Rückzugsfeld für den weißen Springer auf c1 frei. Allerdings ist dieser Zug
+auch langsam und behäbig. Schwarz kann nun seinen Plan in vollem Umfang
+ausführen.} a4 {Jetzt, wo der a-Bauer mechanisch nicht gestoppt werden kann,
+marschiert Schwarz einfach nach vorne.} 12. Nc1 {Weiß zieht jetzt mit dem
+Springer auf das freigewordene Feld zurück. Der Springer soll über d3 wieder
+in das Spiel zurückgebracht werden.} a3 {Dieser Zug ist sehr aggressiv.
+Schwarz marschiert einfach soweit nach vorne, wie er kann. Er will die weiße
+Königsstellung entscheidend schwächen.} 13. b3 {Natürlich nimmt Weiß nicht
+den Bauern und ruiniert seine Königsstellung oder öffnet eine Linie für den
+schwarzen Turm. Außerdem wird der Einfluß des schwarzen Damenläufers auf
+die Königsstellung des Weißen gelindert.} Ra5 {[%csl Yd5][%cal Ga5d5,Ge6d5,
+Gf6d5,Gd8d5] Das ist ein sehr starker Zug von Schwarz. Der Turm nutzt die
+neugewonnene Freiheit auf der a-Linie, um seinen Einfluß auf das Zentrum zu
+vergrößern und den thematischen Durchbruch auf d5 durchzusetzen. Außerdem
+kann der Turm auf a5 nicht so leicht angegriffen werden, was auch ein Resultat
+des schwächenden Zuges b2-b3 ist} 14. g4 {Weiß begegnet dem schwarzen
+Vorstoß auf dem Damenflügel mit seinem thematischen Angriff auf dem
+Königsflügel. Allerdings ist er langsamer und schwächer, da der schwarze
+Königsflügel noch intakt ist.} ({(a) Eine sehr provokative Wahl, die
+außerdem nicht konsistent ist, ist der Zug} 14. Na4 {Mit diesem Zug fordert
+Weiß den Gegner heraus. Er provoziert ein Qualitätsopfer, das Schwarz nur zu
+gern akzeptiert} Rxa4 {Natürlich kann und muss Schwarz hier die Qualität
+geben, denn die weiße Bauernstellung auf dem Damenflügel wird nachhaltig
+geschwächt.} 15. bxa4 {Weiß hat Glück, dass er noch das Feld b6
+kontrolliert und auf b3 noch den Springer zwischenziehen kann, denn sonst ist
+die Stellung schon sehr bedenklich.} Qc7 {Wenn Schwarz nicht in ein gleiches
+Endspiel gehen will, dann kann er auch wie vorher spielen, nach dem er einen
+sehr starken Angriff erhält} 16. Nb3 {Weiß muss etwas für die Sicherheit
+seines Königs tun. Der Springer leistet zwar nicht viel für das weiße
+Figurenspiel, aber er beschützt wenigstens den entblößten weißen König}
+Rc8 {Der übriggebliebene Turm wird in das Spiel gebracht und verstärkt den
+schwarzen Druck auf der c-Linie.} 17. c4 {Das ist ein weiterer
+kompromittierender Bauernzug von Weiß. Er unterbindet zwar den Druck auf c2,
+aber er führt zu einer weiteren Schwächung der weißen Stellung auf dem
+Damenflügel. Ein Fehler wäre es, den Bauern mit dem Läufer zu nehmen, denn
+dann könnte Weiß den Läufer mit dem Turmzug auf c1 fesseln.} Nc6 {Die
+letzte schwarze Leichtfigur wird in das Spiel gebracht. Der Springer
+kontrolliert die Felder b4, d4 und a5. Er kann auch über a5 abgetauscht
+werden, wenn der Turm vorher auf die a-Linie gebracht wird.}) ({(b) Der
+folgende Zug ist zwar logisch, aber erlaubt wie in der Klassischen Variante
+den typischen schwarzen Bauernhebel} 14. Nd3 {Nach diesem Zug kann Schwarz ein
+Bauernopfer mit Kompensation bringen} d5 {Schwarz wird zwar den Bauern auf e5
+verlieren, aber er kann dafür seine Stellung auf dramatische Weise befreien.}
+15. Nxe5 Bb4) ({(c)} 14. Qf2 {Weiß will den Läufer nach b6 spielen und damit
+den Turm auf a5 gewinnen. Schwarz hat eine phantastische Ressource, die ein
+Qualitätsopfer beinhaltet und ausgezeichnetes Gegenspiel ermöglicht} Qc7 {
+[%csl Yc3][%cal Gc7c3] Schwarz besetzt die offene Linie und bedroht den
+Springer auf c3 und nutzt dabei den Umstand aus, dass mit der Dame die
+Deckungfigur weggegangen ist. Weiß kann zwar jetzt die Qualität gewinnen,
+aber Schwarz erhält das gute Gegenspiel} 15. Nb5 {Der Springer bedroht
+seinerseits die Dame, wird aber vom Brett verschwinden} Rxb5 {Dieses Opfer
+wird durch die nächsten Züge gerechtfertigt, wonach Schwarz seine Stellung
+befreien kann. Zusammen mit der schlechten weißen Königsstellung hat Schwarz
+genügend Kompensation} 16. Bxb5 {Der weiße Läufer steht hier etwas
+deplatziert. Er greift nichts an und verhindert nicht die schwarze Befreiung}
+d5 $1 {Schwarz spielt den typischen Hebelzug, da Weiß nicht mehr genügend
+Druck auf das Feld d5 hat.} 17. exd5 {Natürlich kann Weiß das starke
+schwarze Zentrum nicht tolerieren} Nxd5 {[%csl Rb4,Yc2,Rc3,Re3][%cal Gd5b4,
+Gd5c3,Gd5e3,Gb4c2] Der Springer steht hier auf einem Traumfeld. Er bedroht den
+Läufer auf e3, droht mit einer Gabel auf c3 und kann auch nach b4 gebracht
+werden, wonach die weißen Bauern gefährdet sind.} 18. Rxd5 {Klugerweise gibt
+Weiß die Qualität zurück, bevor der Springer noch größeren Schaden
+anrichtet.} Bxd5 {Der Läufer nimmt eine schöne dominierende Stellung im
+Zentrum ein} 19. Nd3 {Weiß rezentralisiert seinen schlechten Springer auf d1}
+Bc6 {Da der weiße Läufer kein Rückzugsfeld hat, denn auf c4 würde er
+einfach gefangen werden, kann er abgetauscht werden und die schwarze
+Entwicklung beschleunigen} 20. Bxc6 Nxc6 {Jetzt hat Schwarz seine Entwicklung
+vervollständigt} 21. Bb6 Qd6 22. Re1 Rc8 {Es ist eine in etwa ausgeglichene
+Stellung entstanden, in der aber die schwarze Stellung etwas besser ist, da
+der weiße König noch gefährdeter steht.}) ({(d) Etwas mehr Sinn macht der
+Damenzug} 14. Qe1 {[%csl Rg3][%cal Ge1g3] Die Dame deckt weiterhin den
+Springer c3. Aber sie soll auch auf den Königsflügel gebracht werden. Jetzt
+kann aber Schwarz den typischen Vorstoß spielen.} d5 {[%csl Yd5][%cal Gf6d5,
+Ge6d5,Gd8d5,Ga5d5] Dank der massiven Unterstützung der schwarzen Figuren kann
+der Bauernvorstoß jetzt gespielt werden.} 15. Bd2 {Weiß antizipiert den
+schwarzen Vorstoß d5-d4 und will ihn aus der Stellung nehmen. Aber Schwarz
+spielt den Zug trotzdem} ({Weiß kann natürlich auch versuchen, das schwarze
+Zentrum zu zerstören.} 15. Nxd5 Nxd5 16. Bc4 {Weiß nutzt es aus, dass der
+schwarze Springer auf d5 gefesselt ist.} Bb4 $1 {Eine energische Antwort, mit
+der die weiße Figurenkoordination durcheinander gebracht werden soll} 17. Bd2
+{Eine vorsichtige Verteidigung von Weiß} Bxd2 {Schwarz tauscht den Läufer ab,
+da er zu bedrohlich für den Turm auf a5 erschien.} 18. Qxd2 {Der schwarze
+Springer auf d5 ist immer noch gefesselt. Aber Schwarz kann eine Taktik nutzen,
+um seine Stellung zu befreien} Nc3+ {Der Springer opfert sich, um die
+Fesselung zu lösen. Schwarz hatte ja ohnehin eine Mehrfigur.} 19. Qxc3 Qc7 $1
+{Das ist eine ganz starke Gegenfessel von Schwarz. Jetzt kann der
+Königsläufer von Weiß sich nicht bewegen und es droht ein hässlicher
+Doppelbauer auf c4, der nicht gehalten werden kann} 20. Qd3 {Klugerweise löst
+Weiß diese Fesselung auf} Bxc4 21. Qxc4 Rc5 {[%csl Yc2][%cal Gc7c5,Gc5c2]
+Materiell ist die Stellung gleich, aber Schwarz ist aktiver, da er die weiße
+Dame jagt und Druck auf c2 ausübt.} 22. Qd3 Rc3 $1 {Ein weiterer starker Zug,
+der das Loch auf c3 ausnutzt. Weiß muss sich entscheiden, ob er passiv den
+Bauern auf c2 verteidigen will oder selbst initiativ wird} 23. Qd6 {Weiß gibt
+einen Bauern, um seine Figuren zu aktivieren.} Rxc2 24. Qxc7 Rxc7 {Schwarz
+steht besser, auch wenn der Bauer auf a3 schlecht ist}) 15... d4 {Natürlich
+geht der Bauer nach vorne} 16. Nd5 {[%cal Rd2a5] Mit diesem Abzug wird der
+Springer zentralisiert und der Turm auf a5 angegriffen} Rxd5 {Das
+Qualitätsopfer ist sowohl eine normale Fortsetzung und auch der einzige Weg,
+um Nachteil zu vermeiden} 17. exd5 Nxd5 {Schwarz hat im Zentrum alles im Griff}
+18. Qxe5 {Weiß gewinnt zwar den Bauern zurück, aber Schwarz nutzt ein Tempo,
+um die Entwicklung zu komplettieren} Nc6 {Alle schwarzen Figuren stehen im
+Zentrum gut} 19. Qe1 {Hier ist die Dame zwar passiv platziert, aber Weiß muss
+die schwachen schwarzen Felder auf dem Damenflügel überdecken} Bb4 $1 {Das
+ist ein guter Zug, denn die Verteidiger der schwarzen Felder sollen
+abgetauscht werden} 20. Bc4 {Weiß muss jetzt auch seine Entwicklung
+vervollständigen} Bxd2 21. Qxd2 {Jetzt kann Schwarz Material zurückgewinnen
+und die Schwäche auf c3 ausnutzen} Nc3+ 22. Qxc3 {Weiß verliert die
+Qualität ohnehin. Er zieht es vor, die schwarzen Bauern noch zu schwächen
+und die Damen abzutauschen} dxc3 23. Rxd8 Rxd8 24. Bxe6 fxe6 25. Nd3 {Es ist
+ein kompliziertes Endspiel entstanden, Schwarz muss auf seine Bauernschwächen
+aufpassen. Aber er hat die besseren Figuren und den besseren König}) ({(e)
+Der Zug} 14. Bc4 {soll auch den Vormarsch des d-Bauern verhindern. Aber der
+Zug ist sehr riskant, denn er schwächt die weiße Königsstellung noch viel
+mehr} Bxc4 {Natürlich tauscht Schwarz die Figuren, um den weißen König zu
+schwächen} 15. bxc4 {Der c-Bauer ist sehr schwach} Qc8 {Schwarz geht direkt
+auf den schwachen Bauern} 16. Nb3 ({Es hilft auch nicht viel, den Bauern
+direkt zu verteidigen} 16. Qd3 Nbd7 {[%csl Rc5][%cal Gd7c5] Der Springer soll
+nach c5 gebracht werden} 17. Nb3 {Weiß plombiert die b-Linie und greift den
+schwarzen Turm an} Ra6 {Der Turm bleibt so aktiv wie möglich und deckt mit
+diesem Zug auch den eigenen d-Bauern} 18. g4 {Weiß startet endlich seinen
+eigenen Angriff, aber Schwarz hat noch keine Schwächen auf dem Königsflügel}
+Rc6 {[%csl Yc4][%cal Gc6c4,Gc8c6] Eine weitere Figur drückt auf den c-Bauern
+und indirekt auf der c-Linie} 19. g5 {Dieser Zug soll den Angriff vorantreiben
+und die Kontrolle über das Feld d5 sicherstellen} Ne8 {Der Springer steht
+zwar hier schlecht, kann aber über c7 wieder wirkungsvoll in das Spiel auf
+dem Damenflügel gebracht werden.} 20. Nd5 {[%csl Re7][%cal Gd5e7] Das ist das
+Ziel des weißen Spiels. Es droht eine schlimme Gabel auf e7} Bd8 {Der Läufer
+soll natürlich nicht abgetauscht werden, sondern auf den Damenflügel
+gebracht werden} 21. Nd2 {Ein passiver Zug, aber die einzige Verteidigung für
+den Bauern c4} Nc5 {Schwarz aktiviert wieder seine Leichtfiguren und greift
+die weiße Dame an} 22. Qxa3 {Weiß gewinnt zwar einen Bauern, aber er öffnet
+auch eine Linie auf dem Damenflügel gegen seinen eigenen König} Ra6 {Schwarz
+greift sofort zu} 23. Qb2 {Die weiße Dame hat kein gutes Feld und wird sofort
+weiter gejagt} Na4 {Schwarz massiert jetzt seine Figuren auf dem Damenflügel}
+24. Qb4 {Natürlich darf die Dame nicht nach c1 oder a1 zurück} Nc7 {Die
+nächste Figur wird aktiviert} 25. Nb3 {Da der Bauer auf c4 nicht mehr
+angegriffen wird, kann der Springer aktiviert werden} b5 {mit einer weiteren
+Öffnung auf dem Damenflügel}) 16... Ra8 {Der Turm hätte auch nach a6 gehen
+können} 17. Qe2 {Weiß verteidigt seinen c-Bauern, aber die Dame vermindert
+den Druck auf das schwarze Zentrum} Nc6 {Schwarz entwickelt sich logisch
+weiter (in dieser Variante des Englischen Angriffs geht der Damenspringer oft
+nach c6)}) 14... d5 $1 {[%csl Yd5][%cal Ge6d5,Gf6d5,Gd8d5,Ga5d5] Wie immer ist
+das Gegenspiel im Zentrum die korrekte Reaktion gegen einen Angriff auf dem
+Flügel} 15. g5 {Die Schlacht beginnt mit einer Menge hängender Figuren, aber
+wie so oft entsteht ein forciertes Endspiel mit Gleichheit} Nxe4 $1 {Das ist
+ein sehr schönes Scheinopfer, mit dem Schwarz das weiße Zentrum zerstört}
+16. Nxe4 {Weiß muss natürlich wiedernehmen. Er hofft darauf, dass sich die
+Stellung nach einigen Abtäuschen entscheidend vereinfacht.} ({Wenn Weiß
+denkt, dass er eine Figur gewönne, dann hat er sich getäuscht wegen} 16. fxe4
+d4 $1 {Die Bauerngabel erobert Raum im Zentrum und gewinnt das scheinbar
+geopferte Material zurück} 17. h4 {[%csl Rd4][%cal Gd4e3,Gd4c3] Da Schwarz
+die Figur ohnehin zurückgewinnt und Weiß danach den Bauern, läßt er alle
+angegriffenen Figuren im Zentrum stehen und verstärkt seinen Angriff} Bb4 $1 {
+Das ist ein weiterer schöner Zug voin Schwarz, mit dem er den weißen
+Springer fesselt und den Druck verstärkt} 18. N1e2 {Natürlich muss Weiß den
+Springer verteidigen. Er hofft, dass Schwarz schlägt, wonach er die Damen
+tauschen kann} Qc7 $1 {Schwarz vermeidet weitere Vereinfachungen der Stellung
+und hat in dieser Stellung etwas Vorteil}) 16... dxe4 {Der einzige Nachteil
+dieses Zuges ist die Öffnung der d-Linie} 17. Qxd8 {Mit diesem Zug leitet
+Weiß einen Massenabtausch auf der d-Linie ein. Er hofft auf ein einfaches
+Endspiel} ({Nach} 17. fxe4 {vermeidet Schwarz den Damentausch mit} Qc7 {und
+erhält etwas Druckspiel}) 17... Rxd8 18. Rxd8+ Bxd8 19. fxe4 {Dieses Endspiel
+ist materiell ausgeglichen, aber die weißen Bauern sind etwas schwächer und
+können zu Angriffszielen werden} *
+

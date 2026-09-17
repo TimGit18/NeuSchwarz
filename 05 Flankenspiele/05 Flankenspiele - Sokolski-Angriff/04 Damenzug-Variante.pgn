@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sokolski-Angriff"]
+[Black "Damenzug-Variante"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "46"]
+[SourceVersionDate "2024.09.28"]
+
+{[%evp 0,22,16,-49,-54,-54,-43,-43,-43,-49,-22,-62,-10,-80,-36,-36,-36,-49,-20,-53,-53,-45,-39,-39,-47]} 1. b4 {Die Sokolski-Eröffnung gewinnt Raum auf dem Damenflügel, bevor das schwarze Zentrum angegriffen wird.} e5 2. Bb2 {Das ist der Hauptzug, aber Weiß kann auch ruhiger spielen.} Bxb4 {Dieser aktive Schlagzug ist nicht so beliebt wie man denkt. Denn Schwarz gibt einen Zentrumsbauern gegen einen Flügelbauern, erhält aber dafür einfache und schnelle Entwicklung sowie taktische Möglichkeiten auf der e-Linie.} 3. Bxe5 Nf6 4. e3 {Diese gewöhnliche Stellung kann als Ausgangspunkt gesehen werden.} O-O 5. Nf3 Re8 $1 {Schwarz braucht wirklich nicht viele Kenntnisse, um diese Variante zu spielen. Er muss sich nur schnell und aktiv entwickeln. Außerdem soll er zuerst den Königsflügel entwickeln und dann mit d7-d5 durchbrechen, wobei die Damenspringer-Entwicklung wegen der aggressiven Lf1-b5 verzögert wird.} 6. c4 {Weiß sollte üblicherweise das schwarze Zentrum mit einem schnellen c2-c4 anfechten.} d5 7. cxd5 {Weiß muss schon wissen, was er tut.} Nxd5 8. Bb2 {Weiß versucht, den Taktiken auf der e-Linie auszuweichen.} Nf4 $1 {Stört die weiße Entwicklung. Die Damenzug-Variante beginnt mit} 9. Qb3 Nc6 10. Bc4 Nxg2+ {, was vielversprechend aussieht. Nach} 11. Kf1 Bh3 12. Bxf7+ Kh8 13. Bxe8 Qxe8 {hat Schwarz einen starken Angriff für die Qualität, zum Beispiel} 14. Ng5 Nd4 $3 15. Nf7+ ({Oder} 15. Bxd4 Qb5+ 16. d3 Nxe3+ 17. Ke2 Qxg5 18. Bxe3 Qg4+ 19. f3 Qg2+ 20. Kd1 Qxh1+ {, wonach Weiß in die Flucht geschlagen ist.}) 15... Qxf7 16. Qxf7 Nf4+ 17. Ke1 Nd3+ 18. Kd1 Nxb2+ 19. Kc1 Nd3+ 20. Kd1 Bg4+ 21. f3 Bxf3+ 22. Qxf3 Nxf3 23. Ke2 Nfe5 {und Schwarz hat die Dame mit Zinsen zurückgewonnen.} *
+

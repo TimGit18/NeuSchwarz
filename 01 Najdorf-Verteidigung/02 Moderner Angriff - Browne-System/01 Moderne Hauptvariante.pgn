@@ -1,0 +1,87 @@
+[Event "Powerplay 18 - The Sicilian Najdorf"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Moderne Hauptvariante"]
+[Result "*"]
+[ECO "B95"]
+[Annotator "Daniel King"]
+[PlyCount "38"]
+[EventDate "2012.04.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Be7 9. Qf3 Qc7 (9... Nbd7 10. O-O-O) 10. O-O-O Nbd7 11. Be2 {is the
+theoretical recommendation and (supposedly) the reason Black should avoid this
+move order. But things aren't so clear. If you would like to take the fight to
+your opponent, then 11...0-0 is worth a look; if you would like something
+calmer, then 11...g5.} (11. Bg3 O-O (11... g5 12. e5 dxe5 13. fxe5 Nxe5 {
+[%cal Rg3c7]} 14. Qe2 Nfd7) 12. Re1 (12. e5 dxe5 13. fxe5 Nxe5 14. Qe2 Nfd7)
+12... Nc5 (12... b5 $1 {[%cal Rc8b7]} 13. e5 (13. a3 Bb7) 13... Bb7 14. exf6 (
+14. Qe2 dxe5 15. fxe5 Nd5 {[%csl Rg8][%cal Rc8c1]}) 14... Bxf3 15. fxe7 Rfe8
+16. gxf3 b4 17. Nd1 Nc5 {[%csl Rd6,Re6,Rf7][%cal Rc8c1]}) 13. e5 dxe5 14. fxe5
+Nh7 15. h4 b5 $6 (15... Rd8) (15... Bd7 {[%cal Ra8c8]}) 16. Qg4 $2 (16. Ndxb5
+axb5 17. Qxa8 Bb7 18. Nxb5 Qc6 19. Qa5) 16... Bb7 17. Bf4 Kh8 18. Rh3 b4 19.
+Nb1 {[%csl Rc1]} Rfd8 20. Nb3 Rac8 {[%cal Rc8c1]} 21. Nxc5 Qxc5 22. c3 bxc3 23.
+Rxc3 Qf2 24. Qg3 Bxh4 25. Qxf2 Bxf2 26. Re2 Bd4 27. Rxc8 Rxc8+ 28. Kd1 g5 29.
+Rd2 Bg1 30. Bg3 Be3 31. Rd7 Rc1+ 32. Ke2 Bc6 33. Rd8+ Kg7 34. Nc3 Bg1 35. Rd1
+Rxd1 36. Kxd1 h5 37. b4 h4 38. Be1 Bd4 39. b5 axb5 40. Nxb5 Bxe5 41. a4 Nf6 42.
+a5 Nd5 {0-1 (42) Weinzettl,E-Guliyev,N Vienna AUT 2012}) (11. g4 $6 g5 {
+[%csl Rf3][%cal Rd7e5]} 12. fxg5 Ne5 13. Qg3 hxg5 14. Bxg5 Nfxg4 15. Bf4 (15.
+Bxe7 Qxe7 {[%csl Rd6,Re4,Re6,Rf7,Rh2][%cal Re7h4]} 16. h4 Bd7 17. Be2 O-O-O 18.
+Kb1 (18. Bxg4 Rdg8 {[%cal Rg8g4]}) 18... Rdg8 $15 {0-1 Jeanjean,D (2033)
+-Birens,E (2174)/France 2007}) 15... Bd7 16. Be2 Bh4 17. Qg2 Nf2 18. Nf3 Nxd1
+19. Nxe5 Nxc3 20. bxc3 dxe5 21. Qg7 O-O-O 22. Bxe5 Rhg8 {0-1 Bokros,I (2143)
+-Huzman,A (2595)/Bled 2002}) (11. Qg3 Rg8 12. Be2 g5 13. fxg5 Ne5 14. g6 Nxg6
+15. Rhf1 Nxh4 16. Qxh4 Rg6 17. Bd3 Ng4 18. Qh5 Ne5 19. Nf3 Qc5 20. Nxe5 Qxe5
+21. Qxe5 dxe5 22. g3 Bd7 23. Be2 Bc6 24. Bh5 Rf6 25. a3 Rd8 26. Rxd8+ Bxd8 27.
+Rxf6 Bxf6 28. Kd2 Bg5+ 29. Kd3 Bc1 30. Nd1 Bb5+ 31. c4 Ba4 32. Nc3 Bc6 33. Nd1
+Kf8 34. h4 Ba4 35. Nc3 {1/2-1/2 Tal,M-Fischer,R/Zuerich 1959}) (11. Bd3 {
+is the most commonly played move in this position, leading to...} g5 12. fxg5
+Ne5 {the main line Browne System}) 11... O-O $5 {Modern Approach is a recent
+discovery, with sharp play:} (11... b5 $6 {Klassisches Endspiel: Ftacnik! King?
+} 12. Bxf6 Nxf6 13. e5 Bb7 14. Qg3 dxe5 15. fxe5 Nd5 16. Nxe6 fxe6 17. Qg6+ $1
+Kd7 18. Bg4) (11... g5 12. fxg5 Ne5 13. Qe3 Nfg4 ({if Black would like to play
+more sharply then...} 13... Nh7 $5 14. Nf3 hxg5 15. Bg3 Bd7 16. Qd4 {[%csl Re5]
+} f6 17. Nxe5 fxe5 18. Bh5+ Kd8 19. Qd3 Qc6 20. Rhf1 Nf6 21. Be2 b5 22. a3 Rb8
+23. Qe3 a5 $132 {1-0 Luther,T (2410)-Topalov,V (2460)/Arnhem 1989/TD (59)}) 14.
+Bxg4 Nxg4 15. Qd2 Qc5 {[%cal Rc5g5,Rh6g5]} 16. Nf3 Qe3 17. Qxe3 (17. Bg3 hxg5
+18. h3 Qxd2+ 19. Rxd2 Ne3 20. Bxd6 Bxd6 21. Rxd6 Nxg2 22. Nxg5 Rh5 23. Nf3 Nf4
+24. h4 Bd7 25. Kd2 Bc6 26. Ke3 Ng6 {with reasonable play.}) 17... Nxe3 18. Rd2
+Nc4 19. Rf2 b5 20. gxh6 Bxh4 21. Nxh4 Rxh6 22. Nf3 b4 23. Ne2 Bb7 24. b3 Ne5
+25. Ng3 Ke7 {[%csl Rg8,Rh8][%cal Ra8h8,Rg8g1,Rh8h1] with typical compensation.}
+) (11... Rg8 12. Bg3 b5 13. e5 Bb7 14. Qf1 dxe5 15. fxe5 Nd5 16. Nxe6 (16. Nxd5
+Bxd5 17. Bf3 Nb6 18. Kb1 Rc8 19. Bxd5 {1/2-1/2 Tal,M (2705)-Ljubojevic,L (2590)
+/Bugojno 1980/MCD}) 16... fxe6 17. Nxd5 Bxd5 18. Rxd5 Rc8 19. Rd2 (19. c3 Rf8
+20. Bh5+ Kd8 21. Rxd7+ Qxd7 22. Qe2 Qc6 23. Bf3 Qc4 24. Rd1+ Kc7 25. Qxc4+ (25.
+Qc2 Rfd8) 25... bxc4) 19... Bb4 20. Qf4 Bxd2+ 21. Qxd2 Nb6 22. Bd3 Nd5 23. Rd1
+Rf8 24. Bg6+ Ke7 25. Be4 Qc5 26. Bxd5 exd5 27. Kb1 b4 28. Qd3 Rc6 29. Rc1 Qc4
+30. Qh7 Qe4 31. Qxe4 dxe4 32. Re1 Rc4 33. b3 Rd4 34. Kc1 Ke6 35. Re3 Rf1+ 36.
+Kb2 Rdd1 37. Be1 Rfxe1 38. Rxe1 Rxe1 {0-1 Matulovic,M-Ljubojevic,L/Novi Sad
+1975/EXT 1999}) {Main Line} 12. Qg3 (12. g4 $5 b5 13. g5 hxg5 14. Bxg5 (14.
+fxg5 Ne5 15. Qh3 Nh7 {[%csl Re5]} 16. Rhg1 b4 17. Nb1 g6 (17... Ng6 $1) 18. Nd2
+Bb7 19. Kb1 Rfc8 20. Rc1 Qd8 21. Qe3 a5 22. N4f3 Nxf3 23. Nxf3 Rc5 24. e5 Bxf3
+25. Qxf3 Rxe5 26. Bd3 Rc8 27. Rcf1 Qe8 28. Bg3 Rxg5 29. h4 Rh5 30. Bxd6 Rxh4
+31. Bg3 Rh5 32. Bf4 Rcc5 33. Be3 Rcd5 34. Be4 Rde5 35. Bf4 Rc5 36. Be3 Rce5 37.
+Bf4 Reg5 38. Bxg5 Nxg5 39. Qe2 Nxe4 40. Qxe4 Bf8 41. Rh1 Rxh1 42. Rxh1 Qd8 43.
+Qd3 a4 44. a3 bxa3 45. Qh3 a2+ 46. Kxa2 Qd5+ 47. Kb1 Bg7 48. Qh7+ Kf8 49. Qh4
+Bf6 50. Qb4+ Kg7 51. Rc1 Qd7 52. c3 Be7 53. Qc4 a3 54. b4 Bf6 55. Kc2 Qa7 56.
+Kb3 Qf2 57. Rc2 Qf3 58. b5 g5 59. Ra2 g4 60. Qc6 Qd1+ 61. Kxa3 Qc1+ 62. Kb3
+Qd1+ 63. Rc2 Qb1+ 64. Rb2 Qd1+ 65. Kc4 Qc1 66. Rb3 Qf4+ 67. Kc5 Qf2+ 68. Kd6 g3
+69. Rb4 Qd2+ 70. Kc7 Qxc3 71. Rg4+ Kh6 72. Kb7 Qe3 73. Qh1+ {1-0 Oganessian,
+R-Vdovin,S (2092)/Moscow 2009/EXT 2010}) 14... b4 15. Nd5 $5 (15. Nb1 Bb7 {
+[%cal Rb7e4]} 16. Nd2 Nc5 17. Rhg1 {[%cal Rg1g8]} Rfc8 18. Bh6 Ne8 19. Kb1 Bf6
+20. Qe3 Kf8 $17) 15... exd5 16. Nf5 Nc5 17. Nxe7+ Qxe7 18. e5 dxe5 19. fxe5 Bg4
+$1) 12... Nc5 {'!?' protecting the bishop on e7, so meeting the threat of ...
+e5.} (12... b5 13. Bf3 {with the idea e5 is strong} Bb7) 13. Bf3 ({Parimarjan
+Negi} 13. e5 dxe5 14. fxe5 Nd5 15. Nxd5 exd5 16. Bxe7 Qxe7 17. Rhe1 $14) 13...
+e5 14. fxe5 (14. Nf5 Bxf5 15. exf5 Rac8 16. fxe5 {Zugumstellung} (16. Kb1 $2
+Na4 17. Nxa4 Qxc2+ 18. Ka1 e4 19. Nb6 Rc6 20. Nd7 Rfc8 21. a3 Nxd7 22. Bxe7 Rb6
+23. Rb1 exf3 24. f6 Qxg2 25. Rhg1 Qxg3 26. Rxg3 g6 27. Rxf3 d5 28. f5 g5 29.
+Rg1 Kh7 30. h4 Rg8 31. hxg5 Rxg5 32. Rxg5 hxg5 33. Rh3+ Kg8 34. Rh6 Rc6 35. Ka2
+g4 36. Kb3 d4 37. Rh4 Nxf6 38. Bxf6 Rxf6 39. Rxg4+ Kh7 40. Rh4+ Kg7 41. Rxd4
+Rxf5 42. Rd7 Rb5+ 43. Kc3 Kf6 44. b4 Ke6 45. Rc7 f5 46. Rh7 Ke5 47. Kc4 f4 48.
+a4 Rb6 49. b5 axb5+ 50. axb5 f3 51. Kc5 Rf6 52. Re7+ Kf4 {0-1 Sammour Hasbun,J
+(2463)-Ludwig, D (2461)/ICC INT 2009/CBM 132 Extra})) 14... dxe5 15. Nf5 Bxf5
+16. exf5 Rac8 17. Rhe1 Na4 18. Rd3 b5 19. Qxe5 Qc4 $1 $11 *
+

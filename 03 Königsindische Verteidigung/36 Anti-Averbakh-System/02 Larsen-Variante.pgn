@@ -1,0 +1,50 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Averbakh-System"]
+[Black "Larsen-Variante"]
+[Result "*"]
+[ECO "E90"]
+[Annotator "David Vigorito"]
+[PlyCount "42"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be3 {Dieser Zug wurde von
+Larsen in den 1970er Jahren häufig gestelt. Schwarz sollte aufpassen, dass er
+nicht in eine Variante gerät, in der er sich nicht auskennt.} e5 {Dieser
+prinzipielle Zug ist wie so oft der beste in der Königsindischen Verteidigung}
+7. dxe5 {Diese Abtauschvariante schenkt der ganzen Eröffnung ein eigenes Aroma
+} ({(a) Der Zug} 7. Be2 {transponiert in das Gligoric-System}) ({(b)} 7. d5 {
+könnte in eine Variante überleiten, die wie in dem Petrosian-System unserem
+Repertoire gleicht.} a5 8. Be2 Ng4 {leitet in das Petrosian-System über}) 7...
+dxe5 8. Qxd8 Rxd8 {Die weißen Hoffnungen beruhen auf diesem Endspiel, aber
+Schwarz hat sicher mehr als eine gute Antwort. Wahrscheinlich sind seine
+Aussichten sogar besser als in der Klassischen Abtauschvariante.} 9. Nd5 Na6 {
+Dieser Zug punktet gut für Schwarz} ({Viel gewöhnlicher ist} 9... Nxd5 {,
+aber das punktet nicht gut. Nach} 10. cxd5 c6 11. Bc4 cxd5 12. Bxd5 {steht
+Weiß viel besser als in der Klassischen Abtauschvariante, denn seine Läufer
+sind besser platziert}) 10. O-O-O ({(a)} 10. Nxf6+ Bxf6 {ist eine Fortsetzung,
+die zu einer gleichen Stellung führt}) ({(b)} 10. Bg5 Rd6 11. Bxf6 Bxf6 {
+führt zu einer Stellung, die aus der Abtauschvariante des Makoganov-Systems
+bekannt ist, außer dass Weiß auf den nützlichen Zug h2-h3 verzichtet hat}) (
+{(c) Die Hauptalternative zur langen Rochade ist} 10. Rd1 $5 {[%csl Yf2] Nach
+diesem Zug bleibt der Bauer f2 geschützt. Weiß möchte Druck mit dem Zug
+Le3-g5 ausüben. Schwarz kann versuchen, den Druck abzuschütteln oder die
+Qualität zu opfern.} Be6 11. Bg5 Bxd5 12. cxd5 Nc5 {[%csl Ye4][%cal Rf6e4,
+Rc5e4] Schwarz übt Druck gegen den Bauern e4 aus} 13. Nd2 Ncxe4 14. Nxe4 Nxe4
+15. Bxd8 Rxd8 {mit ordentlichem Spiel für die Qualität}) 10... Be6 11. Bg5 {
+Weiß muss diesen Zug spielen, denn sonst hat Schwarz überhaupt keine Probleme
+} ({Beispielsweise spielte Larsen} 11. Nxf6+ Bxf6 12. Rxd8+ Rxd8 13. a3 b6)
+11... Bxd5 12. cxd5 ({Obwohl} 12. exd5 h6 {schön für Schwarz ist, ist diese
+Zugfolge vielleicht die bessere Wahl}) 12... Nc5 13. Bd3 ({(a) Nach} 13. Nd2 $2
+Ncxe4 14. Nxe4 Nxe4 15. Bxd8 Rxd8 {kann Schwarz den Punkt f2 nicht mehr
+richtig bewachen und muss auch auf Ideen wie Lg7-h6 achtgeben. Schwarz holt
+sich entweder die Qualität zurück oder erobert die Bauern f2 und d5.}) ({(b)
+Am sichersten ist wohl} 13. Bxf6 Bxf6 {, aber dann steht Schwarz zumindest
+ausgeglichen}) 13... c6 $1 {Schwarz ergreift die Initiative} 14. Bc2 cxd5 15.
+Bxf6 Bxf6 16. exd5 e4 {Dies führt zu Vereinfachung und einem schnellen Remis.}
+({Mit} 16... Rac8 $5 17. Kb1 Rd6 {kann Schwarz auf mehr hoffen}) 17. Nd2 Rxd5
+18. Nxe4 Rxd1+ 19. Rxd1 Nxe4 20. Bxe4 Rc8+ 21. Kb1 Rc7 *
+

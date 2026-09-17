@@ -1,0 +1,92 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ungarisches System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "E61"]
+[Annotator "David Vigorito"]
+[PlyCount "42"]
+[EventDate "2011.06.04"]
+[SourceDate "2011.06.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 {Dieser flexible Zug wurde von
+den ungarischen Großmeistern Szabo und Forintos entwickelt. Das System ist
+etwas ärgerlich, denn es kann auch in das Sämisch-System transponieren, was
+nicht in unser Repertoire passt.} O-O 6. Ng3 ({Nach} 6. f3 Nc6 {sind wir im
+Sämisch-System angelangt}) 6... e5 {Schwarz entscheidet sich für eine
+klassische Vorgehensweise.} 7. d5 {Diese Stellung erinnert an das
+Petrosian-System, allerdings steht hier der weiße Springer auf g3. Auf den
+ersten Blick sieht dieses Feld etwas albern aus, denn der weiße Springer wird
+ja von dem Bauern g6 eingeschränkt. Andererseits erfüllt er dort auch einen
+Zweck. Er will h4-h5 spielen und den thematischen Vorstoß f7-f5 erschweren.
+Schwarz muss immer aufpassen, dass ein Figurenopfer Le2xh5 möglich ist,
+insbesondere dann, wenn bereits Lc1-g5 gespielt wurde, was den schwarzen
+Königsspringer fesselt. Das sollte aber nicht von der schwarzen Rochade
+abhalten.} a5 {Schwarz setzt das Spiel in einer Standardweise (aus dem
+Petrosian-System) fort. Er schränkt den weißen Damenflügel ein und sichert
+das Feld c5 für seinen Springer. Schwarz hat hier auch schon andere Züge
+ausprobiert, aber dieser Zug bleibt der prinzipielle Ansatz.} 8. Be2 ({Das
+direkte} 8. h4 {ist ebenso spielbar, aber in der Regel wird das Spiel in die
+Hauptvariante transponieren} Na6 9. h5 c6 10. Bg5 {Wenn Weiß nun kreativ wird,
+dann kann folgen} Nc5 11. h6 Bh8 12. Qf3 Bg4 13. Qxg4 Nxg4 14. Bxd8 Rfxd8 {und
+mit dem Läuferpaar seht Schwarz ganz orderntlich}) 8... Na6 9. h4 {Der
+Vormarsch des h-Bauern gibt der Stellung einen eigenen Charakter. Die Stellung
+ist strategisch sehr komplex. Sie erinnert an Stellungen aus dem Petrosian-
+und dem Makoganov-System, aber hier steht der Bauer schon zwei Felder vorn.
+Weiß erhält durchaus Angriffschancen, aber in der Regel sollte der Vormarsch
+eher den schwarzen Königsflügelangriff behindern. Schwarz hat Gegenchancen,
+denn der Vormarsch des h-Bauern hinterläßt Lücken in der weißen Stellung
+und er wird selber zum Angriffsziel. Da nun Weiß sich für einen Angriff auf
+dem Königsflügel entschieden hat, muss Schwarz Chancen auf der anderen
+Brettseite suchen. Weiß hat andere logische Züge, aber sie sind weniger
+gefährlich. Schwarz hat jetzt eine Wahl. Er kann Gegenspiel auf dem
+Damenflügel suchen oder versuchen, den h-Bauern zu stoppen.} ({(a)} 9. Be3 Nc5
+10. Rb1 Bd7 11. b3 h5 $1 12. Bg5 Qe8 13. h4 Nh7 14. Be3 Qe7 {mit der Idee
+Lg7-f6} 15. Nf1 f5 16. exf5 Bxf5 17. Rc1 Bf6 {und Schwarz hat schon die
+Initiative ergriffen}) ({(b)} 9. Bg5 {ist eine typische Provokation.} h6 10.
+Be3 h5 11. Bg5 Qe8 12. Qd2 Nh7 13. Bh6 {Schwarz hat nichts dagegen, die
+Läufer zu tauschen} h4 14. Bxg7 Kxg7 15. Nf1 Nc5 {und Schwarz hat keine
+Probleme mehr}) ({(c)} 9. O-O {ist nicht so gefährlich nach} Nc5 10. Be3 h5
+11. Bg5 Qd7 12. Qd2 Nh7 13. Bh6 h4 14. Bxg7 Kxg7 15. Nh1 Qe7 {mit einer
+ähnlichen und angenehmen Stellung für Schwarz}) 9... c6 (9... h5 {ist auch
+spielbar, solange Schwarz nach Lc1-g5 die Fesselung sofort mit Dd8-e8
+abschütteln kann und danch mit Sf6-h7 und f7-f5 fortsetzt}) 10. h5 (10. Bg5 {
+ist ungewöhnlich. Die einfachste Antwort ist} h6 11. Be3 cxd5 12. cxd5 h5 13.
+f3 Bd7 14. Bb5 {Normalerweise kann man dies als ein große Zielerreichung
+ansehen, aber mit der festgelegten Königsflügelstruktur sind die Dinge nicht
+so einfach. Schwarz tauscht gerne den weißfeldrigen Läufer ab, denn er hat
+weniger Raum und der weiße König hat kein Idealfeld. Nach} Rc8 15. Nge2 Nb4
+16. Bxd7 Nxd7 17. a3 Na6 {sind die Chancen gleich}) 10... cxd5 {Schwarz kann
+auch sofort den Springer nach c5 spielen, aber er will zuerst die
+Bauernstruktur festlegen} 11. cxd5 ({(a) Nach} 11. exd5 Nd7 {plant Schwarz
+sofort seine Bauernmehrheit in Gang zu setzen} 12. hxg6 hxg6 13. Bh6 f5 14. Qd2
+f4 15. Nge4 Ndc5 {mit unklarer Stellung}) ({(b)} 11. h6 Bh8 12. cxd5 Nc5 {
+transponiert}) 11... Nc5 12. Be3 {Dazu gibt es einige Alternativen} ({(a)} 12.
+Bg5 Qb6 13. Qd2 Bd7 14. Rb1 a4 15. Bh6 Qb4 16. Rh4 Bxh6 17. Qxh6 a3 18. Qd2
+axb2 19. Rxb2 Qd4 {mit guter Stellung für Schwarz}) ({(b)} 12. h6 {ist eine
+interessante Idee} Bh8 13. Bg5 Qb6 14. Qd2 Ng4 $5 {Das ist die prinzipielle
+Antwort. Nach} 15. f3 f6 16. Bh4 Nf2 17. Rf1 {sieht der schwarze Springer
+gefangen aus} Qxb2 18. Qxb2 Nfd3+ 19. Bxd3 Nxd3+ 20. Ke2 Nxb2 21. Rfb1 Nc4 22.
+Kd3 Na3 23. Rb3 {Schon wieder sieht es eng aus} b5 24. Rxa3 b4 25. Rb3 Ba6+ 26.
+Ke3 bxc3 27. Ne2 g5 28. Bf2 f5 {mit unklarer Stellung}) 12... Qb6 {Schwarz
+nimmt sofort ein aktives Feld auf dem Königsflügel ein} 13. Qd2 {Das ist der
+natürlichste Zug. Weiß deckt den Bauern b2 und denkt an Le3-h6. Andere Züge
+erlauben Schwarz mehr Gegenspiel.} ({(a)} 13. b3 Bd7 14. O-O Qb4 15. Qd2 Rfc8
+16. a3 Qb6 17. Rab1 Qd8 18. h6 Bf8 19. Rfc1 Ng4 20. Bxg4 Bxg4 21. b4 axb4 22.
+axb4 Na4 {mit schönem Spiel für Schwarz}) ({(b)} 13. Rb1 Bd7 14. Nf1 a4 15.
+Nd2 Qa5 16. hxg6 hxg6 17. f3 b5 18. a3 Nh5 {und Schwarz hat ausgezeichnetes
+Spiel}) 13... Bd7 14. Rb1 ({Weiß hat etwas Erfolg mit} 14. h6 Bh8 15. O-O a4
+16. Rac1 Rfc8 17. f4 exf4 18. Rxf4 Ng4) 14... a4 15. f3 Qa5 16. h6 {Es ist
+interessant, dass der einschränkende Vormarsch des h-Bauern oft viel
+gefährlicher für Schwarz ist als die Öffnung der h-Linie.} ({Nach} 16. Bh6
+b5 17. hxg6 fxg6 18. Bxg7 Kxg7 19. Qh6+ Kg8 {hat Weiß keine richtigen
+Angriffschancen, wohingegen Schwarz auf dem Damenflügel marschiert.}) 16...
+Bh8 17. Nf5 $5 {Weiß ändert den Charakter der Stellung drastisch} ({Nach} 17.
+O-O b5 {hat Schwarz gutes Gegenspiel}) 17... Bxf5 18. exf5 e4 {Schwarz muss
+die lange Diagonale für seinen Läufer öffnen} 19. fxg6 ({Der Bauerenraub} 
+19. Bxc5 Qxc5 20. fxe4 Rfe8 {erlaubt Schwarz ein ausgezeichnetes Spiel}) 19...
+fxg6 20. O-O exf3 21. Rxf3 Nfd7 {In dieser interessanten Stellung haben beide
+Seiten Chancen} *
+

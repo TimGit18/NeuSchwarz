@@ -1,0 +1,41 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Averbakh-System"]
+[Black "Nikolaidis-Variante"]
+[Result "*"]
+[ECO "E90"]
+[Annotator "David Vigorito"]
+[PlyCount "40"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 {Mit dieser Variante wird ein
+weiteres System mit dem Läuferzug nach g5 eingeleitet. Obwohl die Abspiele
+alle ähnlich aussehen, sind sie es nicht. In dieser Stellung sollte Schwarz
+sofort den weißen Läufer befragen.} h6 {Der Textzug ist insofern logisch, da
+er es Weiß nich erlaubt, eine günstige Transposition in das Averbakh-System
+zu erreichen.} 6. Be3 {Der Textzug ist vielleicht nicht oft in Gebrauch, aber
+er ist wahrscheinlich der beste Zug für Weiß. Die Variante stammt von dem
+griechischen Großmeister Nikolaidis und wurde auch von Ivan Sokolov
+gelegentlich gespielt.} Ng4 {Schwarz muss das Rennen forcieren} ({Denn nach} 
+6... O-O 7. f3 -- {kostet der Extrazug h7-h6 Schwarz ein Extratempo nach dem
+Damenzug} 8. Qd2) 7. Bc1 c5 $1 {Das ist wesentlich schärfer als e7-e5, was
+aber sicher auch spielbar ist.} 8. d5 ({Weiß kann auch versuchen, ein
+unklares Endspiel anzustreben.} 8. dxc5 dxc5 9. Qxd8+ Kxd8 10. h3 Bxc3+ 11.
+bxc3 {Schwarz hat langfristig gute Aussichten, falls er seine Stellung
+stabilisieren kann} Ne5 12. f4 Ned7 13. Be3 b6 14. O-O-O Bb7 15. Bd3 Nc6 16.
+Nf3 Kc7 17. f5 g5 18. Bf2 f6 19. Bg3+ Nce5 20. Bc2 Bc6 {mit schöner Stellung
+für Schwarz}) 8... Bd4 $1 {[%csl Rf2][%cal Gg4f2,Gd4f2] Ein sehr starker Zug,
+den Schwarz benutzt, um mit seinem Entwicklungsvorsprung die weiße Stellung
+aus dem Gleichgewicht zu bringen} 9. Nh3 {Es ist eine sehr ungewöhnliche
+Stellung entstanden.} Nf6 {Schwarz hat Ideen wie Lc8xh3 oder Ld4xc3+, gefolgt
+von Sf6xe4.} 10. Nf4 {Das ist eine Wahl von Nikolaidis. Andere Möglichkeiten
+sind} ({(a)} 10. f3 Bxh3 11. gxh3 Qb6 12. Nb5 a6 13. Nxd4 cxd4 14. b3 e5 {mit
+Gegenspiel nach Bologan}) ({(b)} 10. Qd3 Na6 11. a3 Nc7 12. Ne2 e5 13. Nxd4
+cxd4 14. Be2 g5) 10... Bxc3+ 11. bxc3 Nxe4 12. Bd3 Nf6 13. Qc2 Qa5 14. O-O Bf5
+15. Bxf5 gxf5 16. Rb1 {Eine sehr komplizierte Stellung wurde erreicht. Weiß
+hat etwas Kompensation für den Bauern, aber Schwarz hat auch seine Trümpfe}
+Nbd7 17. Rxb7 Nb6 18. Re1 Nfd7 19. Rc7 Kd8 20. Rb7 Qa6 *
+

@@ -1,0 +1,81 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torre-Angriff"]
+[Black "Zahme Variante"]
+[Result "*"]
+[ECO "A48"]
+[Annotator "Yelena Dembo"]
+[PlyCount "30"]
+[EventDate "2011.08.09"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 {[%csl Yd2,Ye4][%cal Gb1d2,Ge2e4] Der
+Torre-Angriff ist ein seriöser Versuch um den Eröffnungsvorteil zu kämpfen.
+Im Gegensatz zum London-System entwickelt Weiß seine Figuren aktiver und baut
+an starkes Zentrum mit e2-e4 und Sb1-d2. Der Damenläufer übt Druck auf
+Schwarz aus, wohingegen der Königsläufer nach c4 entwickelt werden soll.
+Alles in allem ist dies kein harmloses System und muss daher aktiv bekämpft
+werden. Schwarz operiert wieder mit der Bauernkette d6 und c5 und baut Druck
+gegen den Bauern d4 auf, den Weiß meistens abtauscht.} 4. Nbd2 {Weiß
+bereitet e2-e4 vor.} O-O {Weiß muss nun eine Wahl treffen zwischen zwei
+verschiedenen Strategien.} 5. c3 d6 {Eine sehr zahme Fortsetzung ist} 6. e3 {
+, die aber auch ein Existenzrecht hat. Weiß beabsichtigt seine Entwicklung zu
+komplettieren, um dann entweder im Zentrum mit e3-e4 zu spielen (den
+Tempoverlust braucht Schwarz nicht zu fürchten) oder auf dem Damenflügel mit
+a4 und b4. Im Unterschied zum London-System kann hier der weiße Damenläufer
+nicht so einfach attackiert werden, deswegen wählt Schwarz einen eher
+verhaltenen Aufbau.} c5 7. Bd3 {Weiß entwickelt sich meistens in dieser Art
+weiter.} ({(a)} 7. Be2 {ist etwas zurückhaltender, aber ziemlich ähnlich.} b6
+8. O-O Bb7 9. a4 a6 10. Re1 Nbd7 {Schwarz möchte seinen Springer flexibel
+entwickeln.} 11. Bd3 (11. Bf1 Ne4 12. Nxe4 Bxe4 13. Nd2 Bb7 14. h3 Re8 15. Qb1
+Qc7 16. Rc1 e5 {ist eine lebendige Illustration der schwarzen Absichten,
+wonach er besser statt.}) 11... Qc7 12. e4 e5 {Es ist keine Zeit zu verlieren,
+da Weiß droht vorzuziehen.} 13. dxe5 dxe5 14. Bc4 Bc6 15. Qe2 Qb7 {Schwarz
+erhält die Kontrolle über d5 und keine Probleme mehr. Kreativ ist nun} 16.
+Bxf6 Bxf6 17. Bb5 Bg7) ({(b)} 7. Bc4 {wurde auch schon probiert, aber der
+Läufer ist auf c4 eher exponiert. Achtung vor folgender Falle:} b6 $4 8. Bxf6
+Bxf6 9. Bd5) 7... Nc6 8. O-O {Das ist die natürlichste Fortsetzung. Aber
+Weiß hat schon eine Menge Alternativen ausprobiert.} ({(a)} 8. Qc2 b6 9. O-O-O
+{Die Stellung der Dame auf c2 macht nur Sinn in Verbindung mit der langen
+Rochade, da sie sonst auf der c-Linie exponiert ist.} ({Zum Beispiel hat nach} 
+9. Rd1 Bb7 10. O-O Qc7 {Weiß Sorgen über ein mögliches} 11. Z0 cxd4) 9...
+cxd4 {Es macht Sinn, die c-Linie gegen das weiße royale Paar zu öffnen.} 10.
+exd4 Bd7 $1 {[%csl Yb4,Yb5][%cal Gb6b5,Gb5b4] Der Damenläufer unterstützt
+den Vorstoß b5 und den Damenflügel-Angriff im allgemeinen. Es kann folgen}
+11. Kb1 (11. a3 Rc8 12. Ne4 Nxe4 13. Bxe4 b5 {ist vielversprechend für
+Schwarz.} 14. h4 Bg4 15. Bxc6 Rxc6 16. Qe4 Qc8 $1 17. h5 gxh5 18. Rde1 (18.
+Qxe7 Rxc3+ 19. bxc3 Qxc3+ 20. Kb1 b4 {mit einem entscheidenden Angriff.}) 18...
+Bf5 {ist besser für Schwarz.}) 11... Rc8 {Es ist nicht klar, was Weiß tun
+soll, wohingegen Schwarz mit b6-b5-b4 angreifen wird.}) ({(b)} 8. h3 b6 9. O-O
+Bb7 10. Qe2 Qc7 {Schwarz wählt seinen Standard-Aufbau.} 11. a3 (11. e4 h6 12.
+Be3 cxd4 13. cxd4 Nb4 14. Rfc1 Qd8 15. Bb1 Rc8 16. Rc3 d5 {, wonach Schwarz
+besser steht, denn die Möglichkeit von La6 ist ärgerlich für Weiß.}) 11...
+Nh5 $5 {Schwarz beabsichtigt den Damenläufer abzutauschen mit h6 und g5.
+Dieser Plan funktioniert hier ganz gut wegen des Bauern auf h3.} 12. d5 Nd8 13.
+e4 e5 {Schwarz hat eine schöne Stellung und wird ein königsindisches Spiel
+auf dem Königsflügel einleiten.} 14. Nh2 f6 15. Be3 Nf7 16. Ba6 Bxa6 17. Qxa6
+f5 {mit Vorteil für Schwarz.}) ({(c)} 8. dxc5 dxc5 9. Qc2 Nd5 10. a3 Qc7 {
+ist schön für Schwarz.}) ({(d)} 8. Rc1 b6 9. O-O Bb7 10. Qe2 h6 11. Bh4 Qd7
+12. Bg3 Nh5 {ergibt durch den Läufertausch gutes Spiel, auch wenn Weiß
+versuchen kann, die Abwesenheit des Springers von f6 auszunutzen.} 13. d5 Nxg3
+14. hxg3 Nd8 15. e4 e6 16. dxe6 Nxe6 17. Bb5 Qe7 {mit Läuferpaar in einer
+dynamischen Stellung.}) ({(e)} 8. h4 $6 {ruiniert bloß die weiße Stellung
+nach} Bg4) 8... b6 9. Qe2 ({Schwarz muss immer die folgende Möglichkeit
+berücksichtigen.} 9. Bxf6 Bxf6 10. Ne4 {Aber das funktioniert hier nicht
+besonders gut wegen} Bg7 11. dxc5 d5 12. Neg5 bxc5 {und Schwarz hat das
+Zentrum und das Läuferpaar.}) 9... Bb7 {Dies ist eine typische Stellung im
+e3-System des Torre-Angriffs. Weiß würde gerne e4 spielen, aber das würde
+von einer Kombination aus h6 und cxd4 beantwortet werden, wonach die schwarzen
+Springer aktiviert sind (eine direkte Konsequenz der flexiblen und dynamischen
+schwarzen Entwicklung).} 10. Rfd1 {Alternativen} ({(a)} 10. Rfe1 Qc7 11. e4 {
+Jetzt folgt der typische Gegenschlag.} h6 12. Be3 ({Oder} 12. Bh4 Nh5) 12...
+Ng4 {mit besseren Aussichten für Schwarz.}) ({(b)} 10. Rad1 Qc7 {Für Weiß
+stellt sich die Frage, was er als nächstes spielen soll.}) ({(c)} 10. Ba6 Bxa6
+11. Qxa6 Qd7 12. h3 {ist ziemlich unambitioniert von Weiß. Nach} cxd4 13. exd4
+{sollte Schwarz mit} Nd5 {fortsetzen.}) ({(d)} 10. e4 {wird nicht besonders
+überraschend mit} cxd4 11. cxd4 Nb4 {beantwortet.}) 10... Qc7 11. Rac1 h6 12.
+Bh4 e5 {Schwarz hat seinen Hauptplan durchgeführt und steht gut. Es kann
+folgen} 13. Ne4 Nxe4 14. Bxe4 exd4 15. cxd4 Rfe8 {mit einem Vorteil für
+Schwarz.} *
+

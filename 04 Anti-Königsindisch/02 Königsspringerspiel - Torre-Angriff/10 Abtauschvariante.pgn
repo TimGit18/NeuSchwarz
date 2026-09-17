@@ -1,0 +1,43 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torre-Angriff"]
+[Black "Abtauschvariante"]
+[Result "*"]
+[ECO "A48"]
+[Annotator "Yelena Dembo"]
+[PlyCount "36"]
+[EventDate "2011.08.09"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 {[%csl Yd2,Ye4][%cal Gb1d2,Ge2e4] Der
+Torre-Angriff ist ein seriöser Versuch um den Eröffnungsvorteil zu kämpfen.
+Im Gegensatz zum London-System entwickelt Weiß seine Figuren aktiver und baut
+an starkes Zentrum mit e2-e4 und Sb1-d2. Der Damenläufer übt Druck auf
+Schwarz aus, wohingegen der Königsläufer nach c4 entwickelt werden soll.
+Alles in allem ist dies kein harmloses System und muss daher aktiv bekämpft
+werden. Schwarz operiert wieder mit der Bauernkette d6 und c5 und baut Druck
+gegen den Bauern d4 auf, den Weiß meistens abtauscht.} 4. Nbd2 {Weiß
+bereitet e2-e4 vor.} O-O {Weiß muss nun eine Wahl treffen zwischen zwei
+verschiedenen Strategien.} {Grundsätzlich hat Weiß immer die Option} 5. e4 {
+direkt zu spielen. Hier muss Schwarz energisch reagieren.} d5 {Die
+Abtauschvariante} 6. Bxf6 {gibt den Damenläufer und hofft auf Zeitgewinn.
+Andererseits ist die Preisgabe der schwarzen Felder auch schon ein
+Zugeständnis.} Bxf6 7. exd5 {Weiß entwickelt sich mit Tempo.} ({(a)
+Konsistenter scheint} 7. e5 {, aber Weiß kann das Zentrum nicht halten.} Bg7
+8. Bd3 c5 9. c3 (9. dxc5 $2 Nc6 10. Qe2 Qc7 11. Nb3 Bg4 12. Qe3 Bxf3 13. Qxf3
+Qxe5+ {ist sehr gut für Schwarz.}) 9... Nc6 10. O-O cxd4 11. cxd4 f6 $1 12.
+exf6 Bxf6 {Schwarz hat das Läuferpaar und aktives Spiel.} 13. Qa4 Qb6 14. Nb3
+Bg4 15. Ne5 Bxe5 16. dxe5 Nxe5 {Jetzt steht er viel besser.}) ({(b) Die Praxis
+sah auch} 7. c3 Bg7 8. exd5 Qxd5 9. Bc4 Qd8 {mit weißem Entwicklungsvorsprung.
+Allerdings kann er damit nichts anfangen, und später hat das weiße
+Läuferpaar das Sagen.} 10. O-O ({Oder} 10. Qe2 Nd7 11. O-O c5 12. dxc5 Nxc5
+13. Rfe1 e6 {mit zumindest gleichem Spiel.}) 10... Nd7 11. Re1 c5 {Wieder der
+schwarze Hauptplan.} 12. Bb3 cxd4 13. cxd4 Nb6 14. Qe2 e6 15. Ne4 Nd5 16. Ne5
+a5 {Die schwarze Stellung ist vorzuziehen.}) 7... Qxd5 8. Bc4 Qa5 9. c3 Nd7 {
+Schwarz strebt nach ...e5.} 10. O-O e5 11. Ne4 Bg7 12. dxe5 Nxe5 13. Nxe5 Bxe5
+14. Qd5 $6 {Das ist eine unverständliche Entscheidung. Nach} (14. Re1 {
+ist besser.} c6) 14... Qxd5 15. Bxd5 c6 16. Bb3 Bf5 17. Rfe1 Rae8 18. f3 (18.
+f4 $2 Bxe4 19. Rxe4 Bxc3 20. Rxe8 Bd4+ 21. Kf1 Rxe8 {mit schwarzem Mehrbauern})
+18... h5 {Schwarz verbessert sich stetig.} *
+

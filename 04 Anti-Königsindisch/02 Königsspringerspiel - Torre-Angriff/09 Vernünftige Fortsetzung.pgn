@@ -1,0 +1,44 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Torre-Angriff"]
+[Black "Vernünftige Fortsetzung"]
+[Result "*"]
+[ECO "A48"]
+[Annotator "Yelena Dembo"]
+[PlyCount "32"]
+[EventDate "2011.08.09"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 {[%csl Yd2,Ye4][%cal Gb1d2,Ge2e4] Der
+Torre-Angriff ist ein seriöser Versuch um den Eröffnungsvorteil zu kämpfen.
+Im Gegensatz zum London-System entwickelt Weiß seine Figuren aktiver und baut
+an starkes Zentrum mit e2-e4 und Sb1-d2. Der Damenläufer übt Druck auf
+Schwarz aus, wohingegen der Königsläufer nach c4 entwickelt werden soll.
+Alles in allem ist dies kein harmloses System und muss daher aktiv bekämpft
+werden. Schwarz operiert wieder mit der Bauernkette d6 und c5 und baut Druck
+gegen den Bauern d4 auf, den Weiß meistens abtauscht.} 4. Nbd2 {Weiß
+bereitet e2-e4 vor.} O-O {Weiß muss nun eine Wahl treffen zwischen zwei
+verschiedenen Strategien.} {Grundsätzlich hat Weiß immer die Option} 5. e4 {
+direkt zu spielen. Hier muss Schwarz energisch reagieren.} d5 {Die
+vernünftige Fortsetzung lautet} 6. Bd3 {Weiß entwickelt sich einfach und
+will gar keinen Entwicklungsvorteil erzielen.} dxe4 7. Nxe4 Nxe4 8. Bxe4 c5 {
+Schwarz eliminiert einfach den verbliebenen Zentralbauern. Sobald er in der
+Entwicklung aufgeholt hat, kann er seine zentrale Bauernmehr in Bewegung
+setzen.} 9. c3 {Alternativen} ({(a)} 9. dxc5 Bxb2 10. Qxd8 Rxd8 11. Rb1 Bc3+
+12. Ke2 Nc6 {ist kaum eine Lösung. Schwarz hat vielleicht zeitweise Probleme
+in der Koordination, aber diese können gelöst werden und dann wird die
+schlechtere Bauernstruktur von Weiß der Brennpunkt der Partie.} 13. Rb3 (13.
+Rhd1 Re8 14. h3 Bg7 15. a4 Kf8 16. Be3 Nd8 17. a5 f5 18. Bd5 e6 19. Bb3 Nf7 20.
+Ba4 Re7 {Schwarz entknotet sich.}) 13... Bg7 14. Rhb1 {Schwarz kann nun die
+Initiative ergreifen} f5 15. Bd3 Bd4) ({(b)} 9. Be3 $2 {ein typischer
+Blitz-Blunder.} f5 10. Bd3 f4 11. Bd2 cxd4 12. Bc4+ Kh8 13. h4 Bg4 14. Qe2 Nc6
+15. h5 gxh5 16. Be6 d3 $1 17. Qe4 Bxe6 18. Rxh5 Bg8 {und Schwarz sollte
+gewinnen.}) 9... cxd4 10. Nxd4 Qa5 {Schwarz verschwendet keine Zeit für
+Trivialitäten und schiebt seine Zentralbauern vor.} 11. Be3 (11. Bxe7 $2 {
+verliert nach} Re8) 11... e5 12. Nb3 Qc7 13. O-O (13. f3 $6 {sieht
+unbegreiflich aus.} Nd7 14. O-O Nf6 15. Bc2 b6 16. Qc1 Ba6 17. Rd1 Rad8 {
+mit Vorteil für Schwarz.}) 13... Nd7 14. Bf3 Nf6 15. Nc5 Bf5 {Schwarz hat es
+eilig mit der Entwicklung.} 16. Qa4 (16. Bxb7 Rab8 {ist eher schlecht für
+Weiß.}) 16... b5 {mit schwarzer Initiative.} *
+

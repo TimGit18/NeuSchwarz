@@ -1,0 +1,74 @@
+[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches System"]
+[Black "Rückzugsvariante"]
+[Result "*"]
+[ECO "B92"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "26"]
+[EventDate "2011.05.22"]
+[SourceDate "2011.05.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 {Im Gegensatz zu
+den aggressiven Varianten, in denen Weiß seine Läufer offensiv aufstellt,
+soll hiermit die kurze Rochade vorbereitet werden und die Entwicklung
+fortgesetzt werden.} e5 {Dieser Zug setzt das Konzept von Najdorf in Reinform
+um. Schwarz geht aggressiv im Zentrum vor und vertreibt den weißen Springer
+aus seiner dominanten Position. Der Springer kann ja jetzt nicht nach b5,
+sondern muss sich zurückziehen. Anschließend werden die Figuren schnell
+entwickelt und der Einfluss auf das Zentrum verstärkt. Der Nachteil des Zuges
+ist allerdings das schwache Feld d5. Schwarz möchte eine weiße Figur auf
+diesem Feld so schlagen, dass Weiß mit dem e-Bauern zurückschlagen muss.
+Dann kann er nämlich den f-Bauern mobilisieren und der eigene Damenbauer
+stellt keine Schwäche mehr dar} 7. Nf3 {Dieser Rückzug ist vielleicht sehr
+vorsichtig, aber nicht die beste Fortsetzung. Die weiße Idee ist es, den
+Königsläufer nach c4 zu bringen. Vielleicht soll der Damenläufer nach e3
+oder nach g5 gebracht werden.} ({Das optimistische} 7. Nf5 {gibt die Kontrolle
+über d5 auf, was Schwarz direkt ausnutzen kann} d5 $1 {Die weiße Hauptidee
+besteht in der Entwicklung} 8. Bg5 d4 9. Bxf6 Qxf6 10. Nd5 Qd8 11. c4 {
+Zunächst einmal sehen die weißen Springer sehr beeindruckend aus, aber das
+ändert sich nach} g6 12. Ng3 Bg7 13. O-O O-O {Der weiße Springer auf d5 ist
+die einzige gute weiße Figur. Schwarz sollte die Entwicklung mit Lc8-e6,
+Sb8-d7, f7-f5 und b7-b5 abschließen}) 7... h6 $1 {Dies ist die beste schwarze
+Antwort. Damit verhindert man Lc1-g5, und man kann auch den anderen Läufer
+nach e6 entwickeln ohne von Sf3-g5 belästigt zu werden. Die Stellung erinnert
+etwas an das Boleslavsky-System, aber Schwarz hat ein Tempo gespart} 8. O-O {
+Weiß rochiert am besten kurz, bevor er sich dazu festlegt, wohin er welche
+Läufer entwickelt. Dieser Zug ist sehr flexibel und daher ein Abwartezug.} ({
+(a) Schlicht ist der Zug} 8. a4 Be6 9. O-O Nbd7 10. Be3 Rc8 11. a5 Be7 {mit
+eine ausgeglichenen Stellung}) ({(b) Sehr vorsichtig ist auch der Zug} 8. h3
+Be6 9. Be3 Nbd7 10. O-O ({Der Damenzug} 10. Qd2 Rc8 11. O-O {erlaubt} Nc5 {mit
+Druck auf den Bauern e4}) 10... Rc8 {mit Ausgleich}) 8... Be6 {Schwarz
+entwickelt seinen Damenläufer und kontrolliert ein weiteres Mal das Feld d5.
+Wichtig ist, dass er vorher mit h7-h6 die Kontrolle über d5 bereits
+verstärkt hat. Nun kann Weiß auch nicht mehr wie geplant den Königsläufer
+nach c4 stellen.} 9. a4 {Oft ist es diesen Stellungen ein guter Zug, denn
+Weiß verhindert mit dem Vormarsch des a-Bauern die schwarze Expansion auf dem
+Damenflügel. Er möchte mit a4-a5 die Struktur auf dem Damenflügel -
+ähnlich wie in der Angriffsvarainte oder in dem Karpov-Plan - fixieren.} ({
+Nach} 9. Re1 Be7 10. h3 O-O 11. Bf1 Nbd7 12. b3 b5 13. Bb2 Qc7 14. a3 Rfc8 15.
+Qd2 Qc6 {hat sich Schwarz thematisch entwickelt und die Kontrolle über d5
+erlangt}) 9... Be7 {Schwarz sollte den Bauernzug von Weiß als Tempoverlust
+ansehen und seine Entwicklung komplettieren.} 10. Be3 {Auch Weiß beendet
+zunächst in aller Ruhe die Entwicklung und nimmt die schwarzen Felder auf dem
+Damenflügel unter seinen Kontrolle.} O-O {Schwarz bringt seinen König wie
+vorgesehen in Sicherheit. Im Grunde unterscheidet sich diese Stellung von der
+Klassischen Position nur dadurch, dass der Springer auf f3 statt auf b3 steht.
+Allerdings steht er hier auch dem Bauernvorstoß f2-f4 einfach im Wege.} 11.
+Nd2 {Damit verfolgt Weiß einen interessanten Plan. Der Springer, auf f3
+kaltgestellt, soll über c4 in das Zentrum gebracht werden. Dort übt er nicht
+nur Druck auf den Bauern d6 aus, sondern kann auch bisweilen auf b6 unangenehm
+auftauchen.} Qc7 {Schwarz verhindert mit diesem Standardzug den
+vorhergesehenen Plan und übt seinerseits ein Druckspiel auf der c-Linie aus.}
+12. Bf3 {Bereits jetzt war der Befreiungszug d6-d5 eine reale Bedrohung für
+Weiß, der mit diesem Zug erst einmal verhindert wurde.} Nbd7 {Wie immer wird
+der Springer auf dieses gute Entwicklungsfeld gebracht, die c-Linie
+offengehalten und die Türme verbunden.} 13. a5 {Weiß fixiert die Struktur
+des Damenflügels und räumt das Feld a4 für seinen Springer. Wie man aber in
+der Hauptvariante sieht, verfügt Schwarz immer noch über die beiden
+Bauernhebel b7-b5 und d6-d5, notfalls unter Bauernopfern} Rac8 {Schwarz
+erhöht systematisch den Druck auf der c-Linie. Jetzt ist der Springer auf c3
+bewegungsunfähig, da der Bauer auf c2 hinge.} *
+

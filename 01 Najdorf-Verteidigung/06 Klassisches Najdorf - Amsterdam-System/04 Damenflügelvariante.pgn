@@ -1,0 +1,37 @@
+﻿[Event "Winning with the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf-Verteidigung"]
+[Black "Amsterdam-System"]
+[Result "*"]
+[ECO "B93"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "24"]
+[EventDate "2011.06.29"]
+[SourceDate "2011.06.29"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 {[%csl Ye4,Yf3,Yh3]
+[%cal Gf6e4,Rd1f3,Rf3h3] Dieser Zug ist eine Empfehlung von John Nunn. Der Zug
+ist sehr aggressiv und enthält viele Ideen. Er erobert Raum, droht e5 und
+bereitet einen Königsangriff vor. Weiß will damit beginnen, sofort aktive
+Operationen durchzuführen und verzögert die Entwicklung seiner Figuren. Die
+Dame soll nach f3 gebracht werden, weshalb der Zug f2-f4 auch dabei hilft,
+einen schwarzen Springer fernzuhalten. Von f3 aus kann die Dame den Bauern e4
+verteidigen und nach h3 hinübergehen, um den Druck auf den schwarzen König
+auszuüben. Das System ist nicht schwer zu spielen. Schwarz muss Gegenspiel
+gegen den potentiell schwachen Bauern e4 und auf der Diagonale a7-g1 initiieren
+} e5 {[%csl Yf3,Yg2,Yg4][%cal Rg2g4,Rd4f3] Im Vergleich mit dem Zug e7-e6 ist
+dies der aktivere Zug. Schwarz kämpft um das Zentrum. Außerdem verhindert
+der Zug den Vorstoß g2-g4 und er vertreibt den weißen Springer aus dem
+Zentrum. In der Regel wird er nach f3 gehen, wo er also der Dame im Weg steht.
+Daher muss diese über e1 nach g3 auf den Königsflügel gebracht werden, wo
+sie aber auch von dem Springer auf h5 angegriffen werden kann} {Der Rückzug
+auf den Damenflügel startet mit} 7. Nb3 {und ist nicht sehr gefährlich für
+Schwarz. Er hat viele gute Fortsetzungen wie zum Beispiel} Nbd7 8. g4 ({
+Ein anderer Vorstoß versucht ersteinmal den Damenflügel zu blockieren} 8. a4
+b6 9. Be2 Bb7 10. Bf3 Be7 11. O-O O-O 12. Kh1 exf4 13. Bxf4 Ne5 14. Nd4 g6 15.
+Qe2 Re8 16. Rad1 {mit einer unklaren Stellung, in der die Chancen ausgeglichen
+sind}) 8... d5 $1 9. exd5 Nb6 10. Be2 Nfxd5 11. Nxd5 Nxd5 12. O-O exf4 {
+Schwarz steht besser} *
+

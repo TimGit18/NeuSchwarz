@@ -1,0 +1,62 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Geschlossenes Sizilianisch"]
+[Black "Moderne Hauptvariante"]
+[Result "*"]
+[ECO "B26"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "36"]
+[EventDate "2011.10.16"]
+[SourceDate "2011.10.16"]
+
+1. e4 c5 2. Nc3 d6 3. g3 {Weiß vermeidet mit der Wahl des Geschlossenen
+Sizilianers, der durch die Züge Sb1-c3 und g2-g3 gekennzeichnet ist, eine
+frühe Öffnung des Zentrums in dieser Stellung oder sogar direkten Kontakt
+der Figuren. Er will die Energie seiner Figuren speichern und erst später in
+der Partie entfesseln lassen. Sein Traum besteht in einem vernichtetenden
+Königsangriff, während sein Gegner damit beschäftigt ist, einen oder zwei
+uninteressante Bauern auf dem Damenflügel zu gewinnen. Daher muss Schwarz
+sehr schnell spielen und ohne jede Verzögerung ein Gegenspiel organisieren.
+Dabei muss er immer die Konsequenzen einer möglichen Öffnung im Zentrum im
+Auge behalten} Nc6 4. Bg2 g6 {Das Königsfianchetto ist das beachtenswerteste
+System für Schwarz.} 5. d3 Bg7 {An dieser Stelle kann Weiß zwischen drei
+Plänen wählen: 1) Er spielt einen Klassischen Anti-Englischen Aufbau mit
+Sg1-f3 2) Er spielt einen Bauernsturm auf dem Königsflügel mit f2-f4 3) Er
+spielt einen Jugoslawischen Angriff mit Lc1-e3} 6. Be3 {[%csl Yb5,Yb7][%cal
+Gb7b5] Eines der großartigen Konzepte für Weiß in der Geschlossenen
+Sizilianischen Verteidigung ist die kluge Idee, den starkten Läufer auf g7
+abzutauschen. Dabei geht es nicht nur darum, das dynamische Potential von
+Schwarz zu reduzieren, sondern auch darum, einen Schlüsselverteidiger des
+Königsflügels zu eliminieren. Glücklicherweise hat für Schwarz die gesamte
+Variante etwas von dem Schrecken verloren, da die Praxis gezeigt hat, wie
+effektiv der Vormarsch des b-Bauern sein kann.} Rb8 7. Qd2 ({Selten fügt
+Weiß hier die Züge} 7. a4 {ein, denn die offene a-Linie würde sicher in der
+nächsten Zeit in schwarze Hände fallen} a6) 7... b5 {Für den Augenblick
+stellt Schwarz die Entwicklung des Königsspringers zurück, um Weiß zu
+frustrieren, der ja den Läufer nach h6 zu ziehen. Wir betrachten hier die
+Optionen f2-f4, Sg1-f3 und Sg1-e2 für Weiß, letzteres als Hauptvariante} 8.
+Nge2 {Eine der drei Hauptoptionen, wobei dieser Zug am besten zu den
+vorhergehenden Zügen passt und ist die die beliebteste Wahl} b4 9. Nd1 Nd4 10.
+O-O e6 {Wenn Weiß den feindlichen Springer von d4 vertreiben will, dann
+sollte er zunächst den eigenen Springer von e2 wegziehen} ({Schwarz kann auch
+das sehr kreative} 10... Bg4 {in Erwägung ziehen} 11. f3 Bd7 12. Nc1 Ba4 13.
+Nb3 {, wonach beide Seiten eine Art Patt auf dem Damenflügel erreicht haben.
+Eine interessante Fortsetzung lautet} Qc7 14. f4 Nh6 15. h3 f5 16. Bf2 O-O 17.
+Ne3 e6 18. Kh2 Bc6 {mit einem reinrassigen Kampf im Lager}) 11. Nc1 ({Nach} 11.
+c3 bxc3 12. bxc3 {vermeidet Schwarz jeden Zeitverlust mit} Nxe2+ {und nach} 13.
+Qxe2 Ne7 {hat Weiß einen düsteren Punktestand}) 11... Ne7 {Schwarz hat
+seinen Gegner zu einigen ruhigen Zügen gezwungen. Jetzt hat er keine Angst
+mehr, davor den Läufer tauschen zu lassen. Die b-Linie wird früher oder
+später geöffnet werden, also sollte Schwarz sich beeilen, um seine Kräfte
+für die Initiative auf dem Damenflügel zu bündeln.} 12. c3 bxc3 13. bxc3
+Ndc6 14. Bh6 O-O 15. Bxg7 Kxg7 {Weiß hat seinen Traum erfüllt, aber es wird
+ihm keinen Vorteil bringen.} 16. Ne3 (16. f4 f5 17. Ne3 Ba6 18. Ne2 Qb6 {ist
+schön für Schwarz}) 16... Qb6 {Wieder einmal muss Schwarz sich zwischen
+einigen verführerischen Fortsetzungen entscheiden} ({(a)} 16... Ba6 17. Rd1
+Qa5 18. Nb3 Qa3 {mit schönem Spiel für Schwarz auf dem Damenflügel}) ({(b)} 
+16... e5 17. Ne2 Ba6 18. f4 f6 19. Rac1 Qa5 20. Rc2 Rb7 21. Bh3 Rfb8 {Schwarz
+kombiniert die Kontrolle der b-Linie mit ehrgeizigem Zentrumsspiel}) 17. Nb3
+Ba6 18. Rfd1 Rfc8 {Schwarz hat jeden Grund sich zufrieden zu fühlen} *
+

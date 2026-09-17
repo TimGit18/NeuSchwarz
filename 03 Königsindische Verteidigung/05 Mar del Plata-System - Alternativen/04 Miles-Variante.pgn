@@ -1,0 +1,62 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alternatives Mar del Plata"]
+[Black "Miles-Variante"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "David Vigorito"]
+[PlyCount "50"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. Kh1 {Der alte Lieblingszug
+von Tony Miles sieht sinnlos aus, ist aber nicht ohne Wert} Ne8 (9... Nd7 {
+ist weniger genau, denn es erlaubt} 10. g4 {, womit Schwarz auf dem
+Königsflügel attackiert wird}) 10. Ne1 ({(a) Weiß kann auch} 10. a4 {
+spielen, wonach} a5 11. Ne1 f5 12. Nd3 Nf6 13. f3 b6 {eine bekannte Stellung
+ergibt}) ({(b)} 10. Rg1 {sieht ein wenig bedächtig aus, denn Schwarz kann
+spielen} f5 11. exf5 Nxf5 {, wonach der weiße Königsflügel etwas albern
+aussieht.}) 10... f5 11. exf5 Nxf5 {Wieder einmal sollte man mit dem Springer
+schlagen, damit Weiß keinen Bauerngegenstoß auf f4 spielen kann} 12. Nf3 {
+Weiß überdeckt das Feld d4, aber das ist auch Zeitverschwendung} ({(a)} 12.
+Bd3 Nf6 13. Nf3 {transponiert in die Hauptvariante}) ({(b)} 12. Nc2 Nf6 13. g4
+$2 {Das schwächt den Königsflügel zu sehr} Nd4 14. h3 Nxc2 $1 {Das ist eine
+klare Widerlegung} 15. Qxc2 Bxg4 16. Bxg4 Nxg4 {mit Gewinnstellung für Schwarz
+}) 12... Nf6 13. Bd3 Nd4 14. Nxd4 exd4 15. Ne4 Nxe4 16. Bxe4 Qh4 {Das ist am
+aggressivsten} 17. Qc2 Bf5 {Schwarz entwickelt sich sehr schnell} 18. Bxf5 Rxf5
+19. Kg1 {Das ist etwas demütigend. Weiß nimmt seinen 9.Zug zurück. Wie dem
+auch sei, er kann seinen Damenflügel nicht entwickeln} (19. Bd2 {verliert nach
+} Rxf2) 19... Re8 {Schwarz hat eine fantastische Stellung. Alle Schwerfiguren
+sind aktiv, er hat einen Freibauer auf der d-Linie und Weiß hat keine aktiven
+Möglichkeiten} 20. a4 Be5 21. h3 d3 $1 {Das forciert das Rennen} 22. Qxd3 Rxf2
+23. Rxf2 Bd4 24. g3 Qf6 25. Qf1 Qf3 {und Weiß ist paralysiert} *
+

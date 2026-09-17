@@ -1,0 +1,79 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alternatives Mar del Plata"]
+[Black "Eingorn-Variante"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "David Vigorito"]
+[PlyCount "47"]
+[EventDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. Bg5 {Dieser Zug stammt von
+Vereslav Eingorn und wurde von dem Schweizer Großmeister Yannick Pelletier
+favorisiert. Es sieht zunächst nicht logisch aus, die schwarzfeldrigen
+Läufer zu tauschen, aber falls Schwarz den Abtausch erzwingt, so kann Weiß
+auf einen Damenflügel-Angriff hoffen.} Nh5 {Schwarz hat noch eine schöne
+Alternative, wenn er h7-h6 spielt} 10. Ne1 {Weiß greift den Springer auf h5
+an und bereitet die eigene Springerwanderung nach d3 vor. Andere Züge sind
+weniger gefährlich} ({(a)} 10. Re1 h6 11. Bd2 Nf4 12. Bxf4 exf4 {ergibt für
+Schwarz eine Stellung, die ähnlich der aus dem Bajonett-Angriff ist, aber
+hier ist Schwarz besser aufgestellt. Nach} 13. Qd2 g5 14. h3 Ng6 15. Nh2 Ne5
+16. Rac1 a6 {hat Schwarz keine Probleme wie in einer Partie von Bologan}) ({(b)
+} 10. g3 h6 $1 {Dieser Zug erweist sich als sehr nützlich, denn er
+kontrolliert g5} 11. Bd2 ({Den Läufer zu tauschen mit} 11. Bxe7 Qxe7 {macht
+wenig Sinn}) 11... Bh3 12. Re1 f5 13. Nh4 Nf6 14. exf5 g5 $1 15. Ng6 Nxg6 16.
+fxg6 Bf5 17. Be3 Qe8 18. c5 a6 19. Rc1 Qxg6 20. cxd6 cxd6 {mit schöner
+Stellung für Schwarz}) 10... Nf4 11. Nd3 Nxe2+ {Schwarz sichert sich das
+Läuferpaar. In der Praxis wurde auch schon der Springer auf d3 getauscht,
+aber das hat Weiß einen gewissen Vorteil gebracht.} 12. Qxe2 h6 {Wieder ist
+dieser Zug nützlich} 13. Bd2 ({(a) Statt dessen ist} 13. Bxe7 Qxe7 {harmlos})
+({(b)} 13. Be3 f5 14. f3 ({Nach} 14. f4 exf4 15. Nxf4 g5 16. Nh5 Be5 17. exf5
+Nxf5 {schlägt Schwarz den Läufer auf e3}) 14... g5 15. c5 Ng6 16. Rfc1 Rf7
+17. Rc2 Nf4 18. Qd2 Nxd3 19. Qxd3 g4 20. fxg4 f4 21. Bf2 Bxg4 22. cxd6 cxd6 23.
+Rac1 a6 24. Na4 Qg5 25. Nb6 Raf8 {und Schwarz hat eine ausgezeichnete
+Angriffsstellung dank seines Läuferpaars}) 13... g5 {Schwarz räumt den
+Königsflügel auf} 14. g4 {Weiß blockiert den Königsflügel} ({(a) Nach} 14.
+f3 f5 {hat Schwarz Gegenspiel}) ({(b) Der Zug} 14. h4 g4 15. f4 gxf3 16. Qxf3
+f5 {überläßt Schwarz die Initiative}) 14... Ng6 {Der Springer geht nach f4}
+15. f3 Nf4 16. Nxf4 ({Weiß könnte auch versuchen mit} 16. Bxf4 exf4 17. Rac1
+{die c-Linie zu öffnen, aber die guten Läufer von Schwarz sollten ihm das
+Gleichgewicht sichern}) 16... exf4 {Schwarz ist schon sehr gut im Spiel dank
+seines Läuferpaares und der Möglichkeit, die h-Linie mit h5 zu öffnen} 17.
+Rfd1 ({Solider ist sicher} 17. Nd1 {mit der Idee, den schwarzen Königsläufer
+sofort abzutauschen. Aber nach} c6 18. Bc3 cxd5 19. Bxg7 Kxg7 20. cxd5 Bd7 21.
+Nf2 Rc8 22. Qd2 Qb6 {steht Schwarz immer noch sehr bequem}) 17... h5 18. h3 Be5
+19. Be1 ({Sicherer ist} 19. Kg2 {mit der Idee, den Turm auf die h-Linie zu
+bringen}) 19... Kg7 20. Rd3 Rh8 21. Nd1 hxg4 22. fxg4 ({Nach} 22. hxg4 Rh3 {
+folgt} 23. Z0 Qh8) 22... Qf6 23. Bc3 Bd7 24. Nf2 {Schwarz hat einen klaren
+Vorteil in der Partie von Pelletier gegen Radjabov} *
+

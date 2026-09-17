@@ -1,0 +1,48 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pseudo-Alapin-System"]
+[Black "Spanische Variante"]
+[Result "*"]
+[ECO "B50"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "38"]
+[SourceDate "2014.08.19"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 {Der Angriff auf e4 hält Weiß davon ab, mit
+d2-d4 vorzugehen. Schwarz kann wegen der Damengabel auf a4 zwar nicht den
+Bauern nehmen, aber er zwingt Weiß sich zu entscheiden. Weiß versucht den
+Läufer nach c2 zurückzuziehen, um d2-d4 folgen zu lassen, etwa im Stil der
+Spanischen Partie. Vielleicht träumt er von einer verbesserten Version der
+Spanischen Partie, denn er spart einen oder zwei Züge.} 4. Bd3 Bg4 {Das ist
+der Nachteil des weißen Aufbaus. Die Fesselung macht es Weiß schwer, d2-d4
+durchzusetzen.} 5. h3 {Weiß kann diesen Zug auch verzögern, um mit dem
+anderen Springer auf f3 wiederzunehmen} (5. Bc2 Nc6 6. d3 g6 {Das
+Königsfianchetto ist konsistent mit anderen Fortsetzungen in diesem Abspiel}
+7. Nbd2 Bg7 8. h3 Bd7 {Das Nehmen auf f3 würde den Plänen von Weiß genügen}
+9. O-O O-O 10. Re1 Nh5 11. Nf1 e5 {Nun erinnert die Stellung stark an eine
+Spanische Partie. Im Grunde kann Schwarz sehr damit zufrieden sein, denn sein
+Königsläufer steht gut auf g7 wie auch der Bauer auf c5. Beides kostet in
+der eigentlichen Spanischen Partie viel Zeit.} 12. Bg5 Qb6 13. Bb3 Na5 14. Bd5
+h6 15. b4 cxb4 16. Be3 Qd8 17. cxb4 Nc6 18. Qd2 Nf4 {Schwarz rechtfertigt
+erfolgreich seinen 10.Zug} 19. Bxf4 exf4 20. d4 Qb6 21. Rad1 g5 {Schwarz hat
+alle Chancen und kann auf einigen Vorteil hoffen}) 5... Bxf3 6. Qxf3 Nc6 7. Bc2
+({Weiß erreicht nicht viel mit} 7. O-O Nd7 8. Bb5 {Das sieht ein wenig
+gekünstelt aus, Schwarz sollte ganz gut stehen} g6 9. Rd1 Bg7 10. Na3 O-O 11.
+Bxc6 (11. Qe3 a6 12. Be2 e6 {Der Nachziehende hat einen harmonischen Aufbau
+und seine Figuren arbeiten zusammen, beim Anziehenden nicht.}) 11... Ne5 12.
+Qe3 Nxc6 13. d4 cxd4 14. cxd4 Qb6 15. Nc4 Qa6 16. b3 Rfd8 17. Na3 d5 {Schwarz
+hat den harmonischeren Aufbau gewählt}) 7... g6 8. O-O Bg7 {Wie üblich ist
+hier das Königfianchetto eine gute Idee. Schwarz kontrolliert die zentralen
+schwarzen Felder, in Kombination mit dem Verschwinden des Springers f3 macht
+dies den Vormarsch d2-d4 sehr schwierig für Weiß.} 9. Qe2 ({Nach} 9. d3 O-O
+10. Qd1 Rb8 11. Nd2 b5 12. a3 Nd7 13. Nf3 Nde5 14. Nxe5 Bxe5 15. Be3 Qb6 16.
+Kh1 Bg7 17. f4 a5 18. Qc1 b4 19. Ba4 Rfc8 {hat Schwarz auf dem Damenflügel
+schöne Gegenchancen} 20. Bd2) 9... O-O 10. d3 b5 11. Nd2 Nd7 12. Nf3 b4 {
+Dieser sofortige Damenflügel-Angriff sieht sehr natürlich aus.} 13. Bd2 Rb8
+14. Ba4 Qc7 15. Rfc1 Rfc8 16. d4 bxc3 17. bxc3 Rb2 18. Qa6 Ncb8 19. Qd3 Nb6 {
+Schwarz kann mit dem Ausgang der Eröffnung zufrieden sein. Er hat Gegenspiel
+auf dem Damenflügel, unterbindet Weiß von Gebrauch des Läuferpaars und
+drückt gegen das weiße Bauernzentrum} *
+

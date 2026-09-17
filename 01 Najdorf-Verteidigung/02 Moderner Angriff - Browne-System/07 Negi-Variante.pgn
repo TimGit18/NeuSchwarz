@@ -1,0 +1,62 @@
+[Event "1.e4 vs. The Sicilian I"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Browne-System"]
+[Black "Negi-Variante"]
+[Result "*"]
+[ECO "B98"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "31"]
+[EventDate "2012.04.21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Der Versuch der
+direkten Widerlegung von Najdorf: Weiß möchte lang rochieren, im Zentrum
+oder auf dem Königsflügel durchbrechen - je nachdem, ob Schwarz kurz
+rochiert oder in der Mitte bleibt} e6 {Das ist die übliche Antwort von
+Schwarz. Er kontrolliert das Schlüsselfeld d5. Das Bauernpaar e6 und d6 soll
+Weiß auf Abstand halten, den Entwicklungsrückstand aufholen und Gegenspiel
+am Damenflügel beginnen} 7. f4 {Dieser aggressive Bauernvorstoß ist die
+weiße Standardmethode. Er möchte Schwarz mit einem schnellen Vorstoß e4-e5
+vom Brett fegen.} h6 {Dieser Zug ist vielleicht unterbewertet. Er passt gut in
+das Konzept mit g7-g5 und einem späteren Sd7-e5} 8. Bh4 {Weiß erreicht
+nichts mit dem Schlagen des Springers} Be7 {Schwarz verhindert mechanisch den
+Vorstoß e4-e5} 9. Qf3 {Weiß überdeckt e4, bringt die Dame auf den
+Königsflügel und bereitet die lange Rochade vor} Qc7 {Ein wichtiger Zug, der
+e5 überdeckt und den Königsläufer von Weiß nicht nach c4 läßt} 10. O-O-O
+{Weiß hat seine Figuren sehr aggressiv aufgestellt, wohingegen Schwarz mehr
+auf die Koordination seiner Figuren geachtet hat} Nbd7 {In dieser Stellung hat
+Weiß mehrere Optionen} 11. f5 $5 {[%csl Ye5,Ye6,Yf5][%cal Rf5e6,Gd7e5]
+Abgesehen von dem Überraschungseffekt, kann dieser Zug auch ohne die
+Einschaltung der Züge h7-h6 und Lg5-h4 gespielt werden. Weiß möchte gerne
+die Schwäche des Feldes e6 ausnutzen und attackiert sofort diesen Bauern. Der
+Nachteil des Zuges ist die neue Schwäche auf e5} O-O $5 {Das ist beinahe ein
+Computer-Zug, aber er ist besser als die direkte Besetzung des Feldes e5} ({
+Nachdem direkten} 11... Ne5 12. Qh3 O-O 13. Be2 b5 14. fxe6 fxe6 15. Nxe6 Qb7 {
+hat Weiß einen Bauern mehr und eine bessere Stellung, obwohl der Springer auf
+e6 erst einmal gefesselt ist. Aber er kann mit Kg8-f7 jetzt nicht so
+angegriffen werden} 16. Rhf1 Kf7 17. Bxf6 Bxe6 18. Qh5+ g6 19. Qxh6 Bxf6 20.
+Qh7+ Ke8 21. Rxd6 {und Schwarz wird bald matt}) ({Eine gute Alternative ist} 
+11... e5 12. Bxf6 Nxf6 13. Nb3 b5 14. Nd5 Nxd5 15. exd5 b4 16. Kb1 a5) 12. fxe6
+({Nicht der beste Zug ist} 12. g4 Ne5 13. Qh3 {und die Wirkungslinie gegen den
+Bauern e6 ist unterbrochen}) 12... Ne5 {Jetzt wird der Springer aktiviert} ({
+Das schlichte Zurückschlagen} 12... fxe6 {verliert die Qualität} 13. Nxe6)
+13. Qh3 ({Den Bauern zu nehmen ist sehr riskant} 13. exf7+ Rxf7 14. Qe2 Bg4 15.
+Nf3 Rc8 {Weiß hat zwar einen guten Mehrbauern, aber Schwarz hat aktive
+Figuren und viele taktische Tricks}) 13... fxe6 {Jetzt kann Schwarz
+zurücknehmen, da e6 jetzt vom Läufer mitgedeckt wird} 14. Be2 {Der
+Läuferzug erneuert die Bedrohung des Bauern e6} (14. Nxe6 $5 Qa5 15. Be2 Kf7 {
+funktioniert noch nicht für Weiß, da der Turm noch nicht auf f2 steht} 16.
+Bxf6 Bxe6 17. Qh5+ g6 18. Qxh6 Bxf6 19. Qh7+ Ke8 {und hier hat Schwarz die
+Felder um seinen König unter Kontrolle}) 14... Qd7 {Nach b7-b5 nimmt Weiß
+einfach auf e6} 15. Nf3 {Weiß möchte den starken Springer auf e5 beseitigen}
+({Möglich ist auch} 15. g4 b5 16. a3 Bb7 17. Rhg1 Nxe4 18. Nxe4 Bxe4 19. g5 {
+mit einer komplizierten Stellung, in der Weiß etwas Initiative für den
+Bauern hat}) 15... Nfg4 {Der Springer auf e5 muss unbedingt unterstützt werden
+} 16. Rd4 {[%csl Yb4,Yb5,Yb7,Yd1,Yd6][%cal Gh1d1,Gd1d4,Rd4d6,Gb7b5,Rb5b4]
+Weiß hält mit diesem Zug die Spannung aufrecht und erhöht den Druck auf den
+d-Bauern. Die Springer stehen zwar günstig für Schwarz, aber er hat kein
+Gegenspiel und muss schnell zu b7-b5-b4 kommen} (16. Bxe7 Qxe7 17. Qg3 Qc7 18.
+h3 Nf6 19. Nxe5 dxe5 {sieht für Schwarz in Ordnung aus, da Weiß seinen
+g-Bauern schlecht mobilisieren kann}) *
+

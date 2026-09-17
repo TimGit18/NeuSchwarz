@@ -1,0 +1,66 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Königsindische Verteidigung"]
+[Black "Makogonov-System"]
+[Result "*"]
+[ECO "E71"]
+[Annotator "David Vigorito"]
+[PlyCount "17"]
+[EventDate "2011.06.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 {[%csl Ye3,Yg4,Yg5][%cal Rg2g4,
+Rc1e3,Re3g5] Das Makogonov-System mit dem Zug h2-h3 hat zwei Hauptideen. Die
+erste Idee ist die Unterstützung des Vorstoßes g2-g4. Zum einen gewinnt
+dieser Vorstoß etwas Raum auf dem Königsflügel, zum anderen soll Schwarz
+von dem traditionellen Gegenstoß f7-f5 abgehalten werden. Die zweite Idee
+liegt darin, dass nun der Entwicklungszug des Damenläufers Lc1-e3 gespielt
+werden kann, ohne auf das störende Sf6-g4 Rücksicht zu nehmen. Oft geht der
+Damenäufer allerdings auch auf das Feld g5 (um den Vorstoße e7-e5 zu
+verhindern) und zieht sich nach der Befragung h7-h6 auf das Feld e3 zurück.
+Die weißen Ideen hinter dem Makogonov-Zug h2-h3 sind also ähnlich wie im
+Sämisch-System oder im Petrosian-System und transponieren oft ineinander.} O-O
+{Schwarz sollte mit dem traditionellen Gegenstoß e7-e5 antworten. In der
+Regel versucht hier Weiß zunächst einen traditionellen Entwicklungszug,
+bevor er seine Läuferentwicklung vorantreibt.} 6. Nf3 {Diese Stellung kann
+auch aus einer Zugumstellung hervorgehen, nämlich wenn Weiß zunächst im
+füngten Zug den Springer nach f3 entwickelt und dann den Bauernzug h2-h3
+vornimmt. Für Schwarz bedeutet dies in der Regel keinen Unterschied} ({
+(a) Die Flexible Variante beginnt mit} 6. Be3 {, aber es ist nicht so harmlos
+und wurde von starken Spielern gespielt} e5 7. d5 Na6 8. Bd3 Nc5 9. Bc2 a5 10.
+Nge2 {Dies ist die gebräuchlichste Fortsetzung}) ({(b) Die Rumänische
+Variante beginnt mit} 6. Bg5 {Weiß möchte h7-h6 provozieren und den Läufer
+nach e3 zurückziehen} Na6 {Das ist der klassische Ansatz. Schwarz will e5
+spielen und um den Läufer g5 herumspielen} 7. Bd3 {Die Entwicklung des
+Läufers nach d3 ist ein gemeinsames Merkmal der Varianten mit frühem h2-h3}
+e5 8. d5 Qe8 {Das ist der moderne dynamische Zugang zum Königsinder. Die Idee
+hinter Dd8-e8 ist die Entfesselung des Springers f6, so dass Schwarz ihn
+ziehen und f7-f5 folgen lassen kann} 9. g4 {Die konsequente Fortsetzung.
+Schwarz wird an g2-g4 gehindert, aber ganz risikolos ist die Variante auch
+nicht für Weiß} Nd7 {Schwarz lässt sich nicht von seinem Kurs abbringen. Er
+wird trotzdem versuchen, f7-f5 durchzusetzen, egal was es kostet}) 6... e5 {
+Das ist die prinzipielle Antwort von Schwarz in der Königsindischen
+Verteidigung, mit der ein Anspruch auf das Zentrum abgeleitet wird.} 7. d5 {
+Dieser Zug gilt als die weiße Hauptfortsetzung. Weiß spielt im Geiste der
+Petrosian-Fortsetzung.} ({Die Abtauschvariante} 7. dxe5 {gilt als nicht
+besonders gefährlich, wurde aber bereits von Grivas empfohlen} dxe5 8. Qxd8
+Rxd8 9. Bg5 {Der einzige Unterschied zum Abtauschsystem besteht darin, dass
+Weiß statt des Zuges Lf1-e2 den Bauernzug h2-h3 eingeschaltet hat} Re8 {
+Das ist die solideste Fortsetzung} 10. Nd5 Nxd5 11. cxd5 c6 12. Bc4 cxd5 13.
+Bxd5 Nd7 14. Nd2 Nc5 {Von Grivas stammt die Empfehlung} 15. Nc4) 7... a5 {
+Dieser Zug ist die einfachste Antwort auf das Makogonov-System. Schwarz
+versucht wie gegen das Petrosian-System zu spielen, indem er Sb8-a6, Dd8-e8
+und Sf6-d7 spielt. Wenn diese Züge ausgeführt sind, dann kann Schwarz f7-f5
+spielen. Allerdings sollte Schwarz diesen Plan auch nicht allzu sehr forcieren}
+8. Bg5 {Genau wie im Petrosian-System gilt dieser Zug als der Hauptzug. Weiß
+übt unmittelbar Figurendruck auf die schwarze Stellung aus} ({Die Alternative
+Variante} 8. Be3 {ist weniger ambitioniert und weniger gebräuchlich als die
+Hauptvariante, aber durchaus spielbar} Na6 9. Nd2 Nd7 10. g4 {Das ist der
+gefährlichste Plan von Weiß}) 8... Na6 {[%csl Yb4,Yc5][%cal Ga6c5,Ga6b4]
+Schwarz vermeidet mit diesem Zug jedwede positionellen Zugeständnisse wie
+etwa nach h7-h6 und operiert wie gegen das Petrosian-System. Der Springer soll
+nach c5 gebracht werden, um den Druck auf den Bauern e4 zu erhöhen} 9. Nd2 {
+[%csl Yb3,Ye4,Yf4][%cal Rf2f4,Rd2e4,Rd2b3] Der Springer verteidigt zusätzlich
+den Bauern e4 und mobilisiert den f-Bauern} *
+

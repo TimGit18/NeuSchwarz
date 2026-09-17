@@ -1,0 +1,77 @@
+[Event "Winning With the Najdorf Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Englischer Angriff"]
+[Black "Klassischer Rückzug"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "Zaven Andriasyan"]
+[PlyCount "58"]
+[EventDate "2012.03.31"]
+[SourceDate "2012.03.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 {Der Englische
+Angriff stammt aus den 1980er Jahren und ist ein aggressives System, das auf
+den Zügen Le3, f3 und g4 basiert. Er strebt die lange Rochade an und will
+seine g- und h-Bauern gegen den gegnerischen König marschieren lassen. Weiß
+kombiniert diese Angrffspläne häufig mit Operationen im Zentrum und auf dem
+Damenflügel} e5 {Der schwarze Aufbau mit d6 und e5 ist der thematische im
+Najdorf-System. Er ist weiniger flexibel als der Scheveninger Aufbau, gewinnt
+jedoch mehr Raum und vertreibt den weißen Springer von seinem schönen Feld d4
+} 7. Nf3 Be7 {Schwarz will sich schnell entwickeln und rochieren} 8. Bc4 {
+Weiß belagert sofort das Feld d5} O-O 9. O-O Be6 {Nun hat Weiß drei
+Möglichkeiten 1) Decken des Läufers mit Dd1-e2 2) Selber Schlagen auf e6 3)
+Rückzug des Läufers nach b3} 10. Bb3 ({(a)} 10. Qe2 {Ein subtiler Zug. Weiß
+deckt den Läufer und will einen Turm auf die d-Linie ziehen, damit die
+Koordination der schwarzen Figuren unterbinden. Daher muss Schwarz sehr genau
+spielen} Qc7 {Schwarz zwingt den weißen Läufer nach b3, denn wir wissen alle,
+dass der Abtausch auf e6 nicht vorteilhaft für Weiß ist} 11. Bb3 (11. Bxe6
+fxe6 12. Ng5 {Nur so sollte Schwarz den Bauern verteidigen} Qc8 13. Na4 Bd8 {
+Schwarz kann ausgleichen}) 11... b5 12. Rfd1 {Es ist klar, dass f7-f5 keine
+Drohung für Weiß darstellt und das Spiel wird auf den Damenflügel verlagert,
+wo der andere Trum besser auf a1 bleibt} Nbd7 $1 {Der Springer sollte hierhin
+entwickelt werden, aber angesichts des Zuges muss er ein Bauernopfer
+einkalkulieren} 13. Bxe6 ({Oder} 13. Bg5 Rac8 14. a3 Nb6 15. Bxf6 Bxf6 16. Rac1
+{mit gleichem Spiel}) 13... fxe6 14. Ng5 Rfc8 15. Nxe6 Qc4 16. Qxc4 Rxc4 17. f3
+h6 {mit Gegenspiel}) ({(b)} 10. Bxe6 fxe6 11. Na4 Ng4 12. Qd3 Nxe3 13. Qxe3 b5
+14. Nb6 Ra7 15. Nd5 Rb7 {Der Springer auf d5 hängt und Weiß hat drei
+mögliche Fortsetzungen: 1) Er kann versuchen, den Springer gegen sein
+schwarzes Pendant zu tauschen 2) Er kann versuchen den Springer mit der Dame
+auf d3 zu decken, da Schwarz ihn wegen Gabel auf d5 nicht nehmen darf 3) Oder
+er zieht die Dame nach d2 um nach a5 zu schauen} 16. Qd2 ({(a)} 16. Nxe7+ Qxe7
+17. Rfd1 Nd7 18. Rd2 Rc8 19. Rad1 Rc6) ({(b)} 16. Qd3 Nd7 17. Nxe7+ Qxe7 18.
+Rfd1 Rb6 {mit gleichem Spiel}) 16... Qd7 17. Nxe7+ (17. Ne3 Qc6 18. Qd3 Nd7)
+17... Qxe7 18. Rfd1 Rb6 19. a4 bxa4 20. Rxa4 Rxb2 21. Rb4 Rxb4 22. Qxb4 Nc6)
+10... Nc6 ({Nach} 10... h6 $2 {folgt} 11. Nh4) 11. Bg5 ({Nach} 11. Qe2 Na5 12.
+Rfd1 Nxb3 {folgt} 13. cxb3 {mit der Idee, die c-Linie zu öffnen, b4-b5 zu
+spielen und einen Freibauern zu schaffen. Schwarz hat viele Optionen, die zu
+einer guten Stellung führen} (13. axb3 {sieht richtig aus, da die a-Linie
+für den Turm geöffnet wird und die Möglichkeit von c2-c4 noch offen
+gelassen wird} Qc7 14. Bg5 Rac8 15. Bxf6 Bxf6 16. Rac1 Qc6 17. Nd5 Bd8 18. c4
+f5 19. exf5 Bxd5 20. cxd5 Qxc1 21. Rxc1 Rxc1+ 22. Ne1 Ba5 {mit entscheidendem
+schwarzen Vorteil}) 13... Qe8 14. Ne1 Ng4 15. Nc2 f5 {mit unklarem Spiel})
+11... Nd7 12. Bxe7 Qxe7 13. Nd5 Qd8 (13... Bxd5 {ist schlechter wegen} 14. Qxd5
+Nf6 15. Qd3 Rad8 16. Rfe1 Na5 17. Bd5 Qc7 18. c3 {mit leichtem Vorteil für
+Weiß}) 14. Qe2 ({Nach} 14. c3 Na5 {will Schwarz den starken weißfeldrigen
+Läufer auf b3 abtauschen und f7-f5 folgen lassen. Danach hätte er keine
+Probleme mehr} 15. Re1 ({Oder} 15. Bc2 Nc4 16. b3 Na3 17. Ne3 Nxc2 18. Qxc2 Rc8
+19. Rfd1 Rc6 20. Rac1 b5 {mit gleichem Spiel}) 15... Rc8 16. h3 b5 17. Nh2 Nc4
+18. Bxc4 bxc4 19. b4 cxb3 20. axb3 Bxd5 21. Qxd5 Rxc3) 14... Nc5 ({Auch} 14...
+Na5 {hat seine Vorteile}) 15. Rad1 ({Die Alternative ist} 15. Rfd1 {, aber der
+andere Turm ist besser. Der Königsturm gehört auf die e-Linie oder auf die
+f-Linie, wohingegen der Turm auf der a-Linie nichts beiträgt} Kh8 16. h3 f5 $1
+{Schwarz hat alle Vorbereitungen für den Vorstoß unternommen. Er will nicht
+in Verteidigung verharren, sondern bevorzugt den Angriff, sogar mit bestimmten
+Risiken behaftet} 17. Nc3 fxe4 18. Nxe4 {mit unklarer Stellung}) 15... Kh8 16.
+h3 f5 17. Nc3 Nxb3 18. axb3 h6 {Nach diesem Zug ist es nicht klar, wie Weiß
+um Vorteil kämpfen kann. Schwarz kontrolliert das Feld g5 und schafft
+gleichzeitig ein Luftloch für den König} 19. exf5 {Weiß hat verschiedenen
+Alternativen, aber sie führen alle zu gleichen Stellungen} ({(A)} 19. Rd2 Qe7
+20. Rfd1 Rad8 21. Nd5 Qf7 {mit unklarer Stellung}) ({(B)} 19. Qd3 fxe4 20. Nxe4
+d5 {mit Gegenspiel}) ({(C)} 19. Rfe1 Qe7 20. exf5 Bxf5 21. Ne4 Rad8 22. c4 Bg6
+23. Ng3 a5) 19... Bxf5 20. Ne4 {[%csl Yd6][%cal Re4d6]} d5 {Der Bauer war
+schließlich angegriffen} 21. Nc3 (21. Ng3 Qd6) 21... d4 22. Nxe5 Qf6 23. Nxc6
+dxc3 24. Nd4 Rae8 25. Qf3 cxb2 26. Qxf5 Qxf5 27. Nxf5 Rxf5 28. Rb1 Re2 29. Rxb2
+a5 *
+

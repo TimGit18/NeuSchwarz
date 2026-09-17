@@ -1,0 +1,84 @@
+[Event "The Sicilian Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ungarisches System"]
+[Black "Königsflügelvormarsch"]
+[Result "*"]
+[ECO "B53"]
+[Annotator "Lubomir Ftacnik"]
+[PlyCount "38"]
+[EventDate "2013.11.14"]
+[SourceDate "2013.11.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 {Neulingen wird beigebracht, dass die
+Dame nicht zu schnell in das Spiel gebracht werden sollte. Aber erfahrene
+Spieler, die eine Partie gewinnen wollen, werden genau dieses tun. Das
+Moskauer System ist eine Ausnahme von der Regel. Die weiße Dame erscheint
+bereits sehr früh im Zentrum. Obwohl die Bauernstruktur denjenigen der
+Offenen Sizilianischen Verteidigung entspricht, gibt die unübliche Stellung
+der schwarzen Dame der Variante einen eigentümlichen Charakter, so dass die
+Variante sehr sorgfältig studiert werden muss.} Nc6 {Dieser Zug, der sofort
+die exponierte weiße Dame angreift, bildet die Hauptfortsetzung} ({Manchmal
+verhindert Schwarz die Fesselung mit} 4... a6 {oder auch dem Läuferzug auf d7,
+aber der Textzug bildet die Hauptvariante und daher die Hauptfortsetzung}) 5.
+Bb5 {Weiß ist dazu bereit, seinen Läufer früh zu tauschen, da dieser Tausch
+die Entwicklung seiner Leichtfiguren fördert und die starke Stellung der Dame
+sichert} Bd7 {Schwarz muss sich weiterentwickeln und die Bedrohung der Dame
+aufrechterhalten} 6. Bxc6 {Als Kompensation für das Läuferpaar erhält Weiß
+etwas Entwicklungsvorsprung und eine starke Stellung im Zentrum. Die schwarzen
+Chancen liegen dann eher im Endspiel} Bxc6 {An dieser Stelle hat Weiß zwei
+Hauptzüge: er kann einen Maroczy-Aufbau mit c4 versuchen oder seine
+Entwicklung mit Sb1-c3 weitertreiben} 7. Nc3 {Dieser Zug bildet die
+Hauptfortsetzung. Tatsächlich erscheint der Plan einer schnelllen Entwicklung
+der weißen Figuren eine konsequentere Fortsetzung als der Maroczy-Aufbau.} Nf6
+{Schwarz entwickelt seinen Königsflügel und greift den Bauern e4 an.} 8. Bg5
+{Weiß entwickelt sich logisch weiter. Der Zug entwickelt nicht nur den
+weißen Damenläufer, sondern bereitet auch die lange Rochade vor.} e6 {[%csl
+Yd5] Schwarz deckt ein weiteres Mal den Springer, obwohl das hier nicht
+notwendig wäre. Aber er bildet auch ein Entwicklungsfeld für den schwarzen
+Königsläufer. Hier ist das Königsläuferfianchetto nicht so gut. Schwarz
+muss außerdem auf das Zentrum, insbesondere auf das Feld d5, aufpassen.} 9.
+O-O-O {Weiß bringt seinen König in Sicherheit und drückt auf den
+rückständigen Bauern d6} ({Schwarz hat überhaupt keinen Grund, die
+Dopppelbauern zu fürchten, die nach} 9. Bxf6 Qxf6 10. Qxf6 gxf6 11. O-O-O Rg8
+{entstehen. Andererseits hat Schwarz jetzt das Läuferpaar, was einen enormen
+Wert in dem Endspiel darstellen kann}) 9... Be7 {An dieser Stelle hat Weiß
+wieder mehrere Optionen zur Verfügung. Er kann seinen Königsturm in die
+Mitte bringen (die absolute Hauptvariante), er kann deine Dame zurückziehen
+oder den König auf die Seite schieben.} 10. Qd3 {Mit diesem Zug plant Weiß
+eine Umgruppierung des Springers auf f3, um danach einen Vormarsch der
+Königsflügel-Bauern folgen zu lassen.} Qa5 {Nach Ftacnik ist dies die
+genaueste Antwort. Schwarz schaut sich den Läufer g5 genau an und droht
+bezeiten mit dem Zug Sf6xe4} 11. h4 ({Die Hauptalternative lautet} 11. Kb1 h6
+12. Bf4 d5 {Dieser thematische Durchbruch gleicht bequem aus} 13. Nd4 dxe4 14.
+Nxc6 bxc6 15. Nxe4 O-O {Die zersplitterten Bauern auf dem schwarzen
+Damenflügel werden durch die aktiven Figuren und die etwas sicherere
+Königsstellung ausgeglichen}) 11... h6 {Die sofortige Rochade ist ebenfalls
+möglich, aber man zieht es doch gerne vor, den Läufer zu befragen} 12. Bd2 ({
+Manchmal möchte Weiß den zweiten Läufer auch loswerden, um etwas
+zusätzliche Zeit zu gewinnen.} 12. Bxf6 Bxf6 13. Nd4 {Dieser Plan punktet
+sogar besser als die Hauptvariante, aber er sollte Schwarz nicht beunruhigen,
+sofern er genau antwortet} O-O-O {Gebräuchlicher ist sicher die kurze Rochade,
+aber danach kann Weiß mit f2-f4 vorspreschen und hat einen ganz klaren Plan
+in der Hinterhand.} 14. f4 Qc5 15. Nxc6 Qxc6 16. Rh3 a6 17. g4 {Hier ist
+folgender Zug angebracht} Kb8 {Für Schwarz sind keine Probleme zu sehen und
+sein Läufer hat keinen Gegner mehr, daher kann er eine Macht werden}) 12...
+Qa6 {Dieser Zug leitet quasi einen Damenabtausch ein. Daher sichert er Schwarz
+eine gute Stellung mit einigen Aussichten, sein Läuferpaar auf lange Sicht
+hin zu verwerten} (12... Ng4 {ist eine zuverlässige Alternative, aber der
+Textzug ist geradlinigerI}) 13. Qxa6 bxa6 14. Rhe1 Ng4 ({In einigen Partien
+dieser Variante spielt Schwarz gerne} 14... e5 {, was sicher kein Fehler ist,
+aber Schwarz sollte sein Zentrum flexibel und den eigenen Damenflügel mobil
+halten}) 15. Re2 O-O 16. Nd4 ({Im Falle von} 16. Bf4 {sieht es für Schwarz
+logisch aus,} Rfd8 {zu spielen. Der Damenläufer kann sich nach e8
+zurückziehen, falls nötig, und der andere Turm findet eine aktive Rolle auf
+dem Damenflügel.} (16... e5 {nebst} 17. -- f5 {ist eine interessesante
+Alternative, um das weiße Zentrum zu untergraben und den Damenläufer zu
+aktivieren})) 16... Bd7 17. f3 Ne5 18. h5 ({Als Verbesserung wurde
+vorgeschlagen} 18. Be1 Rfc8 19. b3 {Aber nach} Rc5 {scheinen die schwarzen
+Chancenb höher}) 18... Rfc8 ({Von} 18... Nc4 19. Bf4 Bf6 20. b3 Rfc8 21. Bg3 {
+mit annähernd Gleichheit ist nicht viel zu erwarten}) 19. b3 Rc5 {Die
+schwarzen Doppelbauern verursachen kein großes Kopfzerbrechen und Weiß muss
+einem großen Druck auf dem Damenflügel widerstehen} *
+

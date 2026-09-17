@@ -1,0 +1,37 @@
+[Event "Repertoire against the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Alapin-Gambit"]
+[Black "Springer-Vertreibung"]
+[Result "*"]
+[ECO "B22"]
+[Annotator "Daniel King"]
+[PlyCount "25"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 {Das ist das vielversprechende
+Anti-Alapin-Gambit. Es wurde von Sveshnikov und Emms untersucht, jedoch nicht
+ausführlich behandelt. Allerdings raten sie davon ab, den Bauern behalten zu
+wollen.} 4. d4 {Dieser Zug wurde von Emms empfohlen und er scheint auch der
+beste für Weiß zu sein.} ({(a) Von Evgeny Sveshnikov stammt die Fortsetzung} 
+4. Bb5+ {, nach der allerdings Schwarz recht einfaches Spiel erhält.} Nbd7 5.
+c4 a6 6. Bxd7+ Qxd7 {Diese Fortsetzung ist eine Spezialität von Henrik Teske
+und stellt in Verbindung mit dem Hebel e7-e6 eine vielversprechende
+Fortsetzung dar.}) ({(b) Eine Art Isländisches Gambit stellt die folgende
+Fortsetzung dar} 4. c4 e6 5. dxe6 Bxe6 6. Nf3 Nc6 7. Be2 Bd6 {Schwarz hat gute
+Kompensation für den Bauern.}) ({(c) Beliebt und empfohlen ist auch die
+Variante mit dem Zwischenschach auf a4:} 4. Qa4+ {Darauf empfiehlt King} Nbd7
+5. c4 e6 {Dies ist eine Variante des Isländischen Gambits.}) 4... Nxd5 $1 {
+Emms hat diesen Zug nicht untersucht. Er beschäftigt sich mit dem Schlagen
+des weißen Damenbauern durch den schwarzen c-Bauern, wonach der Weiße zwar
+einen isolierten Damenbauern erhält, aber sein Spiel sich auch befreit.} 5.
+Nf3 ({Von Tiviakov stammt die Fortsetzung} 5. dxc5 {Das Spiel läuft nun eine
+andere Richtung. Die Stellung kann genauso aus der Französichen Verteidigung
+entstehen.} e6 6. Nf3 Bxc5 {Ponomariov entwickelt seine Figuren sehr gut und
+erhält mit Schwarz ein gutes Spiel.}) 5... e6 {Alternativ kann Weiß auch
+versuchen, den schwarzen Springer aus dem Zentrum zu vertreiben.} 6. c4 Nf6 $1
+7. Nc3 cxd4 8. Qxd4 ({Wenn Weiß mit dem Springer schlägt, wird dieser
+einfach vertrieben.} 8. Nxd4 e5 $1) 8... Qa5 $5 {Schwarz weicht dem
+Damentausch aus.} 9. Be2 Nc6 10. Qh4 Be7 11. O-O Nd5 12. Qg3 Nxc3 13. bxc3 $15
+{Nach diesen forcierten Zügen steht Schwarz sogar etwas besser.} *
+

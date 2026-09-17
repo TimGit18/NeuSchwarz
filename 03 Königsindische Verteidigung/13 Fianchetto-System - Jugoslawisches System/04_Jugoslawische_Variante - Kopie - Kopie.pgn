@@ -1,0 +1,164 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fianchetto-System"]
+[Black "Jugoslawische Variante"]
+[Result "*"]
+[ECO "E60"]
+[Annotator "David Vigorito"]
+[PlyCount "62"]
+[EventDate "2012.04.01"]
+[SourceDate "2012.04.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O {Das
+Fianchetto-System gehört zu solidesten Optionen gegen Königsindisch. Der weiße
+König steht unglaublich sicher und es ist für Schwarz nicht so einfach,
+Gegenspiel zu initiieren} Nc6 {Hiermit beginnt die Panno-Variante, die man
+bereits von dem Sämisch-System kennt. Schwarz hat eine ähnliche Idee. Er
+möchte sein Gegenspiel anhand von a7-a6 und Ta8-b8 ausrichten. Darin liegt
+etwas Logik, denn der schwache Punkt von Weiß ist der Bauer c4, der jetzt
+nicht mehr von dem Läufer auf f1 gedeckt werden kann} 7. Nc3 {Dieser
+natürliche Entwicklungszug ist am flexibelsten} ({Der eher forcierende Zug} 7.
+d5 {kann auch sofort gespielt werden. In der Regel transponiert das Spiel in
+die Hauptvariante, aber beide Seiten können abweichen} Na5 {[%csl Yc4]} 8. Nfd2
+c5 {Schwarz versucht in der Hauptvariante zu bleiben} 9. a3 {Ein weißer Trick,
+um den Springer zu fangen} Nd7 {Schwarz verhindert b2-b4, weil der Turm auf a1
+hinge} 10. Ra2 {Weiß rettet den Turm und zieht ihn aus der gefährlichen
+Läuferdiagonale} Ne5 {[%csl Yc4][%cal Ge5c4,Ga5c4] Schwarz greift ein weiteres
+Mal den schwachen weißen Bauern auf c4 an und verhindert somit b2-b4} 11. Qc2
+Bd7 12. h3 b5 13. b3 bxc4 14. bxc4 Rb8 15. Bb2 Qc8 16. Kh2 Qa6 17. Bxe5 Bxe5 {
+mit schwarzem Stellungsvorteil}) 7... a6 {Hiermit wird die Panno-Variante
+eingeleitet. Schwarz ist bereit, Gegenspiel am Damenfügel zu beginnen} 8. d5 {
+Mit diesem forcierten Zug beginnt die Jugoslawische Variante im
+Fianchetto-System. Weiß vertreibt den schwarzen Damenspringer sofort auf ein
+schlechtes Feld} Na5 {Der Springer steht zwar auf dem Rand schlecht, greift
+aber den Bauern c4 an} 9. Nd2 {Der Rückzug des Springers, der gleichzeitig den
+Bauern c4 deckt, bildet die Hauptvariante. Es gibt eine Reihe von Alternativen}
+({(a)} 9. Qd3 c5 {punktet schlecht für Weiß. Er muss immer aufpassen, dass
+seine Dame nicht bedrängt wird} 10. e4 Rb8 11. Rb1 b5 12. cxb5 c4 {und Schwarz
+hat ausgezeichnetes Spiel}) ({(b)} 9. b3 {ist nicht so schlecht, obwohl es die
+Läuferdiagonale öffnet} Rb8 {Das ist am geschicktesten. Schwarz behält sich
+ein Übergang in die Hauptvariante vor und will Weiß dazu bringen, dies
+ebenfalls zu tun} 10. Nd4 Bd7 11. Bb2 c5 12. dxc6 bxc6 {ist unklar. Schwarz
+hat den Maroczy-Aufbau vermieden und plant c6-c5 und Sa5-c6}) 9... c5 {Diese
+Stellung bildet den Ausgangspunkt für die Jugoslawische Variante. Das Spiel
+dreht sich um den Springer auf a5. Wenn er zu dem schwarzen Gegenspiel
+beitragen kann, dann sollte Schwarz gute Chancen bekommen. Falls er aber zu
+passiv verbleibt, dann bekommt Weiß seine Gelegenheiten im Zentrum und auf dem
+Königsflügel. Die Theorie gibt Schwarz gute Möglichkeiten, taktisch zu punkten.
+Die weißen Varianten sind so entworfen, dass der schwarze Damenflügel unter
+Kontrolle gehalten wird} 10. Qc2 {Dieser Zug bildet die Hauptvariante. Weiß
+beschützt seinen Springer auf c3, ohne seinen Turm zu verpflichten} ({Der Zug} 
+10. Rb1 {ist ein prophylaktischer Zug, um den weißen Damenflügel abzusichern.
+Der weiße Turm entfernt sich vorsorglich aus der langen Diagonale, um b2-b3
+vorzubereiten. Wenn Weiß weiterhin auf Dd1-c2 verzichtet, kann das Spiel wie
+folgt verlaufen Dieser Zug ist konsequent und passt zur schwarzen Agenda auf
+dem Damenflügel} Rb8 11. b3 b5 12. Bb2 {Der weiße Damenflügel sieht zunächst
+ziemlich sicher aus, so dass Schwarz seine Züge regulieren muss, um Gegenspiel
+zu erzeugen. Typische schwarze Ideen sind b5xc4, e7-e5 und Lg7-h6, um die
+Verteidigung des Bauern c4 zu unterminieren} bxc4 {Mit diesem Zug legt Schwarz
+die Bauernstruktur fest und schafft eine Schwäche auf c4. Außerdem öffnet er
+die b-Linie für den Turm} 13. bxc4 Bh6 {Schwarz greift die Deckungsfigur von
+c4 an} 14. Ba1 {Weiß geht dem schwarzen Turm aus dem Weg} Bf5 {Das ist eine
+typische Methode, um Schwächen in dem weißen Lager zu provozieren} 15. Rxb8 {
+Diese Fortsetzung ist am sichersten} Qxb8 16. f4 {Weiß verhindert mechanisch,
+dass der Springer auf d2 abgetauscht wird} Ng4 {Nicht der einzige gute Zug,
+aber einer, der die Schwächen im weißen Lager aufzeigt} 17. e4 Bd7 18. Qe2 Bg7
+{Schwarz hat eine gute Stellung erreicht. Wenn Weiß etwas erreichen will, dann
+muss er einen Bauern opfern}) 10... Rb8 {Schwarz plant weiterhin den
+Durchbruch auf b5} 11. b3 {Unverändert gespielt} ({Denn nach} 11. a4 e5 12. b3
+h5 $1 13. e4 h4 14. Bb2 Bh6 15. Nf3 hxg3 16. hxg3 Ng4 {hat Schwarz gutes
+thematisches Gegenspiel}) 11... b5 {An dieser Stelle muss Weiß eine weitere
+Entscheidung treffen. Er kann entweder Spiel auf dem Damenflügel initiieren
+oder sich einfach entwickeln} 12. Bb2 {Das ist die Hauptvariante} ({Mit} 12.
+Rb1 {räumt seinen Turm von der langen Diagonale und bereitet sich auf die
+Öffnung des Damenflügels vor} e5 {Sicher die aktivste Fortsetzung für Schwarz,
+obwohl er hier auch andere Züge hat} 13. cxb5 {Damit entscheidet sich Weiß,
+selber den Damenflügel zu öffnen} axb5 14. b4 {Das ist die weiße Idee: er
+hofft Druckspiel gegen den schwarzen Bauern b5 auszuüben} cxb4 {Schwarz sollte
+die Herausforderung annehmen} 15. Rxb4 Qc7 {Schwarz fesselt den Springer c3
+und bindet die weiße Dame an seine Verteidigung. Das ist nicht die beliebteste
+Fortsetzung, aber die beste} 16. Qd3 {Weiß entfesselt den Springer und
+erneuert die Bedrohung des Bauern b5} Ba6 {Schwarz entwickelt sich und
+verteidigt seinen Bauern. Weiß kann nicht nehmen, denn mit Dc7-c5 gewinnt
+Schwarz Material} 17. Ba3 Rfc8 18. Rc1 Qd7 {Schwarz hat eine sehr solide
+Stellung}) 12... bxc4 {Schwarz möchte gerne das Druckspiel gegen den weißen
+Bauern c4 organisieren. Aber er muss die genaue Zugreihenfolge kennenm, denn
+sonst kann Weiß effizient auf b5 schlagen} 13. bxc4 Bh6 {Nun droht Schwarz
+einfach damit, den Springer auf d2 zu nehmen, wonach der Bauer auf c4 einfach
+fällt} 14. f4 {Das ist die Hauptvariante. Weiß schließt den schwarzfeldrigen
+Läufer aus} ({(a) Der Zug} 14. Ncb1 {sieht sicherlich etwas lustig aus, wurde
+aber schon zweimal benutzt, um Kasparov zu besiegen. Mit diesem unüblichen
+Rückzug hofft Weiß seinen Damenflügel komplett zu konsolidieren und danach
+seine Energie auf das Zentrum und den Königsflügel zu richten. Der Bauer c4
+ist nun fest verteidigt. Nach Lb2-c3 und Sb1-a3 wird der Springer a5 inaktiv
+und Angriffsziel} e5 {Sonst könnte Weiß seinen eigenen Plan unproblematisch
+ausführen} 15. Bc3 {Weiß greift den Randspringer an, was er sowieso vorhatte}
+Bd7 16. Na3 {Weiß deckt ein weiteres Mal den Bauern c4 mit seinem Springer} Rb4
+$1 {Schwarz muss etwas Schwung halten} 17. Bxb4 {Natürlich muss Weiß nicht
+schlagen, aber er nimmt gerne die Qualität mit} cxb4 18. Nab1 Qc7 {Schwarz
+drückt ein weiteres Mal auf den c-Bauern} 19. e3 Bf5 {Ein sehr wichtiger Zug}
+20. Ne4 Bxe4 21. Bxe4 {Für die verlorene Qualität hat Schwarz ausgezeichnete
+Kontrolle auf den schwarzen Feldern und Druckspiel auf dem Damenflügel.
+Allerdings muss er alarmiert bleiben}) ({(b)} 14. e3 {ist ein klassischer
+Fehler, den schon viele starke Spieler begangen haben} Bf5 15. e4 Bxd2 16. exf5
+Nxc4 17. Nd1 Nxb2 18. Nxb2 Bh6 {mit Vorteil für Schwarz}) 14... e5 {Natürlich
+will Schwarz die Stellung öffnen. Weiß kann auf diesen Zug mit mehreren
+Antworten reagieren} 15. dxe6 {Das ist sicher der beste Versuch für Weiß} ({(a)
+Mit} 15. Rae1 {versucht Weiß das Zentrum aufzuladen, aber es drohen ihm Tricks
+wie Tb8xb2} exf4 16. gxf4 Nh5 17. e3 Bg7 {Mit einer Reihe von präzisen Zügen
+hat Schwarz dafür gesorgt, dass Weiß seine Bauernstruktur schwächte} 18. Nd1 {
+Weiß will mit diesem Rückzug die sensiblen Felder e3 und b2 überdecken} Bf5 $1
+19. Be4 {Schon ist die weiße Stellung aus dem Gleichgewicht} Bxb2 20. Nxb2 Rxb2
+{Ein starkes Qualitätsopfer} 21. Qxb2 Nxc4 22. Nxc4 Bxe4 {Schwarz hat klare
+und ausgezeichnete Kompensation für die Qualität} 23. Nd2 Bxd5 24. e4 Ba8 {Die
+schwarze Stellung sieht sehr vielversprechend aus}) ({(b) Mit dem Zug} 15. Rab1
+{schützt Weiß den Läufer und ist bereit, ihn nach a1 zurückzuziehen} exf4 16.
+gxf4 Bg7 {Dieser Versuch ist eine Empfehlung von Bologan}) 15... Bxe6 16. Nd5 (
+{Zu passiv ist} 16. Nd1 Bg7 17. Rb1 {Mit dem offenen Zentrum kann es sich Weiß
+eigentlich nicht erlauben, die Figuren auf die Grundreihe zurückzuziehen} Re8)
+16... Rxb2 $1 {Das Qualitätsopfer sieht aus wie der beste Zug} 17. Qxb2 Bg7 {
+Nun droht Schwarz einfach mit Sxd5, so dass Weiß seine Dame bewegen muss. Im
+allgemeinen muss Schwarz mit dem Rückgewinn der Qualität aufpassen, denn wenn
+er den Springer a5 nicht in das Spiel bringen kann, dann kann Weiß praktisch
+mit einer Mehrfigur auf dem Königsflügel spielen. Schwarz muss sich auf
+Taktiken wie das Spiel auf den schwarzen Feldern und Angriffen gegen c4
+verlassen} 18. Qc1 {Das ist der weiße Hauptversuch, um die Hauptvariante zu
+beweisen, aber Schwarz hat angemessene Ressourcen} ({(a)} 18. Qa3 {Weiß will
+den schwarzen Springer weiter belästigen. Aber Schwarz hat eine taktische
+Lösung} Nxc4 19. Nxc4 Nxd5 20. Rac1 {Die aktiven schwarzen Figuren und das
+Bauernzentrum geben ihm gute Kompensation für die Qualität} Nb4 21. Rfd1 d5 22.
+Kh1 Qe7 23. Nb6 Rb8 {Schwarz hat sehr schöne Kompensation und Weiß sollte
+versuchen, das Gleichgewicht zu halten}) ({(b)} 18. Qc2 {verursacht keine
+Probleme bei Schwarz} Nxd5 19. cxd5 Bxa1 20. Rxa1 Qf6 21. Rd1 Qd4+ 22. Kh1 Bf5
+23. Be4 Nc4 24. Qd3 Qxd3 25. exd3 {ist gut für Schwarz}) 18... Bxd5 {Das ist
+der Standardzug} 19. cxd5 ({Stattdessen gibt} 19. Bxd5 Nxd5 20. cxd5 {Schwarz
+noch mehr Möglichkeiten, doch er muss wie üblich aufpassen, dass sein Springer
+auf a5 nicht zum Zuschauer wird} Qe7 {Das sieht am besten aus} 21. Rb1 Qxe2 22.
+Qd1 Qe3+ 23. Kh1 Bc3 24. Nb3 Nxb3 25. axb3 Re8 {mit Kompensation}) 19... Ng4
+20. Rb1 {Andere weiße Züge sehen nicht so fordernd aus} ({(a)} 20. Ne4 Ne3 21.
+Rf3 Nac4 22. Rb1 Re8 23. Nd2 Nb6 {Schwarz gewinnt den Bauern d5 bei gutem Spiel
+}) ({(b)} 20. e4 Bxa1 21. Qxa1 Qb6 22. e5 c4+ 23. Kh1 Nf2+ 24. Rxf2 Qxf2 25.
+Ne4 Qe3) 20... Ne3 {Das sieht am besten aus} 21. Re1 ({(a)} 21. Bf3 Re8 22. Rf2
+{transponiert}) ({(b)} 21. Qa3 Re8 22. Rf2 Ng4 {erlaubt Schwarz gutes Spiel}) (
+{(c) Die Hauptalternative lautet} 21. Rf3 Re8 22. Nf1 Nxg2 23. Kxg2 Rxe2+ 24.
+Rf2 Qe8 25. Rxe2 Qxe2+ 26. Kh3 Qh5+ 27. Kg2 Qxd5+ 28. Kh3 Nc6 {mit zwei Bauern
+für die Qualität und andauerndem Angriff}) 21... Re8 22. Bf3 Bd4 23. Kh1 h5 $1
+{Schwarz tut so als sei er gar nicht im materiellen Nachteil, sondern plant
+einen Angriff auf der h-Linie mit Kg7 und Th8} 24. Qa3 {Weiß hat kein Problem
+damit, die Qualität zurückzugeben, sofern die Stellung konsolidiert ist 
+(speziell der Springer a5 soll nicht am Spiel teilnehmen). Andere
+Möglichkeiten geben Schwarz Gegenspiel} ({(a)} 24. Ne4 Kg7 25. Ng5 h4) ({(b)} 
+24. Rg1 h4 25. g4 Kg7 26. g5 Qd7) 24... h4 25. g4 {Der Textzug hält die
+h-Linie geschlossen, aber nun ist der Bauer f4 schwach. Außerdem kann der
+Bauer h4 den weißen König beunruhigen} (25. Qd3 hxg3 26. hxg3 Qf6 {[%csl Rh8]
+[%cal Gf6h8] mit der Idee von Dh8}) 25... Nc2 26. Qa4 ({Oder} 26. Qd3 Nxe1 27.
+Rxe1 Be3 28. f5 Bxd2 29. Qxd2 Nc4 {und der schwarze Springer wird auf einmal
+eine starke Figur}) 26... Nxe1 27. Rxe1 Be3 (27... Bc3 {ist vielleicht genauer}
+) 28. Rd1 Bxd2 29. Rxd2 {Wenn Schwarz jetzt zu ruhig spielt, dann verfügt Weiß
+doch noch über etwas Initiative} Re3 30. Rd3 ({Oder} 30. Kg2 Rc3 {mit der
+Absicht, den König oder den Springer nach c4 zu ziehen}) 30... Rxd3 31. exd3 h3
+{Dieser Zug bringt den weißen König in Bedrängnis} ({Stohl schlägt vor} 31...
+Qb6) *
+

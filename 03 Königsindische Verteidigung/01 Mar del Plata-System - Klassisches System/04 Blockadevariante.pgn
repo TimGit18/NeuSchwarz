@@ -1,0 +1,132 @@
+[Event "The King's Indian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Mar del Plata"]
+[Black "Blockadevariante"]
+[Result "*"]
+[ECO "E99"]
+[Annotator "David Vigorito"]
+[PlyCount "62"]
+[EventDate "2011.11.20"]
+[SourceDate "2011.11.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 {Die Klassische
+Variante ist eines der prinzipiellsten Systeme gegen die Königsindische
+Verteidigung. Weiß entwickelt sich logisch, indem er seinen Königsflügel
+entwickelt und die Rochade vorbereitet. Der Läufer steht auf e2 viel besser
+als auf d3, da er hier nicht die Wirkung der Dame auf das Feld d4 behindert.
+Außerdem behält der Läufer das Feld h5 im Auge.} e5 {Das ist der Hauptzug.
+Er führt zu komplexen Stellungen. Schwarz drückt auf das weiße Zentrum,
+insbesondere auf den Bauern d4. Wenn Weiß das Zentrum nicht abschließt, kann
+Schwarz die e-Linie öffnen und ein Druckspiel gegen den Bauern e4 starten.
+Wenn Weiß das Zentrum schließt, dann kann Schwarz mit dem f-Bauern einen
+Angriff auf dem Königsflügel beginnen, da er dort die Figurenübermacht hat.
+Der einzige Nachteil dieses Zuges ist dann die schlechte Stellung des Läufers
+g7, der von seinen eigenen Bauern eingeschlossen wird.} 7. O-O {Der
+konsistente weiße Zug. Er bringt den König in Sicherheit und läßt die
+Spannung im Zentrum vorerst bestehen. Weiß möchte den d-Bauern erst
+vorziehen, wenn er dazu gezwungen wird oder die Umstände für ihn günstig
+sind.} Nc6 {Schwarz übt damit weiteren Druck auf das weiße Zentrum aus. Das
+ist der aggressivste und beste Entwicklungszug, auch wenn er die folgende
+weiße Antwort provoziert. Der Damenläufer bleibt besser noch auf seinem
+Ursprungsfeld, da das einzige gute Feld für ihn g4 ist, von dem er aber
+leicht wieder vertrieben werden kann.} 8. d5 {Weiß schließt das Zentrum und
+erobert Raum auf dem Damenflügel. Außerdem gewinnt dieser Zug ein Tempo
+unter günstigen Umständen, denn Schwarz muss den Springer auf das schlechte
+Feld e7 bringen} Ne7 {Damit wird die Mar del Plata-Variante eingeleitet. Diese
+Variante ist durch das geschlossene Zentrum charakterisiert. In der Regel
+agiert Weiß auf dem Damenflügel und Schwarz auf dem Königsflügel. Der
+schwarze Springer auf e7 steht nicht gut und muss über g6, g8 oder f5 nach
+einem Bauerntausch auf e4 in das Spiel gebracht werden. Weiß hat in dieser
+Stellung verschiedene Systeme zur Verfügung.} 9. Ne1 {Weiß verhindert mit
+diesem Rückzug den gegnerischen Springerzug Sf6-h5. Außerdem bereitet er die
+Stützung des eigenen Zentrums mit f2-f3 vor und will den zurückgezogenen
+Springer auf d3 platzieren, von wo aus er das Schlüsselfeld c5 angreift.} Nd7
+{Schwarz will den f-Bauern in Gang setzen. Da sein Königsspringer nicht nach
+h5 kann, muss er ihn nach d7 zurückziehen. Außerdem überdeckt der Rückzug
+ein weiteres Mal das Schlüsselfeld c5} 10. Nd3 {Weiß verbessert die Position
+seines Springers und bereitet den thematischen Vorstoß c4-c5 vor. Eine
+weitere Option für Weiß ist der Rückzug des Springers nach f2, wo er den
+eigenen König unterstützt und dem schwarzen Gegenangriff entgegentritt.} f5 {
+Schwarz führt den ersten Schlag aus. Er droht mit der Öffnung der f-Linie
+und weiterem Druck gegen den weißen Anker in der Stellung, den Bauern e4.
+Wenn Weiß selber schlagen würde, so käme Schwarz so einer eindrucksvollen
+Bauernmajorität im Zentrum, hinter der sich die schwarzen Figuren sammeln
+können. Insbesondere der Läufer g7 würde auf einmal sehr beweglich werden}
+11. Bd2 {Weiß entwickelt seinen Läufer und räumt das Feld c1 für einen
+Turm, der auf der bald offenen c-Linie aktiv werden soll. Auf d2 steht der
+Läufer zwar nicht ideal, aber auf e3 wäre er eine Zielscheibe für die
+schwarzen Bauern.} Nf6 {Schwarz entwickelt seinen Springer zurück und erhöht
+damit automatisch den Druck auf den e-Bauern. Weiß steht wieder vor der
+Entscheidung, seinen Bauern zu verteidigen oder das Zentrum aufzugeben} 12. f3
+{Weiß stützt die Bauernkette, so dass er auf f5xe4 ebenfalls mit Öffnung
+der Turmlinie zurückschlagen kann} f4 {[%csl Rc5,Yg4][%cal Gc4c5,Gg6g4] Mit
+geschlossenem Zentrum sind die Schlachtpläne klar. Weiß greift auf dem
+Damenflügel an und Schwarz auf dem Königsflügel} 13. g4 {Das ist ein
+völlig anderer Ansatz. Statt in ein Wettrennen auf verschiedenen Flügeln zu
+gehen, blockiert Weiß erst einmal den Königsflügel. Damit hat er freie Hand
+auf dem Damenflügel, wo er Raumvorteil hat. Dieser Plan war in den späten
+1980er Jahren sehr populär, giltz aber heute als nicht besonders gefährlich
+für Schwarz. Allerdings kann das Spiel etwas schwerfällig werden} g5 {
+[%csl Re1,Rf2,Yg2,Yg6,Rh4,Yh5][%cal Gh7h5,Ge7g6,Gg6h4,Gd2e1,Ge1f2,Gg1g2] Nach
+einem Tausch auf g3 hat Schwarz keinen Vorteil auf dem Königsflügel, weshalb
+er die Stellung geschlossen läßt und plant, mit h7-h5 eine Öffnung
+herbeizuführen. Er plant außerdem Se7-g6, um den Springer auf h4 einzusetzen.
+Weiß spielt üblicherweise Kg1-g2 und Ld2-e1-f2, um das Feld h4 zu
+überdecken und auf den Damenflügel zu beobachten. Zugegebenermaßen operiert
+Schwarz auf engem Raum und er muss den Damenflügel zusammenhalten. Auf dem
+Königsflügel muss er nach taktischen Möglichkeiten Ausschau halten, was oft
+ein Opfer auf e4 oder g4 beinhaltet} 14. Be1 {Beide Seiten haben hier eine
+Menge Flexibilität, Weiß kann aber auch sofort auf dem Damenflügel aktiv
+werden} ({(a) Eine Alternative ist} 14. Kg2 h5 15. h3 Ng6 {Diese Zugfolge
+führt eine Umgruppierung durch} 16. Be1 Rf7 17. Bf2 Bf8) ({(b)} 14. c5 h5 15.
+h3 Kf7 16. Rc1 Rh8 17. Nb5 hxg4 18. hxg4 Rh3 19. Kf2 Bxg4 20. cxd6 cxd6 21.
+fxg4 Nxg4+ 22. Ke1 Qb6 {mit Kompensation und gutem Spiel für Schwarz}) ({(c)} 
+14. b4 h5 15. h3 Kf7 16. Be1 Rh8 17. Kg2 Ng6 18. c5 hxg4 19. hxg4 Nh5 {ist ein
+tolles Opfer von Kasparov in einer Partie gegen Gelfand} 20. Rh1 ({Wenn Weiß
+das Opfer annimmt, dann geht die schwarze Idee auf} 20. gxh5 Rxh5 21. Rh1 Rxh1
+22. Kxh1 Qh8+ 23. Kg1) 20... Ng3 21. Bxg3 fxg3 22. Qd2 Rh4 23. Kxg3 Bd7 24.
+Rxh4 gxh4+ 25. Kh2 Bf6 {mit Kompensation auf den schwarzen Feldern für den
+Bauern}) 14... h5 15. h3 Ng6 16. c5 {Weiß beginnt sofort mit dem Spiel auf
+dem Damenflügel, hat aber auch einige Alternativen} ({(a)} 16. Bf2 Rf7 17. a4
+Bf8 18. Kg2 Be7 19. a5 Qf8 20. Nb5 Bd8 21. Nxa7 hxg4 22. hxg4 Bxg4 {ist ein
+typisches Opfer in dieser Art von Stellung} 23. fxg4 Nxe4) ({(b)} 16. Kg2 Rf7 {
+Diese Umgruppierung gefällt, da f8 für die Dame frei wird} 17. Bf2 Bf8 18. b4
+({Oder} 18. Rh1 Rh7 19. Qb3 Nh4+ {Der Springerzug ist eine Spezialität von
+Hebden. Der Königsflügel schließt sich zwar, aber dafür verschwindet der
+gute Läufer von Weiß} 20. Bxh4 gxh4 21. Rag1 hxg4 22. hxg4 h3+ 23. Rxh3 Rxh3
+24. Kxh3 Nh5 25. Bd1 Be7 26. Kg2 Ng3 27. Ne2 Nxe2 28. Bxe2 Bh4 29. Rh1 Qg5 30.
+Nf2 Kf8 31. Rh3 Ke7 32. Qd1 Bd7 33. Qh1 Rh8 {mit genügend Kompensation für
+den Bauern}) 18... Rh7 19. Rh1 Be7 20. Qb3 Kg7 21. c5 Bd7 22. Rac1 a6 {Schwarz
+vermeidet es, mit der Dame auf die h-Linie zu gehen, da Weiß auf dem
+Damenflügel mit c5-c6 durchbrechen kann und mit der Dame auf c4 riesigen
+Druck entfalten kann} 23. a4 hxg4 24. hxg4 Nh4+ 25. Bxh4 Rxh4 26. Rxh4 gxh4 27.
+Qc4 h3+ 28. Kh1 ({Nach} 28. Kxh3 Qh8+ 29. Kg2 Qh4 {hat Schwarz starken Angriff}
+) 28... Qh8 29. c6 bxc6 30. dxc6 Bc8 31. Rg1 Nh7 32. Qb3 Ng5 33. Nd5 Be6 34. b5
+axb5 35. axb5 Bxd5 36. Qxd5 Qb8 {mit guter Stellung für Schwarz}) 16... Rf7
+17. b4 {Weiß hält die Spannung auf dem Damenflügel aufrecht.} ({Weiß kann
+auch direkt auf d6 nehmen} 17. cxd6 {, um es zu vermeiden, dass Schwarz auf d6
+mit dem Läufer nimmt} cxd6 {Der Nachteil dieses frühen Abtauschs ist
+allerdings, dass Weiß etwas Raum auf dem Damenflügel verliert. Außerdem
+verliert er Flexibilität, da c5-c6 keinerlei Option mehr ist} 18. Rc1 Bf8 19.
+Bf2 Rh7 20. Qb3 hxg4 21. hxg4 Nh4 22. Bxh4 Rxh4 23. Nf2 a6 24. a4 Rh7 25. Kg2
+Bd7 26. Nb1 b5) 17... Bf8 18. Kg2 Be7 19. Bf2 Qf8 {Dies ist ein schöner
+Aufbau für Schwarz. Der Bauer auf d6 bleibt gut geschützt und die Dame auf
+f8 kann auf die h-Linie wechseln. Es ist auch wichtig, dass ein latenter Druck
+auf der f-Linie bleibt, um einen Opferdurchbruch auf e4 oder g4 vorzubereiten}
+20. Nb5 Bd8 {Das ist eine weitere typische Idee. Der Läufer beschützt sehr
+effektiv den Bauern auf c7 und ein Abtausch auf d6 würde den Weg auf den
+Damenflügel für den schwarzfeldrigen Läufer öffnen} 21. a4 Bd7 {Schwarz
+hat eine harmonische Stellung} 22. Rh1 {Eine gute Demonstration der schwarzen
+Möglichkeiten ist} ({(a) Weiß kann hier keinen Bauern gewinnen} 22. cxd6 cxd6
+23. Nxa7 hxg4 24. hxg4 Bxg4 25. fxg4 Nxe4 26. Bg1 Nh4+ 27. Kh2 Qh6 {und
+Schwarz gewinnt}) ({(b) Nach} 22. Nc3 Be7 23. Nb5 {vermeidet} a6 {die
+Zugwiederholung}) 22... a5 23. bxa5 Rxa5 24. cxd6 cxd6 25. Nb2 {Weiß will den
+Springer nach c4 spielen, übersieht aber einen taktischen Trick} hxg4 26. hxg4
+Nxg4 {Weiß hat gedacht, dass alles gedeckt ist, aber es zeigt sich, dass der
+Springer auf b5 nicht ausreichend unterstützt wird} 27. fxg4 f3+ 28. Bxf3 Bxb5
+29. Bg3 Nh4+ {Dieses Schach kommt zu gutem Zeitpunkt, die Stellung ist
+geöffnet und Schwarz kommt auf den schwarzen Feldern voran} 30. Bxh4 gxh4 31.
+Rh3 Ba6 *
+

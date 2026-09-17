@@ -1,0 +1,32 @@
+[Event "Fighting the Anti-Sicilians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Morra-Gambit"]
+[Black "Vorstoßvariante"]
+[Result "*"]
+[ECO "B21"]
+[Annotator "Richard Palliser"]
+[PlyCount "40"]
+[EventDate "2013.09.15"]
+
+1. e4 c5 2. d4 cxd4 3. c3 {Dieser Zug charakterisiert das Morra-Gambit. Weiß
+erhält freies Spiel und eine gute Entwicklung, verliert aber seine
+Zentrumsbauern} dxc3 {Die einzige Möglichkeit, das zweifelhafte Gambit zu
+widerlegen ist die Annahme. Das führt zu offenen und zweischneidigen
+Stellungen} 4. Nxc3 Nc6 {Dieser Zug leitet den besten Aufbau für Schwarz
+gegen das Gambit ein} 5. Nf3 d6 {Die Idee von diesem Zug ist die Entwicklung
+des Damenläufers nach g4, um den Springer auf g3 abzutauschen. Dies reduziert
+nicht nur das weiße Angriffspotential, sondern nimmt auch den Vorstoß e4-e5
+aus der Stellung} 6. Bc4 {Das ist das weiße Standardschema in der Stellung.}
+a6 $1 {Das ist die Grundstellung im Angenommenen Morra-Gambit. Die
+Zugreihenfolge ist hier sehr wichtig} 7. O-O Nf6 8. e5 {Dieser Vorstoß ist
+ein anderes Konzept, das Weiß versucht. Aber die schwarze Zugfolge sollte dem
+standhalten} dxe5 9. Qxd8+ Nxd8 10. Nxe5 e6 ({Oder} 10... Be6 11. Be2 g6 12.
+Bf3 Bg7 13. Re1 O-O 14. Be3 Rc8 15. Bb6 Nc6 16. Nxc6 bxc6 17. Bc5 Rfe8 18. Rad1
+Nd7 19. Rxe6 Nxc5 20. Rxc6 Rxc6 21. Bxc6 Rb8) 11. Rd1 (11. Be3 Bd6 12. Nf3 b5
+13. Bd3 Bb7 14. Nd4 O-O 15. Rfd1 Nd5 {mit gesundem schwarzen Mehrbauern}) 11...
+Nd7 12. Nf3 Be7 13. Bf4 O-O 14. Ne4 Nc6 15. Bd6 Nb6 16. Bb3 Bxd6 17. Rxd6 Rd8
+18. Rad1 Rxd6 19. Nxd6 h6 20. Ne4 Kf8 {Schwarz kann den Bauern halten und im
+Endspiel gewinnen} *
+

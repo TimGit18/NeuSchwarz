@@ -1,0 +1,14 @@
+[Event "Beating Unusual Chess Openings"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Dunst"]
+[Black "Aasum-System"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "Richard Palliser"]
+[PlyCount "11"]
+[EventDate "2010.07.13"]
+
+{[%evp 0,11,16,18,25,-24,-14,-32,-28,-22,-8,-8,1,-2]} 1. Nc3 {Diese Eröffnung hat eigenständigen Wert und gilt nicht als Werkzeug, um in andere Eröffnungen zu transponieren. Manche nennen sie auch die Van Geet-Eröffnung oder Der Linkspringer. Schwarz sollte sicher gut vorbereitet sein.} Nf6 {Das ist eine typische Antwort eines e5-Spielers. Jetzt führt e2-e4 zu einer Wiener Partie} 2. f4 d5 {Das ist das sogenannte Aasum-System. Die Kombination der Züge Sc3 und f4 ist sicher ziemlich unüblich. Weiß plant aber ein schnelles g2-g4! Eine mögliche Antwort ist} 3. e3 (3. d3 Nc6 4. Nf3 Bg4 5. e3 d4 $1 {Der Zug nutzt die unglückliche Stellung des weißen Damenspringers aus} 6. Ne4 e5 7. Be2 Bb4+ $15 {Schwarz hat das Eröffnungsduell für sich entscheiden können}) 3... Bg4 4. Nf3 ({Oder} 4. Be2 Bxe2 5. Qxe2 c6 6. Nf3 Nbd7 7. d3 Qb6 8. Bd2 g6 9. O-O Bg7 $11 {und Schwarz hat eine sehr bequeme Stellung in einer Art Holländisch im Anzug}) 4... Nbd7 5. h3 Bxf3 6. Qxf3 {Die Eröffnung transponiert in eine Variante der Bird-Eröffnung} *
+

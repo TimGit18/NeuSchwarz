@@ -1,0 +1,79 @@
+[Event "Fighting the Anti-King's Indians"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Colle-System"]
+[Black "Zukertort-System"]
+[Result "*"]
+[ECO "D94"]
+[Annotator "Yelena Dembo"]
+[PlyCount "42"]
+[EventDate "2011.08.10"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 {Das Colle-System ist gegen das Fianchetto weniger
+gefährlich als gegen das Damenbauerspiel. Die Strategie von Weiß ist denkbar
+einfach. Der Königsläufer soll nach e2 oder nach d3, wohingegen der
+Damenläufer nach b2 geht oder zuhause einfach abwartet. In jedem Fall
+entgegnet Schwarz mit einem schnellen c7-c5 mit dem Vorteil, das weiße
+Zentrum zu prüfen und für den eigenen d-Bauern ein gutes Feld zu finden.
+Gegen das Colle-Zukertort-System mit b3 und Lb2 spielt Schwarz c5xd4 und d5,
+gegen das Colle-Koltanowski-System spielt Schwarz d6 wie gegen das
+London-System (wobei hier der Damenläufer eingesperrt ist).} Bg7 {Hiernach
+entsteht im weitläufigsten Sinne das Colle-System. Im wesentlichen gibt es
+das Zukertort-System mit b2-b3, den Tarrasch-Aufbau mit c2-c4 und das
+Koltanowski-System mit Lf1-d3 und c2-c3. Der Zug} 4. b3 {leitet das
+Zukertort-System ein. Weiß entwickelt seinen Damenläufer und verzögert die
+Entwicklung des Damenspringers.} ({(a)} 4. Bd3 c5 5. O-O O-O 6. b3 cxd4 7. exd4
+Nc6 8. Bb2 d5 {ähnelt der Hauptvariante und würde in sie transponieren nach}
+9. Nbd2 ({Eine Abweichung stellt dar} 9. a3 Nh5 10. Re1 ({Oder} 10. Qd2 Qd6 11.
+Re1 Nf4 12. Bf1 Bf5 13. g3 Ne6 14. c3 {wie in Scannell,S - Bezold,M Fuegen
+2006 und jetzt gebe} Na5 {mit gutem Spiel für Schwarz.}) 10... Bg4 11. Be2 Nf4
+12. Nbd2 {in Gomez Zambrana,P - Cazelais,M Caleta 2005, und nun wäre am
+einfachsten} Qb6 {mit angenehmen Druck.})) ({(b)} 4. Be2 c5 5. O-O O-O 6. b3
+cxd4 7. exd4 d5 8. Bb2 ({Nach} 8. Ne5 Nc6 9. Nxc6 bxc6 10. Be3 Ne4 {steht
+Schwarz gut, denn er beabsichtigt c6-c5.}) 8... Nc6 {transponiert in die
+Subvariante (a) nach dem 7.Zug von Weiß.}) 4... c5 5. Bb2 cxd4 {Der sofortige
+Tausch auf d4 garantiert, dass der Läufer auf b2 schlecht steht.} 6. exd4 {
+Weiß könnte auch mit dem Springer zurückschlagen, aber dies würde Schwarz
+größeren Freiraum im Zentrum geben.} ({Tatsächlich liefert} 6. Nxd4 O-O 7.
+Be2 d5 8. O-O Re8 9. c4 e5 10. Nf3 Nc6 11. cxd5 Nxd5 {einen gewissen Vorteil.
+Zum Beispiel} 12. Bc4 Be6 13. e4 Nf4 14. Qxd8 Raxd8 15. Na3 Nd3 16. Bxd3 Rxd3 {
+und Schwarz steht besser in Vukovic,I - Delchev,A Zadar 2001.}) 6... O-O 7.
+Nbd2 {Weiß kann diese Zug auch wieder einmal verzögern.} ({(a)} 7. Be2 d5 8.
+O-O Nc6 9. Nbd2 {führt uns wieder in die Hauptvariante, und die Alternativen
+beeindrucken nicht.} ({(a1)} 9. Ne5 Ne4 10. Nd2 {wie in Bortnyk,M-Swiercz,D
+Heraklion 2004. Nach} Nxe5 11. Nxe4 dxe4 12. dxe5 Qc7 {definiert der schwache
+Bauer auf e5 den schwarzen Vorteil.}) ({(a2)} 9. c4)) 7... d5 8. Be2 {Weiß
+kann den Läufer auch nach d3 entwickeln (um Lf5 zu verhindern), aber davon
+verspricht er sich nicht viel.} ({Nach} 8. Bd3 Nc6 {erhält man zum Beispiel}
+9. Ne5 ({(a)} 9. a3 Nh5 $1 {wie in der Partie Ivanov,G-Mitura,K Salekhard 2007
+zeigt genau die schwarze Idee gegen den Läufer auf d3. Er will den Springer
+nach f4 bringen, bevor der weiße Läufer nach f1 zurückgeht. Wenn Weiß dies
+mit} 10. g3 {[%csl Yf4,Yg4,Yh3][%cal Gh5f4,Gc8g4,Gg4h3] verhindert, dann
+findet der schwarze Damenläufer sehr fruchtbare Felder auf dem Königslfügel.
+}) ({(b)} 9. c3 Nh5 10. O-O Nf4 11. Bc2 {sah man in Podolsky,A-Matjushin,O
+Alushta 2005 und nun könnte Schwarz mit folgenden Zügen einen sichtbaren
+Vorteil erlangen} Qd6 12. Re1 Re8 {, um e7-e5 vorzubereiten. Dieses würde den
+Druck gegen c3 und b2 erhöhen, wohingegen die weißen Leichtfiguren relativ
+passiv sind.}) 9... Nb4 10. O-O Nxd3 11. Nxd3 Bf5 12. Ne5 Nd7 {mit gutem Spiel
+für Schwarz in Monedero Gonzalez,J-Marrero Falcon,H La Laguna 2007, aber
+Weiß sollte niemals den Abtausch des Königsläufers erlauben.}) 8... Nc6 9.
+O-O Bf5 {Schwarz zieht Vorteil aus der bescheidenen Entwicklung von Weiß und
+platziert ihn selbst auf einem guten Feld.} 10. c4 ({(a)} 10. Ne5 Rc8 11. c4 {
+transponiert bloß in die Hauptvariante.}) ({(b)} 10. Nh4 Be6 {war keine
+Verbesserung für Weiß nach} 11. Nhf3 Rc8 12. Re1 Ne4 13. c3 Nd6 14. Nf1 b5
+15. Ne3 h6 16. Bd3 Qb6 {mit schwarzem Vorteil in Rrhioua,T-Aguettaz,M Grenoble
+2006}) ({(c) Beachte den furchtbaren Fehler} 10. Re1 $2 Nb4 $1) 10... Rc8 {
+Schwarz hat nun einfaches Spiel gegen die Bauern auf d4 und c4.} 11. Ne5 Nxe5 {
+Wenn Schwarz Sd2-f3 erlauben würde, dann würde es die weiße Stellung
+verbessern. Schwarz ist aktiver entwickeln und kann daher die Stellung
+forcieren.} 12. dxe5 Nd7 13. g4 {Nicht unbeidngt notwendig, aber der Läufer
+hat eine Menge empfindlicher Felder auf f5 beobachtet.} Be6 14. f4 {Das ist
+der einzige Weg, um den Bauern e5 zu halten - aber es exponiert weiter den
+weißen König.} Qb6+ {Nach} 15. Kg2 $2 ({Korrekt ist} 15. Kh1 {, obwohl nach}
+dxc4 16. Nxc4 Qc7 17. Ne3 Nc5 {Schwarz eine starke Initiative besitzt in
+Delorme,A-Gerard,N Nancy 2007}) 15... dxc4 16. Nxc4 Bxc4 17. Bxc4 Rxc4 $1 18.
+bxc4 Qxb2+ {Nun kommt das mit Schach.} 19. Rf2 Qc3 20. Rf3 Qb4 21. Rb3 Qxc4 {
+Und hier könnte man als Weißer auch gut aufgeben in Onkoud,A-Vachier Lagrave,
+M Paris 2003} *
+
