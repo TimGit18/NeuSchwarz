@@ -100,29 +100,65 @@
 11 Aggressives System - Sämisch-System  
 12 Aggressives System - Sämisch-Angriff  
 
+----------------------------------------------------------------------------------------------------------------------------------
+### Positionelles System  
+----------------------------------------------------------------------------------------------------------------------------------
+13 Positionelles System - Panno-System  
+14 Positionelles System - Jugoslawisches System  
+15 Positionelles System - Makogonov-System  
+16 Positionelles System - Ungarisches System  
+17 Positionelles System - Seirawan-System  
 
-
-01 Mar del Plata-System  
-02 Beliavsky-System  
-03 Bajonett-Angriff  
-04 Petrosian-System  
-05 Abtauschsystem  
-06 Gligoric-System  
-07 Averbakh-System  
-08 Vier-Bauern-Angriff  
-09 Sämisch-System  
-10 Fianchetto-System  
-11 Makogonov-System  
-12 Ungarisches System  
+----------------------------------------------------------------------------------------------------------------------------------
+### Alternatives System  
+----------------------------------------------------------------------------------------------------------------------------------
+18 Alternatives System - Sokolov-System  
+19 Alternatives System - Basman-Williams-Angriff  
+20 Alternatives System - Smyslov-System  
+21 Alternatives System - Semi-Smyslov-System  
+22 Alternatives System - London-System  
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ## 04 Anti-Königsindisch  
 ----------------------------------------------------------------------------------------------------------------------------------
-01 London-System  
-02 Torre-Angriff  
-03 Rapport-Jobava-System  
-04 Veresov-Angriff  
-05 Trompowsky-System  
-06 Colle-System  
-07 Botvinnik-System  
-08 Nimzowitsch-Larsen-Angriff  
+### Königsspringerspiel  
+----------------------------------------------------------------------------------------------------------------------------------
+01 Königsspringerspiel - London-System  
+02 Königsspringerspiel - Torre-Angriff  
+03 Königsspringerspiel - Barry-Angriff  
+04 Königsspringerspiel - Königsfianchetto  
+05 Königsspringerspiel - Doppelfianchetto  
+06 Königsspringerspiel - The Speckled Egg  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Damenspringerspiel  
+----------------------------------------------------------------------------------------------------------------------------------
+07 Damenspringerspiel - Rapport-Jobava-System  
+08 Damenspringerspiel - Veresov-System  
+09 Damenspringerspiel - Blackmar-Diemer-Gambit  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Damenbauerspiel  
+----------------------------------------------------------------------------------------------------------------------------------
+10 Damenbauerspiel - Trompowsky-System  
+11 Damenbauerspiel - Colle-System  
+12 Damenbauerspiel - Stonewall-Angriff  
+13 Damenbauerspiel - Benko-Angriff  
+14 Damenbauerspiel - Gibbins-Weidenhagen-Gambit  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Englische Eröffnung  
+----------------------------------------------------------------------------------------------------------------------------------
+15 Englische Eröffnung - Königsindisches System  
+16 Englische Eröffnung - Botvinnik-System  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Flankenspiele  
+----------------------------------------------------------------------------------------------------------------------------------
+17 Flankenspiele - Königsindischer Angriff
+18 Flankenspiele - Sokolski-Eröffnung  
+19 Flankenspiele - Nimzowitsch-Larsen-Angriff  
+20 Flankenspiele - The Dunst  
+21 Flankenspiele - Bird-Eröffnung  
+22 Flankenspiele - Grob-Baseman-Angriff  
+
