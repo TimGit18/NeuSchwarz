@@ -20,23 +20,23 @@
 04 Klassischer Angriff - Sozin-Angriff  
 
 ----------------------------------------------------------------------------------------------------------------------------------
-### Klassisches Najdorf-System
+### Klassisches System
 ----------------------------------------------------------------------------------------------------------------------------------
-05 Klassisches Najdorf-System - Klassisches System  
-06 Klassisches Najdorf-System - Amsterdam-System  
+05 Klassisches System - Klassisches System  
+06 Klassisches System - Amsterdam-System  
 
 ----------------------------------------------------------------------------------------------------------------------------------
-### Positionelles Najdorf-System  
+### Positionelles System  
 ----------------------------------------------------------------------------------------------------------------------------------
-07 Positionelles Najdorf-System - Fianchetto-System  
-08 Positionelles Najdorf-System - Adams-Angriff  
-09 Positionelles Najdorf-System - Blockadesystem  
+07 Positionelles System - Fianchetto-System  
+08 Positionelles System - Adams-Angriff  
+09 Positionelles System - Blockadesystem  
 
 ----------------------------------------------------------------------------------------------------------------------------------
-### Alternatives Najdorf-System  
+### Alternatives System  
 ----------------------------------------------------------------------------------------------------------------------------------
-10 Alternatives Najdorf-System - Armenischer Angriff  
-11 Alternatives Najdorf-System - Yates-System  
+10 Alternatives System - Armenischer Angriff  
+11 Alternatives System - Yates-System  
 
 ----------------------------------------------------------------------------------------------------------------------------------
 ## 02 Anti-Sizilianisch  
@@ -162,3 +162,22 @@
 21 Flankenspiele - Bird-Eröffnung  
 22 Flankenspiele - Grob-Baseman-Angriff  
 
+----------------------------------------------------------------------------------------------------------------------------------
+## Buch  
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 1: Najdorf-Verteidigung
+----------------------------------------------------------------------------------------------------------------------------------
+01 Moderner Angriff             - Englischer Angriff, Browne-System  
+02 Klassischer Angriff          - Fischer-Angriff, Sozin-Angriff  
+03 Klassisches System           - Klassisches System, Amsterdam-System  
+04 Positionelles System         - Fianchetto-System, Adams-Angriff, Blockadesystem  
+05 Alternatives System          - Armenischer Angriff, Yates-System  
+
+----------------------------------------------------------------------------------------------------------------------------------
+### Buch 2: Anti-Sizilianische Verteidigung  
+----------------------------------------------------------------------------------------------------------------------------------
+01 Klassisches System           - Alapin-System, Morra-Gambit  
+02 Modernes System              - Carlsen-Angriff, Grand-Prix-Angriff, Geschlossenes Sizilianisch  
+03 Semi-Offenes Sizilianisch    - Moskauer System, Ungarisches System, Prins-System  
+04 Anti-Offenes Sizilianisch    - Italienisches System, Pseudo-Alapin-System, Sizilianisches Springerspiel  
+05 Flanken-Sizilianisch         - Flügelgambit, Anderssen-System, Zvjaginsev-System  
