@@ -2,6 +2,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 * Daniel King: The Sicilian Najdorf
 * Julen Arizmendi / Javier Moreno: Mastering the Najdorf
+* Milos Pavlovic: The Modernized Najdorf
 * Richard Palliser: Starting out - Sicilian Najdorf
 * Zaven Andriasyan: Winning with the Najdorf Sicilian
 ----------------------------------------------------------------------------------------------------------------------------------
