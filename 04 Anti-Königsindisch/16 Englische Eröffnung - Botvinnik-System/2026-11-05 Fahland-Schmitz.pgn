@@ -1,0 +1,18 @@
+[Event "OIBM Bad Wiessee"]
+[Site "?"]
+[Date "2026.11.05"]
+[Round "6"]
+[White "Fahland, Matthias"]
+[Black "Schmitz, Tim"]
+[Result "1-0"]
+[Annotator "Tim Schmitz"]
+[ECO "A26"]
+[WhiteElo "2050"]
+[BlackElo "1879"]
+[PlyCount "77"]
+[GameId "2379782604870194"]
+[EventDate "2026.??.??"]
+[SourceVersionDate "2026.11.06"]
+
+{[%evp 0,77,19,-18,-9,-37,22,3,12,20,3,-13,15,-37,-1,-5,-7,1,-4,-19,-1,-21,27,21,55,76,69,61,82,17,44,36,34,30,32,-1,16,19,23,31,25,52,30,61,70,69,57,61,104,54,58,46,84,83,125,102,93,52,48,49,165,157,173,175,178,87,157,139,189,136,183,125,224,177,217,213,206,210,286,262]} 1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. e4 d6 6. Nge2 e5 7. O-O Nc6 8. d3 Be6 {Das ist die Grundstellung des Botvinnik-Systems. Im allgemeinen waren mir die Strukturen dieser Eröffnung vertraut, jedoch hatte ich das System schon länger nicht mehr gespielt. Die Grundideen, die in dieser Partie verfolgt wurden, waren deswegen auch nicht schlecht - eher ihre Ausführung.} 9. h3 {Das ist die Verzögerungsvariante. Weiß wartet erst einmal ab, verhindert Sf6-g4 und bereitet selber g3-g4 vor.} Qd7 {Das ist ein sehr logischer Zug. Schwarz verbindet die beiden Türme und bedroht den Bauern auf h3.} 10. Kh2 {Weiß verteidigt den Bauern auf h3 ohne seine Bauernstruktur noch weiter zu kompromittieren.} Nh5 $5 {Das ist ein sehr provokativer Zug, der aber - laut Mihal Marin - nicht unbedingt schlecht sein muss. Man muss aber darauf achten, dass der Springer wieder zurück in das Spiel gebracht werden muss (wenn man den thematischen Vorstoß f7-f5 durchgesetzt hat).} ({Die grundsätzliche Alternative lautet} 10... Ne8 {Laut Mihal Marin ist der Zug etwas gesünder. Mir gefällt er aber deswegen schon nicht, weil er so passiv anmutet und die Verbindung der Türme auf der Grundreihe unterbricht.}) 11. g4 {Dieser Vorstoß gilt laut Mihal Marin als etwas verfrüht. Allerdings scheint er auch nicht leicht zu widerlegen zu sein. Der Grund für sein Misstrauen liegt wohl darin, dass die schwarzen Felder auf dem Königsflügel und im Zentrum bereits geschwächt sind.} Nf4 $6 {Das ist ein Bauernopfer, das ich relativ leichtfertig gespielt habe und mir auch irgendwie bekannt vorkam. Der Zug wird jedoch von Marin kritisiert.} 12. Nxf4 exf4 13. Bxf4 Kh8 14. Be3 f5 15. exf5 gxf5 16. gxf5 Bxf5 17. f4 Rae8 18. Qd2 Nd4 19. Ne4 a6 20. Rae1 b5 21. Ng3 c5 22. Nxf5 Nxf5 23. Bf2 Bh6 24. Be4 Nd4 25. Bg3 bxc4 $2 26. dxc4 Nf5 27. Bxf5 Qxf5 28. Qxd6 Rxe1 29. Rxe1 Qc2+ $2 (29... Bxf4 $1) 30. Kh1 Bg7 31. Qxc5 Qxb2 32. Qd6 Qb7+ 33. Qd5 Qc8 34. Qe6 Qb7+ 35. Qd5 Qc8 36. Kh2 Rd8 37. Qe4 Qc5 38. Re2 h5 39. f5 1-0
+
